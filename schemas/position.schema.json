@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "position.schema.json",
+  "title": "Position",
+  "description": "A role linking a person to an agency or governing body.",
+  "type": "object",
+  "required": ["_meta", "label"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "label": {
+      "type": "string",
+      "description": "Title of the position."
+    },
+    "role": {
+      "type": "string",
+      "description": "Role type (e.g., elected, appointed, staff)."
+    },
+    "person": {
+      "type": "string",
+      "description": "Filename (without extension) of the person."
+    },
+    "agency": {
+      "type": "string",
+      "description": "Filename (without extension) of the agency."
+    },
+    "body": {
+      "type": "string",
+      "description": "Filename (without extension) of the body."
+    },
+    "start_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "end_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "compensated": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}

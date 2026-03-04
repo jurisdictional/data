@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "service.schema.json",
+  "title": "Service",
+  "description": "A public service provided by a government agency.",
+  "type": "object",
+  "required": ["_meta", "name"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "name": {
+      "type": "string",
+      "description": "Name of the service."
+    },
+    "agency": {
+      "type": "string",
+      "description": "Filename (without extension) of the providing agency."
+    },
+    "description": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "category": {
+      "type": "string"
+    },
+    "eligibility": {
+      "type": "string"
+    },
+    "cost": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

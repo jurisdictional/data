@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "person.schema.json",
+  "title": "Person",
+  "description": "A public official or government employee.",
+  "type": "object",
+  "required": ["_meta", "first_name", "last_name"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "political_affiliation": {
+      "type": "string"
+    },
+    "wikipedia_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "meta.schema.json",
+  "title": "Meta",
+  "description": "Source attribution metadata required on every data file.",
+  "type": "object",
+  "required": ["source", "retrieved_at"],
+  "properties": {
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL of the public data source."
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the data was retrieved (YYYY-MM-DD)."
+    },
+    "contributor": {
+      "type": "string",
+      "description": "GitHub username of the contributor."
+    }
+  },
+  "additionalProperties": false
+}

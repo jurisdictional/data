@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "jurisdiction.schema.json",
+  "title": "Jurisdiction",
+  "description": "A geographic or political boundary representing a U.S. government jurisdiction.",
+  "type": "object",
+  "required": ["_meta", "name", "level", "geoid"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "name": {
+      "type": "string",
+      "description": "Official name of the jurisdiction."
+    },
+    "level": {
+      "type": "string",
+      "enum": ["federal", "state", "county", "place", "school_district_elementary", "school_district_secondary", "school_district_unified", "school_district_admin", "tribal", "state_legislative_upper", "state_legislative_lower"],
+      "description": "Census-aligned jurisdiction level. Determines the subdirectory for the file."
+    },
+    "geoid": {
+      "type": "string",
+      "description": "Census Geographic Identifier (GEOID). 2-digit for states, 5-digit for counties, etc."
+    },
+    "state_abbr": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "Two-letter USPS state abbreviation."
+    },
+    "source": {
+      "type": "string",
+      "description": "Data source identifier (e.g., census_tiger)."
+    },
+    "notes": {
+      "type": "string"
+    },
+    "wikipedia_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "budget_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "parent": {
+      "type": "string",
+      "description": "Filename (without extension) of the parent jurisdiction."
+    }
+  },
+  "additionalProperties": false
+}

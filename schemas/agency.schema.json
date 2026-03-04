@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "agency.schema.json",
+  "title": "Agency",
+  "description": "A government department or organization within a jurisdiction.",
+  "type": "object",
+  "required": ["_meta", "name"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "name": {
+      "type": "string",
+      "description": "Official name of the agency."
+    },
+    "agency_type": {
+      "type": "string",
+      "description": "Type of agency (e.g., department, bureau, office)."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Filename (without extension) of the parent jurisdiction."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Official website URL."
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the agency's mission."
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Public contact email."
+    },
+    "phone": {
+      "type": "string",
+      "description": "Public contact phone number."
+    },
+    "address": {
+      "type": "string",
+      "description": "Street address."
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "zip": {
+      "type": "string",
+      "pattern": "^[0-9]{5}(-[0-9]{4})?$"
+    }
+  },
+  "additionalProperties": false
+}

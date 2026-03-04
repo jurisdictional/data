@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "body.schema.json",
+  "title": "Body",
+  "description": "A governing body such as a council, board, or commission.",
+  "type": "object",
+  "required": ["_meta", "name"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "name": {
+      "type": "string",
+      "description": "Official name of the governing body."
+    },
+    "agency": {
+      "type": "string",
+      "description": "Filename (without extension) of the overseeing agency."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Filename (without extension) of the jurisdiction."
+    },
+    "size": {
+      "type": "integer",
+      "description": "Number of members."
+    },
+    "legislative_type": {
+      "type": "string",
+      "description": "Type of body (e.g., council, board, commission)."
+    },
+    "term_length": {
+      "type": "string"
+    },
+    "term_limits": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "wikipedia_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "meeting_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "charter": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

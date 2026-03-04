@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "domain.schema.json",
+  "title": "Domain",
+  "description": "A government web domain, typically from the dotgov registry.",
+  "type": "object",
+  "required": ["_meta", "domain"],
+  "properties": {
+    "_meta": { "$ref": "meta.schema.json" },
+    "domain": {
+      "type": "string",
+      "description": "The domain name (e.g., ed.gov)."
+    },
+    "agency": {
+      "type": "string",
+      "description": "Filename (without extension) of the owning agency."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Filename (without extension) of the owning jurisdiction."
+    }
+  },
+  "additionalProperties": false
+}

@@ -35,6 +35,10 @@
       "type": "string",
       "format": "date"
     },
+    "term_length": {
+      "type": "string",
+      "description": "Length of the term (e.g., 4 years, 2 years)."
+    },
     "compensated": {
       "type": "boolean"
     }

@@ -54,6 +54,21 @@ function getChangedFiles() {
   }
 }
 
+function getStagedFiles() {
+  try {
+    const output = execSync(
+      `git diff --cached --name-only --diff-filter=ACM`,
+      { encoding: "utf8" }
+    );
+    return output
+      .trim()
+      .split("\n")
+      .filter((f) => f.endsWith(".json") && !f.startsWith("schemas/") && !f.startsWith("package"));
+  } catch {
+    return [];
+  }
+}
+
 function getAllJsonFiles() {
   return globSync("**/*.json", {
     ignore: ["schemas/**", "node_modules/**", "package.json", "package-lock.json"],
@@ -93,9 +108,10 @@ function validateFile(filePath, validator) {
 
 function main() {
   const changedOnly = process.argv.includes("--changed");
+  const stagedOnly = process.argv.includes("--staged");
   const validators = loadSchemas();
 
-  const files = changedOnly ? getChangedFiles() : getAllJsonFiles();
+  const files = stagedOnly ? getStagedFiles() : changedOnly ? getChangedFiles() : getAllJsonFiles();
 
   if (files.length === 0) {
     console.log(changedOnly ? "No changed JSON files to validate." : "No JSON files found.");

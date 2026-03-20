@@ -43,6 +43,19 @@
     "parent": {
       "type": "string",
       "description": "Filename (without extension) of the parent jurisdiction."
+    },
+    "geometry": {
+      "type": "object",
+      "description": "GeoJSON geometry for the jurisdiction boundary.",
+      "required": ["type", "coordinates"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["Point", "MultiPoint", "LineString", "MultiLineString", "Polygon", "MultiPolygon", "GeometryCollection"]
+        },
+        "coordinates": {}
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

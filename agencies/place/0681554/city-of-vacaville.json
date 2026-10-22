@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Umbrella agency representing the City of Vacaville, California as a whole — the citywide municipal organization and brand. Serves as the parent entity for the city's official seal/logo and overall identity. Vacaville is a charter city in Solano County operating under a council-manager form of government.",
+  "id": "place:0681554/city-of-vacaville",
+  "identifiers": [
+    {
+      "identifier": "13012",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Vacaville%2C_CA_logo.png",
+  "name": "City of Vacaville",
+  "website_url": "https://www.cityofvacaville.gov/"
+}

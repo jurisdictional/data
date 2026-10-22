@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/20790"
+  },
+  "first_name": "Kenya",
+  "full_name": "Kenya Serna",
+  "id": "ocd-person/ca0ec481-9bef-5ee5-aae3-b65c922e5221",
+  "identifiers": [
+    {
+      "identifier": "20790",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Serna"
+}

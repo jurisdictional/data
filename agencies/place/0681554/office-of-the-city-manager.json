@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "The chief executive office of the City of Vacaville, California. Vacaville operates under a council-manager form of government; the City Manager is appointed by the City Council and oversees day-to-day city operations and all departments. This is the top-level executive agency for the City of Vacaville.",
+  "id": "place:0681554/office-of-the-city-manager",
+  "identifiers": [
+    {
+      "identifier": "13011",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Office of the City Manager",
+  "website_url": "https://www.cityofvacaville.gov/government/city-manager"
+}

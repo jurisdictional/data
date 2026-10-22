@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "address": "650 Merchant St, Vacaville, CA 95688",
+  "description": "Chief administrative office overseeing all city departments and operations",
+  "id": "place:0681554/city-managers-office",
+  "identifiers": [
+    {
+      "identifier": "1",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "City Manager's Office",
+  "phone": "(707) 449-5100"
+}

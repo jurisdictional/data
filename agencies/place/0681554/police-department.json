@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "agency_type": "police",
+  "description": "Primary law enforcement agency for the City of Vacaville",
+  "id": "place:0681554/police-department",
+  "identifiers": [
+    {
+      "identifier": "11",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Police Department"
+}

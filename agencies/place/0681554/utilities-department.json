@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Manages the city's water supply, water conservation, sewer services, and utility infrastructure.",
+  "id": "place:0681554/utilities-department",
+  "identifiers": [
+    {
+      "identifier": "2891",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Utilities Department"
+}

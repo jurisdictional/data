@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/13986"
+  },
+  "first_name": "Sarah",
+  "full_name": "Sarah Chapman",
+  "id": "ocd-person/a3ed8a23-af84-59d1-9cfd-e33afa47f6e5",
+  "identifiers": [
+    {
+      "identifier": "13986",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Chapman"
+}

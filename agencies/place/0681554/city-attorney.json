@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "address": "650 Merchant St, Vacaville, CA 95688",
+  "description": "Chief legal counsel to the City Council, boards, commissions, and city staff",
+  "id": "place:0681554/city-attorney",
+  "identifiers": [
+    {
+      "identifier": "2",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "City Attorney"
+}

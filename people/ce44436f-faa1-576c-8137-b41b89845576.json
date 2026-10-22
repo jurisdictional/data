@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/25"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Frazier",
+  "id": "ocd-person/ce44436f-faa1-576c-8137-b41b89845576",
+  "identifiers": [
+    {
+      "identifier": "25",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Frazier"
+}

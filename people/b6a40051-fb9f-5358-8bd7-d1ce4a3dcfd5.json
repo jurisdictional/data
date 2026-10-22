@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/21"
+  },
+  "first_name": "Bob",
+  "full_name": "Bob Hampton",
+  "id": "ocd-person/b6a40051-fb9f-5358-8bd7-d1ce4a3dcfd5",
+  "identifiers": [
+    {
+      "identifier": "21",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hampton"
+}

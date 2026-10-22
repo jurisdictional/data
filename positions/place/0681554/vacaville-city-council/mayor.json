@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1/positions"
+  },
+  "body": "place:0681554/vacaville-city-council",
+  "holder": {
+    "person": "ocd-person/709a63bd-133f-5c9f-94e6-0c9de4980cd4",
+    "start_date": "2026-10-17T20:57:21Z"
+  },
+  "id": "place:0681554/vacaville-city-council/mayor",
+  "identifiers": [
+    {
+      "identifier": "1",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Mayor"
+}

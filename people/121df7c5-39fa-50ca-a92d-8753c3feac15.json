@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/20791"
+  },
+  "first_name": "Heather",
+  "full_name": "Heather Krause",
+  "id": "ocd-person/121df7c5-39fa-50ca-a92d-8753c3feac15",
+  "identifiers": [
+    {
+      "identifier": "20791",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Krause"
+}

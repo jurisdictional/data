@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1/positions"
+  },
+  "body": "place:0681554/vacaville-city-council",
+  "holder": {
+    "person": "ocd-person/548a1d1b-2b4f-5d79-851b-11653630448e"
+  },
+  "id": "place:0681554/vacaville-city-council/council-member-district-2",
+  "identifiers": [
+    {
+      "identifier": "3",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member, District 2"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Business attraction, retention, and economic growth initiatives",
+  "id": "place:0681554/economic-development",
+  "identifiers": [
+    {
+      "identifier": "5",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Economic Development"
+}

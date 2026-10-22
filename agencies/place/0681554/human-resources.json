@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Employee recruitment, benefits, labor relations, and workforce development",
+  "id": "place:0681554/human-resources",
+  "identifiers": [
+    {
+      "identifier": "9",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Human Resources"
+}

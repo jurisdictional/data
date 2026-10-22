@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1/positions"
+  },
+  "body": "place:0681554/vacaville-city-council",
+  "holder": {
+    "person": "ocd-person/2baa638f-a00e-59d7-8598-804748c63d45"
+  },
+  "id": "place:0681554/vacaville-city-council/council-member-district-5",
+  "identifiers": [
+    {
+      "identifier": "6",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member, District 5"
+}

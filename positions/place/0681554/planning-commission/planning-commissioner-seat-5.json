@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/2/positions"
+  },
+  "body": "place:0681554/planning-commission",
+  "holder": {
+    "person": "ocd-person/f2ff55bb-82fb-5380-ad10-35a41e92effe",
+    "start_date": "2026-04-04T00:33:20Z"
+  },
+  "id": "place:0681554/planning-commission/planning-commissioner-seat-5",
+  "identifiers": [
+    {
+      "identifier": "12",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Planning Commissioner, Seat 5"
+}

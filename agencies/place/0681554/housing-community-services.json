@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Affordable housing, homelessness services, and community programs",
+  "id": "place:0681554/housing-community-services",
+  "identifiers": [
+    {
+      "identifier": "8",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Housing & Community Services"
+}

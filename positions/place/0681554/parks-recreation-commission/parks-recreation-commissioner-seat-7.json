@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/3/positions"
+  },
+  "body": "place:0681554/parks-recreation-commission",
+  "holder": {
+    "person": "ocd-person/4af69745-b2b8-5382-8028-f0ca1b3ccf78"
+  },
+  "id": "place:0681554/parks-recreation-commission/parks-recreation-commissioner-seat-7",
+  "identifiers": [
+    {
+      "identifier": "21",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Parks & Recreation Commissioner, Seat 7"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/13984"
+  },
+  "first_name": "Roy",
+  "full_name": "Roy Stockton",
+  "id": "ocd-person/61f00b5d-1863-53ed-b452-0e276c5a23fd",
+  "identifiers": [
+    {
+      "identifier": "13984",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stockton"
+}

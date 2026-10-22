@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/70118"
+  },
+  "code": "VAC",
+  "id": "place:0681554",
+  "identifiers": [
+    {
+      "identifier": "0681554",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "70118",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/place:vacaville",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "place",
+  "name": "Vacaville",
+  "population": 103850,
+  "population_year": 2025,
+  "state_abbr": "CA",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vacaville,_California"
+}

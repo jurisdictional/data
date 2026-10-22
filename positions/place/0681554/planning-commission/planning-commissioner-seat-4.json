@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/2/positions"
+  },
+  "body": "place:0681554/planning-commission",
+  "holder": {
+    "person": "ocd-person/9e33acb4-5568-5619-88fa-e81858be1098"
+  },
+  "id": "place:0681554/planning-commission/planning-commissioner-seat-4",
+  "identifiers": [
+    {
+      "identifier": "11",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Planning Commissioner, Seat 4"
+}

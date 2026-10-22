@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/20792"
+  },
+  "first_name": "Ryan",
+  "full_name": "Ryan Wold",
+  "id": "ocd-person/4af69745-b2b8-5382-8028-f0ca1b3ccf78",
+  "identifiers": [
+    {
+      "identifier": "20792",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wold"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/70118/bodies"
+  },
+  "id": "place:0681554/planning-commission",
+  "identifiers": [
+    {
+      "identifier": "2",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "legislative_type": "commission",
+  "name": "Planning Commission",
+  "staffed_by": [
+    "place:0681554/community-development"
+  ]
+}

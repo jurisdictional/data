@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/14"
+  },
+  "first_name": "Jeanette",
+  "full_name": "Jeanette Wylie",
+  "id": "ocd-person/94d241ce-9b9a-58e4-963b-f73043fbdc79",
+  "identifiers": [
+    {
+      "identifier": "14",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wylie"
+}

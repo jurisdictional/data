@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "agency_type": "fire",
+  "description": "Fire suppression, emergency medical services, and fire prevention",
+  "id": "place:0681554/fire-department",
+  "identifiers": [
+    {
+      "identifier": "7",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Fire Department"
+}

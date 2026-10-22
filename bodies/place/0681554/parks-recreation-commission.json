@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/70118/bodies"
+  },
+  "id": "place:0681554/parks-recreation-commission",
+  "identifiers": [
+    {
+      "identifier": "3",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "legislative_type": "commission",
+  "meeting_schedule_url": "https://pub-vacaville.escribemeetings.com/",
+  "name": "Parks & Recreation Commission",
+  "staffed_by": [
+    "place:0681554/parks-recreation"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/70118/bodies"
+  },
+  "id": "place:0681554/vacaville-city-council",
+  "identifiers": [
+    {
+      "identifier": "1",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "legislative_type": "council",
+  "meeting_schedule_url": "https://vacaville.granicus.com/ViewPublisher.php?view_id=6",
+  "name": "Vacaville City Council",
+  "staffed_by": [
+    "place:0681554/city-managers-office"
+  ]
+}

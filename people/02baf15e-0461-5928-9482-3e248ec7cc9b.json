@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/15"
+  },
+  "first_name": "Joseph",
+  "full_name": "Joseph Dingman",
+  "id": "ocd-person/02baf15e-0461-5928-9482-3e248ec7cc9b",
+  "identifiers": [
+    {
+      "identifier": "15",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dingman"
+}

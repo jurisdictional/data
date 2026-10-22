@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/3/positions"
+  },
+  "body": "place:0681554/parks-recreation-commission",
+  "holder": {
+    "person": "ocd-person/ca0ec481-9bef-5ee5-aae3-b65c922e5221"
+  },
+  "id": "place:0681554/parks-recreation-commission/parks-recreation-commissioner-seat-2",
+  "identifiers": [
+    {
+      "identifier": "16",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Parks & Recreation Commissioner, Seat 2"
+}

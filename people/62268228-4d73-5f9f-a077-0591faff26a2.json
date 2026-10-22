@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/22"
+  },
+  "first_name": "Emily",
+  "full_name": "Emily Gollinger",
+  "id": "ocd-person/62268228-4d73-5f9f-a077-0591faff26a2",
+  "identifiers": [
+    {
+      "identifier": "22",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gollinger"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/16"
+  },
+  "first_name": "John",
+  "full_name": "John Wilkerson",
+  "id": "ocd-person/b75572bf-c683-563b-ae05-dfd376d828da",
+  "identifiers": [
+    {
+      "identifier": "16",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wilkerson"
+}

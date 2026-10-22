@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/3/positions"
+  },
+  "body": "place:0681554/parks-recreation-commission",
+  "id": "place:0681554/parks-recreation-commission/parks-recreation-commissioner-seat-3",
+  "identifiers": [
+    {
+      "identifier": "17",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Parks & Recreation Commissioner, Seat 3"
+}

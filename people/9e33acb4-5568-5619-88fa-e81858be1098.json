@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/20793"
+  },
+  "first_name": "David",
+  "full_name": "David LeRoy",
+  "id": "ocd-person/9e33acb4-5568-5619-88fa-e81858be1098",
+  "identifiers": [
+    {
+      "identifier": "20793",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "LeRoy"
+}

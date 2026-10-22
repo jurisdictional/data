@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/2/positions"
+  },
+  "body": "place:0681554/planning-commission",
+  "holder": {
+    "person": "ocd-person/1402e794-d730-552d-8abc-597b36930577",
+    "start_date": "2026-04-04T00:33:21Z"
+  },
+  "id": "place:0681554/planning-commission/planning-commissioner-seat-6",
+  "identifiers": [
+    {
+      "identifier": "13",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Planning Commissioner, Seat 6"
+}

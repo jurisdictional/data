@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "agency_type": "finance",
+  "description": "Oversees fiscal affairs, budgeting, financial reporting, and utility billing",
+  "id": "place:0681554/finance",
+  "identifiers": [
+    {
+      "identifier": "6",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Finance"
+}

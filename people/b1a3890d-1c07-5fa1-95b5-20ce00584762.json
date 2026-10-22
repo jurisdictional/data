@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/27"
+  },
+  "first_name": "Blair",
+  "full_name": "Blair Aas",
+  "id": "ocd-person/b1a3890d-1c07-5fa1-95b5-20ce00584762",
+  "identifiers": [
+    {
+      "identifier": "27",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Aas"
+}

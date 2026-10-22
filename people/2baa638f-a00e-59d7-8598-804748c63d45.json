@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/13987"
+  },
+  "first_name": "Ted",
+  "full_name": "Ted Fremouw",
+  "id": "ocd-person/2baa638f-a00e-59d7-8598-804748c63d45",
+  "identifiers": [
+    {
+      "identifier": "13987",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fremouw"
+}

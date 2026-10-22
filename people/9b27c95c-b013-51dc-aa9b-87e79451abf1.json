@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/17"
+  },
+  "first_name": "Noel",
+  "full_name": "Noel Vargas",
+  "id": "ocd-person/9b27c95c-b013-51dc-aa9b-87e79451abf1",
+  "identifiers": [
+    {
+      "identifier": "17",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Vargas"
+}

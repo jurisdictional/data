@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/13985"
+  },
+  "first_name": "Gregory",
+  "full_name": "Gregory Ritchie II",
+  "id": "ocd-person/548a1d1b-2b4f-5d79-851b-11653630448e",
+  "identifiers": [
+    {
+      "identifier": "13985",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ritchie II"
+}

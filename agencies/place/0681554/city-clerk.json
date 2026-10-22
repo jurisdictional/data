@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "agency_type": "clerk",
+  "description": "Manages official city records, council agendas, and elections",
+  "id": "place:0681554/city-clerk",
+  "identifiers": [
+    {
+      "identifier": "3",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "City Clerk"
+}

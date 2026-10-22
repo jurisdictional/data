@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/20"
+  },
+  "first_name": "Doug",
+  "full_name": "Doug Beaumont",
+  "id": "ocd-person/1402e794-d730-552d-8abc-597b36930577",
+  "identifiers": [
+    {
+      "identifier": "20",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Beaumont"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/1"
+  },
+  "first_name": "John",
+  "full_name": "John Carli",
+  "id": "ocd-person/709a63bd-133f-5c9f-94e6-0c9de4980cd4",
+  "identifiers": [
+    {
+      "identifier": "1",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carli"
+}

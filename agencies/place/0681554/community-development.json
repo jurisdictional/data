@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=70118"
+  },
+  "description": "Planning, building, and code enforcement services",
+  "id": "place:0681554/community-development",
+  "identifiers": [
+    {
+      "identifier": "4",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:0681554",
+  "name": "Community Development"
+}

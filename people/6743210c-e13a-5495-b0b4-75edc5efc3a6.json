@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/11"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Silva",
+  "id": "ocd-person/6743210c-e13a-5495-b0b4-75edc5efc3a6",
+  "identifiers": [
+    {
+      "identifier": "11",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Silva"
+}

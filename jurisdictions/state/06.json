@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3274"
+  },
+  "budget_url": "https://ebudget.ca.gov/",
+  "code": "CA",
+  "id": "state:06",
+  "identifiers": [
+    {
+      "identifier": "06",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "3274",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state",
+  "name": "California",
+  "notes": "State government of California - boundary from TIGER 2025",
+  "population": 39355309,
+  "population_year": 2025,
+  "state_abbr": "CA",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/California"
+}

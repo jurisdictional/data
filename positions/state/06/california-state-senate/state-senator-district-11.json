@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/52b3933b-8610-511e-9771-71c320885807",
+    "start_date": "2026-05-27T17:47:36Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-11",
+  "identifiers": [
+    {
+      "identifier": "5652",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 11"
+}

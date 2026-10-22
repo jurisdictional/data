@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4911"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike McGuire",
+  "id": "ocd-person/fece388e-c5f8-575f-a15c-ce59dab714b6",
+  "identifiers": [
+    {
+      "identifier": "4911",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McGuire"
+}

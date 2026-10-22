@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4730"
+  },
+  "first_name": "Cottie",
+  "full_name": "Cottie Petrie-Norris",
+  "id": "ocd-person/2ca9306a-a20b-5598-94db-b45d74086b34",
+  "identifiers": [
+    {
+      "identifier": "4730",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Petrie-Norris"
+}

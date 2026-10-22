@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4693"
+  },
+  "first_name": "James",
+  "full_name": "James C. Ramos",
+  "id": "ocd-person/d9094545-a6a3-539c-8ab3-7ae4163a2e6a",
+  "identifiers": [
+    {
+      "identifier": "4693",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "C. Ramos"
+}

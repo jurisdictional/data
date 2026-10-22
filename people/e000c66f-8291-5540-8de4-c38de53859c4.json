@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4633"
+  },
+  "first_name": "James",
+  "full_name": "James Gallagher",
+  "id": "ocd-person/e000c66f-8291-5540-8de4-c38de53859c4",
+  "identifiers": [
+    {
+      "identifier": "4633",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gallagher"
+}

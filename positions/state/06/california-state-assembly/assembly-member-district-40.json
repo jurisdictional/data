@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/439a3be9-4cf1-593c-bd90-5f5f0516cac6",
+    "start_date": "2026-05-23T23:01:16Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-40",
+  "identifiers": [
+    {
+      "identifier": "5397",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 40"
+}

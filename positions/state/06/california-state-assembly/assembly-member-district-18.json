@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/a612e2fd-ae80-5bb0-8235-42c9c1f6ac08",
+    "start_date": "2026-05-23T22:59:41Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-18",
+  "identifiers": [
+    {
+      "identifier": "5372",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 18"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4658"
+  },
+  "first_name": "Catherine",
+  "full_name": "Catherine Stefani",
+  "id": "ocd-person/6cf179e1-04f1-5280-8dfd-52ac43a910f5",
+  "identifiers": [
+    {
+      "identifier": "4658",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stefani"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4944"
+  },
+  "first_name": "Eloise",
+  "full_name": "Eloise Gomez Reyes",
+  "id": "ocd-person/741f1be2-0e19-54d2-8554-f565e3584b13",
+  "identifiers": [
+    {
+      "identifier": "4944",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gomez Reyes"
+}

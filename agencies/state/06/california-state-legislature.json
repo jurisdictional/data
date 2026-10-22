@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "agency_type": "legislative",
+  "description": "Bicameral state legislature of California, consisting of the State Senate (40 members) and State Assembly (80 members)",
+  "id": "state:06/california-state-legislature",
+  "identifiers": [
+    {
+      "identifier": "8489",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California State Legislature"
+}

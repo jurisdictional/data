@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4694"
+  },
+  "first_name": "Jesse",
+  "full_name": "Jesse Gabriel",
+  "id": "ocd-person/c5c0f809-2f7e-58c0-9d76-69cbbe06da42",
+  "identifiers": [
+    {
+      "identifier": "4694",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gabriel"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4917"
+  },
+  "first_name": "Jerry",
+  "full_name": "Jerry McNerney",
+  "id": "ocd-person/79f686ee-6f06-5026-b429-03d5c752d914",
+  "identifiers": [
+    {
+      "identifier": "4917",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McNerney"
+}

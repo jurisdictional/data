@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4717"
+  },
+  "first_name": "Natasha",
+  "full_name": "Natasha Johnson",
+  "id": "ocd-person/b4478282-912c-55fa-88df-f12c6ac3a6b3",
+  "identifiers": [
+    {
+      "identifier": "4717",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson"
+}

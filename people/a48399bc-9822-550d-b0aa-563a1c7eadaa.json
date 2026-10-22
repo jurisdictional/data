@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4733"
+  },
+  "first_name": "Darshana",
+  "full_name": "Darshana R. Patel",
+  "id": "ocd-person/a48399bc-9822-550d-b0aa-563a1c7eadaa",
+  "identifiers": [
+    {
+      "identifier": "4733",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "R. Patel"
+}

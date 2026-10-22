@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4689"
+  },
+  "first_name": "John",
+  "full_name": "John Harabedian",
+  "id": "ocd-person/b7f0f21f-d5df-5849-94bd-a5654b3535d7",
+  "identifiers": [
+    {
+      "identifier": "4689",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harabedian"
+}

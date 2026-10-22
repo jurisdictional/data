@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4724"
+  },
+  "first_name": "Sharon",
+  "full_name": "Sharon Quirk-Silva",
+  "id": "ocd-person/8bf03359-34a6-5ca2-8288-1afcad0d7e3c",
+  "identifiers": [
+    {
+      "identifier": "4724",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Quirk-Silva"
+}

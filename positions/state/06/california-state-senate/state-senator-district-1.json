@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/cde33fa7-9c22-533e-a80c-354cf890b8d1",
+    "start_date": "2026-05-27T17:47:08Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-1",
+  "identifiers": [
+    {
+      "identifier": "5642",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 1"
+}

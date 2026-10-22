@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4668"
+  },
+  "first_name": "Gail",
+  "full_name": "Gail Pellerin",
+  "id": "ocd-person/7c725648-76c5-5342-a714-a9f65fda5f73",
+  "identifiers": [
+    {
+      "identifier": "4668",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pellerin"
+}

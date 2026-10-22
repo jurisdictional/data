@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4632"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Rogers",
+  "id": "ocd-person/92cbc041-c16c-5493-ac64-cbdcc89bce94",
+  "identifiers": [
+    {
+      "identifier": "4632",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rogers"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "California Department of Justice, headed by the Attorney General, the state's chief law enforcement officer",
+  "id": "state:06/office-of-the-attorney-general",
+  "identifiers": [
+    {
+      "identifier": "8864",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Office of the Attorney General"
+}

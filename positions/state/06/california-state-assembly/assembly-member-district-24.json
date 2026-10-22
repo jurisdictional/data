@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/c4c3e504-15e4-5222-abcd-da1bda8cea43",
+    "start_date": "2026-05-23T23:00:40Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-24",
+  "identifiers": [
+    {
+      "identifier": "5378",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 24"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/9da12f8e-e73b-5fd7-b6d2-338fcfa06277",
+    "start_date": "2026-05-23T22:58:41Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-8",
+  "identifiers": [
+    {
+      "identifier": "5362",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 8"
+}

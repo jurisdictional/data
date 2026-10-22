@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4664"
+  },
+  "first_name": "Ash",
+  "full_name": "Ash Kalra",
+  "id": "ocd-person/f5c59c80-a146-5a75-9bc7-25656a277326",
+  "identifiers": [
+    {
+      "identifier": "4664",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kalra"
+}

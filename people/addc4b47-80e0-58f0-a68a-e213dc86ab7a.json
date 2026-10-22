@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5034"
+  },
+  "first_name": "Patricia",
+  "full_name": "Patricia Guerrero",
+  "id": "ocd-person/addc4b47-80e0-58f0-a68a-e213dc86ab7a",
+  "identifiers": [
+    {
+      "identifier": "5034",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guerrero"
+}

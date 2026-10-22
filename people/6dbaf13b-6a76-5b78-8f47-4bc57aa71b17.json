@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4695"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Wallis",
+  "id": "ocd-person/6dbaf13b-6a76-5b78-8f47-4bc57aa71b17",
+  "identifiers": [
+    {
+      "identifier": "4695",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wallis"
+}

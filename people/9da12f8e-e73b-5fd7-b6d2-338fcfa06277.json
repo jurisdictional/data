@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4639"
+  },
+  "first_name": "David",
+  "full_name": "David J. Tangipa",
+  "id": "ocd-person/9da12f8e-e73b-5fd7-b6d2-338fcfa06277",
+  "identifiers": [
+    {
+      "identifier": "4639",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "J. Tangipa"
+}

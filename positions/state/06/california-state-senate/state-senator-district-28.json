@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/1eb7c8a7-d292-55f8-9a2e-56fa7838614d",
+    "start_date": "2026-05-27T17:48:12Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-28",
+  "identifiers": [
+    {
+      "identifier": "5669",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 28"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/be797220-8fa1-53b3-b779-678713a93b0d",
+    "start_date": "2026-05-23T23:02:19Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-58",
+  "identifiers": [
+    {
+      "identifier": "5418",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 58"
+}

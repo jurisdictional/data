@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4665"
+  },
+  "first_name": "Patrick",
+  "full_name": "Patrick J. Ahrens",
+  "id": "ocd-person/b3018eba-35d8-5898-8824-cecfe76d1f71",
+  "identifiers": [
+    {
+      "identifier": "4665",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "J. Ahrens"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/493e04b1-4764-589f-8818-6392d1df154f",
+    "start_date": "2026-05-23T23:01:43Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-43",
+  "identifiers": [
+    {
+      "identifier": "5400",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 43"
+}

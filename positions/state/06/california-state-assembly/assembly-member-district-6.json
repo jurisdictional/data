@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/1c8d3b6f-273e-5187-a2cc-18ed73afbb00",
+    "start_date": "2026-05-23T22:58:38Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-6",
+  "identifiers": [
+    {
+      "identifier": "5360",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 6"
+}

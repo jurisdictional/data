@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4710"
+  },
+  "first_name": "Phillip",
+  "full_name": "Phillip Chen",
+  "id": "ocd-person/b6fec587-a54d-51c6-aa37-f067a18ee2a3",
+  "identifiers": [
+    {
+      "identifier": "4710",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Chen"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5035"
+  },
+  "first_name": "Carol",
+  "full_name": "Carol Corrigan",
+  "id": "ocd-person/18760646-34e4-5170-98a2-05a317c1a58b",
+  "identifiers": [
+    {
+      "identifier": "5035",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Corrigan"
+}

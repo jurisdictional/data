@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Chief fiscal officer of the state, accounting for and controlling disbursement of all state funds",
+  "id": "state:06/california-state-controllers-office",
+  "identifiers": [
+    {
+      "identifier": "8867",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California State Controller's Office"
+}

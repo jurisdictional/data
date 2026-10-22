@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Executive office of the Governor of California, the chief executive of state government",
+  "id": "state:06/office-of-the-governor",
+  "identifiers": [
+    {
+      "identifier": "8821",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Office of the Governor"
+}

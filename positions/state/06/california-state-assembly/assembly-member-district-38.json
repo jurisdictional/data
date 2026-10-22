@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/0030f023-b4b8-5eee-955d-63aab1838b2b",
+    "start_date": "2026-05-23T23:01:13Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-38",
+  "identifiers": [
+    {
+      "identifier": "5395",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 38"
+}

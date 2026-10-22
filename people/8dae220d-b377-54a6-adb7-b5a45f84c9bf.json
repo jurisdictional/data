@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4676"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Lackey",
+  "id": "ocd-person/8dae220d-b377-54a6-adb7-b5a45f84c9bf",
+  "identifiers": [
+    {
+      "identifier": "4676",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lackey"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4929"
+  },
+  "first_name": "Anna",
+  "full_name": "Anna Caballero",
+  "id": "ocd-person/9897cb0d-efc2-5642-8546-1bbe65526154",
+  "identifiers": [
+    {
+      "identifier": "4929",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Caballero"
+}

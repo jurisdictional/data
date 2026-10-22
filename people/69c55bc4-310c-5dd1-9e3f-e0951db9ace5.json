@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4941"
+  },
+  "first_name": "Maria",
+  "full_name": "Maria Elena Durazo",
+  "id": "ocd-person/69c55bc4-310c-5dd1-9e3f-e0951db9ace5",
+  "identifiers": [
+    {
+      "identifier": "4941",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Elena Durazo"
+}

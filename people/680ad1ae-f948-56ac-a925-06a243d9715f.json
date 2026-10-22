@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4736"
+  },
+  "first_name": "LaShae",
+  "full_name": "LaShae Sharp-Collins",
+  "id": "ocd-person/680ad1ae-f948-56ac-a925-06a243d9715f",
+  "identifiers": [
+    {
+      "identifier": "4736",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sharp-Collins"
+}

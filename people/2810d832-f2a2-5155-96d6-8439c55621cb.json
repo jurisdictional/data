@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4648"
+  },
+  "first_name": "Damon",
+  "full_name": "Damon Connolly",
+  "id": "ocd-person/2810d832-f2a2-5155-96d6-8439c55621cb",
+  "identifiers": [
+    {
+      "identifier": "4648",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Connolly"
+}

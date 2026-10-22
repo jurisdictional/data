@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/e000c66f-8291-5540-8de4-c38de53859c4",
+    "start_date": "2026-05-23T22:58:34Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-3",
+  "identifiers": [
+    {
+      "identifier": "5357",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 3"
+}

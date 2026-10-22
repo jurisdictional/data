@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4933"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Padilla",
+  "id": "ocd-person/c9f0901b-1100-5f5f-a011-63959021a4aa",
+  "identifiers": [
+    {
+      "identifier": "4933",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Padilla"
+}

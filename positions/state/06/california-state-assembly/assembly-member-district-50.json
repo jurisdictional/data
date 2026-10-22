@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/5058d8d4-09d0-595c-8989-8e930899fb12",
+    "start_date": "2026-05-23T23:01:50Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-50",
+  "identifiers": [
+    {
+      "identifier": "5407",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 50"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/45383fa9-0419-5e21-be1c-c67120c661d6",
+    "start_date": "2026-05-27T17:48:14Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-30",
+  "identifiers": [
+    {
+      "identifier": "5671",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 30"
+}

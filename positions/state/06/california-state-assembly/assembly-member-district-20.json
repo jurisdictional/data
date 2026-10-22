@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/764c4939-11d2-594f-bf63-a4e8e06efced",
+    "start_date": "2026-05-23T23:00:15Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-20",
+  "identifiers": [
+    {
+      "identifier": "5374",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 20"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5037"
+  },
+  "first_name": "Leondra",
+  "full_name": "Leondra R. Kruger",
+  "id": "ocd-person/5c7803ba-cd8c-50ab-ae22-cbc9c8db4a1a",
+  "identifiers": [
+    {
+      "identifier": "5037",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "R. Kruger"
+}

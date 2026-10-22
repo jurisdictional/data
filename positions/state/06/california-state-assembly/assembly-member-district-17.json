@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/f8428f58-3c95-5006-929f-5b191e7fb96a",
+    "start_date": "2026-05-23T22:59:41Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-17",
+  "identifiers": [
+    {
+      "identifier": "5371",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 17"
+}

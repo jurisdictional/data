@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Administers unemployment insurance, disability insurance, and paid family leave programs",
+  "id": "state:06/employment-development-department",
+  "identifiers": [
+    {
+      "identifier": "8827",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Employment Development Department"
+}

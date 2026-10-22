@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/4c92c133-0df8-582e-bddc-2423a6663ed2",
+    "start_date": "2026-05-23T22:58:39Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-7",
+  "identifiers": [
+    {
+      "identifier": "5361",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 7"
+}

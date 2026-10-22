@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4636"
+  },
+  "first_name": "Maggy",
+  "full_name": "Maggy Krell",
+  "id": "ocd-person/1c8d3b6f-273e-5187-a2cc-18ed73afbb00",
+  "identifiers": [
+    {
+      "identifier": "4636",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Krell"
+}

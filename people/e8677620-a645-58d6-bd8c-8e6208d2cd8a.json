@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4631"
+  },
+  "first_name": "Heather",
+  "full_name": "Heather Hadwick",
+  "id": "ocd-person/e8677620-a645-58d6-bd8c-8e6208d2cd8a",
+  "identifiers": [
+    {
+      "identifier": "4631",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hadwick"
+}

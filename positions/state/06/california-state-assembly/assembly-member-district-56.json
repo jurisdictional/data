@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/ebd887c3-3083-5529-834a-39b371f64154",
+    "start_date": "2026-05-23T23:02:16Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-56",
+  "identifiers": [
+    {
+      "identifier": "5416",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 56"
+}

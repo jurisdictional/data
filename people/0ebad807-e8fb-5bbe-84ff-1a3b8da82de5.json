@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4674"
+  },
+  "first_name": "Stan",
+  "full_name": "Stan Ellis",
+  "id": "ocd-person/0ebad807-e8fb-5bbe-84ff-1a3b8da82de5",
+  "identifiers": [
+    {
+      "identifier": "4674",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ellis"
+}

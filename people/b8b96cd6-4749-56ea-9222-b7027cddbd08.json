@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4682"
+  },
+  "first_name": "Gregg",
+  "full_name": "Gregg Hart",
+  "id": "ocd-person/b8b96cd6-4749-56ea-9222-b7027cddbd08",
+  "identifiers": [
+    {
+      "identifier": "4682",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hart"
+}

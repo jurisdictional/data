@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4683"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Bennett",
+  "id": "ocd-person/0030f023-b4b8-5eee-955d-63aab1838b2b",
+  "identifiers": [
+    {
+      "identifier": "4683",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bennett"
+}

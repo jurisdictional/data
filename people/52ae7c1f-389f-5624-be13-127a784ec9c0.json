@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4704"
+  },
+  "first_name": "Michelle",
+  "full_name": "Michelle Rodriguez",
+  "id": "ocd-person/52ae7c1f-389f-5624-be13-127a784ec9c0",
+  "identifiers": [
+    {
+      "identifier": "4704",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rodriguez"
+}

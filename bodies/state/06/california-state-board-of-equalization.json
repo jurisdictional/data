@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3274/bodies"
+  },
+  "id": "state:06/california-state-board-of-equalization",
+  "identifiers": [
+    {
+      "identifier": "1672",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "legislative_type": "board",
+  "name": "California State Board of Equalization",
+  "staffed_by": [
+    "state:06/california-state-board-of-equalization"
+  ]
+}

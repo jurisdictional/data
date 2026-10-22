@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/88bc9356-be5b-50ea-8456-43d42be084c0",
+    "start_date": "2026-05-27T17:47:16Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-8",
+  "identifiers": [
+    {
+      "identifier": "5649",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 8"
+}

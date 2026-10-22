@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/861eb4c5-a405-5362-8ea7-09feb8d222c6",
+    "start_date": "2026-05-23T22:58:41Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-9",
+  "identifiers": [
+    {
+      "identifier": "5363",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 9"
+}

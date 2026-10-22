@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4945"
+  },
+  "first_name": "Bob",
+  "full_name": "Bob Archuleta",
+  "id": "ocd-person/45383fa9-0419-5e21-be1c-c67120c661d6",
+  "identifiers": [
+    {
+      "identifier": "4945",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Archuleta"
+}

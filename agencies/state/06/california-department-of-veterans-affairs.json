@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Serves California veterans and their families by connecting them to benefits and services",
+  "id": "state:06/california-department-of-veterans-affairs",
+  "identifiers": [
+    {
+      "identifier": "8840",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Veterans Affairs"
+}

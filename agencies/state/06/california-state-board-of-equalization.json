@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "The nation's only elected tax commission, responsible for administering California's property tax system. Five members: four elected by district and the State Controller serving ex officio.",
+  "id": "state:06/california-state-board-of-equalization",
+  "identifiers": [
+    {
+      "identifier": "8823",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California State Board of Equalization"
+}

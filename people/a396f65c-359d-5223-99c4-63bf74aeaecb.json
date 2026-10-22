@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4634"
+  },
+  "first_name": "Cecilia",
+  "full_name": "Cecilia M. Aguiar-Curry",
+  "id": "ocd-person/a396f65c-359d-5223-99c4-63bf74aeaecb",
+  "identifiers": [
+    {
+      "identifier": "4634",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "M. Aguiar-Curry"
+}

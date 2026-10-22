@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4720"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike A. Gipson",
+  "id": "ocd-person/533f6f90-d17e-5fbd-a2fc-5d13988a144b",
+  "identifiers": [
+    {
+      "identifier": "4720",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "A. Gipson"
+}

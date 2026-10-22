@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5044"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Schaefer",
+  "id": "ocd-person/a5c628cf-6b3f-5ba1-8c51-dc52c01fbfa3",
+  "identifiers": [
+    {
+      "identifier": "5044",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schaefer"
+}

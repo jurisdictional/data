@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4930"
+  },
+  "first_name": "Dave",
+  "full_name": "Dave Cortese",
+  "id": "ocd-person/6ea721fd-3b97-5b69-a8b5-a20bd4774b69",
+  "identifiers": [
+    {
+      "identifier": "4930",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cortese"
+}

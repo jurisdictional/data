@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "agency_type": "parks_recreation",
+  "description": "Manages the California State Park System, protecting natural and cultural resources across 280+ state parks",
+  "id": "state:06/california-department-of-parks-and-recreation",
+  "identifiers": [
+    {
+      "identifier": "8839",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Parks and Recreation"
+}

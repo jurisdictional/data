@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4691"
+  },
+  "first_name": "Celeste",
+  "full_name": "Celeste Rodriguez",
+  "id": "ocd-person/493e04b1-4764-589f-8818-6392d1df154f",
+  "identifiers": [
+    {
+      "identifier": "4691",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rodriguez"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Provides statewide traffic safety, law enforcement, and emergency response",
+  "id": "state:06/california-highway-patrol",
+  "identifiers": [
+    {
+      "identifier": "8830",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Highway Patrol"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Manages the state's investments, administers bond financing, and manages college savings and other public finance programs",
+  "id": "state:06/california-state-treasurers-office",
+  "identifiers": [
+    {
+      "identifier": "8866",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California State Treasurer's Office"
+}

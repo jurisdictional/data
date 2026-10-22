@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4702"
+  },
+  "first_name": "Rick",
+  "full_name": "Rick Chavez Zbur",
+  "id": "ocd-person/6a4218cc-a079-5996-994e-c74ba9374cdb",
+  "identifiers": [
+    {
+      "identifier": "4702",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Chavez Zbur"
+}

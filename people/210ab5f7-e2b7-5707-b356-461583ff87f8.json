@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4731"
+  },
+  "first_name": "Laurie",
+  "full_name": "Laurie Davies",
+  "id": "ocd-person/210ab5f7-e2b7-5707-b356-461583ff87f8",
+  "identifiers": [
+    {
+      "identifier": "4731",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davies"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/8cf980a7-96f2-5d1d-9482-14facf5acf88",
+    "start_date": "2026-05-23T23:01:48Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-48",
+  "identifiers": [
+    {
+      "identifier": "5405",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 48"
+}

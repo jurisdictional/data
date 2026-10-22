@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/1e44ce9c-b122-52f8-aecf-11af6f97121a",
+    "start_date": "2026-05-23T23:02:48Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-62",
+  "identifiers": [
+    {
+      "identifier": "5422",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 62"
+}

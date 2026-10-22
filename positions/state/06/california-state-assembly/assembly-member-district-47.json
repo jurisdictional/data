@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/6dbaf13b-6a76-5b78-8f47-4bc57aa71b17",
+    "start_date": "2026-05-23T23:01:47Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-47",
+  "identifiers": [
+    {
+      "identifier": "5404",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 47"
+}

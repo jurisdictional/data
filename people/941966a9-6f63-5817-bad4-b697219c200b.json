@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4715"
+  },
+  "first_name": "Tina",
+  "full_name": "Tina S. McKinnor",
+  "id": "ocd-person/941966a9-6f63-5817-bad4-b697219c200b",
+  "identifiers": [
+    {
+      "identifier": "4715",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "S. McKinnor"
+}

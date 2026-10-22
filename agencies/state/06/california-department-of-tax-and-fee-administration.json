@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Administers California's sales and use tax and other taxes and fees",
+  "id": "state:06/california-department-of-tax-and-fee-administration",
+  "identifiers": [
+    {
+      "identifier": "8828",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Tax and Fee Administration"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4678"
+  },
+  "first_name": "Jasmeet",
+  "full_name": "Jasmeet Kaur Bains",
+  "id": "ocd-person/948abff0-2d9f-570c-9cd8-00aab2f579a0",
+  "identifiers": [
+    {
+      "identifier": "4678",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kaur Bains"
+}

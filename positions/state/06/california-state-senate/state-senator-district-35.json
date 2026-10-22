@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/8c434908-37dc-50b6-bab1-baf174b8d6ec",
+    "start_date": "2026-05-27T17:48:37Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-35",
+  "identifiers": [
+    {
+      "identifier": "5676",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 35"
+}

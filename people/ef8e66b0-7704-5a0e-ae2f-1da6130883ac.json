@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4727"
+  },
+  "first_name": "Tri",
+  "full_name": "Tri Ta",
+  "id": "ocd-person/ef8e66b0-7704-5a0e-ae2f-1da6130883ac",
+  "identifiers": [
+    {
+      "identifier": "4727",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ta"
+}

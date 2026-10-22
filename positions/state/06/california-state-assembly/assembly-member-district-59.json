@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/b6fec587-a54d-51c6-aa37-f067a18ee2a3",
+    "start_date": "2026-05-23T23:02:20Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-59",
+  "identifiers": [
+    {
+      "identifier": "5419",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 59"
+}

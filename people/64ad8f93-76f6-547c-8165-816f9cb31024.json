@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4711"
+  },
+  "first_name": "Corey",
+  "full_name": "Corey A. Jackson",
+  "id": "ocd-person/64ad8f93-76f6-547c-8165-816f9cb31024",
+  "identifiers": [
+    {
+      "identifier": "4711",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "A. Jackson"
+}

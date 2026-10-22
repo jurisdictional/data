@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4716"
+  },
+  "first_name": "Jose",
+  "full_name": "Jose Luis Solache Jr.",
+  "id": "ocd-person/1e44ce9c-b122-52f8-aecf-11af6f97121a",
+  "identifiers": [
+    {
+      "identifier": "4716",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Luis Solache Jr."
+}

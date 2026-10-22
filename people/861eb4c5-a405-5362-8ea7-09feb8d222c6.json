@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4641"
+  },
+  "first_name": "Heath",
+  "full_name": "Heath Flora",
+  "id": "ocd-person/861eb4c5-a405-5362-8ea7-09feb8d222c6",
+  "identifiers": [
+    {
+      "identifier": "4641",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Flora"
+}

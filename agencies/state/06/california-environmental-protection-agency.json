@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Cabinet-level agency coordinating environmental regulatory programs including air quality, water, and toxic substances",
+  "id": "state:06/california-environmental-protection-agency",
+  "identifiers": [
+    {
+      "identifier": "8836",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Environmental Protection Agency"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4672"
+  },
+  "first_name": "Dawn",
+  "full_name": "Dawn Addis",
+  "id": "ocd-person/7a9a0b84-1fbb-5550-b52e-a07e99ac8a8e",
+  "identifiers": [
+    {
+      "identifier": "4672",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Addis"
+}

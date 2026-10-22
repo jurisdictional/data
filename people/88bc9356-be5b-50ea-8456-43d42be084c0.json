@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4921"
+  },
+  "first_name": "Angelique",
+  "full_name": "Angelique Ashby",
+  "id": "ocd-person/88bc9356-be5b-50ea-8456-43d42be084c0",
+  "identifiers": [
+    {
+      "identifier": "4921",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ashby"
+}

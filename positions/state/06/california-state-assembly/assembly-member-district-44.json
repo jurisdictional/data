@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/8ec5e857-01ef-50bf-bf6b-402dc4c62a4d",
+    "start_date": "2026-05-23T23:01:44Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-44",
+  "identifiers": [
+    {
+      "identifier": "5401",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 44"
+}

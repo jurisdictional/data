@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4675"
+  },
+  "first_name": "Alexandra",
+  "full_name": "Alexandra M. Macedo",
+  "id": "ocd-person/f1d7da07-f772-5df2-9378-b73399216aaf",
+  "identifiers": [
+    {
+      "identifier": "4675",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "M. Macedo"
+}

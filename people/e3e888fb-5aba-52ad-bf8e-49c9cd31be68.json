@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4655"
+  },
+  "first_name": "Rebecca",
+  "full_name": "Rebecca Bauer-Kahan",
+  "id": "ocd-person/e3e888fb-5aba-52ad-bf8e-49c9cd31be68",
+  "identifiers": [
+    {
+      "identifier": "4655",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bauer-Kahan"
+}

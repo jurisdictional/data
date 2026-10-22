@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4684"
+  },
+  "first_name": "Juan",
+  "full_name": "Juan Carrillo",
+  "id": "ocd-person/eebb5057-8a35-5286-bde4-158093afaa9e",
+  "identifiers": [
+    {
+      "identifier": "4684",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carrillo"
+}

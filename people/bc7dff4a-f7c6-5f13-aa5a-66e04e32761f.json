@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4923"
+  },
+  "first_name": "Aisha",
+  "full_name": "Aisha Wahab",
+  "id": "ocd-person/bc7dff4a-f7c6-5f13-aa5a-66e04e32761f",
+  "identifiers": [
+    {
+      "identifier": "4923",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wahab"
+}

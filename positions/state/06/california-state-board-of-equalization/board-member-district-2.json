@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1672/positions"
+  },
+  "body": "state:06/california-state-board-of-equalization",
+  "holder": {
+    "person": "ocd-person/c323b726-5241-5571-9a94-34f96afe3918",
+    "start_date": "2026-05-27T23:57:53Z"
+  },
+  "id": "state:06/california-state-board-of-equalization/board-member-district-2",
+  "identifiers": [
+    {
+      "identifier": "5787",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Board Member, District 2"
+}

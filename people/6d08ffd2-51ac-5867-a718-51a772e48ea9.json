@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4703"
+  },
+  "first_name": "Jessica",
+  "full_name": "Jessica M. Caloza",
+  "id": "ocd-person/6d08ffd2-51ac-5867-a718-51a772e48ea9",
+  "identifiers": [
+    {
+      "identifier": "4703",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "M. Caloza"
+}

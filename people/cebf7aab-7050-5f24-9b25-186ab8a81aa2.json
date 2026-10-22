@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4705"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Gonzalez",
+  "id": "ocd-person/cebf7aab-7050-5f24-9b25-186ab8a81aa2",
+  "identifiers": [
+    {
+      "identifier": "4705",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez"
+}

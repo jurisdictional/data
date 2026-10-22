@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/596957db-e244-5b49-8ecf-5e9f71fedfca",
+    "start_date": "2026-05-23T23:01:41Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-42",
+  "identifiers": [
+    {
+      "identifier": "5399",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 42"
+}

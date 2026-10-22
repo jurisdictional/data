@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4952"
+  },
+  "first_name": "Steven",
+  "full_name": "Steven Choi",
+  "id": "ocd-person/1bc54d72-dc74-54dd-8071-44dc8553ddfc",
+  "identifiers": [
+    {
+      "identifier": "4952",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Choi"
+}

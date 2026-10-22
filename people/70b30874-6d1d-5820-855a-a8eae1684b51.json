@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4666"
+  },
+  "first_name": "Esmeralda",
+  "full_name": "Esmeralda Z. Soria",
+  "id": "ocd-person/70b30874-6d1d-5820-855a-a8eae1684b51",
+  "identifiers": [
+    {
+      "identifier": "4666",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Z. Soria"
+}

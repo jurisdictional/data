@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Office of the Lieutenant Governor, who serves as acting Governor in the Governor's absence and sits on several state boards",
+  "id": "state:06/office-of-the-lieutenant-governor",
+  "identifiers": [
+    {
+      "identifier": "8869",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Office of the Lieutenant Governor"
+}

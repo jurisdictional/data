@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4948"
+  },
+  "first_name": "Lena",
+  "full_name": "Lena Gonzalez",
+  "id": "ocd-person/07b247a6-0bfa-516a-8841-0929ead5185e",
+  "identifiers": [
+    {
+      "identifier": "4948",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez"
+}

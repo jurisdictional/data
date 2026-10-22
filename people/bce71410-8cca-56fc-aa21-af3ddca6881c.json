@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4937"
+  },
+  "first_name": "Susan",
+  "full_name": "Susan Rubio",
+  "id": "ocd-person/bce71410-8cca-56fc-aa21-af3ddca6881c",
+  "identifiers": [
+    {
+      "identifier": "4937",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rubio"
+}

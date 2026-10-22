@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5039"
+  },
+  "first_name": "Martin",
+  "full_name": "Martin J. Jenkins",
+  "id": "ocd-person/bb31dc44-96aa-5c6e-b507-dc097b0c364c",
+  "identifiers": [
+    {
+      "identifier": "5039",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "J. Jenkins"
+}

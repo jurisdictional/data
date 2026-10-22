@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4725"
+  },
+  "first_name": "Avelino",
+  "full_name": "Avelino Valencia",
+  "id": "ocd-person/fbdb6dbc-1444-512a-88be-94b1ff124e24",
+  "identifiers": [
+    {
+      "identifier": "4725",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Valencia"
+}

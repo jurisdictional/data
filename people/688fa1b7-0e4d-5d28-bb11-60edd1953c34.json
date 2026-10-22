@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4662"
+  },
+  "first_name": "Marc",
+  "full_name": "Marc Berman",
+  "id": "ocd-person/688fa1b7-0e4d-5d28-bb11-60edd1953c34",
+  "identifiers": [
+    {
+      "identifier": "4662",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Berman"
+}

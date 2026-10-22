@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5042"
+  },
+  "first_name": "Sally",
+  "full_name": "Sally J. Lieber",
+  "id": "ocd-person/c323b726-5241-5571-9a94-34f96afe3918",
+  "identifiers": [
+    {
+      "identifier": "5042",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "J. Lieber"
+}

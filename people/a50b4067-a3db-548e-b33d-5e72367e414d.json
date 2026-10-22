@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4954"
+  },
+  "first_name": "Akilah",
+  "full_name": "Akilah Weber Pierson",
+  "id": "ocd-person/a50b4067-a3db-548e-b33d-5e72367e414d",
+  "identifiers": [
+    {
+      "identifier": "4954",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Weber Pierson"
+}

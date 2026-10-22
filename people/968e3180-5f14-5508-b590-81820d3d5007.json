@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4932"
+  },
+  "first_name": "John",
+  "full_name": "John Laird",
+  "id": "ocd-person/968e3180-5f14-5508-b590-81820d3d5007",
+  "identifiers": [
+    {
+      "identifier": "4932",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Laird"
+}

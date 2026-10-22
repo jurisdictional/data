@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4931"
+  },
+  "first_name": "Melissa",
+  "full_name": "Melissa Hurtado",
+  "id": "ocd-person/54031ed6-303a-5bc5-9523-7e0053ad9719",
+  "identifiers": [
+    {
+      "identifier": "4931",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hurtado"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4919"
+  },
+  "first_name": "Roger",
+  "full_name": "Roger Niello",
+  "id": "ocd-person/eaae4408-1088-57e9-b93e-b1395421f0a7",
+  "identifiers": [
+    {
+      "identifier": "4919",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Niello"
+}

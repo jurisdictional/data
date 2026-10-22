@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4708"
+  },
+  "first_name": "Sade",
+  "full_name": "Sade Elhawary",
+  "id": "ocd-person/03698722-ea52-51d8-829b-e2380816dc0c",
+  "identifiers": [
+    {
+      "identifier": "4708",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Elhawary"
+}

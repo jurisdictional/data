@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/8bf03359-34a6-5ca2-8288-1afcad0d7e3c",
+    "start_date": "2026-05-23T23:02:53Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-67",
+  "identifiers": [
+    {
+      "identifier": "5427",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 67"
+}

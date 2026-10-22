@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4946"
+  },
+  "first_name": "Sabrina",
+  "full_name": "Sabrina Cervantes",
+  "id": "ocd-person/5b3369fd-a4b4-50c7-b5da-cf2a0cc397e8",
+  "identifiers": [
+    {
+      "identifier": "4946",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cervantes"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4651"
+  },
+  "first_name": "Anamarie",
+  "full_name": "Anamarie Avila Farias",
+  "id": "ocd-person/59d62565-618b-51ce-bca4-777fec11ba8f",
+  "identifiers": [
+    {
+      "identifier": "4651",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Avila Farias"
+}

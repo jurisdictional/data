@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4660"
+  },
+  "first_name": "Diane",
+  "full_name": "Diane Papan",
+  "id": "ocd-person/0533dfa5-4d9f-51e8-b63b-f81b5a8e4fdd",
+  "identifiers": [
+    {
+      "identifier": "4660",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Papan"
+}

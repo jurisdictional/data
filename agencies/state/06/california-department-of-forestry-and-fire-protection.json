@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Provides fire protection and stewardship of California's privately-owned wildlands; also known as CAL FIRE",
+  "id": "state:06/california-department-of-forestry-and-fire-protection",
+  "identifiers": [
+    {
+      "identifier": "8843",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Forestry and Fire Protection"
+}

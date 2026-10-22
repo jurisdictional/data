@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4909"
+  },
+  "first_name": "Megan",
+  "full_name": "Megan Dahle",
+  "id": "ocd-person/cde33fa7-9c22-533e-a80c-354cf890b8d1",
+  "identifiers": [
+    {
+      "identifier": "4909",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dahle"
+}

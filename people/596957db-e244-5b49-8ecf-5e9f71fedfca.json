@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4690"
+  },
+  "first_name": "Jacqui",
+  "full_name": "Jacqui Irwin",
+  "id": "ocd-person/596957db-e244-5b49-8ecf-5e9f71fedfca",
+  "identifiers": [
+    {
+      "identifier": "4690",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Irwin"
+}

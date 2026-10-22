@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "agency_type": "courts",
+  "description": "Highest court in the California state court system, consisting of the Chief Justice and six Associate Justices",
+  "id": "state:06/supreme-court-of-california",
+  "identifiers": [
+    {
+      "identifier": "8822",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Supreme Court of California"
+}

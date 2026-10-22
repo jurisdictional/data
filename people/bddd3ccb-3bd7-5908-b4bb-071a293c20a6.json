@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4697"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Fong",
+  "id": "ocd-person/bddd3ccb-3bd7-5908-b4bb-071a293c20a6",
+  "identifiers": [
+    {
+      "identifier": "4697",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fong"
+}

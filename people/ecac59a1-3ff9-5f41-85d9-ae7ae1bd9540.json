@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5041"
+  },
+  "first_name": "Ted",
+  "full_name": "Ted Gaines",
+  "id": "ocd-person/ecac59a1-3ff9-5f41-85d9-ae7ae1bd9540",
+  "identifiers": [
+    {
+      "identifier": "5041",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gaines"
+}

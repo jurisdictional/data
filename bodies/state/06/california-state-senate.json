@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3274/bodies"
+  },
+  "id": "state:06/california-state-senate",
+  "identifiers": [
+    {
+      "identifier": "1655",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "legislative_type": "council",
+  "name": "California State Senate",
+  "staffed_by": [
+    "state:06/california-state-legislature"
+  ]
+}

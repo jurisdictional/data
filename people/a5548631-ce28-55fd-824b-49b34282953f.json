@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4728"
+  },
+  "first_name": "Kate",
+  "full_name": "Kate Sanchez",
+  "id": "ocd-person/a5548631-ce28-55fd-824b-49b34282953f",
+  "identifiers": [
+    {
+      "identifier": "4728",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sanchez"
+}

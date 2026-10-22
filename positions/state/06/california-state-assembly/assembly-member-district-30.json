@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/7a9a0b84-1fbb-5550-b52e-a07e99ac8a8e",
+    "start_date": "2026-05-23T23:00:47Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-30",
+  "identifiers": [
+    {
+      "identifier": "5384",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 30"
+}

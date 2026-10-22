@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4915"
+  },
+  "first_name": "Marie",
+  "full_name": "Marie Alvarado-Gil",
+  "id": "ocd-person/0e7f31d8-b3ca-511d-a49d-eaf0d7fc9b0d",
+  "identifiers": [
+    {
+      "identifier": "4915",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alvarado-Gil"
+}

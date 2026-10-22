@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/07b247a6-0bfa-516a-8841-0929ead5185e",
+    "start_date": "2026-05-27T17:48:34Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-33",
+  "identifiers": [
+    {
+      "identifier": "5674",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 33"
+}

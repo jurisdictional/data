@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4643"
+  },
+  "first_name": "Stephanie",
+  "full_name": "Stephanie Nguyen",
+  "id": "ocd-person/f01c776f-00a0-597e-bfc7-a73308255e99",
+  "identifiers": [
+    {
+      "identifier": "4643",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Nguyen"
+}

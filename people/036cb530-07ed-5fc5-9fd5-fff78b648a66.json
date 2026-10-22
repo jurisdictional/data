@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4729"
+  },
+  "first_name": "Diane",
+  "full_name": "Diane B. Dixon",
+  "id": "ocd-person/036cb530-07ed-5fc5-9fd5-fff78b648a66",
+  "identifiers": [
+    {
+      "identifier": "4729",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "B. Dixon"
+}

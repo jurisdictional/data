@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4649"
+  },
+  "first_name": "Rhodesia",
+  "full_name": "Rhodesia Ransom",
+  "id": "ocd-person/2ad03906-30f8-5c18-9c51-b8752a7e94f4",
+  "identifiers": [
+    {
+      "identifier": "4649",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ransom"
+}

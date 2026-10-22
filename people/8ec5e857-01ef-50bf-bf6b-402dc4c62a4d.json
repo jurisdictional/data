@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4692"
+  },
+  "first_name": "Nick",
+  "full_name": "Nick Schultz",
+  "id": "ocd-person/8ec5e857-01ef-50bf-bf6b-402dc4c62a4d",
+  "identifiers": [
+    {
+      "identifier": "4692",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schultz"
+}

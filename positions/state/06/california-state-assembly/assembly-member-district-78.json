@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/45ce1dba-5465-58f8-b069-94ad640a80db",
+    "start_date": "2026-05-23T23:03:31Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-78",
+  "identifiers": [
+    {
+      "identifier": "5441",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 78"
+}

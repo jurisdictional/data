@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/f5c59c80-a146-5a75-9bc7-25656a277326",
+    "start_date": "2026-05-23T23:00:42Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-25",
+  "identifiers": [
+    {
+      "identifier": "5379",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 25"
+}

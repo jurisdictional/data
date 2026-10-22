@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4734"
+  },
+  "first_name": "Tasha",
+  "full_name": "Tasha Boerner",
+  "id": "ocd-person/e214f13a-cfb1-5133-97ca-6b710b232b9b",
+  "identifiers": [
+    {
+      "identifier": "4734",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Boerner"
+}

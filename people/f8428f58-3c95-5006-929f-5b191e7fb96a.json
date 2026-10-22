@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4656"
+  },
+  "first_name": "Matt",
+  "full_name": "Matt Haney",
+  "id": "ocd-person/f8428f58-3c95-5006-929f-5b191e7fb96a",
+  "identifiers": [
+    {
+      "identifier": "4656",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Haney"
+}

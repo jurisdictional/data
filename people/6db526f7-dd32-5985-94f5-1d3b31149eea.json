@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5043"
+  },
+  "first_name": "Antonio",
+  "full_name": "Antonio Vazquez",
+  "id": "ocd-person/6db526f7-dd32-5985-94f5-1d3b31149eea",
+  "identifiers": [
+    {
+      "identifier": "5043",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Vazquez"
+}

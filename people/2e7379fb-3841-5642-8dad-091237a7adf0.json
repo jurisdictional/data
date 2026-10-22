@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4650"
+  },
+  "first_name": "Buffy",
+  "full_name": "Buffy Wicks",
+  "id": "ocd-person/2e7379fb-3841-5642-8dad-091237a7adf0",
+  "identifiers": [
+    {
+      "identifier": "4650",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wicks"
+}

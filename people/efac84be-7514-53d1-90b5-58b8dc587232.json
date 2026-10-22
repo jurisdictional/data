@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4936"
+  },
+  "first_name": "Monique",
+  "full_name": "Monique Limon",
+  "id": "ocd-person/efac84be-7514-53d1-90b5-58b8dc587232",
+  "identifiers": [
+    {
+      "identifier": "4936",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Limon"
+}

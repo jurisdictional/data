@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4947"
+  },
+  "first_name": "Kelly",
+  "full_name": "Kelly Seyarto",
+  "id": "ocd-person/3a827fb6-5b8c-5423-b34f-65e36ce56d72",
+  "identifiers": [
+    {
+      "identifier": "4947",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Seyarto"
+}

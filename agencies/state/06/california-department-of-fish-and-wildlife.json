@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Manages California's fish, wildlife, and plant resources and their habitats",
+  "id": "state:06/california-department-of-fish-and-wildlife",
+  "identifiers": [
+    {
+      "identifier": "8838",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Fish and Wildlife"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4939"
+  },
+  "first_name": "Benjamin",
+  "full_name": "Benjamin Allen",
+  "id": "ocd-person/3c913aec-009e-595e-85e0-e81ef352698a",
+  "identifiers": [
+    {
+      "identifier": "4939",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Allen"
+}

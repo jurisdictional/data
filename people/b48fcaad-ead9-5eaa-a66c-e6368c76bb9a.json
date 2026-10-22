@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4951"
+  },
+  "first_name": "Tony",
+  "full_name": "Tony Strickland",
+  "id": "ocd-person/b48fcaad-ead9-5eaa-a66c-e6368c76bb9a",
+  "identifiers": [
+    {
+      "identifier": "4951",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Strickland"
+}

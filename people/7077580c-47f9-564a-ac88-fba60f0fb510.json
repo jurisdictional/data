@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4661"
+  },
+  "first_name": "Juan",
+  "full_name": "Juan Alanis",
+  "id": "ocd-person/7077580c-47f9-564a-ac88-fba60f0fb510",
+  "identifiers": [
+    {
+      "identifier": "4661",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alanis"
+}

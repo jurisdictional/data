@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4953"
+  },
+  "first_name": "Catherine",
+  "full_name": "Catherine S. Blakespear",
+  "id": "ocd-person/34fa6b2e-38a3-5ae3-afb2-0840d218738f",
+  "identifiers": [
+    {
+      "identifier": "4953",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "S. Blakespear"
+}

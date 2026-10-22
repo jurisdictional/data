@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4726"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Lowenthal",
+  "id": "ocd-person/2a643be4-2ff5-5999-9c32-5842fb447c08",
+  "identifiers": [
+    {
+      "identifier": "4726",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lowenthal"
+}

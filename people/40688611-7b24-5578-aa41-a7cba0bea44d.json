@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4635"
+  },
+  "first_name": "Joe",
+  "full_name": "Joe Patterson",
+  "id": "ocd-person/40688611-7b24-5578-aa41-a7cba0bea44d",
+  "identifiers": [
+    {
+      "identifier": "4635",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Patterson"
+}

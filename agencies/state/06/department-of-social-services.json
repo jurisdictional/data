@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Oversees community care licensing, CalWORKs, CalFresh, and other social services programs",
+  "id": "state:06/department-of-social-services",
+  "identifiers": [
+    {
+      "identifier": "8833",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Department of Social Services"
+}

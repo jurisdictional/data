@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4657"
+  },
+  "first_name": "Mia",
+  "full_name": "Mia Bonta",
+  "id": "ocd-person/a612e2fd-ae80-5bb0-8235-42c9c1f6ac08",
+  "identifiers": [
+    {
+      "identifier": "4657",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bonta"
+}

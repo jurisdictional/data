@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4913"
+  },
+  "first_name": "Christopher",
+  "full_name": "Christopher Cabaldon",
+  "id": "ocd-person/bd1cacad-9efe-5bbf-84e3-d30b37f652b6",
+  "identifiers": [
+    {
+      "identifier": "4913",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cabaldon"
+}

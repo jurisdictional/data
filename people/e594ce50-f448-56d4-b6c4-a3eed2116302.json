@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4927"
+  },
+  "first_name": "Shannon",
+  "full_name": "Shannon Grove",
+  "id": "ocd-person/e594ce50-f448-56d4-b6c4-a3eed2116302",
+  "identifiers": [
+    {
+      "identifier": "4927",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Grove"
+}

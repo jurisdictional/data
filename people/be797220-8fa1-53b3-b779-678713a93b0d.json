@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4709"
+  },
+  "first_name": "Leticia",
+  "full_name": "Leticia Castillo",
+  "id": "ocd-person/be797220-8fa1-53b3-b779-678713a93b0d",
+  "identifiers": [
+    {
+      "identifier": "4709",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Castillo"
+}

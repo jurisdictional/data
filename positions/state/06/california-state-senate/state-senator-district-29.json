@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/741f1be2-0e19-54d2-8554-f565e3584b13",
+    "start_date": "2026-05-27T17:48:13Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-29",
+  "identifiers": [
+    {
+      "identifier": "5670",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 29"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4706"
+  },
+  "first_name": "Isaac",
+  "full_name": "Isaac G. Bryan",
+  "id": "ocd-person/834cde82-b29b-5e32-9521-692d9b06b811",
+  "identifiers": [
+    {
+      "identifier": "4706",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "G. Bryan"
+}

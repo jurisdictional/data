@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4949"
+  },
+  "first_name": "Thomas",
+  "full_name": "Thomas Umberg",
+  "id": "ocd-person/d04ddc13-29e9-584a-856d-ed49cc046274",
+  "identifiers": [
+    {
+      "identifier": "4949",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Umberg"
+}

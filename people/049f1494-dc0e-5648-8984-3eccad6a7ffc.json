@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4928"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Becker",
+  "id": "ocd-person/049f1494-dc0e-5648-8984-3eccad6a7ffc",
+  "identifiers": [
+    {
+      "identifier": "4928",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Becker"
+}

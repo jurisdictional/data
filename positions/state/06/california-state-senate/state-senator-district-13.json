@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/049f1494-dc0e-5648-8984-3eccad6a7ffc",
+    "start_date": "2026-05-27T17:47:38Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-13",
+  "identifiers": [
+    {
+      "identifier": "5654",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 13"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/54031ed6-303a-5bc5-9523-7e0053ad9719",
+    "start_date": "2026-05-27T17:47:41Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-16",
+  "identifiers": [
+    {
+      "identifier": "5657",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 16"
+}

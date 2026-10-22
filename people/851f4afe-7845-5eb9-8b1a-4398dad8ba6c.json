@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4955"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian W. Jones",
+  "id": "ocd-person/851f4afe-7845-5eb9-8b1a-4398dad8ba6c",
+  "identifiers": [
+    {
+      "identifier": "4955",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "W. Jones"
+}

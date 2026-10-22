@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/9897cb0d-efc2-5642-8546-1bbe65526154",
+    "start_date": "2026-05-27T17:47:39Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-14",
+  "identifiers": [
+    {
+      "identifier": "5655",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 14"
+}

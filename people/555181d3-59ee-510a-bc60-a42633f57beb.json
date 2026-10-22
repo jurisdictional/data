@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4940"
+  },
+  "first_name": "Sasha",
+  "full_name": "Sasha Renee Perez",
+  "id": "ocd-person/555181d3-59ee-510a-bc60-a42633f57beb",
+  "identifiers": [
+    {
+      "identifier": "4940",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Renee Perez"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/0ebad807-e8fb-5bbe-84ff-1a3b8da82de5",
+    "start_date": "2026-05-23T23:01:07Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-32",
+  "identifiers": [
+    {
+      "identifier": "5386",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 32"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4938"
+  },
+  "first_name": "Suzette",
+  "full_name": "Suzette Martinez Valladares",
+  "id": "ocd-person/c7cc7627-db5c-513a-a253-85f08d7a02fe",
+  "identifiers": [
+    {
+      "identifier": "4938",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Martinez Valladares"
+}

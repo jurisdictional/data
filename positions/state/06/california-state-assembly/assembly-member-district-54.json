@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/cebf7aab-7050-5f24-9b25-186ab8a81aa2",
+    "start_date": "2026-05-23T23:02:14Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-54",
+  "identifiers": [
+    {
+      "identifier": "5414",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 54"
+}

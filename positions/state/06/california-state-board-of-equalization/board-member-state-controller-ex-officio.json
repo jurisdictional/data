@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1672/positions"
+  },
+  "body": "state:06/california-state-board-of-equalization",
+  "id": "state:06/california-state-board-of-equalization/board-member-state-controller-ex-officio",
+  "identifiers": [
+    {
+      "identifier": "5795",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Board Member, State Controller (ex officio)"
+}

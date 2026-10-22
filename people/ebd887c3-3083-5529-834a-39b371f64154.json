@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4707"
+  },
+  "first_name": "Lisa",
+  "full_name": "Lisa Calderon",
+  "id": "ocd-person/ebd887c3-3083-5529-834a-39b371f64154",
+  "identifiers": [
+    {
+      "identifier": "4707",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Calderon"
+}

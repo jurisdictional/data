@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4920"
+  },
+  "first_name": "Jesse",
+  "full_name": "Jesse Arreguín",
+  "id": "ocd-person/a229399b-847f-58a5-8cd5-0d858e1be0c0",
+  "identifiers": [
+    {
+      "identifier": "4920",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Arreguín"
+}

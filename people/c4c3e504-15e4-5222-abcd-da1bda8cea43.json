@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4663"
+  },
+  "first_name": "Alex",
+  "full_name": "Alex Lee",
+  "id": "ocd-person/c4c3e504-15e4-5222-abcd-da1bda8cea43",
+  "identifiers": [
+    {
+      "identifier": "4663",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee"
+}

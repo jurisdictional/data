@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4659"
+  },
+  "first_name": "Liz",
+  "full_name": "Liz Ortega",
+  "id": "ocd-person/764c4939-11d2-594f-bf63-a4e8e06efced",
+  "identifiers": [
+    {
+      "identifier": "4659",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ortega"
+}

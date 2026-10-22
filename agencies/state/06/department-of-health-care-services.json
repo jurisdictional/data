@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Administers Medi-Cal, California's Medicaid program providing health care for low-income residents",
+  "id": "state:06/department-of-health-care-services",
+  "identifiers": [
+    {
+      "identifier": "8834",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Department of Health Care Services"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
+  },
+  "body": "state:06/california-state-assembly",
+  "holder": {
+    "person": "ocd-person/92cbc041-c16c-5493-ac64-cbdcc89bce94",
+    "start_date": "2026-05-23T22:58:34Z"
+  },
+  "id": "state:06/california-state-assembly/assembly-member-district-2",
+  "identifiers": [
+    {
+      "identifier": "5356",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Assembly Member, District 2"
+}

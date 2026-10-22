@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
+  },
+  "body": "state:06/california-state-senate",
+  "holder": {
+    "person": "ocd-person/c9f0901b-1100-5f5f-a011-63959021a4aa",
+    "start_date": "2026-05-27T17:47:43Z"
+  },
+  "id": "state:06/california-state-senate/state-senator-district-18",
+  "identifiers": [
+    {
+      "identifier": "5659",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 18"
+}

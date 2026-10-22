@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4685"
+  },
+  "first_name": "Pilar",
+  "full_name": "Pilar Schiavo",
+  "id": "ocd-person/439a3be9-4cf1-593c-bd90-5f5f0516cac6",
+  "identifiers": [
+    {
+      "identifier": "4685",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schiavo"
+}

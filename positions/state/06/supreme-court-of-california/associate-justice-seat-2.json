@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1671/positions"
+  },
+  "body": "state:06/supreme-court-of-california",
+  "holder": {
+    "person": "ocd-person/4ea49238-c133-5f2f-adef-3d6dd023c4a6",
+    "start_date": "2026-05-27T23:57:45Z"
+  },
+  "id": "state:06/supreme-court-of-california/associate-justice-seat-2",
+  "identifiers": [
+    {
+      "identifier": "5789",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Associate Justice, Seat 2"
+}

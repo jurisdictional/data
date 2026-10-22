@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4647"
+  },
+  "first_name": "Lori",
+  "full_name": "Lori D. Wilson",
+  "id": "ocd-person/0921f2fc-5618-5c6d-a156-b44d19173988",
+  "identifiers": [
+    {
+      "identifier": "4647",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "D. Wilson"
+}

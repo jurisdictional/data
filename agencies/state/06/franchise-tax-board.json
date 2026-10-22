@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Administers California's personal and corporate income tax laws",
+  "id": "state:06/franchise-tax-board",
+  "identifiers": [
+    {
+      "identifier": "8826",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "Franchise Tax Board"
+}

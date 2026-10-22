@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4723"
+  },
+  "first_name": "Al",
+  "full_name": "Al Muratsuchi",
+  "id": "ocd-person/6a92b237-7982-5d9f-abf8-91e081b13ac9",
+  "identifiers": [
+    {
+      "identifier": "4723",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Muratsuchi"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4950"
+  },
+  "first_name": "Laura",
+  "full_name": "Laura Richardson",
+  "id": "ocd-person/8c434908-37dc-50b6-bab1-baf174b8d6ec",
+  "identifiers": [
+    {
+      "identifier": "4950",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Richardson"
+}

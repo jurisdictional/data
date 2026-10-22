@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4943"
+  },
+  "first_name": "Lola",
+  "full_name": "Lola Smallwood-Cuevas",
+  "id": "ocd-person/1eb7c8a7-d292-55f8-9a2e-56fa7838614d",
+  "identifiers": [
+    {
+      "identifier": "4943",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smallwood-Cuevas"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5036"
+  },
+  "first_name": "Goodwin",
+  "full_name": "Goodwin H. Liu",
+  "id": "ocd-person/4ea49238-c133-5f2f-adef-3d6dd023c4a6",
+  "identifiers": [
+    {
+      "identifier": "5036",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "H. Liu"
+}

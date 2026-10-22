@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4696"
+  },
+  "first_name": "Blanca",
+  "full_name": "Blanca E. Rubio",
+  "id": "ocd-person/8cf980a7-96f2-5d1d-9482-14facf5acf88",
+  "identifiers": [
+    {
+      "identifier": "4696",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "E. Rubio"
+}

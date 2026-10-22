@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3274"
+  },
+  "description": "Provides leadership and resources to expand housing supply and promote community development",
+  "id": "state:06/california-department-of-housing-and-community-development",
+  "identifiers": [
+    {
+      "identifier": "8835",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:06",
+  "name": "California Department of Housing and Community Development"
+}

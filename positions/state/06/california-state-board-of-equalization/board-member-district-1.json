@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1672/positions"
+  },
+  "body": "state:06/california-state-board-of-equalization",
+  "holder": {
+    "person": "ocd-person/ecac59a1-3ff9-5f41-85d9-ae7ae1bd9540",
+    "start_date": "2026-05-27T23:57:51Z"
+  },
+  "id": "state:06/california-state-board-of-equalization/board-member-district-1",
+  "identifiers": [
+    {
+      "identifier": "5786",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Board Member, District 1"
+}

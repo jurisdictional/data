@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1671/positions"
+  },
+  "body": "state:06/supreme-court-of-california",
+  "holder": {
+    "person": "ocd-person/addc4b47-80e0-58f0-a68a-e213dc86ab7a",
+    "start_date": "2026-05-27T23:57:42Z"
+  },
+  "id": "state:06/supreme-court-of-california/chief-justice-of-california",
+  "identifiers": [
+    {
+      "identifier": "5784",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Chief Justice of California"
+}

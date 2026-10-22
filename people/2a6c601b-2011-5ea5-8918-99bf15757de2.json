@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4680"
+  },
+  "first_name": "Jeff",
+  "full_name": "Jeff Gonzalez",
+  "id": "ocd-person/2a6c601b-2011-5ea5-8918-99bf15757de2",
+  "identifiers": [
+    {
+      "identifier": "4680",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez"
+}

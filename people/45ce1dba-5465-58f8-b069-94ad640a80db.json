@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4735"
+  },
+  "first_name": "Christopher",
+  "full_name": "Christopher M. Ward",
+  "id": "ocd-person/45ce1dba-5465-58f8-b069-94ad640a80db",
+  "identifiers": [
+    {
+      "identifier": "4735",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "M. Ward"
+}

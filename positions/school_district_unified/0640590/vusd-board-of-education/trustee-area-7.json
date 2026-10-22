@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/4/positions"
+  },
+  "body": "school_district_unified:0640590/vusd-board-of-education",
+  "holder": {
+    "person": "ocd-person/4b503c1d-965a-50ab-87ed-d3e732c002b9",
+    "start_date": "2026-04-04T00:42:36Z"
+  },
+  "id": "school_district_unified:0640590/vusd-board-of-education/trustee-area-7",
+  "identifiers": [
+    {
+      "identifier": "28",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Trustee, Area 7"
+}

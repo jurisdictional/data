@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "agency_type": "education",
+  "description": "Curriculum, instruction, and academic programs",
+  "id": "school_district_unified:0640590/educational-services",
+  "identifiers": [
+    {
+      "identifier": "15",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Educational Services"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/35"
+  },
+  "first_name": "Michele",
+  "full_name": "Michele Guerra",
+  "id": "ocd-person/4b503c1d-965a-50ab-87ed-d3e732c002b9",
+  "identifiers": [
+    {
+      "identifier": "35",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guerra"
+}

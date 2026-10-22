@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/29"
+  },
+  "first_name": "Nancy",
+  "full_name": "Nancy Dunn",
+  "id": "ocd-person/2f291270-1b66-5b4f-a4ae-5ca5ca98bd9a",
+  "identifiers": [
+    {
+      "identifier": "29",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dunn"
+}

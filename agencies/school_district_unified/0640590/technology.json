@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "description": "District IT infrastructure, devices, and educational technology",
+  "id": "school_district_unified:0640590/technology",
+  "identifiers": [
+    {
+      "identifier": "28",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Technology"
+}

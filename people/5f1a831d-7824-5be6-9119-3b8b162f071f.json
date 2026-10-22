@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/30"
+  },
+  "first_name": "Daniel",
+  "full_name": "Daniel Garcia",
+  "id": "ocd-person/5f1a831d-7824-5be6-9119-3b8b162f071f",
+  "identifiers": [
+    {
+      "identifier": "30",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garcia"
+}

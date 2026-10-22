@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/32"
+  },
+  "first_name": "Audra",
+  "full_name": "Audra Orr",
+  "id": "ocd-person/4fa0abc1-addc-51b4-8e80-34092524c98d",
+  "identifiers": [
+    {
+      "identifier": "32",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Orr"
+}

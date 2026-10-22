@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "description": "Student mental health counseling and wellness programs",
+  "id": "school_district_unified:0640590/mental-health-supports",
+  "identifiers": [
+    {
+      "identifier": "21",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Mental Health Supports"
+}

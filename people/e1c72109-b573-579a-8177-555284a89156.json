@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/31"
+  },
+  "first_name": "John",
+  "full_name": "John Jansen",
+  "id": "ocd-person/e1c72109-b573-579a-8177-555284a89156",
+  "identifiers": [
+    {
+      "identifier": "31",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jansen"
+}

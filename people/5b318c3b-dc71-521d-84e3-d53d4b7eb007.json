@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/34"
+  },
+  "first_name": "Amy",
+  "full_name": "Amy Tran Russell",
+  "id": "ocd-person/5b318c3b-dc71-521d-84e3-d53d4b7eb007",
+  "identifiers": [
+    {
+      "identifier": "34",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tran Russell"
+}

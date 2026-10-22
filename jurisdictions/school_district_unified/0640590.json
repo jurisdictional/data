@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/77297"
+  },
+  "code": "VUSD",
+  "id": "school_district_unified:0640590",
+  "identifiers": [
+    {
+      "identifier": "0640590",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "77297",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/county:solano/school_district:vacaville_unified",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "school_district_unified",
+  "name": "Vacaville Unified School District",
+  "state_abbr": "CA"
+}

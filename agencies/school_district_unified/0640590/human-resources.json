@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "description": "Employee recruitment, hiring, benefits, and labor relations",
+  "id": "school_district_unified:0640590/human-resources",
+  "identifiers": [
+    {
+      "identifier": "19",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Human Resources"
+}

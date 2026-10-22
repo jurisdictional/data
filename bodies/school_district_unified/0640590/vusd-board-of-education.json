@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/77297/bodies"
+  },
+  "id": "school_district_unified:0640590/vusd-board-of-education",
+  "identifiers": [
+    {
+      "identifier": "4",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "legislative_type": "board",
+  "name": "VUSD Board of Education",
+  "staffed_by": [
+    "school_district_unified:0640590/superintendents-office"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/33"
+  },
+  "first_name": "Santiago",
+  "full_name": "Santiago Serrato",
+  "id": "ocd-person/fb44e903-995e-518d-b7da-7be1be963171",
+  "identifiers": [
+    {
+      "identifier": "33",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Serrato"
+}

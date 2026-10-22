@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "description": "School facility maintenance, construction, and operations",
+  "id": "school_district_unified:0640590/facilities-maintenance",
+  "identifiers": [
+    {
+      "identifier": "16",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Facilities & Maintenance"
+}

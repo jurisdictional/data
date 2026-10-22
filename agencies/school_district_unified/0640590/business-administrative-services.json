@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=77297"
+  },
+  "description": "Associate Superintendent-led division overseeing fiscal, facilities, and administrative operations",
+  "id": "school_district_unified:0640590/business-administrative-services",
+  "identifiers": [
+    {
+      "identifier": "14",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "school_district_unified:0640590",
+  "name": "Business & Administrative Services"
+}

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/81943"
+  },
+  "code": "AD11",
+  "id": "state_legislative_lower:06011",
+  "identifiers": [
+    {
+      "identifier": "06011",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "81943",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/sldl:11",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state_legislative_lower",
+  "name": "Assembly District 11",
+  "state_abbr": "CA"
+}

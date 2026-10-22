@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Election administration, voter registration, and ballot processing",
+  "id": "county:06095/registrar-of-voters",
+  "identifiers": [
+    {
+      "identifier": "45",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Registrar of Voters"
+}

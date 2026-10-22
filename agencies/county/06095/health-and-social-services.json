@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Behavioral health, child welfare, public health, family health, employment & eligibility, older/disabled adult services",
+  "id": "county:06095/health-and-social-services",
+  "identifiers": [
+    {
+      "identifier": "39",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Health and Social Services"
+}

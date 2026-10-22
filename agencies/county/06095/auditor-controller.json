@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Oversees accounting and financial activities of the County",
+  "id": "county:06095/auditor-controller",
+  "identifiers": [
+    {
+      "identifier": "33",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Auditor-Controller"
+}

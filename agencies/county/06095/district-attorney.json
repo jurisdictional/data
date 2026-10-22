@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Criminal prosecution, victim/witness services, consumer protection",
+  "id": "county:06095/district-attorney",
+  "identifiers": [
+    {
+      "identifier": "36",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "District Attorney"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Children and families commission for early childhood programs",
+  "id": "county:06095/first-5-solano",
+  "identifiers": [
+    {
+      "identifier": "37",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "First 5 Solano"
+}

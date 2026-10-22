@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/39"
+  },
+  "first_name": "John",
+  "full_name": "John M. Vasquez",
+  "id": "ocd-person/678eb244-ed7b-5322-89ae-f8af7756379c",
+  "identifiers": [
+    {
+      "identifier": "39",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "M. Vasquez"
+}

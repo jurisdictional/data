@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Benefits assistance and support for veterans and their families",
+  "id": "county:06095/veterans-services",
+  "identifiers": [
+    {
+      "identifier": "50",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Veterans Services"
+}

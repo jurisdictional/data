@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Planning, building & safety, public works, environmental health, water resources",
+  "id": "county:06095/resource-management",
+  "identifiers": [
+    {
+      "identifier": "46",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Resource Management"
+}

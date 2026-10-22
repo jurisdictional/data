@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/37"
+  },
+  "first_name": "Monica",
+  "full_name": "Monica Brown",
+  "id": "ocd-person/13ccd840-ab9d-5034-81dd-5b1301a7cef0",
+  "identifiers": [
+    {
+      "identifier": "37",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brown"
+}

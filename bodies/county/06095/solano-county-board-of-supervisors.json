@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/2532/bodies"
+  },
+  "id": "county:06095/solano-county-board-of-supervisors",
+  "identifiers": [
+    {
+      "identifier": "5",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "legislative_type": "board",
+  "name": "Solano County Board of Supervisors",
+  "staffed_by": [
+    "county:06095/county-administrators-office"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Civil legal advisor for the County of Solano",
+  "id": "county:06095/county-counsel",
+  "identifiers": [
+    {
+      "identifier": "35",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "County Counsel"
+}

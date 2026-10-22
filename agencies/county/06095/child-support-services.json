@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Child support enforcement and court services",
+  "id": "county:06095/child-support-services",
+  "identifiers": [
+    {
+      "identifier": "34",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Child Support Services"
+}

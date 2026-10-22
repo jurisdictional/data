@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "agency_type": "clerk",
+  "description": "Treasury, tax collection, and county clerk services",
+  "id": "county:06095/treasurer-tax-collector-county-clerk",
+  "identifiers": [
+    {
+      "identifier": "49",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Treasurer-Tax Collector-County Clerk"
+}

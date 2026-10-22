@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/40"
+  },
+  "first_name": "Mitch",
+  "full_name": "Mitch Mashburn",
+  "id": "ocd-person/6fd9bccc-fca5-5582-80b7-a1fab0a022b5",
+  "identifiers": [
+    {
+      "identifier": "40",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mashburn"
+}

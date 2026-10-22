@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Facilities, capital projects, purchasing, surplus, and Nut Tree Airport",
+  "id": "county:06095/general-services",
+  "identifiers": [
+    {
+      "identifier": "38",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "General Services"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Property assessment, official records, birth/death/marriage certificates",
+  "id": "county:06095/assessor-recorder",
+  "identifiers": [
+    {
+      "identifier": "32",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Assessor/Recorder"
+}

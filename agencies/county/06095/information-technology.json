@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "County IT infrastructure and systems",
+  "id": "county:06095/information-technology",
+  "identifiers": [
+    {
+      "identifier": "41",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Information Technology"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Chief executive office of Solano County government",
+  "id": "county:06095/county-administrators-office",
+  "identifiers": [
+    {
+      "identifier": "30",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "County Administrator's Office"
+}

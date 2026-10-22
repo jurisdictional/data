@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/36"
+  },
+  "first_name": "Cassandra",
+  "full_name": "Cassandra James",
+  "id": "ocd-person/40efa137-aac3-5501-bb8d-48792419fe4e",
+  "identifiers": [
+    {
+      "identifier": "36",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "James"
+}

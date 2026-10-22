@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Promotes and protects Solano County agriculture; Sealer of Weights & Measures",
+  "id": "county:06095/agricultural-commissioner",
+  "identifiers": [
+    {
+      "identifier": "31",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Agricultural Commissioner"
+}

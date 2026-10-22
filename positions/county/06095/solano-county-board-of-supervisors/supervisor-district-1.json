@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/5/positions"
+  },
+  "body": "county:06095/solano-county-board-of-supervisors",
+  "holder": {
+    "person": "ocd-person/40efa137-aac3-5501-bb8d-48792419fe4e",
+    "start_date": "2026-04-04T02:16:03Z"
+  },
+  "id": "county:06095/solano-county-board-of-supervisors/supervisor-district-1",
+  "identifiers": [
+    {
+      "identifier": "29",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Supervisor, District 1"
+}

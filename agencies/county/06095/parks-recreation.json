@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "agency_type": "parks_recreation",
+  "description": "County parks including Lake Solano, Sandy Beach, Lynch Canyon, and Patwino Worrtla Kodoi Dihi",
+  "id": "county:06095/parks-recreation",
+  "identifiers": [
+    {
+      "identifier": "47",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Parks & Recreation"
+}

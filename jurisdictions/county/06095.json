@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/2532"
+  },
+  "code": "SOL",
+  "id": "county:06095",
+  "identifiers": [
+    {
+      "identifier": "06095",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "2532",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/county:solano",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "county",
+  "name": "Solano",
+  "population": 455376,
+  "population_year": 2025,
+  "state_abbr": "CA"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/38"
+  },
+  "first_name": "Wanda",
+  "full_name": "Wanda Williams",
+  "id": "ocd-person/500626a1-9d86-5eec-837b-ef18cc9a7f96",
+  "identifiers": [
+    {
+      "identifier": "38",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Williams"
+}

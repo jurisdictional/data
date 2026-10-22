@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=2532"
+  },
+  "description": "Emergency planning, preparedness, and response coordination",
+  "id": "county:06095/office-of-emergency-services",
+  "identifiers": [
+    {
+      "identifier": "42",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:06095",
+  "name": "Office of Emergency Services"
+}

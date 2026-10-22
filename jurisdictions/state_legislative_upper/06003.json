@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/81536"
+  },
+  "code": "SD3",
+  "id": "state_legislative_upper:06003",
+  "identifiers": [
+    {
+      "identifier": "06003",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "81536",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/sldu:3",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state_legislative_upper",
+  "name": "State Senate District 3",
+  "state_abbr": "CA"
+}

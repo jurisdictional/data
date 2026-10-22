@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/juricode?address=300+Hemlock+St%2C+Vacaville%2C+CA+95688"
+  },
+  "address": "300 Hemlock St, Vacaville, CA 95688",
+  "layers": [
+    "federal:US",
+    "state:06",
+    "congressional_district:0604",
+    "state_legislative_upper:06003",
+    "state_legislative_lower:06011",
+    "county:06095",
+    "county_district:06095D04",
+    "place:0681554",
+    "school_district_unified:0640590"
+  ]
+}

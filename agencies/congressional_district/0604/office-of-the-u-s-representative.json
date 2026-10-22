@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3558"
+  },
+  "agency_type": "legislative",
+  "id": "congressional_district:0604/office-of-the-u-s-representative",
+  "identifiers": [
+    {
+      "identifier": "10874",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "congressional_district:0604",
+  "name": "Office of the U.S. Representative"
+}

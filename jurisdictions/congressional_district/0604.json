@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3558"
+  },
+  "code": "CD4",
+  "id": "congressional_district:0604",
+  "identifiers": [
+    {
+      "identifier": "0604",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "3558",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/cd:4",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "congressional_district",
+  "name": "Congressional District 4",
+  "state_abbr": "CA"
+}

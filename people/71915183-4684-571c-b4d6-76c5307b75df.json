@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6191"
+  },
+  "first_name": "Paul",
+  "full_name": "Paul Gosar",
+  "id": "ocd-person/71915183-4684-571c-b4d6-76c5307b75df",
+  "identifiers": [
+    {
+      "identifier": "6191",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gosar",
+  "political_affiliation": "Republican"
+}

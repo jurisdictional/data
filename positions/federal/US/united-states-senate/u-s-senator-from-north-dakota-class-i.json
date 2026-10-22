@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/3838ebf2-fb7c-5d83-bd50-7e19f82bfc2a",
+    "start_date": "2026-05-31T00:01:50Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-north-dakota-class-i",
+  "identifiers": [
+    {
+      "identifier": "6790",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from North Dakota (Class I)"
+}

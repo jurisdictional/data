@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6402"
+  },
+  "first_name": "Trent",
+  "full_name": "Trent Kelly",
+  "id": "ocd-person/965f0b8c-e882-5224-9e14-b7114f4383b6",
+  "identifiers": [
+    {
+      "identifier": "6402",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kelly",
+  "political_affiliation": "Republican"
+}

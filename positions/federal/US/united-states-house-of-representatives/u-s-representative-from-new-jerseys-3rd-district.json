@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/689888fa-7383-514c-b674-7e12d5d7e8ce",
+    "start_date": "2026-05-31T06:04:10Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7080",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Jersey's 3rd District"
+}

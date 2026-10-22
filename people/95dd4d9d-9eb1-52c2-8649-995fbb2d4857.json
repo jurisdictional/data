@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6327"
+  },
+  "first_name": "Marc",
+  "full_name": "Marc Veasey",
+  "id": "ocd-person/95dd4d9d-9eb1-52c2-8649-995fbb2d4857",
+  "identifiers": [
+    {
+      "identifier": "6327",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Veasey",
+  "political_affiliation": "Democratic"
+}

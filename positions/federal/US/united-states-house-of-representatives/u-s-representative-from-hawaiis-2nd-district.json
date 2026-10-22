@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/29820118-1337-5c00-a282-aee02ca22713",
+    "start_date": "2026-05-31T05:32:27Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-hawaiis-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "6929",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Hawaii's 2nd District"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/18a6258f-7ecf-585b-8ee7-0acfa1d185dd",
+    "start_date": "2026-05-31T14:49:30Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7245",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Virginia's 7th District"
+}

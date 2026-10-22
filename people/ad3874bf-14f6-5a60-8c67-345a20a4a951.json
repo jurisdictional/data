@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6458"
+  },
+  "first_name": "Paul",
+  "full_name": "Paul Tonko",
+  "id": "ocd-person/ad3874bf-14f6-5a60-8c67-345a20a4a951",
+  "identifiers": [
+    {
+      "identifier": "6458",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tonko",
+  "political_affiliation": "Democratic"
+}

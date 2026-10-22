@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6468"
+  },
+  "first_name": "Valerie",
+  "full_name": "Valerie Foushee",
+  "id": "ocd-person/5a0940f7-d8ab-53e1-a8a7-f6bbb8a16ef3",
+  "identifiers": [
+    {
+      "identifier": "6468",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Foushee",
+  "political_affiliation": "Democratic"
+}

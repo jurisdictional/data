@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6583"
+  },
+  "first_name": "Derrick",
+  "full_name": "Derrick Van Orden",
+  "id": "ocd-person/c6165d6c-7655-54b0-9a68-91fba6eab3b9",
+  "identifiers": [
+    {
+      "identifier": "6583",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Van Orden"
+}

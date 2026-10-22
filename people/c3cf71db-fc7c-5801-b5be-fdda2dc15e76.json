@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6323"
+  },
+  "first_name": "Sylvia",
+  "full_name": "Sylvia Garcia",
+  "id": "ocd-person/c3cf71db-fc7c-5801-b5be-fdda2dc15e76",
+  "identifiers": [
+    {
+      "identifier": "6323",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garcia",
+  "political_affiliation": "Democratic"
+}

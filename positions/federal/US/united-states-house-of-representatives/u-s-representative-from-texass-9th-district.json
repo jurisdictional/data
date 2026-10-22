@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/65d4bb46-5495-5d45-b698-2e5e71db5918",
+    "start_date": "2026-05-31T14:47:00Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-9th-district",
+  "identifiers": [
+    {
+      "identifier": "7204",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 9th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6115"
+  },
+  "first_name": "Elizabeth",
+  "full_name": "Elizabeth Warren",
+  "id": "ocd-person/29400bb9-dc32-544d-9ff5-ea33e19b5173",
+  "identifiers": [
+    {
+      "identifier": "6115",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Warren",
+  "political_affiliation": "Democratic"
+}

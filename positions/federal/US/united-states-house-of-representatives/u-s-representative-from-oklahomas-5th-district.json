@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/45aa5e82-15c9-5205-aa90-ec66da1d9b35",
+    "start_date": "2026-05-31T14:41:53Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oklahomas-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7153",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oklahoma's 5th District"
+}

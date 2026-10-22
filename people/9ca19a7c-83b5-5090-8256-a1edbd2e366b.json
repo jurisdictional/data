@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6471"
+  },
+  "first_name": "David",
+  "full_name": "David Rouzer",
+  "id": "ocd-person/9ca19a7c-83b5-5090-8256-a1edbd2e366b",
+  "identifiers": [
+    {
+      "identifier": "6471",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rouzer",
+  "political_affiliation": "Republican"
+}

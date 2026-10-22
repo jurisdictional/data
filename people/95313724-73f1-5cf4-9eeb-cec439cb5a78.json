@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6153"
+  },
+  "first_name": "Lindsey",
+  "full_name": "Lindsey Graham",
+  "id": "ocd-person/95313724-73f1-5cf4-9eeb-cec439cb5a78",
+  "identifiers": [
+    {
+      "identifier": "6153",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Graham",
+  "political_affiliation": "Republican"
+}

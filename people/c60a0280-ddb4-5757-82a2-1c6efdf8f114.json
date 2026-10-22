@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6151"
+  },
+  "first_name": "Sheldon",
+  "full_name": "Sheldon Whitehouse",
+  "id": "ocd-person/c60a0280-ddb4-5757-82a2-1c6efdf8f114",
+  "identifiers": [
+    {
+      "identifier": "6151",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Whitehouse",
+  "political_affiliation": "Democratic"
+}

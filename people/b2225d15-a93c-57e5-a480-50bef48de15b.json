@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6450"
+  },
+  "first_name": "Jerry",
+  "full_name": "Jerry Nadler",
+  "id": "ocd-person/b2225d15-a93c-57e5-a480-50bef48de15b",
+  "identifiers": [
+    {
+      "identifier": "6450",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Nadler",
+  "political_affiliation": "Democratic"
+}

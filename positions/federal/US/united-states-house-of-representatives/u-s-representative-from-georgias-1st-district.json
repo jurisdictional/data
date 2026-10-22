@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2f5c68c7-6f54-5473-bcd1-f2e68e98a2f3",
+    "start_date": "2026-05-31T05:31:35Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6914",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Georgia's 1st District"
+}

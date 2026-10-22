@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6592"
+  },
+  "first_name": "Debbie",
+  "full_name": "Debbie Wasserman Schultz",
+  "id": "ocd-person/8a770776-49fe-5216-a446-1d163a916c50",
+  "identifiers": [
+    {
+      "identifier": "6592",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wasserman Schultz",
+  "political_affiliation": "Democratic"
+}

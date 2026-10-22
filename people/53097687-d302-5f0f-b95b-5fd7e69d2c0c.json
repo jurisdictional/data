@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6149"
+  },
+  "first_name": "John",
+  "full_name": "John Fetterman",
+  "id": "ocd-person/53097687-d302-5f0f-b95b-5fd7e69d2c0c",
+  "identifiers": [
+    {
+      "identifier": "6149",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fetterman",
+  "political_affiliation": "Democratic"
+}

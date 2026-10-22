@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6415"
+  },
+  "first_name": "Troy",
+  "full_name": "Troy Downing",
+  "id": "ocd-person/881a9cfd-05cb-5357-8f76-d299be014dc0",
+  "identifiers": [
+    {
+      "identifier": "6415",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Downing",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6493"
+  },
+  "first_name": "Dave",
+  "full_name": "Dave Joyce",
+  "id": "ocd-person/7c451fbf-efa3-581a-87b9-156c8cd33c43",
+  "identifiers": [
+    {
+      "identifier": "6493",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Joyce",
+  "political_affiliation": "Republican"
+}

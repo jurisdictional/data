@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6494"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Carey",
+  "id": "ocd-person/c618dafc-20d2-5b6c-9ed3-9324c09a4d39",
+  "identifiers": [
+    {
+      "identifier": "6494",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carey",
+  "political_affiliation": "Republican"
+}

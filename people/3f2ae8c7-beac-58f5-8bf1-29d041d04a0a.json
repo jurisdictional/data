@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6389"
+  },
+  "first_name": "Lisa",
+  "full_name": "Lisa McClain",
+  "id": "ocd-person/3f2ae8c7-beac-58f5-8bf1-29d041d04a0a",
+  "identifiers": [
+    {
+      "identifier": "6389",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McClain",
+  "political_affiliation": "Republican"
+}

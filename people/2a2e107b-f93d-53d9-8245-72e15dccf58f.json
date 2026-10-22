@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6108"
+  },
+  "first_name": "Rand",
+  "full_name": "Rand Paul",
+  "id": "ocd-person/2a2e107b-f93d-53d9-8245-72e15dccf58f",
+  "identifiers": [
+    {
+      "identifier": "6108",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Paul",
+  "political_affiliation": "Republican"
+}

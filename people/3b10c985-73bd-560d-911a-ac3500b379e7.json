@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6366"
+  },
+  "first_name": "Sarah",
+  "full_name": "Sarah Elfreth",
+  "id": "ocd-person/3b10c985-73bd-560d-911a-ac3500b379e7",
+  "identifiers": [
+    {
+      "identifier": "6366",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Elfreth",
+  "political_affiliation": "Democratic"
+}

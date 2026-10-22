@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6185"
+  },
+  "first_name": "Yassamin",
+  "full_name": "Yassamin Ansari",
+  "id": "ocd-person/a2146860-db53-5668-a41c-14a49bc1157b",
+  "identifiers": [
+    {
+      "identifier": "6185",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ansari",
+  "political_affiliation": "Democratic"
+}

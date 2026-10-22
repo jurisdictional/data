@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6341"
+  },
+  "first_name": "Erin",
+  "full_name": "Erin Houchin",
+  "id": "ocd-person/eaac8dfd-6e7e-5f00-9469-1b9858372d13",
+  "identifiers": [
+    {
+      "identifier": "6341",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Houchin",
+  "political_affiliation": "Republican"
+}

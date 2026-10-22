@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6492"
+  },
+  "first_name": "Emilia",
+  "full_name": "Emilia Sykes",
+  "id": "ocd-person/e48e7052-6b7a-5ee2-b17c-3ca9255c3567",
+  "identifiers": [
+    {
+      "identifier": "6492",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sykes",
+  "political_affiliation": "Democratic"
+}

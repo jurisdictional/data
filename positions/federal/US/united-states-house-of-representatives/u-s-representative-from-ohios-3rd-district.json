@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1530587f-e49e-50c2-bd27-c6b0a2e31647",
+    "start_date": "2026-05-31T14:40:39Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7136",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 3rd District"
+}

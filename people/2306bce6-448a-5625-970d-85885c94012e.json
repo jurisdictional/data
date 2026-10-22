@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6227"
+  },
+  "first_name": "Jimmy",
+  "full_name": "Jimmy Gomez",
+  "id": "ocd-person/2306bce6-448a-5625-970d-85885c94012e",
+  "identifiers": [
+    {
+      "identifier": "6227",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gomez",
+  "political_affiliation": "Democratic"
+}

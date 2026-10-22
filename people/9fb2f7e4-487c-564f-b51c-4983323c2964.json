@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6412"
+  },
+  "first_name": "Eric",
+  "full_name": "Eric Burlison",
+  "id": "ocd-person/9fb2f7e4-487c-564f-b51c-4983323c2964",
+  "identifiers": [
+    {
+      "identifier": "6412",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Burlison",
+  "political_affiliation": "Republican"
+}

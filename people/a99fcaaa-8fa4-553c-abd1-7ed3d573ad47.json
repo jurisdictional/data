@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6479"
+  },
+  "first_name": "Julie",
+  "full_name": "Julie Fedorchak",
+  "id": "ocd-person/a99fcaaa-8fa4-553c-abd1-7ed3d573ad47",
+  "identifiers": [
+    {
+      "identifier": "6479",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fedorchak",
+  "political_affiliation": "Republican"
+}

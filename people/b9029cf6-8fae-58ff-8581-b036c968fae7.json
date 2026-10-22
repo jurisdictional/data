@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6328"
+  },
+  "first_name": "Vicente",
+  "full_name": "Vicente Gonzalez",
+  "id": "ocd-person/b9029cf6-8fae-58ff-8581-b036c968fae7",
+  "identifiers": [
+    {
+      "identifier": "6328",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez",
+  "political_affiliation": "Democratic"
+}

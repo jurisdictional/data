@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6307"
+  },
+  "first_name": "August",
+  "full_name": "August Pfluger",
+  "id": "ocd-person/1cdccdaa-b9ba-5663-8b5d-ddc3f830d19f",
+  "identifiers": [
+    {
+      "identifier": "6307",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pfluger",
+  "political_affiliation": "Republican"
+}

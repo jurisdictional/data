@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6172"
+  },
+  "first_name": "Ron",
+  "full_name": "Ron Johnson",
+  "id": "ocd-person/98b9c5cc-c2c1-5573-9504-e3f0d9369ca1",
+  "identifiers": [
+    {
+      "identifier": "6172",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson",
+  "political_affiliation": "Republican"
+}

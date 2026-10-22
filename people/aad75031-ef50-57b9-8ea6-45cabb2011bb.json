@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5460"
+  },
+  "first_name": "Ashley",
+  "full_name": "Ashley Moody",
+  "id": "ocd-person/aad75031-ef50-57b9-8ea6-45cabb2011bb",
+  "identifiers": [
+    {
+      "identifier": "5460",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moody",
+  "political_affiliation": "Republican"
+}

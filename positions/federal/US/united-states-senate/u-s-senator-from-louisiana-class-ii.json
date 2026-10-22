@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/c72c680b-cfbc-55af-b9b8-36a92296e7c8",
+    "start_date": "2026-05-30T23:59:14Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-louisiana-class-ii",
+  "identifiers": [
+    {
+      "identifier": "6758",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Louisiana (Class II)"
+}

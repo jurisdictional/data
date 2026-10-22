@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6477"
+  },
+  "first_name": "Brad",
+  "full_name": "Brad Knott",
+  "id": "ocd-person/fbf4fffa-a903-5978-8cd9-ff97341e3f30",
+  "identifiers": [
+    {
+      "identifier": "6477",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Knott",
+  "political_affiliation": "Republican"
+}

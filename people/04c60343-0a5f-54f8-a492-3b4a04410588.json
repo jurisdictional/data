@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6395"
+  },
+  "first_name": "Angie",
+  "full_name": "Angie Craig",
+  "id": "ocd-person/04c60343-0a5f-54f8-a492-3b4a04410588",
+  "identifiers": [
+    {
+      "identifier": "6395",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Craig",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6235"
+  },
+  "first_name": "Maxine",
+  "full_name": "Maxine Waters",
+  "id": "ocd-person/b2ec3aad-f156-5414-9a24-73fc12354dc3",
+  "identifiers": [
+    {
+      "identifier": "6235",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Waters",
+  "political_affiliation": "Democratic"
+}

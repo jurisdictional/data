@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6542"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Kennedy",
+  "id": "ocd-person/d6f04ffd-55ae-58fc-aaa9-bb658bfc1af7",
+  "identifiers": [
+    {
+      "identifier": "6542",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kennedy"
+}

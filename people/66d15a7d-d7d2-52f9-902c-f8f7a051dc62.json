@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6565"
+  },
+  "first_name": "Dan",
+  "full_name": "Dan Newhouse",
+  "id": "ocd-person/66d15a7d-d7d2-52f9-902c-f8f7a051dc62",
+  "identifiers": [
+    {
+      "identifier": "6565",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Newhouse"
+}

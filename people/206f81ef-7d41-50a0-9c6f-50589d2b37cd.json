@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/1382"
+  },
+  "first_name": "Rick",
+  "full_name": "Rick Scott",
+  "id": "ocd-person/206f81ef-7d41-50a0-9c6f-50589d2b37cd",
+  "identifiers": [
+    {
+      "identifier": "1382",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scott",
+  "political_affiliation": "Republican"
+}

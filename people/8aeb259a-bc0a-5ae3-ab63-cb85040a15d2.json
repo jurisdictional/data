@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6428"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Gottheimer",
+  "id": "ocd-person/8aeb259a-bc0a-5ae3-ab63-cb85040a15d2",
+  "identifiers": [
+    {
+      "identifier": "6428",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gottheimer",
+  "political_affiliation": "Democratic"
+}

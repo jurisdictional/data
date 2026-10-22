@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6168"
+  },
+  "first_name": "Patty",
+  "full_name": "Patty Murray",
+  "id": "ocd-person/6e3d731a-a329-531a-8496-33d11b785c5f",
+  "identifiers": [
+    {
+      "identifier": "6168",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Murray",
+  "political_affiliation": "Democratic"
+}

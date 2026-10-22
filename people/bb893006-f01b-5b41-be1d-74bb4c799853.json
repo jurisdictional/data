@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6546"
+  },
+  "first_name": "Jen",
+  "full_name": "Jen Kiggans",
+  "id": "ocd-person/bb893006-f01b-5b41-be1d-74bb4c799853",
+  "identifiers": [
+    {
+      "identifier": "6546",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kiggans"
+}

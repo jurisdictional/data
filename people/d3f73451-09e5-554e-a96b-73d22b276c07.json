@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6239"
+  },
+  "first_name": "Dave",
+  "full_name": "Dave Min",
+  "id": "ocd-person/d3f73451-09e5-554e-a96b-73d22b276c07",
+  "identifiers": [
+    {
+      "identifier": "6239",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Min",
+  "political_affiliation": "Democratic"
+}

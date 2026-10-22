@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6538"
+  },
+  "first_name": "David",
+  "full_name": "David Kustoff",
+  "id": "ocd-person/689ba39c-77b5-5923-afe1-7f808789ce4f",
+  "identifiers": [
+    {
+      "identifier": "6538",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kustoff",
+  "political_affiliation": "Republican"
+}

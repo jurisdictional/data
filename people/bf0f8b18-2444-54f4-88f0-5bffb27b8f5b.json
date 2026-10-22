@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/1615"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Baumgartner",
+  "id": "ocd-person/bf0f8b18-2444-54f4-88f0-5bffb27b8f5b",
+  "identifiers": [
+    {
+      "identifier": "1615",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Baumgartner"
+}

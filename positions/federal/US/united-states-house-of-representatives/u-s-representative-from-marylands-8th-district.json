@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ccbfc732-200e-5f7e-a4c2-78c5d2c6e5cb",
+    "start_date": "2026-05-31T05:58:53Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-8th-district",
+  "identifiers": [
+    {
+      "identifier": "7024",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Maryland's 8th District"
+}

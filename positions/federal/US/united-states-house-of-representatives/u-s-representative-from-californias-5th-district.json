@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5c6e2738-f583-5cc1-aeab-8a7fb7f7d8da",
+    "start_date": "2026-05-31T05:27:05Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6849",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 5th District"
+}

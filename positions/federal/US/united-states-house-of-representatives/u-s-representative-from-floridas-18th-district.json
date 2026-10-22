@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/0a9136a6-eae5-5306-8731-8bba44179538",
+    "start_date": "2026-06-01T00:23:36Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-18th-district",
+  "identifiers": [
+    {
+      "identifier": "7459",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 18th District"
+}

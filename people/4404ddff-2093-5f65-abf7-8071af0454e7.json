@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6190"
+  },
+  "first_name": "Abraham",
+  "full_name": "Abraham Hamadeh",
+  "id": "ocd-person/4404ddff-2093-5f65-abf7-8071af0454e7",
+  "identifiers": [
+    {
+      "identifier": "6190",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hamadeh",
+  "political_affiliation": "Republican"
+}

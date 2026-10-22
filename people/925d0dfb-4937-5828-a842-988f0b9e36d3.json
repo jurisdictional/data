@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6431"
+  },
+  "first_name": "Rob",
+  "full_name": "Rob Menendez",
+  "id": "ocd-person/925d0dfb-4937-5828-a842-988f0b9e36d3",
+  "identifiers": [
+    {
+      "identifier": "6431",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Menendez",
+  "political_affiliation": "Democratic"
+}

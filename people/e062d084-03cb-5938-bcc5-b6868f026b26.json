@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6503"
+  },
+  "first_name": "Val",
+  "full_name": "Val Hoyle",
+  "id": "ocd-person/e062d084-03cb-5938-bcc5-b6868f026b26",
+  "identifiers": [
+    {
+      "identifier": "6503",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hoyle",
+  "political_affiliation": "Democratic"
+}

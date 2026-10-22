@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f6d6b3ab-a010-5ca2-9315-dac0eb21b78e",
+    "start_date": "2026-05-31T14:42:56Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7160",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Pennsylvania's 1st District"
+}

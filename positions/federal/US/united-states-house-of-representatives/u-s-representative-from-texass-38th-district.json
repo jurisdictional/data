@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d9e6b736-6d2d-50b6-a04f-020ae5aaa97d",
+    "start_date": "2026-05-31T14:47:54Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-38th-district",
+  "identifiers": [
+    {
+      "identifier": "7233",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 38th District"
+}

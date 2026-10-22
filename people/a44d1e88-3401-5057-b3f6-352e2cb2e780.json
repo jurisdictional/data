@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6348"
+  },
+  "first_name": "Sharice",
+  "full_name": "Sharice Davids",
+  "id": "ocd-person/a44d1e88-3401-5057-b3f6-352e2cb2e780",
+  "identifiers": [
+    {
+      "identifier": "6348",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davids",
+  "political_affiliation": "Democratic"
+}

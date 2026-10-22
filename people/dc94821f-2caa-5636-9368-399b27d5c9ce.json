@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6441"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Suozzi",
+  "id": "ocd-person/dc94821f-2caa-5636-9368-399b27d5c9ce",
+  "identifiers": [
+    {
+      "identifier": "6441",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Suozzi",
+  "political_affiliation": "Democratic"
+}

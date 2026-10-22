@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6501"
+  },
+  "first_name": "Cliff",
+  "full_name": "Cliff Bentz",
+  "id": "ocd-person/e87b406b-1961-54e6-922a-d79910ab18a9",
+  "identifiers": [
+    {
+      "identifier": "6501",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bentz",
+  "political_affiliation": "Republican"
+}

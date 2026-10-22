@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/faf0dffa-d36c-5410-b2c8-6f95bb0f3c86",
+    "start_date": "2026-05-31T14:44:50Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-dakota-at-large",
+  "identifiers": [
+    {
+      "identifier": "7186",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from South Dakota At Large"
+}

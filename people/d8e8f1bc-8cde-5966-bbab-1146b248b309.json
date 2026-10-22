@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6226"
+  },
+  "first_name": "Grace",
+  "full_name": "Grace Napolitano",
+  "id": "ocd-person/d8e8f1bc-8cde-5966-bbab-1146b248b309",
+  "identifiers": [
+    {
+      "identifier": "6226",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Napolitano",
+  "political_affiliation": "Democratic"
+}

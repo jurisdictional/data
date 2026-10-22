@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6084"
+  },
+  "first_name": "John",
+  "full_name": "John Boozman",
+  "id": "ocd-person/caf44a77-652c-5751-a943-38d261caef56",
+  "identifiers": [
+    {
+      "identifier": "6084",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Boozman",
+  "political_affiliation": "Republican"
+}

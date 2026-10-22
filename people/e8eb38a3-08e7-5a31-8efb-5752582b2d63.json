@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6372"
+  },
+  "first_name": "Richard",
+  "full_name": "Richard Neal",
+  "id": "ocd-person/e8eb38a3-08e7-5a31-8efb-5752582b2d63",
+  "identifiers": [
+    {
+      "identifier": "6372",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Neal",
+  "political_affiliation": "Democratic"
+}

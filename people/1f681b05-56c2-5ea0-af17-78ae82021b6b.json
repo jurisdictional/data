@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6080"
+  },
+  "first_name": "Lisa",
+  "full_name": "Lisa Murkowski",
+  "id": "ocd-person/1f681b05-56c2-5ea0-af17-78ae82021b6b",
+  "identifiers": [
+    {
+      "identifier": "6080",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Murkowski",
+  "political_affiliation": "Republican"
+}

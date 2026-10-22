@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c1641b38-9a66-5edf-acc9-ac915b633674",
+    "start_date": "2026-05-31T14:39:23Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7123",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from North Carolina's 5th District"
+}

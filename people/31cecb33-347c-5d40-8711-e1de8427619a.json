@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6142"
+  },
+  "first_name": "John",
+  "full_name": "John Hoeven",
+  "id": "ocd-person/31cecb33-347c-5d40-8711-e1de8427619a",
+  "identifiers": [
+    {
+      "identifier": "6142",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hoeven",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6240"
+  },
+  "first_name": "Darrell",
+  "full_name": "Darrell Issa",
+  "id": "ocd-person/1b6e5e61-1712-526a-b17e-00d1f9a79ec4",
+  "identifiers": [
+    {
+      "identifier": "6240",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Issa",
+  "political_affiliation": "Republican"
+}

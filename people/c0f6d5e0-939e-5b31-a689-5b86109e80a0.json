@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6164"
+  },
+  "first_name": "Bernie",
+  "full_name": "Bernie Sanders",
+  "id": "ocd-person/c0f6d5e0-939e-5b31-a689-5b86109e80a0",
+  "identifiers": [
+    {
+      "identifier": "6164",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sanders",
+  "political_affiliation": "Independent"
+}

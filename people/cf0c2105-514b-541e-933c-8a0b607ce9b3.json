@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6562"
+  },
+  "first_name": "Suzan",
+  "full_name": "Suzan DelBene",
+  "id": "ocd-person/cf0c2105-514b-541e-933c-8a0b607ce9b3",
+  "identifiers": [
+    {
+      "identifier": "6562",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DelBene"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6500"
+  },
+  "first_name": "Suzanne",
+  "full_name": "Suzanne Bonamici",
+  "id": "ocd-person/6f999ffb-ec23-5ce0-bfdd-c0361f22510f",
+  "identifiers": [
+    {
+      "identifier": "6500",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bonamici",
+  "political_affiliation": "Democratic"
+}

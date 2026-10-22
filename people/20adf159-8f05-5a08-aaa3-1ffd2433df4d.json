@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6553"
+  },
+  "first_name": "Morgan",
+  "full_name": "Morgan Griffith",
+  "id": "ocd-person/20adf159-8f05-5a08-aaa3-1ffd2433df4d",
+  "identifiers": [
+    {
+      "identifier": "6553",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Griffith"
+}

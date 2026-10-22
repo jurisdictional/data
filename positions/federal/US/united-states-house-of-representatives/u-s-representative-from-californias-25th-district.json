@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c72f862f-3bad-5936-bf3f-1c2362fbc645",
+    "start_date": "2026-05-31T05:27:39Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-25th-district",
+  "identifiers": [
+    {
+      "identifier": "6869",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 25th District"
+}

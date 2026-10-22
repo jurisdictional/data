@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6510"
+  },
+  "first_name": "Mary",
+  "full_name": "Mary Gay Scanlon",
+  "id": "ocd-person/bfe29204-9361-52a5-b7d7-71a9b04ca9cf",
+  "identifiers": [
+    {
+      "identifier": "6510",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gay Scanlon",
+  "political_affiliation": "Democratic"
+}

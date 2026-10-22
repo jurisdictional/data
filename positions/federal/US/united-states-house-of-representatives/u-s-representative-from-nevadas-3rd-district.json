@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/556495c3-cb2d-53f4-a7d8-42e015f64f19",
+    "start_date": "2026-05-31T06:03:57Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-nevadas-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7074",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Nevada's 3rd District"
+}

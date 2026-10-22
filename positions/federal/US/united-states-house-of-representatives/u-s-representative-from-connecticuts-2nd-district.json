@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fb992bd1-7804-584f-a1c9-eeebbe84ad11",
+    "start_date": "2026-05-31T05:30:37Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "6906",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Connecticut's 2nd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6152"
+  },
+  "first_name": "Jack",
+  "full_name": "Jack Reed",
+  "id": "ocd-person/65089680-028f-5e24-9c37-faa3a7199f3a",
+  "identifiers": [
+    {
+      "identifier": "6152",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Reed",
+  "political_affiliation": "Democratic"
+}

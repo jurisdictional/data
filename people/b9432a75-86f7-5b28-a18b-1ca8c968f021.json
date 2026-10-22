@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6540"
+  },
+  "first_name": "Blake",
+  "full_name": "Blake Moore",
+  "id": "ocd-person/b9432a75-86f7-5b28-a18b-1ca8c968f021",
+  "identifiers": [
+    {
+      "identifier": "6540",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore"
+}

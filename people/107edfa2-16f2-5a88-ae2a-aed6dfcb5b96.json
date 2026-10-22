@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6083"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Kelly",
+  "id": "ocd-person/107edfa2-16f2-5a88-ae2a-aed6dfcb5b96",
+  "identifiers": [
+    {
+      "identifier": "6083",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kelly",
+  "political_affiliation": "Democratic"
+}

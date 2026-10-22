@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6535"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Ogles",
+  "id": "ocd-person/76825f1d-a00b-58bb-99e4-316a9c71e368",
+  "identifiers": [
+    {
+      "identifier": "6535",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ogles",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/a170d0e1-2097-56de-891a-264bab0dfeef",
+    "start_date": "2026-05-31T05:31:38Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6918",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Georgia's 5th District"
+}

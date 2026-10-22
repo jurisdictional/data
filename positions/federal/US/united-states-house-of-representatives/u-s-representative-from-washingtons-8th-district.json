@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fd98a157-7af7-51f7-9d29-a4d484e54235",
+    "start_date": "2026-05-31T14:49:47Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-8th-district",
+  "identifiers": [
+    {
+      "identifier": "7257",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Washington's 8th District"
+}

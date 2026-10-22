@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c5f82762-da4f-5d13-a0c0-bea93f214b87",
+    "start_date": "2026-05-31T14:43:01Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7165",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Pennsylvania's 6th District"
+}

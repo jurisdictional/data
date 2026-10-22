@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6214"
+  },
+  "first_name": "Jimmy",
+  "full_name": "Jimmy Panetta",
+  "id": "ocd-person/dcea56f6-635b-550a-a8c6-05ce0d80b4f9",
+  "identifiers": [
+    {
+      "identifier": "6214",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Panetta",
+  "political_affiliation": "Democratic"
+}

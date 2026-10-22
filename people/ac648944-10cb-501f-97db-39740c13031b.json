@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6126"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Daines",
+  "id": "ocd-person/ac648944-10cb-501f-97db-39740c13031b",
+  "identifiers": [
+    {
+      "identifier": "6126",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Daines",
+  "political_affiliation": "Republican"
+}

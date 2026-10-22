@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6566"
+  },
+  "first_name": "Emily",
+  "full_name": "Emily Randall",
+  "id": "ocd-person/33c8670f-c9c8-5619-a781-04981f524263",
+  "identifiers": [
+    {
+      "identifier": "6566",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Randall"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/9bcf39c9-f84e-561e-a35e-8843f268520e",
+    "start_date": "2026-05-31T05:57:34Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-louisianas-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7014",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Louisiana's 6th District"
+}

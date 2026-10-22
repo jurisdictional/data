@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6561"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Haridopolos",
+  "id": "ocd-person/f94f2a71-c0c0-56f4-bc8b-d94236307e0a",
+  "identifiers": [
+    {
+      "identifier": "6561",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Haridopolos",
+  "political_affiliation": "Republican"
+}

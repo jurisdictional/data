@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6166"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Warner",
+  "id": "ocd-person/03680c86-7e98-5c9d-873c-895b7f31e25a",
+  "identifiers": [
+    {
+      "identifier": "6166",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Warner",
+  "political_affiliation": "Democratic"
+}

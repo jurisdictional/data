@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6136"
+  },
+  "first_name": "Ben",
+  "full_name": "Ben Ray Luján",
+  "id": "ocd-person/d20774c3-9bcc-580d-950a-348281351561",
+  "identifiers": [
+    {
+      "identifier": "6136",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ray Luján",
+  "political_affiliation": "Democratic"
+}

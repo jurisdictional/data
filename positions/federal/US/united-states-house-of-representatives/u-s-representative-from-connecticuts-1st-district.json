@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/b30aad86-0f44-5cf9-9091-c97d5072eddc",
+    "start_date": "2026-05-31T05:30:36Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6905",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Connecticut's 1st District"
+}

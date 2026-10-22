@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6326"
+  },
+  "first_name": "Julie",
+  "full_name": "Julie Johnson",
+  "id": "ocd-person/7e5b9fb4-a58c-5ff1-943b-91a0177f8c1b",
+  "identifiers": [
+    {
+      "identifier": "6326",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson",
+  "political_affiliation": "Democratic"
+}

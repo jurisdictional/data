@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6314"
+  },
+  "first_name": "Christian",
+  "full_name": "Christian Menefee",
+  "id": "ocd-person/8bbda54b-bb1f-59a1-b5c4-92715962af29",
+  "identifiers": [
+    {
+      "identifier": "6314",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Menefee",
+  "political_affiliation": "Democratic"
+}

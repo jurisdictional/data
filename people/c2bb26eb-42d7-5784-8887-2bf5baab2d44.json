@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6150"
+  },
+  "first_name": "Dave",
+  "full_name": "Dave McCormick",
+  "id": "ocd-person/c2bb26eb-42d7-5784-8887-2bf5baab2d44",
+  "identifiers": [
+    {
+      "identifier": "6150",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McCormick",
+  "political_affiliation": "Republican"
+}

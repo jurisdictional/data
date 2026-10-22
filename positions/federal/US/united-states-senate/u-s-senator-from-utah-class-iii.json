@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/98a910ee-496f-5386-9132-99e6adb82a06",
+    "start_date": "2026-05-31T00:03:09Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-utah-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6811",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Utah (Class III)"
+}

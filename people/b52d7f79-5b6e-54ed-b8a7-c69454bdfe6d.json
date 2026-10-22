@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6318"
+  },
+  "first_name": "Beth",
+  "full_name": "Beth Van Duyne",
+  "id": "ocd-person/b52d7f79-5b6e-54ed-b8a7-c69454bdfe6d",
+  "identifiers": [
+    {
+      "identifier": "6318",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Van Duyne",
+  "political_affiliation": "Republican"
+}

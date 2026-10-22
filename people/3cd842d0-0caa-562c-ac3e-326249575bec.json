@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6385"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Walberg",
+  "id": "ocd-person/3cd842d0-0caa-562c-ac3e-326249575bec",
+  "identifiers": [
+    {
+      "identifier": "6385",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Walberg",
+  "political_affiliation": "Republican"
+}

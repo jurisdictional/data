@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6352"
+  },
+  "first_name": "Morgan",
+  "full_name": "Morgan McGarvey",
+  "id": "ocd-person/52a4e8aa-f205-58ea-8960-d1d0027d6f36",
+  "identifiers": [
+    {
+      "identifier": "6352",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McGarvey",
+  "political_affiliation": "Democratic"
+}

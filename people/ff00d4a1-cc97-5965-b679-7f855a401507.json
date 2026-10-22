@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6404"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Guest",
+  "id": "ocd-person/ff00d4a1-cc97-5965-b679-7f855a401507",
+  "identifiers": [
+    {
+      "identifier": "6404",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guest",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6585"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Steube",
+  "id": "ocd-person/9f143d13-33ef-5135-b131-486c9b6ab704",
+  "identifiers": [
+    {
+      "identifier": "6585",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Steube",
+  "political_affiliation": "Republican"
+}

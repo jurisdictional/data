@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6434"
+  },
+  "first_name": "Analilia",
+  "full_name": "Analilia Mejia",
+  "id": "ocd-person/de076da4-40c0-50ab-a7e4-7611ff79872d",
+  "identifiers": [
+    {
+      "identifier": "6434",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mejia",
+  "political_affiliation": "Democratic"
+}

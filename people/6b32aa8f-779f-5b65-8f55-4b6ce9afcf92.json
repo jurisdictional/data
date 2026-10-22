@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6534"
+  },
+  "first_name": "Scott",
+  "full_name": "Scott DesJarlais",
+  "id": "ocd-person/6b32aa8f-779f-5b65-8f55-4b6ce9afcf92",
+  "identifiers": [
+    {
+      "identifier": "6534",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DesJarlais",
+  "political_affiliation": "Republican"
+}

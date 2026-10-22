@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/654"
+  },
+  "first_name": "John",
+  "full_name": "John Rutherford",
+  "id": "ocd-person/067e246d-855c-58a5-9097-a0aa087b9f2c",
+  "identifiers": [
+    {
+      "identifier": "654",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rutherford",
+  "political_affiliation": "Republican"
+}

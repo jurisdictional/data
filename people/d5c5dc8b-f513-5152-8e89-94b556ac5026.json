@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6353"
+  },
+  "first_name": "Thomas",
+  "full_name": "Thomas Massie",
+  "id": "ocd-person/d5c5dc8b-f513-5152-8e89-94b556ac5026",
+  "identifiers": [
+    {
+      "identifier": "6353",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Massie",
+  "political_affiliation": "Republican"
+}

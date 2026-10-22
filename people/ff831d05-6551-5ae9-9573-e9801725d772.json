@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6487"
+  },
+  "first_name": "Warren",
+  "full_name": "Warren Davidson",
+  "id": "ocd-person/ff831d05-6551-5ae9-9573-e9801725d772",
+  "identifiers": [
+    {
+      "identifier": "6487",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davidson",
+  "political_affiliation": "Republican"
+}

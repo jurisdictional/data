@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6101"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Banks",
+  "id": "ocd-person/b9ccca8c-bea4-5c02-8e2c-7264a527cae1",
+  "identifiers": [
+    {
+      "identifier": "6101",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Banks",
+  "political_affiliation": "Republican"
+}

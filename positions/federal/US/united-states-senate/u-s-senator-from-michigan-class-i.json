@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/7fbccd31-7f68-5b49-935b-d86213978bcb",
+    "start_date": "2026-05-30T23:59:26Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-michigan-class-i",
+  "identifiers": [
+    {
+      "identifier": "6766",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Michigan (Class I)"
+}

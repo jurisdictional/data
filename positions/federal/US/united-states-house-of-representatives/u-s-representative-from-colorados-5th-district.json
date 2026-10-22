@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ed49e864-d65c-5424-8616-bb0bf5ee2eb0",
+    "start_date": "2026-05-31T05:30:01Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-colorados-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6901",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Colorado's 5th District"
+}

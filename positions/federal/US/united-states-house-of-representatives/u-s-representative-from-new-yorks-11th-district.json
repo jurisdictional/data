@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3d4f472a-30d7-51c8-a796-bf6ca58c8d6c",
+    "start_date": "2026-05-31T06:06:29Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-11th-district",
+  "identifiers": [
+    {
+      "identifier": "7103",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 11th District"
+}

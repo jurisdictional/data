@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6581"
+  },
+  "first_name": "Bryan",
+  "full_name": "Bryan Steil",
+  "id": "ocd-person/fc7ee708-e788-5af6-a3ef-18c6149da638",
+  "identifiers": [
+    {
+      "identifier": "6581",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Steil"
+}

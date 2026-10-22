@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6405"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Ezell",
+  "id": "ocd-person/873d9442-d3ce-5da0-bf5d-6ee54ee67c37",
+  "identifiers": [
+    {
+      "identifier": "6405",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ezell",
+  "political_affiliation": "Republican"
+}

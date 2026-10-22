@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d8e8f1bc-8cde-5966-bbab-1146b248b309",
+    "start_date": "2026-05-31T05:27:46Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-32nd-district",
+  "identifiers": [
+    {
+      "identifier": "6876",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 32nd District"
+}

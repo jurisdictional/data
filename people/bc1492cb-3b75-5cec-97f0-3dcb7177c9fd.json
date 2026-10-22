@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6453"
+  },
+  "first_name": "Ritchie",
+  "full_name": "Ritchie Torres",
+  "id": "ocd-person/bc1492cb-3b75-5cec-97f0-3dcb7177c9fd",
+  "identifiers": [
+    {
+      "identifier": "6453",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Torres",
+  "political_affiliation": "Democratic"
+}

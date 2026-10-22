@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6475"
+  },
+  "first_name": "Chuck",
+  "full_name": "Chuck Edwards",
+  "id": "ocd-person/3bc257e1-5dc4-5340-babb-d7e90d68ad90",
+  "identifiers": [
+    {
+      "identifier": "6475",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Edwards",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6528"
+  },
+  "first_name": "Ralph",
+  "full_name": "Ralph Norman",
+  "id": "ocd-person/d58faa16-62d9-5051-95de-1b2315484475",
+  "identifiers": [
+    {
+      "identifier": "6528",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Norman",
+  "political_affiliation": "Republican"
+}

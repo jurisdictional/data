@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/b3ebb52f-b175-5b68-aed6-224e5dec2146",
+    "start_date": "2026-05-31T05:57:17Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kansass-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7000",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Kansas's 2nd District"
+}

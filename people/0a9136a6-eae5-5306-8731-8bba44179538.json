@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6586"
+  },
+  "first_name": "Scott",
+  "full_name": "Scott Franklin",
+  "id": "ocd-person/0a9136a6-eae5-5306-8731-8bba44179538",
+  "identifiers": [
+    {
+      "identifier": "6586",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Franklin",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6276"
+  },
+  "first_name": "Jill",
+  "full_name": "Jill Tokuda",
+  "id": "ocd-person/29820118-1337-5c00-a282-aee02ca22713",
+  "identifiers": [
+    {
+      "identifier": "6276",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tokuda",
+  "political_affiliation": "Democratic"
+}

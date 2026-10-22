@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6247"
+  },
+  "first_name": "Jeff",
+  "full_name": "Jeff Crank",
+  "id": "ocd-person/3d6714ee-351a-54ba-8469-b07593242a98",
+  "identifiers": [
+    {
+      "identifier": "6247",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crank",
+  "political_affiliation": "Republican"
+}

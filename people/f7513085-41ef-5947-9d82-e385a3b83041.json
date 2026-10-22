@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6160"
+  },
+  "first_name": "John",
+  "full_name": "John Cornyn",
+  "id": "ocd-person/f7513085-41ef-5947-9d82-e385a3b83041",
+  "identifiers": [
+    {
+      "identifier": "6160",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cornyn",
+  "political_affiliation": "Republican"
+}

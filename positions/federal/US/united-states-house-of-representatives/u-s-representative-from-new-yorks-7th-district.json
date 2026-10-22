@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f73682a2-82c4-56a5-9c53-2c8ae607482e",
+    "start_date": "2026-05-31T06:06:22Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7099",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 7th District"
+}

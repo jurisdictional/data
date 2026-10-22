@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6254"
+  },
+  "first_name": "Joe",
+  "full_name": "Joe Courtney",
+  "id": "ocd-person/fb992bd1-7804-584f-a1c9-eeebbe84ad11",
+  "identifiers": [
+    {
+      "identifier": "6254",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Courtney",
+  "political_affiliation": "Democratic"
+}

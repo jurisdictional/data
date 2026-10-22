@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6325"
+  },
+  "first_name": "John",
+  "full_name": "John Carter",
+  "id": "ocd-person/546d5912-15ee-598a-b979-43b84d85793a",
+  "identifiers": [
+    {
+      "identifier": "6325",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carter",
+  "political_affiliation": "Republican"
+}

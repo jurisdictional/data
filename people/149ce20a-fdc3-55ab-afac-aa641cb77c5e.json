@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6119"
+  },
+  "first_name": "Amy",
+  "full_name": "Amy Klobuchar",
+  "id": "ocd-person/149ce20a-fdc3-55ab-afac-aa641cb77c5e",
+  "identifiers": [
+    {
+      "identifier": "6119",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Klobuchar",
+  "political_affiliation": "Democratic"
+}

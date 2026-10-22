@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6438"
+  },
+  "first_name": "Teresa",
+  "full_name": "Teresa Leger Fernández",
+  "id": "ocd-person/e6ed90f7-7905-56f9-b85b-d395f165b4be",
+  "identifiers": [
+    {
+      "identifier": "6438",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Leger Fernández",
+  "political_affiliation": "Democratic"
+}

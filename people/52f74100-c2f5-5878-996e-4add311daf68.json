@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6393"
+  },
+  "first_name": "Shri",
+  "full_name": "Shri Thanedar",
+  "id": "ocd-person/52f74100-c2f5-5878-996e-4add311daf68",
+  "identifiers": [
+    {
+      "identifier": "6393",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Thanedar",
+  "political_affiliation": "Democratic"
+}

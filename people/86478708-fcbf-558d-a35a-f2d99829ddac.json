@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6251"
+  },
+  "first_name": "Brittany",
+  "full_name": "Brittany Pettersen",
+  "id": "ocd-person/86478708-fcbf-558d-a35a-f2d99829ddac",
+  "identifiers": [
+    {
+      "identifier": "6251",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pettersen",
+  "political_affiliation": "Democratic"
+}

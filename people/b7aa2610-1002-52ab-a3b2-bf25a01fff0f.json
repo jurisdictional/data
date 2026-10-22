@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6131"
+  },
+  "first_name": "Jeanne",
+  "full_name": "Jeanne Shaheen",
+  "id": "ocd-person/b7aa2610-1002-52ab-a3b2-bf25a01fff0f",
+  "identifiers": [
+    {
+      "identifier": "6131",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Shaheen",
+  "political_affiliation": "Democratic"
+}

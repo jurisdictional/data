@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6210"
+  },
+  "first_name": "Kevin",
+  "full_name": "Kevin Mullin",
+  "id": "ocd-person/2a88c657-3d7a-55fb-aa61-d3cdef2a4ce6",
+  "identifiers": [
+    {
+      "identifier": "6210",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mullin",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/7c451fbf-efa3-581a-87b9-156c8cd33c43",
+    "start_date": "2026-05-31T14:40:58Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-14th-district",
+  "identifiers": [
+    {
+      "identifier": "7147",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 14th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6321"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Cloud",
+  "id": "ocd-person/6b543ca9-d1a1-506a-9686-8d9517f1bc85",
+  "identifiers": [
+    {
+      "identifier": "6321",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cloud",
+  "political_affiliation": "Republican"
+}

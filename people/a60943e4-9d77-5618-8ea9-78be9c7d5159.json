@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6090"
+  },
+  "first_name": "Richard",
+  "full_name": "Richard Blumenthal",
+  "id": "ocd-person/a60943e4-9d77-5618-8ea9-78be9c7d5159",
+  "identifiers": [
+    {
+      "identifier": "6090",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Blumenthal",
+  "political_affiliation": "Democratic"
+}

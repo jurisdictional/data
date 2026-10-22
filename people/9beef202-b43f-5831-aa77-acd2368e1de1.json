@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6100"
+  },
+  "first_name": "Dick",
+  "full_name": "Dick Durbin",
+  "id": "ocd-person/9beef202-b43f-5831-aa77-acd2368e1de1",
+  "identifiers": [
+    {
+      "identifier": "6100",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Durbin",
+  "political_affiliation": "Democratic"
+}

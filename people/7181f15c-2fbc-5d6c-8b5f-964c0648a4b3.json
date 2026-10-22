@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6110"
+  },
+  "first_name": "John",
+  "full_name": "John Kennedy",
+  "id": "ocd-person/7181f15c-2fbc-5d6c-8b5f-964c0648a4b3",
+  "identifiers": [
+    {
+      "identifier": "6110",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kennedy",
+  "political_affiliation": "Republican"
+}

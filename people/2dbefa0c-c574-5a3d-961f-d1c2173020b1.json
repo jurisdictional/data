@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6555"
+  },
+  "first_name": "James",
+  "full_name": "James Walkinshaw",
+  "id": "ocd-person/2dbefa0c-c574-5a3d-961f-d1c2173020b1",
+  "identifiers": [
+    {
+      "identifier": "6555",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Walkinshaw"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6552"
+  },
+  "first_name": "Don",
+  "full_name": "Don Beyer",
+  "id": "ocd-person/7f4afb94-2f1e-522f-b841-8174a1a66d27",
+  "identifiers": [
+    {
+      "identifier": "6552",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Beyer"
+}

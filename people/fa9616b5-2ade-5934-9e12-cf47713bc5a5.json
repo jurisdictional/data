@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6193"
+  },
+  "first_name": "French",
+  "full_name": "French Hill",
+  "id": "ocd-person/fa9616b5-2ade-5934-9e12-cf47713bc5a5",
+  "identifiers": [
+    {
+      "identifier": "6193",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hill",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6174"
+  },
+  "first_name": "Cynthia",
+  "full_name": "Cynthia Lummis",
+  "id": "ocd-person/53ce104b-a277-5521-a168-38ca710e7523",
+  "identifiers": [
+    {
+      "identifier": "6174",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lummis",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6315"
+  },
+  "first_name": "Jodey",
+  "full_name": "Jodey Arrington",
+  "id": "ocd-person/5d5b2c8c-cba1-5410-a71c-74fb11a2ef06",
+  "identifiers": [
+    {
+      "identifier": "6315",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Arrington",
+  "political_affiliation": "Republican"
+}

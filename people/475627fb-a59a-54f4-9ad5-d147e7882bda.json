@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6390"
+  },
+  "first_name": "John",
+  "full_name": "John James",
+  "id": "ocd-person/475627fb-a59a-54f4-9ad5-d147e7882bda",
+  "identifiers": [
+    {
+      "identifier": "6390",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "James",
+  "political_affiliation": "Republican"
+}

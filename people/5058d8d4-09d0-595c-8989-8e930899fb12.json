@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4698"
+  },
+  "first_name": "Robert",
+  "full_name": "Robert Garcia",
+  "id": "ocd-person/5058d8d4-09d0-595c-8989-8e930899fb12",
+  "identifiers": [
+    {
+      "identifier": "4698",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garcia",
+  "political_affiliation": "Democratic"
+}

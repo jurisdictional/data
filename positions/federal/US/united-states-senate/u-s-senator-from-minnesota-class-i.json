@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/149ce20a-fdc3-55ab-afac-aa641cb77c5e",
+    "start_date": "2026-05-30T23:59:31Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-minnesota-class-i",
+  "identifiers": [
+    {
+      "identifier": "6768",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Minnesota (Class I)"
+}

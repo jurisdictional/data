@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6246"
+  },
+  "first_name": "Joe",
+  "full_name": "Joe Neguse",
+  "id": "ocd-person/ca092fdf-e9e3-5d83-a6a4-814daf6b50f0",
+  "identifiers": [
+    {
+      "identifier": "6246",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Neguse",
+  "political_affiliation": "Democratic"
+}

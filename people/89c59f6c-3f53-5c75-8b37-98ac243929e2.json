@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6507"
+  },
+  "first_name": "Brendan",
+  "full_name": "Brendan Boyle",
+  "id": "ocd-person/89c59f6c-3f53-5c75-8b37-98ac243929e2",
+  "identifiers": [
+    {
+      "identifier": "6507",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Boyle",
+  "political_affiliation": "Democratic"
+}

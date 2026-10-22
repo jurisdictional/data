@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6607"
+  },
+  "first_name": "Mary",
+  "full_name": "Mary Peltola",
+  "id": "ocd-person/cd1a2172-693f-5f82-a53f-7ce7286ad3db",
+  "identifiers": [
+    {
+      "identifier": "6607",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Peltola",
+  "political_affiliation": "Democratic"
+}

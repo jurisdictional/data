@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6364"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Harris",
+  "id": "ocd-person/f50683d1-4214-5470-be00-697f839d7424",
+  "identifiers": [
+    {
+      "identifier": "6364",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harris",
+  "political_affiliation": "Republican"
+}

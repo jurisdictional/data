@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e87b406b-1961-54e6-922a-d79910ab18a9",
+    "start_date": "2026-05-31T14:41:59Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7155",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oregon's 2nd District"
+}

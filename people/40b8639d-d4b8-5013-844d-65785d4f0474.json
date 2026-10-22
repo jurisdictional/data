@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6213"
+  },
+  "first_name": "Zoe",
+  "full_name": "Zoe Lofgren",
+  "id": "ocd-person/40b8639d-d4b8-5013-844d-65785d4f0474",
+  "identifiers": [
+    {
+      "identifier": "6213",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lofgren",
+  "political_affiliation": "Democratic"
+}

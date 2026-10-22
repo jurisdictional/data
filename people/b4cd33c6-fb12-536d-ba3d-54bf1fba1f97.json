@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6256"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Himes",
+  "id": "ocd-person/b4cd33c6-fb12-536d-ba3d-54bf1fba1f97",
+  "identifiers": [
+    {
+      "identifier": "6256",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Himes",
+  "political_affiliation": "Democratic"
+}

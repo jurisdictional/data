@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/91fec413-a438-52e0-b72e-8202aa523890",
+    "start_date": "2026-05-31T06:01:30Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-8th-district",
+  "identifiers": [
+    {
+      "identifier": "7054",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Minnesota's 8th District"
+}

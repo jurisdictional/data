@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6242"
+  },
+  "first_name": "Scott",
+  "full_name": "Scott Peters",
+  "id": "ocd-person/ad7fbccc-4bd0-5104-9146-45ba1c0bea32",
+  "identifiers": [
+    {
+      "identifier": "6242",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Peters",
+  "political_affiliation": "Democratic"
+}

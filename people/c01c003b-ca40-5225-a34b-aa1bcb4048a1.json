@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6444"
+  },
+  "first_name": "Grace",
+  "full_name": "Grace Meng",
+  "id": "ocd-person/c01c003b-ca40-5225-a34b-aa1bcb4048a1",
+  "identifiers": [
+    {
+      "identifier": "6444",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Meng",
+  "political_affiliation": "Democratic"
+}

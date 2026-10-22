@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6230"
+  },
+  "first_name": "Sydney",
+  "full_name": "Sydney Kamlager-Dove",
+  "id": "ocd-person/1684a9a0-87e6-5a63-a8aa-767e31745c36",
+  "identifiers": [
+    {
+      "identifier": "6230",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kamlager-Dove",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6411"
+  },
+  "first_name": "Sam",
+  "full_name": "Sam Graves",
+  "id": "ocd-person/c9081aa4-8ef4-51d6-b2b3-eee56f0e2146",
+  "identifiers": [
+    {
+      "identifier": "6411",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Graves",
+  "political_affiliation": "Republican"
+}

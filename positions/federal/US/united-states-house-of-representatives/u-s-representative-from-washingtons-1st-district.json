@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/cf0c2105-514b-541e-933c-8a0b607ce9b3",
+    "start_date": "2026-05-31T14:49:40Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7250",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Washington's 1st District"
+}

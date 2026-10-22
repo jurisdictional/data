@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6539"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Cohen",
+  "id": "ocd-person/cb858453-98cf-538c-9365-3a9f97418483",
+  "identifiers": [
+    {
+      "identifier": "6539",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cohen",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3145"
+  },
+  "first_name": "Dusty",
+  "full_name": "Dusty Johnson",
+  "id": "ocd-person/faf0dffa-d36c-5410-b2c8-6f95bb0f3c86",
+  "identifiers": [
+    {
+      "identifier": "3145",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson",
+  "political_affiliation": "Republican"
+}

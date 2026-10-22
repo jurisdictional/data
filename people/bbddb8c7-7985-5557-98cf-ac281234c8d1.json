@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6177"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Rogers",
+  "id": "ocd-person/bbddb8c7-7985-5557-98cf-ac281234c8d1",
+  "identifiers": [
+    {
+      "identifier": "6177",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rogers",
+  "political_affiliation": "Republican"
+}

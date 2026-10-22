@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6159"
+  },
+  "first_name": "Ted",
+  "full_name": "Ted Cruz",
+  "id": "ocd-person/48c41417-35b5-55e8-9086-1000e83052bf",
+  "identifiers": [
+    {
+      "identifier": "6159",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cruz",
+  "political_affiliation": "Republican"
+}

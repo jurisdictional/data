@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6537"
+  },
+  "first_name": "Matt",
+  "full_name": "Matt Van Epps",
+  "id": "ocd-person/8ce8b2b5-e7b0-5a82-a833-a505243ee206",
+  "identifiers": [
+    {
+      "identifier": "6537",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Van Epps",
+  "political_affiliation": "Republican"
+}

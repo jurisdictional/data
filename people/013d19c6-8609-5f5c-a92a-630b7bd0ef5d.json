@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6370"
+  },
+  "first_name": "Kweisi",
+  "full_name": "Kweisi Mfume",
+  "id": "ocd-person/013d19c6-8609-5f5c-a92a-630b7bd0ef5d",
+  "identifiers": [
+    {
+      "identifier": "6370",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mfume",
+  "political_affiliation": "Democratic"
+}

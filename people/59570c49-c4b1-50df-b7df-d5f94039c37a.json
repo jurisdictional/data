@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6399"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Emmer",
+  "id": "ocd-person/59570c49-c4b1-50df-b7df-d5f94039c37a",
+  "identifiers": [
+    {
+      "identifier": "6399",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Emmer",
+  "political_affiliation": "Republican"
+}

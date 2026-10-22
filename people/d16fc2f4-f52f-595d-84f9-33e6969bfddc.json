@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6097"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Risch",
+  "id": "ocd-person/d16fc2f4-f52f-595d-84f9-33e6969bfddc",
+  "identifiers": [
+    {
+      "identifier": "6097",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Risch",
+  "political_affiliation": "Republican"
+}

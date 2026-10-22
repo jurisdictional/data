@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6154"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Scott",
+  "id": "ocd-person/ca0ee74a-59dd-50ae-85d3-7bf03ad6f0fa",
+  "identifiers": [
+    {
+      "identifier": "6154",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scott",
+  "political_affiliation": "Republican"
+}

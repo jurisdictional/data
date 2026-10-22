@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6452"
+  },
+  "first_name": "Alexandria",
+  "full_name": "Alexandria Ocasio-Cortez",
+  "id": "ocd-person/51b4d5a5-fe00-5f77-b595-9474a558aa0c",
+  "identifiers": [
+    {
+      "identifier": "6452",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ocasio-Cortez",
+  "political_affiliation": "Democratic"
+}

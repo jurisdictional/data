@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/1/bodies"
+  },
+  "id": "federal:US/united-states-senate",
+  "identifiers": [
+    {
+      "identifier": "1956",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "federal:US",
+  "legislative_type": "council",
+  "name": "United States Senate",
+  "staffed_by": [
+    "federal:US/united-states-congress"
+  ],
+  "website_url": "https://www.senate.gov"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6175"
+  },
+  "first_name": "Barry",
+  "full_name": "Barry Moore",
+  "id": "ocd-person/fc42ac13-4224-5ccd-ac7a-feb00eeaff98",
+  "identifiers": [
+    {
+      "identifier": "6175",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/9d4792c9-777b-5fa3-9d5e-efd88ba7817c",
+    "start_date": "2026-05-31T14:39:27Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-9th-district",
+  "identifiers": [
+    {
+      "identifier": "7127",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from North Carolina's 9th District"
+}

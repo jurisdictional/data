@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6466"
+  },
+  "first_name": "Deborah",
+  "full_name": "Deborah Ross",
+  "id": "ocd-person/f922a8c2-4468-5256-92e3-b2e99390dbd9",
+  "identifiers": [
+    {
+      "identifier": "6466",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ross",
+  "political_affiliation": "Democratic"
+}

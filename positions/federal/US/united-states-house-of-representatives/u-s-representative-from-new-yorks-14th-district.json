@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/51b4d5a5-fe00-5f77-b595-9474a558aa0c",
+    "start_date": "2026-05-31T06:06:36Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-14th-district",
+  "identifiers": [
+    {
+      "identifier": "7106",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 14th District"
+}

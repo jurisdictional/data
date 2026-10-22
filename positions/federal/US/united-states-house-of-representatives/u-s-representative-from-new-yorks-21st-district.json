@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2b30b142-5948-50e5-ad82-872a3e50aa7d",
+    "start_date": "2026-05-31T06:06:47Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-21st-district",
+  "identifiers": [
+    {
+      "identifier": "7113",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 21st District"
+}

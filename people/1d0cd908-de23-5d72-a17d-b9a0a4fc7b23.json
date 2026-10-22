@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6496"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Brecheen",
+  "id": "ocd-person/1d0cd908-de23-5d72-a17d-b9a0a4fc7b23",
+  "identifiers": [
+    {
+      "identifier": "6496",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brecheen",
+  "political_affiliation": "Republican"
+}

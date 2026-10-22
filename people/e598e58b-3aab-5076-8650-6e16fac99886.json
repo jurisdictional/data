@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6295"
+  },
+  "first_name": "Eric",
+  "full_name": "Eric Sorensen",
+  "id": "ocd-person/e598e58b-3aab-5076-8650-6e16fac99886",
+  "identifiers": [
+    {
+      "identifier": "6295",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sorensen",
+  "political_affiliation": "Democratic"
+}

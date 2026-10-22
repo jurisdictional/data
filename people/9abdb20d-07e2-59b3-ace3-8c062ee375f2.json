@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6572"
+  },
+  "first_name": "Gus",
+  "full_name": "Gus Bilirakis",
+  "id": "ocd-person/9abdb20d-07e2-59b3-ace3-8c062ee375f2",
+  "identifiers": [
+    {
+      "identifier": "6572",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bilirakis",
+  "political_affiliation": "Republican"
+}

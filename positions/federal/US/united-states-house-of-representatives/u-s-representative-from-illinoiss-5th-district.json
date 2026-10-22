@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/37d82b32-3fe4-588e-842d-da2fed1ba008",
+    "start_date": "2026-05-31T05:33:11Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6936",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Illinois's 5th District"
+}

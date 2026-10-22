@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/55b71e3a-170f-5b1a-871c-fc908f3fbab6",
+    "start_date": "2026-05-31T05:56:14Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-8th-district",
+  "identifiers": [
+    {
+      "identifier": "6993",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Indiana's 8th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6356"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Scalise",
+  "id": "ocd-person/1987e904-4a71-54e4-bb83-9f51ac2fd117",
+  "identifiers": [
+    {
+      "identifier": "6356",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scalise",
+  "political_affiliation": "Republican"
+}

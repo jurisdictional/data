@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6211"
+  },
+  "first_name": "Sam",
+  "full_name": "Sam Liccardo",
+  "id": "ocd-person/0c6afb0b-75fa-54ba-986b-9bf2046a9461",
+  "identifiers": [
+    {
+      "identifier": "6211",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Liccardo",
+  "political_affiliation": "Democratic"
+}

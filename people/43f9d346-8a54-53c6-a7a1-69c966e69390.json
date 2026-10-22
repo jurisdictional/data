@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6484"
+  },
+  "first_name": "Bob",
+  "full_name": "Bob Latta",
+  "id": "ocd-person/43f9d346-8a54-53c6-a7a1-69c966e69390",
+  "identifiers": [
+    {
+      "identifier": "6484",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Latta",
+  "political_affiliation": "Republican"
+}

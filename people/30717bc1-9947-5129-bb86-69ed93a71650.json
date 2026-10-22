@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6272"
+  },
+  "first_name": "Barry",
+  "full_name": "Barry Loudermilk",
+  "id": "ocd-person/30717bc1-9947-5129-bb86-69ed93a71650",
+  "identifiers": [
+    {
+      "identifier": "6272",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Loudermilk",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6209"
+  },
+  "first_name": "Eric",
+  "full_name": "Eric Swalwell",
+  "id": "ocd-person/41023b77-8e50-5d36-91ec-fa9f189d1732",
+  "identifiers": [
+    {
+      "identifier": "6209",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Swalwell",
+  "political_affiliation": "Democratic"
+}

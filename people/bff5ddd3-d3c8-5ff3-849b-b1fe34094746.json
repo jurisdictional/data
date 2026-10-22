@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6547"
+  },
+  "first_name": "Bobby",
+  "full_name": "Bobby Scott",
+  "id": "ocd-person/bff5ddd3-d3c8-5ff3-849b-b1fe34094746",
+  "identifiers": [
+    {
+      "identifier": "6547",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scott"
+}

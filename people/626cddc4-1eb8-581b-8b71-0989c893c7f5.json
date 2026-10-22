@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6145"
+  },
+  "first_name": "James",
+  "full_name": "James Lankford",
+  "id": "ocd-person/626cddc4-1eb8-581b-8b71-0989c893c7f5",
+  "identifiers": [
+    {
+      "identifier": "6145",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lankford",
+  "political_affiliation": "Republican"
+}

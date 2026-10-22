@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/eb48f652-b60a-5483-87b9-fc9a2ea8c4b0",
+    "start_date": "2026-05-31T05:58:43Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7018",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Maryland's 2nd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6261"
+  },
+  "first_name": "Carlos",
+  "full_name": "Carlos Giménez",
+  "id": "ocd-person/c68833ff-f698-587e-8a80-ff49c96c7fab",
+  "identifiers": [
+    {
+      "identifier": "6261",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Giménez",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6288"
+  },
+  "first_name": "Brad",
+  "full_name": "Brad Schneider",
+  "id": "ocd-person/89d0a208-eff6-5490-bab5-336859b07a3e",
+  "identifiers": [
+    {
+      "identifier": "6288",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schneider",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6102"
+  },
+  "first_name": "Todd",
+  "full_name": "Todd Young",
+  "id": "ocd-person/616d0065-656f-5303-a217-ee886cdcc55d",
+  "identifiers": [
+    {
+      "identifier": "6102",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Young",
+  "political_affiliation": "Republican"
+}

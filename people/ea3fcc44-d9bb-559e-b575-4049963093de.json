@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6498"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Cole",
+  "id": "ocd-person/ea3fcc44-d9bb-559e-b575-4049963093de",
+  "identifiers": [
+    {
+      "identifier": "6498",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cole",
+  "political_affiliation": "Republican"
+}

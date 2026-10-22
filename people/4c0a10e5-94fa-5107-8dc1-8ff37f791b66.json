@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6483"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Jordan",
+  "id": "ocd-person/4c0a10e5-94fa-5107-8dc1-8ff37f791b66",
+  "identifiers": [
+    {
+      "identifier": "6483",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jordan",
+  "political_affiliation": "Republican"
+}

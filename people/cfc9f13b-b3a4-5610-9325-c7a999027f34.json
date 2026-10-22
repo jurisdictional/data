@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6523"
+  },
+  "first_name": "Seth",
+  "full_name": "Seth Magaziner",
+  "id": "ocd-person/cfc9f13b-b3a4-5610-9325-c7a999027f34",
+  "identifiers": [
+    {
+      "identifier": "6523",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Magaziner",
+  "political_affiliation": "Democratic"
+}

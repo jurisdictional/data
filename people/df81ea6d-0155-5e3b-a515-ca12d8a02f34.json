@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6124"
+  },
+  "first_name": "Eric",
+  "full_name": "Eric Schmitt",
+  "id": "ocd-person/df81ea6d-0155-5e3b-a515-ca12d8a02f34",
+  "identifiers": [
+    {
+      "identifier": "6124",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schmitt",
+  "political_affiliation": "Republican"
+}

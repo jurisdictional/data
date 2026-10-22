@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6398"
+  },
+  "first_name": "Ilhan",
+  "full_name": "Ilhan Omar",
+  "id": "ocd-person/40b0846d-1fd7-51c1-80ce-485244aa1452",
+  "identifiers": [
+    {
+      "identifier": "6398",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Omar",
+  "political_affiliation": "Democratic"
+}

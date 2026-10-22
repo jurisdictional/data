@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6205"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark DeSaulnier",
+  "id": "ocd-person/3badd50b-d71d-50bd-ab8e-fe4fc4deb008",
+  "identifiers": [
+    {
+      "identifier": "6205",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DeSaulnier",
+  "political_affiliation": "Democratic"
+}

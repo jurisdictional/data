@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6088"
+  },
+  "first_name": "John",
+  "full_name": "John Hickenlooper",
+  "id": "ocd-person/a833fcfe-a3ff-5a34-b43d-385a4bd30705",
+  "identifiers": [
+    {
+      "identifier": "6088",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hickenlooper",
+  "political_affiliation": "Democratic"
+}

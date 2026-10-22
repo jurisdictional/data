@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/cafde3b9-fe68-58a8-9dad-69e46da71040",
+    "start_date": "2026-05-31T14:42:58Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7162",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Pennsylvania's 3rd District"
+}

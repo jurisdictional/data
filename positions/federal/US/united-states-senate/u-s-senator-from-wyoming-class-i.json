@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/9c06fbf8-dd4b-5c92-be34-870a711dd7a9",
+    "start_date": "2026-05-31T00:03:26Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-wyoming-class-i",
+  "identifiers": [
+    {
+      "identifier": "6822",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Wyoming (Class I)"
+}

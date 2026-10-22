@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fa6e02da-25e7-5e10-b279-ee68653b9bc3",
+    "start_date": "2026-05-31T14:42:02Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7158",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oregon's 5th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6392"
+  },
+  "first_name": "Rashida",
+  "full_name": "Rashida Tlaib",
+  "id": "ocd-person/1160363d-d5b2-546c-a248-921c6b4c9b75",
+  "identifiers": [
+    {
+      "identifier": "6392",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tlaib",
+  "political_affiliation": "Democratic"
+}

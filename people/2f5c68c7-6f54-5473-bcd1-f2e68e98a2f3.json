@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6262"
+  },
+  "first_name": "Buddy",
+  "full_name": "Buddy Carter",
+  "id": "ocd-person/2f5c68c7-6f54-5473-bcd1-f2e68e98a2f3",
+  "identifiers": [
+    {
+      "identifier": "6262",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carter",
+  "political_affiliation": "Republican"
+}

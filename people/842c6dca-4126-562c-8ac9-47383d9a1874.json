@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6112"
+  },
+  "first_name": "Susan",
+  "full_name": "Susan Collins",
+  "id": "ocd-person/842c6dca-4126-562c-8ac9-47383d9a1874",
+  "identifiers": [
+    {
+      "identifier": "6112",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Collins",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/84cf35eb-ece5-50c9-b278-d80492158f43",
+    "start_date": "2026-05-31T06:06:49Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-23rd-district",
+  "identifiers": [
+    {
+      "identifier": "7115",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 23rd District"
+}

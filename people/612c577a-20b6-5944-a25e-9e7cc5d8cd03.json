@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6313"
+  },
+  "first_name": "Pete",
+  "full_name": "Pete Sessions",
+  "id": "ocd-person/612c577a-20b6-5944-a25e-9e7cc5d8cd03",
+  "identifiers": [
+    {
+      "identifier": "6313",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sessions",
+  "political_affiliation": "Republican"
+}

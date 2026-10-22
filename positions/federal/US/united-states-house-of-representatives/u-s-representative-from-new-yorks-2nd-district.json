@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/775eaca4-169f-54d1-a839-76dd9f3a45dc",
+    "start_date": "2026-05-31T06:06:09Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7094",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 2nd District"
+}

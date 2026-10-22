@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6086"
+  },
+  "first_name": "Adam",
+  "full_name": "Adam Schiff",
+  "id": "ocd-person/7d0e9701-c390-5fed-a4b6-c1cafcddd0de",
+  "identifiers": [
+    {
+      "identifier": "6086",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schiff",
+  "political_affiliation": "Democratic"
+}

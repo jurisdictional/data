@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6530"
+  },
+  "first_name": "Russell",
+  "full_name": "Russell Fry",
+  "id": "ocd-person/1c0597dc-e8f9-555a-b0f6-1632fe27db53",
+  "identifiers": [
+    {
+      "identifier": "6530",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fry",
+  "political_affiliation": "Republican"
+}

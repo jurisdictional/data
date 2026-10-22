@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e710d5e1-51bd-5b7f-bc11-8f25c8a51cc6",
+    "start_date": "2026-05-31T05:33:16Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-8th-district",
+  "identifiers": [
+    {
+      "identifier": "6939",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Illinois's 8th District"
+}

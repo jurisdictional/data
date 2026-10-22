@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6531"
+  },
+  "first_name": "Diana",
+  "full_name": "Diana Harshbarger",
+  "id": "ocd-person/588297e7-c85a-5868-8123-053a2d445ab0",
+  "identifiers": [
+    {
+      "identifier": "6531",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harshbarger",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6293"
+  },
+  "first_name": "Mary",
+  "full_name": "Mary Miller",
+  "id": "ocd-person/d0e3da4a-8e9e-5726-a231-a4e8a186eeca",
+  "identifiers": [
+    {
+      "identifier": "6293",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Miller",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6338"
+  },
+  "first_name": "Jefferson",
+  "full_name": "Jefferson Shreve",
+  "id": "ocd-person/5516bf47-71c0-5f64-92c4-520b1d5c9819",
+  "identifiers": [
+    {
+      "identifier": "6338",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Shreve",
+  "political_affiliation": "Republican"
+}

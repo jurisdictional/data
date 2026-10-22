@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6437"
+  },
+  "first_name": "Gabe",
+  "full_name": "Gabe Vasquez",
+  "id": "ocd-person/32f4afb5-3a99-54bf-913b-4b75bfb80cf5",
+  "identifiers": [
+    {
+      "identifier": "6437",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Vasquez",
+  "political_affiliation": "Democratic"
+}

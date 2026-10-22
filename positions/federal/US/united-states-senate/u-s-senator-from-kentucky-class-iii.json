@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/2a2e107b-f93d-53d9-8245-72e15dccf58f",
+    "start_date": "2026-05-30T23:59:13Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-kentucky-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6757",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Kentucky (Class III)"
+}

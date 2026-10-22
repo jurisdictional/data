@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6267"
+  },
+  "first_name": "Lucy",
+  "full_name": "Lucy McBath",
+  "id": "ocd-person/1d6ac237-68fb-52d3-a59f-8709ef018fa4",
+  "identifiers": [
+    {
+      "identifier": "6267",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McBath",
+  "political_affiliation": "Democratic"
+}

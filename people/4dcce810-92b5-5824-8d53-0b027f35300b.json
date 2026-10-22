@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6103"
+  },
+  "first_name": "Joni",
+  "full_name": "Joni Ernst",
+  "id": "ocd-person/4dcce810-92b5-5824-8d53-0b027f35300b",
+  "identifiers": [
+    {
+      "identifier": "6103",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ernst",
+  "political_affiliation": "Republican"
+}

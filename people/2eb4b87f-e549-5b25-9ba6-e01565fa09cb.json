@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6229"
+  },
+  "first_name": "Ted",
+  "full_name": "Ted Lieu",
+  "id": "ocd-person/2eb4b87f-e549-5b25-9ba6-e01565fa09cb",
+  "identifiers": [
+    {
+      "identifier": "6229",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lieu",
+  "political_affiliation": "Democratic"
+}

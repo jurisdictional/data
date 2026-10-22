@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/a4a7ccbc-96c8-50d8-8778-9d5d2b200c53",
+    "start_date": "2026-05-31T06:03:59Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-hampshires-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7076",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Hampshire's 1st District"
+}

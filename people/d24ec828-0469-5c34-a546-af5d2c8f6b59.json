@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6406"
+  },
+  "first_name": "Wesley",
+  "full_name": "Wesley Bell",
+  "id": "ocd-person/d24ec828-0469-5c34-a546-af5d2c8f6b59",
+  "identifiers": [
+    {
+      "identifier": "6406",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bell",
+  "political_affiliation": "Democratic"
+}

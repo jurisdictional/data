@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6176"
+  },
+  "first_name": "Shomari",
+  "full_name": "Shomari Figures",
+  "id": "ocd-person/413240b1-aeaa-5778-8326-961d506ec87c",
+  "identifiers": [
+    {
+      "identifier": "6176",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Figures",
+  "political_affiliation": "Democratic"
+}

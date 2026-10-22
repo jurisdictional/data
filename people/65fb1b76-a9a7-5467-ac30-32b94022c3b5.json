@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6215"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Costa",
+  "id": "ocd-person/65fb1b76-a9a7-5467-ac30-32b94022c3b5",
+  "identifiers": [
+    {
+      "identifier": "6215",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Costa",
+  "political_affiliation": "Democratic"
+}

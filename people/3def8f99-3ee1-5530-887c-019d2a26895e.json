@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6571"
+  },
+  "first_name": "Daniel",
+  "full_name": "Daniel Webster",
+  "id": "ocd-person/3def8f99-3ee1-5530-887c-019d2a26895e",
+  "identifiers": [
+    {
+      "identifier": "6571",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Webster",
+  "political_affiliation": "Republican"
+}

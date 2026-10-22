@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6199"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Thompson",
+  "id": "ocd-person/7c07561a-5888-539a-b92e-107aa7b82cfc",
+  "identifiers": [
+    {
+      "identifier": "6199",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Thompson",
+  "political_affiliation": "Democratic"
+}

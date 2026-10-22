@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6135"
+  },
+  "first_name": "Martin",
+  "full_name": "Martin Heinrich",
+  "id": "ocd-person/86b56a3f-f2af-59bc-a806-fb7f42b53054",
+  "identifiers": [
+    {
+      "identifier": "6135",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Heinrich",
+  "political_affiliation": "Democratic"
+}

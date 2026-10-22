@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6161"
+  },
+  "first_name": "John",
+  "full_name": "John Curtis",
+  "id": "ocd-person/3181c13d-c832-55a7-8c90-bd2d8b364652",
+  "identifiers": [
+    {
+      "identifier": "6161",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Curtis",
+  "political_affiliation": "Republican"
+}

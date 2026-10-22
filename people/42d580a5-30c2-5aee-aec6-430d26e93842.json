@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/915"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Smith",
+  "id": "ocd-person/42d580a5-30c2-5aee-aec6-430d26e93842",
+  "identifiers": [
+    {
+      "identifier": "915",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smith",
+  "political_affiliation": "Republican"
+}

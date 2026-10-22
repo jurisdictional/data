@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1b6e5e61-1712-526a-b17e-00d1f9a79ec4",
+    "start_date": "2026-05-31T05:28:12Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-48th-district",
+  "identifiers": [
+    {
+      "identifier": "6892",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 48th District"
+}

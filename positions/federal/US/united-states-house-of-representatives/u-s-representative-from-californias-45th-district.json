@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/7575c421-06d2-572c-b1d0-09185b0cfd9d",
+    "start_date": "2026-05-31T05:28:09Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-45th-district",
+  "identifiers": [
+    {
+      "identifier": "6889",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 45th District"
+}

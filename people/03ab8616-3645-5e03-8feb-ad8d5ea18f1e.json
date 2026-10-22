@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6549"
+  },
+  "first_name": "John",
+  "full_name": "John McGuire",
+  "id": "ocd-person/03ab8616-3645-5e03-8feb-ad8d5ea18f1e",
+  "identifiers": [
+    {
+      "identifier": "6549",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McGuire"
+}

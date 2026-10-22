@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6104"
+  },
+  "first_name": "Chuck",
+  "full_name": "Chuck Grassley",
+  "id": "ocd-person/d58a9c67-46ed-58ce-af9f-01debd9ff6c6",
+  "identifiers": [
+    {
+      "identifier": "6104",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Grassley",
+  "political_affiliation": "Republican"
+}

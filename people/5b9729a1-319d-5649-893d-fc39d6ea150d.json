@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6490"
+  },
+  "first_name": "Shontel",
+  "full_name": "Shontel Brown",
+  "id": "ocd-person/5b9729a1-319d-5649-893d-fc39d6ea150d",
+  "identifiers": [
+    {
+      "identifier": "6490",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brown",
+  "political_affiliation": "Democratic"
+}

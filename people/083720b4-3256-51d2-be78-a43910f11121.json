@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6302"
+  },
+  "first_name": "Jake",
+  "full_name": "Jake Ellzey",
+  "id": "ocd-person/083720b4-3256-51d2-be78-a43910f11121",
+  "identifiers": [
+    {
+      "identifier": "6302",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ellzey",
+  "political_affiliation": "Republican"
+}

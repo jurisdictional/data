@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6184"
+  },
+  "first_name": "Elijah",
+  "full_name": "Elijah Crane",
+  "id": "ocd-person/177bc4c3-bca2-50d9-adf0-382e6a36fd94",
+  "identifiers": [
+    {
+      "identifier": "6184",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crane",
+  "political_affiliation": "Republican"
+}

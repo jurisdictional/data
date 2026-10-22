@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/a7bef2e2-f407-5d3f-83e7-df777d074448",
+    "start_date": "2026-05-31T14:46:58Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7202",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 7th District"
+}

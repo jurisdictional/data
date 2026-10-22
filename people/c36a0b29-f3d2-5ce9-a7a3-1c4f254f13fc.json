@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6143"
+  },
+  "first_name": "Jon",
+  "full_name": "Jon Husted",
+  "id": "ocd-person/c36a0b29-f3d2-5ce9-a7a3-1c4f254f13fc",
+  "identifiers": [
+    {
+      "identifier": "6143",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Husted",
+  "political_affiliation": "Republican"
+}

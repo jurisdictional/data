@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6189"
+  },
+  "first_name": "Adelita",
+  "full_name": "Adelita Grijalva",
+  "id": "ocd-person/2777c4f1-7395-5e71-8b7d-358fe24aadbf",
+  "identifiers": [
+    {
+      "identifier": "6189",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Grijalva",
+  "political_affiliation": "Democratic"
+}

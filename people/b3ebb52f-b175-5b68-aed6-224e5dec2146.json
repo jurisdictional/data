@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6347"
+  },
+  "first_name": "Derek",
+  "full_name": "Derek Schmidt",
+  "id": "ocd-person/b3ebb52f-b175-5b68-aed6-224e5dec2146",
+  "identifiers": [
+    {
+      "identifier": "6347",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schmidt",
+  "political_affiliation": "Republican"
+}

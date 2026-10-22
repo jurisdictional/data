@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6486"
+  },
+  "first_name": "Max",
+  "full_name": "Max Miller",
+  "id": "ocd-person/f1c6f238-0e1f-5927-9a14-30bff1f6268b",
+  "identifiers": [
+    {
+      "identifier": "6486",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Miller",
+  "political_affiliation": "Republican"
+}

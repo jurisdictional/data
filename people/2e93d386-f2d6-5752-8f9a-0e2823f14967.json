@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6125"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Sheehy",
+  "id": "ocd-person/2e93d386-f2d6-5752-8f9a-0e2823f14967",
+  "identifiers": [
+    {
+      "identifier": "6125",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sheehy",
+  "political_affiliation": "Republican"
+}

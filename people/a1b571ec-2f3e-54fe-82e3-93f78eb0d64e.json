@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6195"
+  },
+  "first_name": "Bruce",
+  "full_name": "Bruce Westerman",
+  "id": "ocd-person/a1b571ec-2f3e-54fe-82e3-93f78eb0d64e",
+  "identifiers": [
+    {
+      "identifier": "6195",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Westerman",
+  "political_affiliation": "Republican"
+}

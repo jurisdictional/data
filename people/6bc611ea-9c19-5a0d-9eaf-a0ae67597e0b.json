@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6582"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Pocan",
+  "id": "ocd-person/6bc611ea-9c19-5a0d-9eaf-a0ae67597e0b",
+  "identifiers": [
+    {
+      "identifier": "6582",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pocan"
+}

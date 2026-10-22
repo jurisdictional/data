@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6173"
+  },
+  "first_name": "John",
+  "full_name": "John Barrasso",
+  "id": "ocd-person/9c06fbf8-dd4b-5c92-be34-870a711dd7a9",
+  "identifiers": [
+    {
+      "identifier": "6173",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Barrasso",
+  "political_affiliation": "Republican"
+}

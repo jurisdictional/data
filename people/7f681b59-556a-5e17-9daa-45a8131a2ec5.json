@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6358"
+  },
+  "first_name": "Clay",
+  "full_name": "Clay Higgins",
+  "id": "ocd-person/7f681b59-556a-5e17-9daa-45a8131a2ec5",
+  "identifiers": [
+    {
+      "identifier": "6358",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Higgins",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6331"
+  },
+  "first_name": "Lloyd",
+  "full_name": "Lloyd Doggett",
+  "id": "ocd-person/d92c3120-3639-5350-bc26-3f62e3ef81a9",
+  "identifiers": [
+    {
+      "identifier": "6331",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Doggett",
+  "political_affiliation": "Democratic"
+}

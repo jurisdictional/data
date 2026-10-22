@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/258806ee-bd14-5689-9452-b32dce885350",
+    "start_date": "2026-05-31T05:33:06Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6932",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Illinois's 1st District"
+}

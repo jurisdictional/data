@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6416"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Flood",
+  "id": "ocd-person/42b482ba-d5c0-58f4-93f8-4c02ca5d158c",
+  "identifiers": [
+    {
+      "identifier": "6416",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Flood",
+  "political_affiliation": "Republican"
+}

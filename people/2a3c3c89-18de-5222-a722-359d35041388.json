@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6476"
+  },
+  "first_name": "Alma",
+  "full_name": "Alma Adams",
+  "id": "ocd-person/2a3c3c89-18de-5222-a722-359d35041388",
+  "identifiers": [
+    {
+      "identifier": "6476",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Adams",
+  "political_affiliation": "Democratic"
+}

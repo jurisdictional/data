@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6508"
+  },
+  "first_name": "Dwight",
+  "full_name": "Dwight Evans",
+  "id": "ocd-person/cafde3b9-fe68-58a8-9dad-69e46da71040",
+  "identifiers": [
+    {
+      "identifier": "6508",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Evans",
+  "political_affiliation": "Democratic"
+}

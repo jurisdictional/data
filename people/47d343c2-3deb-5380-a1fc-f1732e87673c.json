@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6116"
+  },
+  "first_name": "Ed",
+  "full_name": "Ed Markey",
+  "id": "ocd-person/47d343c2-3deb-5380-a1fc-f1732e87673c",
+  "identifiers": [
+    {
+      "identifier": "6116",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Markey",
+  "political_affiliation": "Democratic"
+}

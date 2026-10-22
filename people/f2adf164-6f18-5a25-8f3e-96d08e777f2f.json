@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6409"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Alford",
+  "id": "ocd-person/f2adf164-6f18-5a25-8f3e-96d08e777f2f",
+  "identifiers": [
+    {
+      "identifier": "6409",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alford",
+  "political_affiliation": "Republican"
+}

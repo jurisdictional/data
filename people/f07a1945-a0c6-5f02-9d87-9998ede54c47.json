@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6122"
+  },
+  "first_name": "Cindy",
+  "full_name": "Cindy Hyde-Smith",
+  "id": "ocd-person/f07a1945-a0c6-5f02-9d87-9998ede54c47",
+  "identifiers": [
+    {
+      "identifier": "6122",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hyde-Smith",
+  "political_affiliation": "Republican"
+}

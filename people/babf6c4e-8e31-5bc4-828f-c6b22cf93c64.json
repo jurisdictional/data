@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6575"
+  },
+  "first_name": "Laurel",
+  "full_name": "Laurel Lee",
+  "id": "ocd-person/babf6c4e-8e31-5bc4-828f-c6b22cf93c64",
+  "identifiers": [
+    {
+      "identifier": "6575",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee",
+  "political_affiliation": "Republican"
+}

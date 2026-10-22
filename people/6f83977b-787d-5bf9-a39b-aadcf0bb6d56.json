@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6082"
+  },
+  "first_name": "Ruben",
+  "full_name": "Ruben Gallego",
+  "id": "ocd-person/6f83977b-787d-5bf9-a39b-aadcf0bb6d56",
+  "identifiers": [
+    {
+      "identifier": "6082",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gallego",
+  "political_affiliation": "Democratic"
+}

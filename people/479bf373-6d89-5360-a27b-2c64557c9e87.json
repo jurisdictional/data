@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6351"
+  },
+  "first_name": "Brett",
+  "full_name": "Brett Guthrie",
+  "id": "ocd-person/479bf373-6d89-5360-a27b-2c64557c9e87",
+  "identifiers": [
+    {
+      "identifier": "6351",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guthrie",
+  "political_affiliation": "Republican"
+}

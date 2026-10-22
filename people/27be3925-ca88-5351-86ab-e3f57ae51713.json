@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6443"
+  },
+  "first_name": "Gregory",
+  "full_name": "Gregory Meeks",
+  "id": "ocd-person/27be3925-ca88-5351-86ab-e3f57ae51713",
+  "identifiers": [
+    {
+      "identifier": "6443",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Meeks",
+  "political_affiliation": "Democratic"
+}

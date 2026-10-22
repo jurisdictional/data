@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/672198bd-9789-5f1f-a4ed-ae5f6a3b50d7",
+    "start_date": "2026-05-31T05:56:10Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-7th-district",
+  "identifiers": [
+    {
+      "identifier": "6992",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Indiana's 7th District"
+}

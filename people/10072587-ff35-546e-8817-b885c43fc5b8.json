@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6378"
+  },
+  "first_name": "Ayanna",
+  "full_name": "Ayanna Pressley",
+  "id": "ocd-person/10072587-ff35-546e-8817-b885c43fc5b8",
+  "identifiers": [
+    {
+      "identifier": "6378",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pressley",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6509"
+  },
+  "first_name": "Madeleine",
+  "full_name": "Madeleine Dean",
+  "id": "ocd-person/14be3fb8-f6e9-5f68-865b-845a5879c75f",
+  "identifiers": [
+    {
+      "identifier": "6509",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dean",
+  "political_affiliation": "Democratic"
+}

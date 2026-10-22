@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6419"
+  },
+  "first_name": "Dina",
+  "full_name": "Dina Titus",
+  "id": "ocd-person/75d403f2-9bb7-5a0a-919c-b053ac2ac91e",
+  "identifiers": [
+    {
+      "identifier": "6419",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Titus",
+  "political_affiliation": "Democratic"
+}

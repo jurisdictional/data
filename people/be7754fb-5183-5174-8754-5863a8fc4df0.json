@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6234"
+  },
+  "first_name": "Ken",
+  "full_name": "Ken Calvert",
+  "id": "ocd-person/be7754fb-5183-5174-8754-5863a8fc4df0",
+  "identifiers": [
+    {
+      "identifier": "6234",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Calvert",
+  "political_affiliation": "Republican"
+}

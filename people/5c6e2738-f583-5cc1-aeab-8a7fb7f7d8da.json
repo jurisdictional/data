@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6200"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom McClintock",
+  "id": "ocd-person/5c6e2738-f583-5cc1-aeab-8a7fb7f7d8da",
+  "identifiers": [
+    {
+      "identifier": "6200",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McClintock",
+  "political_affiliation": "Republican"
+}

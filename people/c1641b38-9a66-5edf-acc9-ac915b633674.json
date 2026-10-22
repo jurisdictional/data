@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6469"
+  },
+  "first_name": "Virginia",
+  "full_name": "Virginia Foxx",
+  "id": "ocd-person/c1641b38-9a66-5edf-acc9-ac915b633674",
+  "identifiers": [
+    {
+      "identifier": "6469",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Foxx",
+  "political_affiliation": "Republican"
+}

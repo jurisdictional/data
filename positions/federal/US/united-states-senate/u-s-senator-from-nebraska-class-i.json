@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/c3571cf1-3385-5f92-966c-74cd338bbe94",
+    "start_date": "2026-05-31T00:00:44Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-nebraska-class-i",
+  "identifiers": [
+    {
+      "identifier": "6776",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Nebraska (Class I)"
+}

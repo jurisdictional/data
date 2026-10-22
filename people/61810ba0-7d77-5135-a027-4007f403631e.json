@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6299"
+  },
+  "first_name": "Keith",
+  "full_name": "Keith Self",
+  "id": "ocd-person/61810ba0-7d77-5135-a027-4007f403631e",
+  "identifiers": [
+    {
+      "identifier": "6299",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Self",
+  "political_affiliation": "Republican"
+}

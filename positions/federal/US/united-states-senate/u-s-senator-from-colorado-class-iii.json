@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/a833fcfe-a3ff-5a34-b43d-385a4bd30705",
+    "start_date": "2026-05-30T23:57:16Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-colorado-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6735",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Colorado (Class III)"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6203"
+  },
+  "first_name": "John",
+  "full_name": "John Garamendi",
+  "id": "ocd-person/7a81b8da-6466-5fe4-b98d-67a0c8b5b82d",
+  "identifiers": [
+    {
+      "identifier": "6203",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garamendi",
+  "political_affiliation": "Democratic"
+}

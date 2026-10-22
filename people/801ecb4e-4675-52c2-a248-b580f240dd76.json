@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6297"
+  },
+  "first_name": "Nathaniel",
+  "full_name": "Nathaniel Moran",
+  "id": "ocd-person/801ecb4e-4675-52c2-a248-b580f240dd76",
+  "identifiers": [
+    {
+      "identifier": "6297",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moran",
+  "political_affiliation": "Republican"
+}

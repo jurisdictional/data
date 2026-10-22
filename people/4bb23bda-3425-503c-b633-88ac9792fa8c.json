@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6329"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Casar",
+  "id": "ocd-person/4bb23bda-3425-503c-b633-88ac9792fa8c",
+  "identifiers": [
+    {
+      "identifier": "6329",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Casar",
+  "political_affiliation": "Democratic"
+}

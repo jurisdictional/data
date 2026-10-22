@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6128"
+  },
+  "first_name": "Pete",
+  "full_name": "Pete Ricketts",
+  "id": "ocd-person/4e66875e-0c4f-525d-ad66-1a3a18e73201",
+  "identifiers": [
+    {
+      "identifier": "6128",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ricketts",
+  "political_affiliation": "Republican"
+}

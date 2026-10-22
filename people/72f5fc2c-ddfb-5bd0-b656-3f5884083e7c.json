@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6333"
+  },
+  "first_name": "Frank",
+  "full_name": "Frank Mrvan",
+  "id": "ocd-person/72f5fc2c-ddfb-5bd0-b656-3f5884083e7c",
+  "identifiers": [
+    {
+      "identifier": "6333",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mrvan",
+  "political_affiliation": "Democratic"
+}

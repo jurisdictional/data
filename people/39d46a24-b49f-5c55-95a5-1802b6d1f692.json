@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6183"
+  },
+  "first_name": "David",
+  "full_name": "David Schweikert",
+  "id": "ocd-person/39d46a24-b49f-5c55-95a5-1802b6d1f692",
+  "identifiers": [
+    {
+      "identifier": "6183",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schweikert",
+  "political_affiliation": "Republican"
+}

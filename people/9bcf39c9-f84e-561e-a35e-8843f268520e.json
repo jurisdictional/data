@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6361"
+  },
+  "first_name": "Cleo",
+  "full_name": "Cleo Fields",
+  "id": "ocd-person/9bcf39c9-f84e-561e-a35e-8843f268520e",
+  "identifiers": [
+    {
+      "identifier": "6361",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fields",
+  "political_affiliation": "Democratic"
+}

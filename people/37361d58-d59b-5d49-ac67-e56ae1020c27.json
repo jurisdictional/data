@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6320"
+  },
+  "first_name": "Brandon",
+  "full_name": "Brandon Gill",
+  "id": "ocd-person/37361d58-d59b-5d49-ac67-e56ae1020c27",
+  "identifiers": [
+    {
+      "identifier": "6320",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gill",
+  "political_affiliation": "Republican"
+}

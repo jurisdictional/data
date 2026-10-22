@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6180"
+  },
+  "first_name": "Gary",
+  "full_name": "Gary Palmer",
+  "id": "ocd-person/f263ef10-42ed-5ed9-bea5-f43059be9ae8",
+  "identifiers": [
+    {
+      "identifier": "6180",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Palmer",
+  "political_affiliation": "Republican"
+}

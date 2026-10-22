@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6543"
+  },
+  "first_name": "Burgess",
+  "full_name": "Burgess Owens",
+  "id": "ocd-person/10d6b997-3705-51a3-a1cb-81d7a50c5a96",
+  "identifiers": [
+    {
+      "identifier": "6543",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Owens"
+}

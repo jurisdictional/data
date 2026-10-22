@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/2496"
+  },
+  "first_name": "Alex",
+  "full_name": "Alex Padilla",
+  "id": "ocd-person/30aa1b2c-e377-554e-b57e-b09d2d813231",
+  "identifiers": [
+    {
+      "identifier": "2496",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Padilla",
+  "political_affiliation": "Democratic"
+}

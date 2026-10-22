@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/15d0e4a8-03e7-5258-9603-991dc15ad518",
+    "start_date": "2026-05-31T14:43:13Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-14th-district",
+  "identifiers": [
+    {
+      "identifier": "7173",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Pennsylvania's 14th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6306"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael McCaul",
+  "id": "ocd-person/a4b1fbcf-eeb9-585d-9ce2-f8e7243c250a",
+  "identifiers": [
+    {
+      "identifier": "6306",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McCaul",
+  "political_affiliation": "Republican"
+}

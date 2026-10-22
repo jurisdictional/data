@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6424"
+  },
+  "first_name": "Maggie",
+  "full_name": "Maggie Goodlander",
+  "id": "ocd-person/ae9a357f-f135-59ce-a86e-7f5ea6270b69",
+  "identifiers": [
+    {
+      "identifier": "6424",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Goodlander",
+  "political_affiliation": "Democratic"
+}

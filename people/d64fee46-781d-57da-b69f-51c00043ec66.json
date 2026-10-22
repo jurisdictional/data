@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6280"
+  },
+  "first_name": "Robin",
+  "full_name": "Robin Kelly",
+  "id": "ocd-person/d64fee46-781d-57da-b69f-51c00043ec66",
+  "identifiers": [
+    {
+      "identifier": "6280",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kelly",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6223"
+  },
+  "first_name": "Judy",
+  "full_name": "Judy Chu",
+  "id": "ocd-person/be3a283c-260c-5337-a9f6-50a4eb4e9dfa",
+  "identifiers": [
+    {
+      "identifier": "6223",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Chu",
+  "political_affiliation": "Democratic"
+}

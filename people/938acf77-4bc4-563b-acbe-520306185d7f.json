@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6085"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Cotton",
+  "id": "ocd-person/938acf77-4bc4-563b-acbe-520306185d7f",
+  "identifiers": [
+    {
+      "identifier": "6085",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cotton",
+  "political_affiliation": "Republican"
+}

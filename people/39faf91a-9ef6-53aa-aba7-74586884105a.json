@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6336"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Baird",
+  "id": "ocd-person/39faf91a-9ef6-53aa-aba7-74586884105a",
+  "identifiers": [
+    {
+      "identifier": "6336",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Baird",
+  "political_affiliation": "Republican"
+}

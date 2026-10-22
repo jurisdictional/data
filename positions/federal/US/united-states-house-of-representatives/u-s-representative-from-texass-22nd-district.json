@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f0e29016-fc25-572c-9ece-4e6484897fcf",
+    "start_date": "2026-05-31T14:47:22Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-22nd-district",
+  "identifiers": [
+    {
+      "identifier": "7217",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 22nd District"
+}

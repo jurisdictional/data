@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6445"
+  },
+  "first_name": "Nydia",
+  "full_name": "Nydia Velázquez",
+  "id": "ocd-person/f73682a2-82c4-56a5-9c53-2c8ae607482e",
+  "identifiers": [
+    {
+      "identifier": "6445",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Velázquez",
+  "political_affiliation": "Democratic"
+}

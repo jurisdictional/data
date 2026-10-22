@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6118"
+  },
+  "first_name": "Gary",
+  "full_name": "Gary Peters",
+  "id": "ocd-person/574c0976-0173-5dc3-97df-aec5b0e4ce20",
+  "identifiers": [
+    {
+      "identifier": "6118",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Peters",
+  "political_affiliation": "Democratic"
+}

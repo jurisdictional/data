@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6245"
+  },
+  "first_name": "Diana",
+  "full_name": "Diana DeGette",
+  "id": "ocd-person/ca4d0f91-d2a6-536f-9c8b-3a34778b1f02",
+  "identifiers": [
+    {
+      "identifier": "6245",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DeGette",
+  "political_affiliation": "Democratic"
+}

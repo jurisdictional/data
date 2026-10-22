@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6244"
+  },
+  "first_name": "Juan",
+  "full_name": "Juan Vargas",
+  "id": "ocd-person/96b82ad9-ca98-5f16-a1da-62aa5a5045b7",
+  "identifiers": [
+    {
+      "identifier": "6244",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Vargas",
+  "political_affiliation": "Democratic"
+}

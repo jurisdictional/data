@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6248"
+  },
+  "first_name": "Lauren",
+  "full_name": "Lauren Boebert",
+  "id": "ocd-person/cb266230-8ea4-5a11-acd5-f6befa668774",
+  "identifiers": [
+    {
+      "identifier": "6248",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Boebert",
+  "political_affiliation": "Republican"
+}

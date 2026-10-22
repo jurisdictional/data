@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6522"
+  },
+  "first_name": "Gabe",
+  "full_name": "Gabe Amo",
+  "id": "ocd-person/81f34e8d-3a07-588d-925e-b1b9d2346d19",
+  "identifiers": [
+    {
+      "identifier": "6522",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Amo",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6597"
+  },
+  "first_name": "Harriet",
+  "full_name": "Harriet Hageman",
+  "id": "ocd-person/d69639fd-b36c-54db-ba8c-20e14fb34dd9",
+  "identifiers": [
+    {
+      "identifier": "6597",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hageman",
+  "political_affiliation": "Republican"
+}

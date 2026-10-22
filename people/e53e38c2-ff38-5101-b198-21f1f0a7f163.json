@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6216"
+  },
+  "first_name": "Vince",
+  "full_name": "Vince Fong",
+  "id": "ocd-person/e53e38c2-ff38-5101-b198-21f1f0a7f163",
+  "identifiers": [
+    {
+      "identifier": "6216",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fong",
+  "political_affiliation": "Republican"
+}

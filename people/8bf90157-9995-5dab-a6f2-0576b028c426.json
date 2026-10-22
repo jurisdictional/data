@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6533"
+  },
+  "first_name": "Chuck",
+  "full_name": "Chuck Fleischmann",
+  "id": "ocd-person/8bf90157-9995-5dab-a6f2-0576b028c426",
+  "identifiers": [
+    {
+      "identifier": "6533",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fleischmann",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6283"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Quigley",
+  "id": "ocd-person/37d82b32-3fe4-588e-842d-da2fed1ba008",
+  "identifiers": [
+    {
+      "identifier": "6283",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Quigley",
+  "political_affiliation": "Democratic"
+}

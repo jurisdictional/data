@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6127"
+  },
+  "first_name": "Deb",
+  "full_name": "Deb Fischer",
+  "id": "ocd-person/c3571cf1-3385-5f92-966c-74cd338bbe94",
+  "identifiers": [
+    {
+      "identifier": "6127",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fischer",
+  "political_affiliation": "Republican"
+}

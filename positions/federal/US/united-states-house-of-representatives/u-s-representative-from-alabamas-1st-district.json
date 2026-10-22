@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fc42ac13-4224-5ccd-ac7a-feb00eeaff98",
+    "start_date": "2026-05-31T02:01:46Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alabamas-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6824",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Alabama's 1st District"
+}

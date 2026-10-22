@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6524"
+  },
+  "first_name": "Nancy",
+  "full_name": "Nancy Mace",
+  "id": "ocd-person/229a6814-ff1c-5064-bc10-ce8bfbf662de",
+  "identifiers": [
+    {
+      "identifier": "6524",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mace",
+  "political_affiliation": "Republican"
+}

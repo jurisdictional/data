@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6212"
+  },
+  "first_name": "Ro",
+  "full_name": "Ro Khanna",
+  "id": "ocd-person/901048cf-4549-5e02-b096-55618013801b",
+  "identifiers": [
+    {
+      "identifier": "6212",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Khanna",
+  "political_affiliation": "Democratic"
+}

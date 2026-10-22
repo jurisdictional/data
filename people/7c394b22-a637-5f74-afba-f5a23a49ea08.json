@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6281"
+  },
+  "first_name": "Delia",
+  "full_name": "Delia Ramirez",
+  "id": "ocd-person/7c394b22-a637-5f74-afba-f5a23a49ea08",
+  "identifiers": [
+    {
+      "identifier": "6281",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ramirez",
+  "political_affiliation": "Democratic"
+}

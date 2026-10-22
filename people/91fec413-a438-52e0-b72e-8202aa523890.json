@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6401"
+  },
+  "first_name": "Pete",
+  "full_name": "Pete Stauber",
+  "id": "ocd-person/91fec413-a438-52e0-b72e-8202aa523890",
+  "identifiers": [
+    {
+      "identifier": "6401",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stauber",
+  "political_affiliation": "Republican"
+}

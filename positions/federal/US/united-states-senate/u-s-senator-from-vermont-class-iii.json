@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/c0f6d5e0-939e-5b31-a689-5b86109e80a0",
+    "start_date": "2026-05-31T00:03:13Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-vermont-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6813",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Vermont (Class III)"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6425"
+  },
+  "first_name": "Donald",
+  "full_name": "Donald Norcross",
+  "id": "ocd-person/a181767b-d8a3-5b32-906c-02aceca3245d",
+  "identifiers": [
+    {
+      "identifier": "6425",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Norcross",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3f524a4b-be82-5002-b318-bb902429b6c8",
+    "start_date": "2026-05-31T14:43:14Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-15th-district",
+  "identifiers": [
+    {
+      "identifier": "7174",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Pennsylvania's 15th District"
+}

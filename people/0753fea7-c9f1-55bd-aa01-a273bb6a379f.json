@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6179"
+  },
+  "first_name": "Dale",
+  "full_name": "Dale Strong",
+  "id": "ocd-person/0753fea7-c9f1-55bd-aa01-a273bb6a379f",
+  "identifiers": [
+    {
+      "identifier": "6179",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Strong",
+  "political_affiliation": "Republican"
+}

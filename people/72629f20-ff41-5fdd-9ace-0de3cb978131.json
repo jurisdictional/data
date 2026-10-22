@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6467"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Murphy",
+  "id": "ocd-person/72629f20-ff41-5fdd-9ace-0de3cb978131",
+  "identifiers": [
+    {
+      "identifier": "6467",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Murphy",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6294"
+  },
+  "first_name": "Darin",
+  "full_name": "Darin LaHood",
+  "id": "ocd-person/5b4bb02e-ca5a-5f74-93f8-c8facbf7754c",
+  "identifiers": [
+    {
+      "identifier": "6294",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "LaHood",
+  "political_affiliation": "Republican"
+}

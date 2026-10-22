@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/013d19c6-8609-5f5c-a92a-630b7bd0ef5d",
+    "start_date": "2026-05-31T05:58:52Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7023",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Maryland's 7th District"
+}

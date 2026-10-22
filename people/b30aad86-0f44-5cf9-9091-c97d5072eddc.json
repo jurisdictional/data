@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6253"
+  },
+  "first_name": "John",
+  "full_name": "John Larson",
+  "id": "ocd-person/b30aad86-0f44-5cf9-9091-c97d5072eddc",
+  "identifiers": [
+    {
+      "identifier": "6253",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Larson",
+  "political_affiliation": "Democratic"
+}

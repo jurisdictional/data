@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6232"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Takano",
+  "id": "ocd-person/ec1a81e3-3dc8-5446-9f06-c94c5bb09401",
+  "identifiers": [
+    {
+      "identifier": "6232",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Takano",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6504"
+  },
+  "first_name": "Janelle",
+  "full_name": "Janelle Bynum",
+  "id": "ocd-person/fa6e02da-25e7-5e10-b279-ee68653b9bc3",
+  "identifiers": [
+    {
+      "identifier": "6504",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bynum",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/33c8670f-c9c8-5619-a781-04981f524263",
+    "start_date": "2026-05-31T14:49:46Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7255",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Washington's 6th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6312"
+  },
+  "first_name": "Veronica",
+  "full_name": "Veronica Escobar",
+  "id": "ocd-person/f9a05082-e673-57e6-904a-02f72d8cbee8",
+  "identifiers": [
+    {
+      "identifier": "6312",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Escobar",
+  "political_affiliation": "Democratic"
+}

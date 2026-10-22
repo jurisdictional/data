@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6129"
+  },
+  "first_name": "Jacky",
+  "full_name": "Jacky Rosen",
+  "id": "ocd-person/4414a7a5-e4e1-582b-93dc-61e519539a1b",
+  "identifiers": [
+    {
+      "identifier": "6129",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rosen",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6133"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Kim",
+  "id": "ocd-person/447c5172-ce71-5bcc-9e50-53b5ba966218",
+  "identifiers": [
+    {
+      "identifier": "6133",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kim",
+  "political_affiliation": "Democratic"
+}

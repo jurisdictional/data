@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/40b8639d-d4b8-5013-844d-65785d4f0474",
+    "start_date": "2026-05-31T05:27:24Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-18th-district",
+  "identifiers": [
+    {
+      "identifier": "6862",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 18th District"
+}

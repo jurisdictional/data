@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6355"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Barr",
+  "id": "ocd-person/6485a652-b3e0-5f84-9009-ef354585a7c5",
+  "identifiers": [
+    {
+      "identifier": "6355",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Barr",
+  "political_affiliation": "Republican"
+}

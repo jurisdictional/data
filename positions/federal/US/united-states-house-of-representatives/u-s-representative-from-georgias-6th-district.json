@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1d6ac237-68fb-52d3-a59f-8709ef018fa4",
+    "start_date": "2026-05-31T05:31:39Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-6th-district",
+  "identifiers": [
+    {
+      "identifier": "6919",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Georgia's 6th District"
+}

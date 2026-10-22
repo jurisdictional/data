@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f4bb7228-a758-507c-81ee-ca455c4a609a",
+    "start_date": "2026-06-01T00:23:37Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-19th-district",
+  "identifiers": [
+    {
+      "identifier": "7460",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 19th District"
+}

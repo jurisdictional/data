@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6114"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Van Hollen",
+  "id": "ocd-person/c27c74d2-6568-5c93-8eaa-57bacd84d582",
+  "identifiers": [
+    {
+      "identifier": "6114",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Van Hollen",
+  "political_affiliation": "Democratic"
+}

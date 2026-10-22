@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/43f9d346-8a54-53c6-a7a1-69c966e69390",
+    "start_date": "2026-05-31T14:40:41Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7138",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 5th District"
+}

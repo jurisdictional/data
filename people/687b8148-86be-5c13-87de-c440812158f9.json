@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6308"
+  },
+  "first_name": "Craig",
+  "full_name": "Craig Goldman",
+  "id": "ocd-person/687b8148-86be-5c13-87de-c440812158f9",
+  "identifiers": [
+    {
+      "identifier": "6308",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Goldman",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6134"
+  },
+  "first_name": "Cory",
+  "full_name": "Cory Booker",
+  "id": "ocd-person/7453ff93-56f4-52d6-8041-d062a1bb855f",
+  "identifiers": [
+    {
+      "identifier": "6134",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Booker",
+  "political_affiliation": "Democratic"
+}

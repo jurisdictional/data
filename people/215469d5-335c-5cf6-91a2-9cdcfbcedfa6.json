@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6208"
+  },
+  "first_name": "John",
+  "full_name": "John Duarte",
+  "id": "ocd-person/215469d5-335c-5cf6-91a2-9cdcfbcedfa6",
+  "identifiers": [
+    {
+      "identifier": "6208",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Duarte",
+  "political_affiliation": "Republican"
+}

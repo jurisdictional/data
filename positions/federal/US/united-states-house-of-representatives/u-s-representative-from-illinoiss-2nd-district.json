@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d64fee46-781d-57da-b69f-51c00043ec66",
+    "start_date": "2026-05-31T05:33:07Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "6933",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Illinois's 2nd District"
+}

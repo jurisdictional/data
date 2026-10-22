@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6447"
+  },
+  "first_name": "Yvette",
+  "full_name": "Yvette Clarke",
+  "id": "ocd-person/73648587-e21c-5db3-95fe-b79dd7657068",
+  "identifiers": [
+    {
+      "identifier": "6447",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Clarke",
+  "political_affiliation": "Democratic"
+}

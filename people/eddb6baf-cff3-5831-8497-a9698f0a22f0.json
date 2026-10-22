@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6436"
+  },
+  "first_name": "Melanie",
+  "full_name": "Melanie Stansbury",
+  "id": "ocd-person/eddb6baf-cff3-5831-8497-a9698f0a22f0",
+  "identifiers": [
+    {
+      "identifier": "6436",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stansbury",
+  "political_affiliation": "Democratic"
+}

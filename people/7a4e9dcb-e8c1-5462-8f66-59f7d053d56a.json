@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6410"
+  },
+  "first_name": "Emanuel",
+  "full_name": "Emanuel Cleaver",
+  "id": "ocd-person/7a4e9dcb-e8c1-5462-8f66-59f7d053d56a",
+  "identifiers": [
+    {
+      "identifier": "6410",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cleaver",
+  "political_affiliation": "Democratic"
+}

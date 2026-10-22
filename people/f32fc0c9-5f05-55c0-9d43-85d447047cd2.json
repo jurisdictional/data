@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6171"
+  },
+  "first_name": "Tammy",
+  "full_name": "Tammy Baldwin",
+  "id": "ocd-person/f32fc0c9-5f05-55c0-9d43-85d447047cd2",
+  "identifiers": [
+    {
+      "identifier": "6171",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Baldwin",
+  "political_affiliation": "Democratic"
+}

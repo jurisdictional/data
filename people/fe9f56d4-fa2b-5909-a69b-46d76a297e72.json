@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6228"
+  },
+  "first_name": "Norma",
+  "full_name": "Norma Torres",
+  "id": "ocd-person/fe9f56d4-fa2b-5909-a69b-46d76a297e72",
+  "identifiers": [
+    {
+      "identifier": "6228",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Torres",
+  "political_affiliation": "Democratic"
+}

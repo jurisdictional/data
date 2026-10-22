@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6560"
+  },
+  "first_name": "Cory",
+  "full_name": "Cory Mills",
+  "id": "ocd-person/1a817359-2430-5ea2-8c27-13c16d0b26d2",
+  "identifiers": [
+    {
+      "identifier": "6560",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mills",
+  "political_affiliation": "Republican"
+}

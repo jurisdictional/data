@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/ac826d8f-b7fb-5edd-b7b2-e651005beccb",
+    "start_date": "2026-05-31T00:00:58Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-new-york-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6787",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from New York (Class III)"
+}

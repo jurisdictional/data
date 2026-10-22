@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/0753fea7-c9f1-55bd-aa01-a273bb6a379f",
+    "start_date": "2026-05-31T02:01:48Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alabamas-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6828",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Alabama's 5th District"
+}

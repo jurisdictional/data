@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6460"
+  },
+  "first_name": "John",
+  "full_name": "John Mannion",
+  "id": "ocd-person/8d9119dd-d917-5ab4-aaef-c78a21c3ed3a",
+  "identifiers": [
+    {
+      "identifier": "6460",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mannion",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6391"
+  },
+  "first_name": "Haley",
+  "full_name": "Haley Stevens",
+  "id": "ocd-person/38357f31-53f8-5855-af66-bda4872ec7d1",
+  "identifiers": [
+    {
+      "identifier": "6391",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stevens",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/b1860e28-763f-5488-b3cd-cbf08ad62d71",
+    "start_date": "2026-05-31T00:00:59Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-north-carolina-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6789",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from North Carolina (Class III)"
+}

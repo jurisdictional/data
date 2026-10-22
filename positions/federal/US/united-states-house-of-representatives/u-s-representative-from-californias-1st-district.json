@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/02237bfb-c7e5-5877-9929-2e10611bc8e1",
+    "start_date": "2026-05-31T05:27:01Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6845",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 1st District"
+}

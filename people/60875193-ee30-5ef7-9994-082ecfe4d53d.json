@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6417"
+  },
+  "first_name": "Don",
+  "full_name": "Don Bacon",
+  "id": "ocd-person/60875193-ee30-5ef7-9994-082ecfe4d53d",
+  "identifiers": [
+    {
+      "identifier": "6417",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bacon",
+  "political_affiliation": "Republican"
+}

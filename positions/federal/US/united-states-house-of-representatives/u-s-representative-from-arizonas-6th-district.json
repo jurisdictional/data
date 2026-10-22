@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c42464e9-a1b6-5e53-8047-b7b6f6457b4f",
+    "start_date": "2026-05-31T05:02:13Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-6th-district",
+  "identifiers": [
+    {
+      "identifier": "6837",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Arizona's 6th District"
+}

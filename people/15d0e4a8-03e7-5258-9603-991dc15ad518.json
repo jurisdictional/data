@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6519"
+  },
+  "first_name": "Guy",
+  "full_name": "Guy Reschenthaler",
+  "id": "ocd-person/15d0e4a8-03e7-5258-9603-991dc15ad518",
+  "identifiers": [
+    {
+      "identifier": "6519",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Reschenthaler",
+  "political_affiliation": "Republican"
+}

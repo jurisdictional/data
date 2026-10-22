@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6422"
+  },
+  "first_name": "Steven",
+  "full_name": "Steven Horsford",
+  "id": "ocd-person/39f10486-f86f-5e86-b16a-594199e5f9b0",
+  "identifiers": [
+    {
+      "identifier": "6422",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Horsford",
+  "political_affiliation": "Democratic"
+}

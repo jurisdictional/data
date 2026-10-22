@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6512"
+  },
+  "first_name": "Ryan",
+  "full_name": "Ryan Mackenzie",
+  "id": "ocd-person/e181c46d-7c55-596b-9448-8d498e7d46bf",
+  "identifiers": [
+    {
+      "identifier": "6512",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mackenzie",
+  "political_affiliation": "Republican"
+}

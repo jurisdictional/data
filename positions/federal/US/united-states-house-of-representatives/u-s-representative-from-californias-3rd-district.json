@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/9eb69ec2-4c8f-5758-b9b4-e49db150be37",
+    "start_date": "2026-05-31T05:27:03Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "6847",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 3rd District"
+}

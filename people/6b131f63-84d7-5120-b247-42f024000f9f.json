@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6465"
+  },
+  "first_name": "Don",
+  "full_name": "Don Davis",
+  "id": "ocd-person/6b131f63-84d7-5120-b247-42f024000f9f",
+  "identifiers": [
+    {
+      "identifier": "6465",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davis",
+  "political_affiliation": "Democratic"
+}

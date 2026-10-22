@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6287"
+  },
+  "first_name": "Jan",
+  "full_name": "Jan Schakowsky",
+  "id": "ocd-person/1f1df8e9-7c66-5a3a-bbaf-11fd15884388",
+  "identifiers": [
+    {
+      "identifier": "6287",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schakowsky",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6584"
+  },
+  "first_name": "Gwen",
+  "full_name": "Gwen Moore",
+  "id": "ocd-person/e03391cf-298f-5742-872e-9ff4543d206e",
+  "identifiers": [
+    {
+      "identifier": "6584",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore"
+}

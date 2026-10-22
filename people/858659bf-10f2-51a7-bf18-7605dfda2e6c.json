@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6556"
+  },
+  "first_name": "Neal",
+  "full_name": "Neal Dunn",
+  "id": "ocd-person/858659bf-10f2-51a7-bf18-7605dfda2e6c",
+  "identifiers": [
+    {
+      "identifier": "6556",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dunn",
+  "political_affiliation": "Republican"
+}

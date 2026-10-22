@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d4c0a27b-6631-58ec-a03e-6f74c13ef9e1",
+    "start_date": "2026-05-31T05:56:06Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "6988",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Indiana's 3rd District"
+}

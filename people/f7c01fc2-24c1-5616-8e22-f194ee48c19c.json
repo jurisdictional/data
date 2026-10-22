@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6526"
+  },
+  "first_name": "Sheri",
+  "full_name": "Sheri Biggs",
+  "id": "ocd-person/f7c01fc2-24c1-5616-8e22-f194ee48c19c",
+  "identifiers": [
+    {
+      "identifier": "6526",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Biggs",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/612c577a-20b6-5944-a25e-9e7cc5d8cd03",
+    "start_date": "2026-05-31T14:47:13Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-17th-district",
+  "identifiers": [
+    {
+      "identifier": "7212",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 17th District"
+}

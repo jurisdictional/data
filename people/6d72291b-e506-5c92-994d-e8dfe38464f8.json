@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6545"
+  },
+  "first_name": "Rob",
+  "full_name": "Rob Wittman",
+  "id": "ocd-person/6d72291b-e506-5c92-994d-e8dfe38464f8",
+  "identifiers": [
+    {
+      "identifier": "6545",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wittman"
+}

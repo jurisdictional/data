@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6099"
+  },
+  "first_name": "Tammy",
+  "full_name": "Tammy Duckworth",
+  "id": "ocd-person/0975831a-ca7a-547d-adb2-6daee2de3653",
+  "identifiers": [
+    {
+      "identifier": "6099",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Duckworth",
+  "political_affiliation": "Democratic"
+}

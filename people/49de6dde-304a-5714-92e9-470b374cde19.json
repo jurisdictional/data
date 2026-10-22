@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6408"
+  },
+  "first_name": "Bob",
+  "full_name": "Bob Onder",
+  "id": "ocd-person/49de6dde-304a-5714-92e9-470b374cde19",
+  "identifiers": [
+    {
+      "identifier": "6408",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Onder",
+  "political_affiliation": "Republican"
+}

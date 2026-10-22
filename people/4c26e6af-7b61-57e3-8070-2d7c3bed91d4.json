@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6165"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Kaine",
+  "id": "ocd-person/4c26e6af-7b61-57e3-8070-2d7c3bed91d4",
+  "identifiers": [
+    {
+      "identifier": "6165",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kaine",
+  "political_affiliation": "Democratic"
+}

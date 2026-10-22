@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6309"
+  },
+  "first_name": "Ronny",
+  "full_name": "Ronny Jackson",
+  "id": "ocd-person/7e7e2177-3a66-5d05-840b-44b7a7918022",
+  "identifiers": [
+    {
+      "identifier": "6309",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jackson",
+  "political_affiliation": "Republican"
+}

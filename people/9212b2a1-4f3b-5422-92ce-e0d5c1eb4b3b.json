@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6403"
+  },
+  "first_name": "Bennie",
+  "full_name": "Bennie Thompson",
+  "id": "ocd-person/9212b2a1-4f3b-5422-92ce-e0d5c1eb4b3b",
+  "identifiers": [
+    {
+      "identifier": "6403",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Thompson",
+  "political_affiliation": "Democratic"
+}

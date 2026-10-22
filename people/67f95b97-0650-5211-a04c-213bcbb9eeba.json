@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6330"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Babin",
+  "id": "ocd-person/67f95b97-0650-5211-a04c-213bcbb9eeba",
+  "identifiers": [
+    {
+      "identifier": "6330",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Babin",
+  "political_affiliation": "Republican"
+}

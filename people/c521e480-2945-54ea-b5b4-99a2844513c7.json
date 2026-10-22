@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6379"
+  },
+  "first_name": "Stephen",
+  "full_name": "Stephen Lynch",
+  "id": "ocd-person/c521e480-2945-54ea-b5b4-99a2844513c7",
+  "identifiers": [
+    {
+      "identifier": "6379",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lynch",
+  "political_affiliation": "Democratic"
+}

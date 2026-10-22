@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6121"
+  },
+  "first_name": "Roger",
+  "full_name": "Roger Wicker",
+  "id": "ocd-person/aea2a574-d757-5afa-a742-244f7dafa3a2",
+  "identifiers": [
+    {
+      "identifier": "6121",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wicker",
+  "political_affiliation": "Republican"
+}

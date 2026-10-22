@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6579"
+  },
+  "first_name": "Carol",
+  "full_name": "Carol Miller",
+  "id": "ocd-person/41a0cd6d-84a6-5e9f-8cf6-e2f9dffa1554",
+  "identifiers": [
+    {
+      "identifier": "6579",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Miller"
+}

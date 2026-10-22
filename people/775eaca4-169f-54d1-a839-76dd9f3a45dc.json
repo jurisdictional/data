@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6440"
+  },
+  "first_name": "Andrew",
+  "full_name": "Andrew Garbarino",
+  "id": "ocd-person/775eaca4-169f-54d1-a839-76dd9f3a45dc",
+  "identifiers": [
+    {
+      "identifier": "6440",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garbarino",
+  "political_affiliation": "Republican"
+}

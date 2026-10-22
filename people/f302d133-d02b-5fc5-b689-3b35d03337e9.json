@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6593"
+  },
+  "first_name": "Scott",
+  "full_name": "Scott Fitzgerald",
+  "id": "ocd-person/f302d133-d02b-5fc5-b689-3b35d03337e9",
+  "identifiers": [
+    {
+      "identifier": "6593",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fitzgerald"
+}

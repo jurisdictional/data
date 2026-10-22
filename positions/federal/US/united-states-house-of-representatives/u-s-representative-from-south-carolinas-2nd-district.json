@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2fa76792-531d-582d-a2d4-27bd659cffd6",
+    "start_date": "2026-05-31T14:44:38Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7180",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from South Carolina's 2nd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6515"
+  },
+  "first_name": "Scott",
+  "full_name": "Scott Perry",
+  "id": "ocd-person/2405b836-9bf8-5f62-9bd2-994e783db5db",
+  "identifiers": [
+    {
+      "identifier": "6515",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Perry",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6089"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Murphy",
+  "id": "ocd-person/05c4a1b2-0396-5740-8a1d-298baed1dc5d",
+  "identifiers": [
+    {
+      "identifier": "6089",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Murphy",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/0e8e6dc9-bb35-5e52-9305-64f7edbe0884",
+    "start_date": "2026-05-31T14:42:00Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7156",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oregon's 3rd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6350"
+  },
+  "first_name": "James",
+  "full_name": "James Comer",
+  "id": "ocd-person/e796f616-a5cc-58a9-af14-6ef9fb93a1e1",
+  "identifiers": [
+    {
+      "identifier": "6350",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Comer",
+  "political_affiliation": "Republican"
+}

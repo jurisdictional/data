@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6587"
+  },
+  "first_name": "Byron",
+  "full_name": "Byron Donalds",
+  "id": "ocd-person/f4bb7228-a758-507c-81ee-ca455c4a609a",
+  "identifiers": [
+    {
+      "identifier": "6587",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Donalds",
+  "political_affiliation": "Republican"
+}

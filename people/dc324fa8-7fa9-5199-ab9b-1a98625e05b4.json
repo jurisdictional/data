@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6201"
+  },
+  "first_name": "Ami",
+  "full_name": "Ami Bera",
+  "id": "ocd-person/dc324fa8-7fa9-5199-ab9b-1a98625e05b4",
+  "identifiers": [
+    {
+      "identifier": "6201",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bera",
+  "political_affiliation": "Democratic"
+}

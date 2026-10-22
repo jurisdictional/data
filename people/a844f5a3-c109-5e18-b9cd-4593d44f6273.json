@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6282"
+  },
+  "first_name": "Chuy",
+  "full_name": "Chuy García",
+  "id": "ocd-person/a844f5a3-c109-5e18-b9cd-4593d44f6273",
+  "identifiers": [
+    {
+      "identifier": "6282",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "García",
+  "political_affiliation": "Democratic"
+}

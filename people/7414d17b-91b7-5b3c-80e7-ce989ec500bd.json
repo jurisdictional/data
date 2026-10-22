@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6485"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Rulli",
+  "id": "ocd-person/7414d17b-91b7-5b3c-80e7-ce989ec500bd",
+  "identifiers": [
+    {
+      "identifier": "6485",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rulli",
+  "political_affiliation": "Republican"
+}

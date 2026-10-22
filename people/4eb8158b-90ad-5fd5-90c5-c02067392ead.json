@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6206"
+  },
+  "first_name": "Nancy",
+  "full_name": "Nancy Pelosi",
+  "id": "ocd-person/4eb8158b-90ad-5fd5-90c5-c02067392ead",
+  "identifiers": [
+    {
+      "identifier": "6206",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pelosi",
+  "political_affiliation": "Democratic"
+}

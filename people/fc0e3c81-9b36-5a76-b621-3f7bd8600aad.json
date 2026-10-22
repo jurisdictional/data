@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6505"
+  },
+  "first_name": "Andrea",
+  "full_name": "Andrea Salinas",
+  "id": "ocd-person/fc0e3c81-9b36-5a76-b621-3f7bd8600aad",
+  "identifiers": [
+    {
+      "identifier": "6505",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Salinas",
+  "political_affiliation": "Democratic"
+}

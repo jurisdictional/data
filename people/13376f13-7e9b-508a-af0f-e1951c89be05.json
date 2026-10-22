@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6236"
+  },
+  "first_name": "Nanette",
+  "full_name": "Nanette Barragán",
+  "id": "ocd-person/13376f13-7e9b-508a-af0f-e1951c89be05",
+  "identifiers": [
+    {
+      "identifier": "6236",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Barragán",
+  "political_affiliation": "Democratic"
+}

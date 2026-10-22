@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6237"
+  },
+  "first_name": "Michelle",
+  "full_name": "Michelle Steel",
+  "id": "ocd-person/7575c421-06d2-572c-b1d0-09185b0cfd9d",
+  "identifiers": [
+    {
+      "identifier": "6237",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Steel",
+  "political_affiliation": "Republican"
+}

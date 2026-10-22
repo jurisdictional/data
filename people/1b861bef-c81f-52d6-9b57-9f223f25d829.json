@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6271"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Collins",
+  "id": "ocd-person/1b861bef-c81f-52d6-9b57-9f223f25d829",
+  "identifiers": [
+    {
+      "identifier": "6271",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Collins",
+  "political_affiliation": "Republican"
+}

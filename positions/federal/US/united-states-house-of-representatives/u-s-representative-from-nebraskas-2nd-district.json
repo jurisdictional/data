@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/60875193-ee30-5ef7-9994-082ecfe4d53d",
+    "start_date": "2026-05-31T06:03:49Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-nebraskas-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7070",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Nebraska's 2nd District"
+}

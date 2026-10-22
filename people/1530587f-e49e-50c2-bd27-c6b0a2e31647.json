@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6482"
+  },
+  "first_name": "Joyce",
+  "full_name": "Joyce Beatty",
+  "id": "ocd-person/1530587f-e49e-50c2-bd27-c6b0a2e31647",
+  "identifiers": [
+    {
+      "identifier": "6482",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Beatty",
+  "political_affiliation": "Democratic"
+}

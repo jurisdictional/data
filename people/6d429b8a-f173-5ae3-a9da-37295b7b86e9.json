@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6407"
+  },
+  "first_name": "Ann",
+  "full_name": "Ann Wagner",
+  "id": "ocd-person/6d429b8a-f173-5ae3-a9da-37295b7b86e9",
+  "identifiers": [
+    {
+      "identifier": "6407",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wagner",
+  "political_affiliation": "Republican"
+}

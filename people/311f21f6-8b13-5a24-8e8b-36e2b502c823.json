@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6181"
+  },
+  "first_name": "Terri",
+  "full_name": "Terri Sewell",
+  "id": "ocd-person/311f21f6-8b13-5a24-8e8b-36e2b502c823",
+  "identifiers": [
+    {
+      "identifier": "6181",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sewell",
+  "political_affiliation": "Democratic"
+}

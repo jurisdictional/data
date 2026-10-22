@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/3c02c93b-8690-582c-b692-81e63d91741f",
+    "start_date": "2026-05-30T23:57:20Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-delaware-class-ii",
+  "identifiers": [
+    {
+      "identifier": "6739",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Delaware (Class II)"
+}

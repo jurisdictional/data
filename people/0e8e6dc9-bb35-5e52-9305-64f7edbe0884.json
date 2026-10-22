@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6502"
+  },
+  "first_name": "Maxine",
+  "full_name": "Maxine Dexter",
+  "id": "ocd-person/0e8e6dc9-bb35-5e52-9305-64f7edbe0884",
+  "identifiers": [
+    {
+      "identifier": "6502",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dexter",
+  "political_affiliation": "Democratic"
+}

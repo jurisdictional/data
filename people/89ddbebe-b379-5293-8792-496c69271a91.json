@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6455"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Lawler",
+  "id": "ocd-person/89ddbebe-b379-5293-8792-496c69271a91",
+  "identifiers": [
+    {
+      "identifier": "6455",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lawler",
+  "political_affiliation": "Republican"
+}

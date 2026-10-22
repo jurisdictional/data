@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6096"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Schatz",
+  "id": "ocd-person/5ed3a69d-3a41-541d-a19f-074c0cc5e522",
+  "identifiers": [
+    {
+      "identifier": "6096",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schatz",
+  "political_affiliation": "Democratic"
+}

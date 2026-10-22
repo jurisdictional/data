@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6132"
+  },
+  "first_name": "Maggie",
+  "full_name": "Maggie Hassan",
+  "id": "ocd-person/c7fdc00a-cc6d-58b7-8c3e-09bcc777c5a9",
+  "identifiers": [
+    {
+      "identifier": "6132",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hassan",
+  "political_affiliation": "Democratic"
+}

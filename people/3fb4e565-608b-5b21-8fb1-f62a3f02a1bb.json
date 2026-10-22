@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6430"
+  },
+  "first_name": "Thomas",
+  "full_name": "Thomas Kean Jr.",
+  "id": "ocd-person/3fb4e565-608b-5b21-8fb1-f62a3f02a1bb",
+  "identifiers": [
+    {
+      "identifier": "6430",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kean Jr.",
+  "political_affiliation": "Republican"
+}

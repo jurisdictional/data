@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6238"
+  },
+  "first_name": "Lou",
+  "full_name": "Lou Correa",
+  "id": "ocd-person/9d787cc4-2c16-5b80-b82f-09a74b35d2be",
+  "identifiers": [
+    {
+      "identifier": "6238",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Correa",
+  "political_affiliation": "Democratic"
+}

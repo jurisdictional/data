@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6497"
+  },
+  "first_name": "Frank",
+  "full_name": "Frank Lucas",
+  "id": "ocd-person/c98b1d20-36e8-5316-b7f2-8aacb96b8727",
+  "identifiers": [
+    {
+      "identifier": "6497",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lucas",
+  "political_affiliation": "Republican"
+}

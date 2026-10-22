@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6111"
+  },
+  "first_name": "Angus",
+  "full_name": "Angus King",
+  "id": "ocd-person/13ef67ec-4190-530b-9ead-a383978c0e1a",
+  "identifiers": [
+    {
+      "identifier": "6111",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "King",
+  "political_affiliation": "Independent"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6241"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Levin",
+  "id": "ocd-person/e5159dc4-1841-57d3-9405-2df699082847",
+  "identifiers": [
+    {
+      "identifier": "6241",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Levin",
+  "political_affiliation": "Democratic"
+}

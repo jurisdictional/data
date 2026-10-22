@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6319"
+  },
+  "first_name": "Roger",
+  "full_name": "Roger Williams",
+  "id": "ocd-person/8aa75432-9266-55f5-b14c-b176a794b0d4",
+  "identifiers": [
+    {
+      "identifier": "6319",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Williams",
+  "political_affiliation": "Republican"
+}

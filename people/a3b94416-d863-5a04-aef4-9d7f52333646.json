@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6291"
+  },
+  "first_name": "Nikki",
+  "full_name": "Nikki Budzinski",
+  "id": "ocd-person/a3b94416-d863-5a04-aef4-9d7f52333646",
+  "identifiers": [
+    {
+      "identifier": "6291",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Budzinski",
+  "political_affiliation": "Democratic"
+}

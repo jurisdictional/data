@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6478"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Moore",
+  "id": "ocd-person/0ffc04c3-216f-541f-a15c-8e1a6bfd44d7",
+  "identifiers": [
+    {
+      "identifier": "6478",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore",
+  "political_affiliation": "Republican"
+}

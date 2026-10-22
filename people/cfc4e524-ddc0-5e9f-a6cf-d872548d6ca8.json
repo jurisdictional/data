@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6568"
+  },
+  "first_name": "Pramila",
+  "full_name": "Pramila Jayapal",
+  "id": "ocd-person/cfc4e524-ddc0-5e9f-a6cf-d872548d6ca8",
+  "identifiers": [
+    {
+      "identifier": "6568",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jayapal"
+}

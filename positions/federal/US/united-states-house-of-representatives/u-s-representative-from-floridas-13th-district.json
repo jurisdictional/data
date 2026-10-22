@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/12fdfbaf-a346-5c5e-b2f6-fe786c69f483",
+    "start_date": "2026-06-01T00:23:17Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-13th-district",
+  "identifiers": [
+    {
+      "identifier": "7454",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 13th District"
+}

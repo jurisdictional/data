@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6439"
+  },
+  "first_name": "Nick",
+  "full_name": "Nick LaLota",
+  "id": "ocd-person/5d3e471d-cb49-54fb-962d-5d131e0b1b14",
+  "identifiers": [
+    {
+      "identifier": "6439",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "LaLota",
+  "political_affiliation": "Republican"
+}

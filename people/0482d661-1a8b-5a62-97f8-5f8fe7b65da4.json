@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6383"
+  },
+  "first_name": "Hillary",
+  "full_name": "Hillary Scholten",
+  "id": "ocd-person/0482d661-1a8b-5a62-97f8-5f8fe7b65da4",
+  "identifiers": [
+    {
+      "identifier": "6383",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scholten",
+  "political_affiliation": "Democratic"
+}

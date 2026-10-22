@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5b4bb02e-ca5a-5f74-93f8-c8facbf7754c",
+    "start_date": "2026-05-31T05:33:29Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-16th-district",
+  "identifiers": [
+    {
+      "identifier": "6947",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Illinois's 16th District"
+}

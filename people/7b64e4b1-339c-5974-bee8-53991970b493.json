@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6516"
+  },
+  "first_name": "Lloyd",
+  "full_name": "Lloyd Smucker",
+  "id": "ocd-person/7b64e4b1-339c-5974-bee8-53991970b493",
+  "identifiers": [
+    {
+      "identifier": "6516",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smucker",
+  "political_affiliation": "Republican"
+}

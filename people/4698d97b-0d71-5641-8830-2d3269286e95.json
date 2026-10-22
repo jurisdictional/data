@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6548"
+  },
+  "first_name": "Jennifer",
+  "full_name": "Jennifer McClellan",
+  "id": "ocd-person/4698d97b-0d71-5641-8830-2d3269286e95",
+  "identifiers": [
+    {
+      "identifier": "6548",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McClellan"
+}

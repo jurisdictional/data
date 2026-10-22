@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6284"
+  },
+  "first_name": "Sean",
+  "full_name": "Sean Casten",
+  "id": "ocd-person/61673869-c374-538f-85c0-c1f045e0fa37",
+  "identifiers": [
+    {
+      "identifier": "6284",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Casten",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6369"
+  },
+  "first_name": "April",
+  "full_name": "April McClain Delaney",
+  "id": "ocd-person/ce652ec0-d9be-5a98-83d2-316db9ab0525",
+  "identifiers": [
+    {
+      "identifier": "6369",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McClain Delaney",
+  "political_affiliation": "Democratic"
+}

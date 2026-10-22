@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6157"
+  },
+  "first_name": "Marsha",
+  "full_name": "Marsha Blackburn",
+  "id": "ocd-person/dd5f7a17-68d0-5adf-bb1b-764dbec90257",
+  "identifiers": [
+    {
+      "identifier": "6157",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Blackburn",
+  "political_affiliation": "Republican"
+}

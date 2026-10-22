@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3cd842d0-0caa-562c-ac3e-326249575bec",
+    "start_date": "2026-05-31T06:00:31Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7038",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Michigan's 5th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6202"
+  },
+  "first_name": "Doris",
+  "full_name": "Doris Matsui",
+  "id": "ocd-person/61ed17a5-779f-5350-8ca7-d4665027da56",
+  "identifiers": [
+    {
+      "identifier": "6202",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Matsui",
+  "political_affiliation": "Democratic"
+}

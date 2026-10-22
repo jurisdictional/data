@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6137"
+  },
+  "first_name": "Kirsten",
+  "full_name": "Kirsten Gillibrand",
+  "id": "ocd-person/d888c6a3-2386-52d9-a06d-2fd85468455d",
+  "identifiers": [
+    {
+      "identifier": "6137",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gillibrand",
+  "political_affiliation": "Democratic"
+}

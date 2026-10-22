@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6322"
+  },
+  "first_name": "Henry",
+  "full_name": "Henry Cuellar",
+  "id": "ocd-person/cb0ecc9b-a2c7-5f95-878e-c9ebfdd75baa",
+  "identifiers": [
+    {
+      "identifier": "6322",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cuellar",
+  "political_affiliation": "Democratic"
+}

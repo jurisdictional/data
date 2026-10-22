@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6349"
+  },
+  "first_name": "Ron",
+  "full_name": "Ron Estes",
+  "id": "ocd-person/3a4e7138-b4b5-5107-91ba-3b7252eeff63",
+  "identifiers": [
+    {
+      "identifier": "6349",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Estes",
+  "political_affiliation": "Republican"
+}

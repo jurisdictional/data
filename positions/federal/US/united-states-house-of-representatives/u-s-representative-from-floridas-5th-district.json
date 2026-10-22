@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/067e246d-855c-58a5-9097-a0aa087b9f2c",
+    "start_date": "2026-06-01T00:23:09Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7446",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 5th District"
+}

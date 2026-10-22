@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6472"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Harris",
+  "id": "ocd-person/b0891301-da50-5ac4-bf8c-d1dc2d714388",
+  "identifiers": [
+    {
+      "identifier": "6472",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harris",
+  "political_affiliation": "Republican"
+}

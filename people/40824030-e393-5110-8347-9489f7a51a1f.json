@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6078"
+  },
+  "first_name": "Katie",
+  "full_name": "Katie Britt",
+  "id": "ocd-person/40824030-e393-5110-8347-9489f7a51a1f",
+  "identifiers": [
+    {
+      "identifier": "6078",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Britt",
+  "political_affiliation": "Republican"
+}

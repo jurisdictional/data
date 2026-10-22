@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6123"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Hawley",
+  "id": "ocd-person/d502e1e1-1b74-53b9-b189-45cc168b1e9a",
+  "identifiers": [
+    {
+      "identifier": "6123",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hawley",
+  "political_affiliation": "Republican"
+}

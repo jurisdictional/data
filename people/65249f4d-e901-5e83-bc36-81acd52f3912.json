@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6146"
+  },
+  "first_name": "Kelly",
+  "full_name": "Kelly Armstrong",
+  "id": "ocd-person/65249f4d-e901-5e83-bc36-81acd52f3912",
+  "identifiers": [
+    {
+      "identifier": "6146",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Armstrong",
+  "political_affiliation": "Republican"
+}

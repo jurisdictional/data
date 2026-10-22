@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6303"
+  },
+  "first_name": "Lizzie",
+  "full_name": "Lizzie Fletcher",
+  "id": "ocd-person/a7bef2e2-f407-5d3f-83e7-df777d074448",
+  "identifiers": [
+    {
+      "identifier": "6303",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fletcher",
+  "political_affiliation": "Democratic"
+}

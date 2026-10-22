@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6387"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Barrett",
+  "id": "ocd-person/b6ec4a87-1895-58ed-84b5-debf7a5429b1",
+  "identifiers": [
+    {
+      "identifier": "6387",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Barrett",
+  "political_affiliation": "Republican"
+}

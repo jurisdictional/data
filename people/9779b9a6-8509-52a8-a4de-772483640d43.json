@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6269"
+  },
+  "first_name": "Austin",
+  "full_name": "Austin Scott",
+  "id": "ocd-person/9779b9a6-8509-52a8-a4de-772483640d43",
+  "identifiers": [
+    {
+      "identifier": "6269",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Scott",
+  "political_affiliation": "Republican"
+}

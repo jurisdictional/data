@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6596"
+  },
+  "first_name": "Tony",
+  "full_name": "Tony Wied",
+  "id": "ocd-person/a32dd19c-b31e-5d3d-b9d7-6e171dbecb51",
+  "identifiers": [
+    {
+      "identifier": "6596",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wied"
+}

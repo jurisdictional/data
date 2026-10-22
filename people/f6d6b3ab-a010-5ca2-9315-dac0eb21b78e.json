@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6506"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Fitzpatrick",
+  "id": "ocd-person/f6d6b3ab-a010-5ca2-9315-dac0eb21b78e",
+  "identifiers": [
+    {
+      "identifier": "6506",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fitzpatrick",
+  "political_affiliation": "Republican"
+}

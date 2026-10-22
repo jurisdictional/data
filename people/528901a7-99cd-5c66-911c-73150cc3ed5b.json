@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6252"
+  },
+  "first_name": "Yadira",
+  "full_name": "Yadira Caraveo",
+  "id": "ocd-person/528901a7-99cd-5c66-911c-73150cc3ed5b",
+  "identifiers": [
+    {
+      "identifier": "6252",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Caraveo",
+  "political_affiliation": "Democratic"
+}

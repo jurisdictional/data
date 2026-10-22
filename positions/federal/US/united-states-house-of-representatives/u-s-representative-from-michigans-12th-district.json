@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1160363d-d5b2-546c-a248-921c6b4c9b75",
+    "start_date": "2026-05-31T06:00:43Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-12th-district",
+  "identifiers": [
+    {
+      "identifier": "7045",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Michigan's 12th District"
+}

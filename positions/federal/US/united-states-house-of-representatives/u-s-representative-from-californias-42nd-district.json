@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5058d8d4-09d0-595c-8989-8e930899fb12",
+    "start_date": "2026-05-31T05:28:06Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-42nd-district",
+  "identifiers": [
+    {
+      "identifier": "6886",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 42nd District"
+}

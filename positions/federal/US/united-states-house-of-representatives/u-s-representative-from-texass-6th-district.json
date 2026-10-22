@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/083720b4-3256-51d2-be78-a43910f11121",
+    "start_date": "2026-05-31T14:46:57Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7201",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 6th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6221"
+  },
+  "first_name": "Julia",
+  "full_name": "Julia Brownley",
+  "id": "ocd-person/dfc466e4-2662-51a3-ab99-8d41ac749b63",
+  "identifiers": [
+    {
+      "identifier": "6221",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brownley",
+  "political_affiliation": "Democratic"
+}

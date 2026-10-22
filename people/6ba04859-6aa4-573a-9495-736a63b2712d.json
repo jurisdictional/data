@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5461"
+  },
+  "first_name": "Jimmy",
+  "full_name": "Jimmy Patronis",
+  "id": "ocd-person/6ba04859-6aa4-573a-9495-736a63b2712d",
+  "identifiers": [
+    {
+      "identifier": "5461",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Patronis",
+  "political_affiliation": "Republican"
+}

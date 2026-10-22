@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6544"
+  },
+  "first_name": "Becca",
+  "full_name": "Becca Balint",
+  "id": "ocd-person/315c8a99-f0a9-52aa-b6d9-2c5dc3e21fd4",
+  "identifiers": [
+    {
+      "identifier": "6544",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Balint",
+  "political_affiliation": "Democratic"
+}

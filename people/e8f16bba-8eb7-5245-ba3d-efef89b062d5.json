@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6517"
+  },
+  "first_name": "Summer",
+  "full_name": "Summer Lee",
+  "id": "ocd-person/e8f16bba-8eb7-5245-ba3d-efef89b062d5",
+  "identifiers": [
+    {
+      "identifier": "6517",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f8135d50-4483-5048-9048-7f5c7dee6477",
+    "start_date": "2026-05-31T05:56:08Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6990",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Indiana's 5th District"
+}

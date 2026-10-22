@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6224"
+  },
+  "first_name": "Tony",
+  "full_name": "Tony Cárdenas",
+  "id": "ocd-person/57106bbb-7af3-5053-9b22-7fac81a54c4b",
+  "identifiers": [
+    {
+      "identifier": "6224",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cárdenas",
+  "political_affiliation": "Democratic"
+}

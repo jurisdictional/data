@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6098"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Crapo",
+  "id": "ocd-person/09866b31-f62a-54b4-a8c4-feb751673beb",
+  "identifiers": [
+    {
+      "identifier": "6098",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crapo",
+  "political_affiliation": "Republican"
+}

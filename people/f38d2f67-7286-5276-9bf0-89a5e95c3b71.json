@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6225"
+  },
+  "first_name": "Pete",
+  "full_name": "Pete Aguilar",
+  "id": "ocd-person/f38d2f67-7286-5276-9bf0-89a5e95c3b71",
+  "identifiers": [
+    {
+      "identifier": "6225",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Aguilar",
+  "political_affiliation": "Democratic"
+}

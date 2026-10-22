@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6167"
+  },
+  "first_name": "Maria",
+  "full_name": "Maria Cantwell",
+  "id": "ocd-person/18e3bd87-2ef6-5d5b-86db-998ccf1b2d7c",
+  "identifiers": [
+    {
+      "identifier": "6167",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cantwell",
+  "political_affiliation": "Democratic"
+}

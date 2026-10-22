@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/bb893006-f01b-5b41-be1d-74bb4c799853",
+    "start_date": "2026-05-31T14:49:21Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7240",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Virginia's 2nd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6573"
+  },
+  "first_name": "Anna",
+  "full_name": "Anna Paulina Luna",
+  "id": "ocd-person/12fdfbaf-a346-5c5e-b2f6-fe786c69f483",
+  "identifiers": [
+    {
+      "identifier": "6573",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Paulina Luna",
+  "political_affiliation": "Republican"
+}

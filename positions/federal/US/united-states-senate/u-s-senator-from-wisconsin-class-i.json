@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/f32fc0c9-5f05-55c0-9d43-85d447047cd2",
+    "start_date": "2026-05-31T00:03:23Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-wisconsin-class-i",
+  "identifiers": [
+    {
+      "identifier": "6820",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Wisconsin (Class I)"
+}

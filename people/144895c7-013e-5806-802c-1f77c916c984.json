@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6260"
+  },
+  "first_name": "María",
+  "full_name": "María Elvira Salazar",
+  "id": "ocd-person/144895c7-013e-5806-802c-1f77c916c984",
+  "identifiers": [
+    {
+      "identifier": "6260",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Elvira Salazar",
+  "political_affiliation": "Republican"
+}

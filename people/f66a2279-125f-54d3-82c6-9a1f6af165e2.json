@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6343"
+  },
+  "first_name": "Ashley",
+  "full_name": "Ashley Hinson",
+  "id": "ocd-person/f66a2279-125f-54d3-82c6-9a1f6af165e2",
+  "identifiers": [
+    {
+      "identifier": "6343",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hinson",
+  "political_affiliation": "Republican"
+}

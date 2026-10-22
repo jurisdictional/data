@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6577"
+  },
+  "first_name": "Vern",
+  "full_name": "Vern Buchanan",
+  "id": "ocd-person/59b0ea7b-30ee-540b-b415-5618c8ae4250",
+  "identifiers": [
+    {
+      "identifier": "6577",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Buchanan",
+  "political_affiliation": "Republican"
+}

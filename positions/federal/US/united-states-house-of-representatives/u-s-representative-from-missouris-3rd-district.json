@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/49de6dde-304a-5714-92e9-470b374cde19",
+    "start_date": "2026-05-31T06:02:15Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7061",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Missouri's 3rd District"
+}

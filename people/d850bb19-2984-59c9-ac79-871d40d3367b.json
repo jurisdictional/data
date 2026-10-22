@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6170"
+  },
+  "first_name": "Shelley",
+  "full_name": "Shelley Moore Capito",
+  "id": "ocd-person/d850bb19-2984-59c9-ac79-871d40d3367b",
+  "identifiers": [
+    {
+      "identifier": "6170",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore Capito",
+  "political_affiliation": "Republican"
+}

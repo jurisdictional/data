@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6332"
+  },
+  "first_name": "Wesley",
+  "full_name": "Wesley Hunt",
+  "id": "ocd-person/d9e6b736-6d2d-50b6-a04f-020ae5aaa97d",
+  "identifiers": [
+    {
+      "identifier": "6332",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hunt",
+  "political_affiliation": "Republican"
+}

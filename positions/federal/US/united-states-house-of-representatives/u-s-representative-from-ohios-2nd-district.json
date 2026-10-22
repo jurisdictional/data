@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3e0574b1-6054-51d3-a160-686efaa20848",
+    "start_date": "2026-05-31T14:40:38Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7135",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 2nd District"
+}

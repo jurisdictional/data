@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6334"
+  },
+  "first_name": "Rudy",
+  "full_name": "Rudy Yakym",
+  "id": "ocd-person/a19c4e0b-9d1f-5ef5-a615-8141d2c863d6",
+  "identifiers": [
+    {
+      "identifier": "6334",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Yakym",
+  "political_affiliation": "Republican"
+}

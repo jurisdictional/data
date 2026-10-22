@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6273"
+  },
+  "first_name": "Rick",
+  "full_name": "Rick Allen",
+  "id": "ocd-person/4acfcadf-d05f-5e45-9671-0f1df8e9b3b4",
+  "identifiers": [
+    {
+      "identifier": "6273",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Allen",
+  "political_affiliation": "Republican"
+}

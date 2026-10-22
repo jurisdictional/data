@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/eaac8dfd-6e7e-5f00-9469-1b9858372d13",
+    "start_date": "2026-05-31T05:56:15Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-9th-district",
+  "identifiers": [
+    {
+      "identifier": "6994",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Indiana's 9th District"
+}

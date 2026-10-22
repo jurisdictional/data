@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6197"
+  },
+  "first_name": "Jared",
+  "full_name": "Jared Huffman",
+  "id": "ocd-person/4b1b638a-3ff2-5f5b-8e63-23940c4bb4c1",
+  "identifiers": [
+    {
+      "identifier": "6197",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Huffman",
+  "political_affiliation": "Democratic"
+}

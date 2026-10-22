@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6266"
+  },
+  "first_name": "Nikema",
+  "full_name": "Nikema Williams",
+  "id": "ocd-person/a170d0e1-2097-56de-891a-264bab0dfeef",
+  "identifiers": [
+    {
+      "identifier": "6266",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Williams",
+  "political_affiliation": "Democratic"
+}

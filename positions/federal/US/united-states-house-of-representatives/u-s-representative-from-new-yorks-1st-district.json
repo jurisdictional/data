@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5d3e471d-cb49-54fb-962d-5d131e0b1b14",
+    "start_date": "2026-05-31T06:06:08Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7093",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New York's 1st District"
+}

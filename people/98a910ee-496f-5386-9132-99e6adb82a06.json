@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6162"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Lee",
+  "id": "ocd-person/98a910ee-496f-5386-9132-99e6adb82a06",
+  "identifiers": [
+    {
+      "identifier": "6162",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee",
+  "political_affiliation": "Republican"
+}

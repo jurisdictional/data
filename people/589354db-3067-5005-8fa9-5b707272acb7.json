@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6163"
+  },
+  "first_name": "Peter",
+  "full_name": "Peter Welch",
+  "id": "ocd-person/589354db-3067-5005-8fa9-5b707272acb7",
+  "identifiers": [
+    {
+      "identifier": "6163",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Welch",
+  "political_affiliation": "Democratic"
+}

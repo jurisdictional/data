@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6563"
+  },
+  "first_name": "Rick",
+  "full_name": "Rick Larsen",
+  "id": "ocd-person/56004abe-f002-54e8-9882-43d8ee088e82",
+  "identifiers": [
+    {
+      "identifier": "6563",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Larsen"
+}

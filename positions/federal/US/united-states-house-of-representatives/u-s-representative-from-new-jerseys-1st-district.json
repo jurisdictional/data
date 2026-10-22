@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/a181767b-d8a3-5b32-906c-02aceca3245d",
+    "start_date": "2026-05-31T06:04:04Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7078",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Jersey's 1st District"
+}

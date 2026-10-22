@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6457"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Riley",
+  "id": "ocd-person/165f91f4-b132-5599-b176-d8a8000d64aa",
+  "identifiers": [
+    {
+      "identifier": "6457",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Riley",
+  "political_affiliation": "Democratic"
+}

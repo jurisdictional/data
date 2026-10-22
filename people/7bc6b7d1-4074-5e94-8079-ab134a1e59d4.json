@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6233"
+  },
+  "first_name": "Young",
+  "full_name": "Young Kim",
+  "id": "ocd-person/7bc6b7d1-4074-5e94-8079-ab134a1e59d4",
+  "identifiers": [
+    {
+      "identifier": "6233",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kim",
+  "political_affiliation": "Republican"
+}

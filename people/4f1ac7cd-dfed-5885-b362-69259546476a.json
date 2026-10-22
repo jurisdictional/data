@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6373"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim McGovern",
+  "id": "ocd-person/4f1ac7cd-dfed-5885-b362-69259546476a",
+  "identifiers": [
+    {
+      "identifier": "6373",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McGovern",
+  "political_affiliation": "Democratic"
+}

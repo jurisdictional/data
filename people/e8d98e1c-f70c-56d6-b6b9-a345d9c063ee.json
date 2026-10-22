@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6105"
+  },
+  "first_name": "Roger",
+  "full_name": "Roger Marshall",
+  "id": "ocd-person/e8d98e1c-f70c-56d6-b6b9-a345d9c063ee",
+  "identifiers": [
+    {
+      "identifier": "6105",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Marshall",
+  "political_affiliation": "Republican"
+}

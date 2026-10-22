@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6433"
+  },
+  "first_name": "LaMonica",
+  "full_name": "LaMonica McIver",
+  "id": "ocd-person/9ef7bccc-76b7-5344-beaf-c7ee4f1bb179",
+  "identifiers": [
+    {
+      "identifier": "6433",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McIver",
+  "political_affiliation": "Democratic"
+}

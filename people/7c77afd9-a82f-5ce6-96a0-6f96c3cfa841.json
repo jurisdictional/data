@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6456"
+  },
+  "first_name": "Pat",
+  "full_name": "Pat Ryan",
+  "id": "ocd-person/7c77afd9-a82f-5ce6-96a0-6f96c3cfa841",
+  "identifiers": [
+    {
+      "identifier": "6456",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ryan",
+  "political_affiliation": "Democratic"
+}

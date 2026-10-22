@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6144"
+  },
+  "first_name": "Bernie",
+  "full_name": "Bernie Moreno",
+  "id": "ocd-person/885d1f0f-bcc1-5b7f-88f4-f97724535310",
+  "identifiers": [
+    {
+      "identifier": "6144",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moreno",
+  "political_affiliation": "Republican"
+}

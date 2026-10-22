@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6529"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Clyburn",
+  "id": "ocd-person/a590ee75-6fba-5196-a96d-fc302b80e13c",
+  "identifiers": [
+    {
+      "identifier": "6529",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Clyburn",
+  "political_affiliation": "Democratic"
+}

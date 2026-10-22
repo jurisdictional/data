@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6481"
+  },
+  "first_name": "Dave",
+  "full_name": "Dave Taylor",
+  "id": "ocd-person/3e0574b1-6054-51d3-a160-686efaa20848",
+  "identifiers": [
+    {
+      "identifier": "6481",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Taylor",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6488"
+  },
+  "first_name": "Marcy",
+  "full_name": "Marcy Kaptur",
+  "id": "ocd-person/c4430310-4b6e-5d8a-8a58-c2888f3bd2f0",
+  "identifiers": [
+    {
+      "identifier": "6488",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kaptur",
+  "political_affiliation": "Democratic"
+}

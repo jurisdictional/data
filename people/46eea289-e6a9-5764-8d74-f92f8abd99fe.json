@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6316"
+  },
+  "first_name": "Joaquin",
+  "full_name": "Joaquin Castro",
+  "id": "ocd-person/46eea289-e6a9-5764-8d74-f92f8abd99fe",
+  "identifiers": [
+    {
+      "identifier": "6316",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Castro",
+  "political_affiliation": "Democratic"
+}

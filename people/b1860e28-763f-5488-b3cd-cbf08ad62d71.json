@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6140"
+  },
+  "first_name": "Thom",
+  "full_name": "Thom Tillis",
+  "id": "ocd-person/b1860e28-763f-5488-b3cd-cbf08ad62d71",
+  "identifiers": [
+    {
+      "identifier": "6140",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tillis",
+  "political_affiliation": "Republican"
+}

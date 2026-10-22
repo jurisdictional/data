@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6569"
+  },
+  "first_name": "Maxwell",
+  "full_name": "Maxwell Frost",
+  "id": "ocd-person/d5a9f1fd-7f0f-5109-946e-a016b96ecf5c",
+  "identifiers": [
+    {
+      "identifier": "6569",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Frost",
+  "political_affiliation": "Democratic"
+}

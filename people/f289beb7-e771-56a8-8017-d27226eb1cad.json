@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6250"
+  },
+  "first_name": "Jason",
+  "full_name": "Jason Crow",
+  "id": "ocd-person/f289beb7-e771-56a8-8017-d27226eb1cad",
+  "identifiers": [
+    {
+      "identifier": "6250",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crow",
+  "political_affiliation": "Democratic"
+}

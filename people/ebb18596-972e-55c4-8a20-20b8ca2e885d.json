@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6394"
+  },
+  "first_name": "Brad",
+  "full_name": "Brad Finstad",
+  "id": "ocd-person/ebb18596-972e-55c4-8a20-20b8ca2e885d",
+  "identifiers": [
+    {
+      "identifier": "6394",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Finstad",
+  "political_affiliation": "Republican"
+}

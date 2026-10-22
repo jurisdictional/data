@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/34a8f6b0-c167-5d4a-bfb3-071c86ea73c2",
+    "start_date": "2026-05-31T05:57:16Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kansass-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6999",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Kansas's 1st District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6275"
+  },
+  "first_name": "Ed",
+  "full_name": "Ed Case",
+  "id": "ocd-person/a0a1531d-ac0f-5ad5-83fd-af1eb0d624cb",
+  "identifiers": [
+    {
+      "identifier": "6275",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Case",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6426"
+  },
+  "first_name": "Jeff",
+  "full_name": "Jeff Van Drew",
+  "id": "ocd-person/ef2daaa2-6a4d-5e0e-aef8-a94776872da9",
+  "identifiers": [
+    {
+      "identifier": "6426",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Van Drew",
+  "political_affiliation": "Republican"
+}

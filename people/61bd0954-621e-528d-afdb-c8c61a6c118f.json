@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6106"
+  },
+  "first_name": "Jerry",
+  "full_name": "Jerry Moran",
+  "id": "ocd-person/61bd0954-621e-528d-afdb-c8c61a6c118f",
+  "identifiers": [
+    {
+      "identifier": "6106",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moran",
+  "political_affiliation": "Republican"
+}

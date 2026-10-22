@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/66d15a7d-d7d2-52f9-902c-f8f7a051dc62",
+    "start_date": "2026-05-31T14:49:43Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-4th-district",
+  "identifiers": [
+    {
+      "identifier": "7253",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Washington's 4th District"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fc0e3c81-9b36-5a76-b621-3f7bd8600aad",
+    "start_date": "2026-05-31T14:42:03Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7159",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oregon's 6th District"
+}

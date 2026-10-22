@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6541"
+  },
+  "first_name": "Celeste",
+  "full_name": "Celeste Maloy",
+  "id": "ocd-person/a9e66e77-451a-564a-97e6-4dc6a83e6af8",
+  "identifiers": [
+    {
+      "identifier": "6541",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Maloy"
+}

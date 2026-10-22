@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6449"
+  },
+  "first_name": "Nicole",
+  "full_name": "Nicole Malliotakis",
+  "id": "ocd-person/3d4f472a-30d7-51c8-a796-bf6ca58c8d6c",
+  "identifiers": [
+    {
+      "identifier": "6449",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Malliotakis",
+  "political_affiliation": "Republican"
+}

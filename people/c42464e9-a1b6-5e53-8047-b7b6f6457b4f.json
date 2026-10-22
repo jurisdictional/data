@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6188"
+  },
+  "first_name": "Juan",
+  "full_name": "Juan Ciscomani",
+  "id": "ocd-person/c42464e9-a1b6-5e53-8047-b7b6f6457b4f",
+  "identifiers": [
+    {
+      "identifier": "6188",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ciscomani",
+  "political_affiliation": "Republican"
+}

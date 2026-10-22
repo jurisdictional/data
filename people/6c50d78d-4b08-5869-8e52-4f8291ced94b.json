@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6363"
+  },
+  "first_name": "Jared",
+  "full_name": "Jared Golden",
+  "id": "ocd-person/6c50d78d-4b08-5869-8e52-4f8291ced94b",
+  "identifiers": [
+    {
+      "identifier": "6363",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Golden",
+  "political_affiliation": "Democratic"
+}

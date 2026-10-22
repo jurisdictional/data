@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/75d403f2-9bb7-5a0a-919c-b053ac2ac91e",
+    "start_date": "2026-05-31T06:03:55Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-nevadas-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7072",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Nevada's 1st District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6489"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Turner",
+  "id": "ocd-person/a309d543-7e9f-598d-a173-1cdb3870be26",
+  "identifiers": [
+    {
+      "identifier": "6489",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Turner",
+  "political_affiliation": "Republican"
+}

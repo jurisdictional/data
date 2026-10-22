@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e12b8f3f-9929-507e-8ec7-01c25b8e8421",
+    "start_date": "2026-05-31T05:59:00Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-4th-district",
+  "identifiers": [
+    {
+      "identifier": "7028",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Massachusetts's 4th District"
+}

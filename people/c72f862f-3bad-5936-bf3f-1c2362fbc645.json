@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6220"
+  },
+  "first_name": "Raul",
+  "full_name": "Raul Ruiz",
+  "id": "ocd-person/c72f862f-3bad-5936-bf3f-1c2362fbc645",
+  "identifiers": [
+    {
+      "identifier": "6220",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ruiz",
+  "political_affiliation": "Democratic"
+}

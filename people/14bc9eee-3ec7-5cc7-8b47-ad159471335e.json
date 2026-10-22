@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6376"
+  },
+  "first_name": "Katherine",
+  "full_name": "Katherine Clark",
+  "id": "ocd-person/14bc9eee-3ec7-5cc7-8b47-ad159471335e",
+  "identifiers": [
+    {
+      "identifier": "6376",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Clark",
+  "political_affiliation": "Democratic"
+}

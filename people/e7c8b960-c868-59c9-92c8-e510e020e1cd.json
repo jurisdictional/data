@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6550"
+  },
+  "first_name": "Ben",
+  "full_name": "Ben Cline",
+  "id": "ocd-person/e7c8b960-c868-59c9-92c8-e510e020e1cd",
+  "identifiers": [
+    {
+      "identifier": "6550",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cline"
+}

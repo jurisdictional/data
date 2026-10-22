@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6255"
+  },
+  "first_name": "Rosa",
+  "full_name": "Rosa DeLauro",
+  "id": "ocd-person/64581fda-097d-57e9-915a-5adc41322bd5",
+  "identifiers": [
+    {
+      "identifier": "6255",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DeLauro",
+  "political_affiliation": "Democratic"
+}

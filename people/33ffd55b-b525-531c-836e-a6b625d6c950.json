@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6158"
+  },
+  "first_name": "Bill",
+  "full_name": "Bill Hagerty",
+  "id": "ocd-person/33ffd55b-b525-531c-836e-a6b625d6c950",
+  "identifiers": [
+    {
+      "identifier": "6158",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hagerty",
+  "political_affiliation": "Republican"
+}

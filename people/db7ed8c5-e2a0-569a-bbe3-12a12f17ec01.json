@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6589"
+  },
+  "first_name": "Lois",
+  "full_name": "Lois Frankel",
+  "id": "ocd-person/db7ed8c5-e2a0-569a-bbe3-12a12f17ec01",
+  "identifiers": [
+    {
+      "identifier": "6589",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Frankel",
+  "political_affiliation": "Democratic"
+}

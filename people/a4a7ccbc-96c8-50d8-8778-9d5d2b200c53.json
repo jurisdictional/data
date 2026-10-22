@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6423"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Pappas",
+  "id": "ocd-person/a4a7ccbc-96c8-50d8-8778-9d5d2b200c53",
+  "identifiers": [
+    {
+      "identifier": "6423",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pappas",
+  "political_affiliation": "Democratic"
+}

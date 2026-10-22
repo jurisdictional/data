@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6590"
+  },
+  "first_name": "Jared",
+  "full_name": "Jared Moskowitz",
+  "id": "ocd-person/db250ade-2b43-5ba6-936b-bc99497683c0",
+  "identifiers": [
+    {
+      "identifier": "6590",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moskowitz",
+  "political_affiliation": "Democratic"
+}

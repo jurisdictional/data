@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c68833ff-f698-587e-8a80-ff49c96c7fab",
+    "start_date": "2026-05-31T05:30:46Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-28th-district",
+  "identifiers": [
+    {
+      "identifier": "6913",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 28th District"
+}

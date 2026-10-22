@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6360"
+  },
+  "first_name": "Julia",
+  "full_name": "Julia Letlow",
+  "id": "ocd-person/d9be047d-bf00-5053-b954-529962978ecd",
+  "identifiers": [
+    {
+      "identifier": "6360",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Letlow",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/fbf4fffa-a903-5978-8cd9-ff97341e3f30",
+    "start_date": "2026-05-31T14:39:36Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-13th-district",
+  "identifiers": [
+    {
+      "identifier": "7131",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from North Carolina's 13th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6219"
+  },
+  "first_name": "Salud",
+  "full_name": "Salud Carbajal",
+  "id": "ocd-person/f2e42072-9e04-5c3a-9486-0f4a7a970bd7",
+  "identifiers": [
+    {
+      "identifier": "6219",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carbajal",
+  "political_affiliation": "Democratic"
+}

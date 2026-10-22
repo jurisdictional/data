@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6346"
+  },
+  "first_name": "Tracey",
+  "full_name": "Tracey Mann",
+  "id": "ocd-person/34a8f6b0-c167-5d4a-bfb3-071c86ea73c2",
+  "identifiers": [
+    {
+      "identifier": "6346",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Mann",
+  "political_affiliation": "Republican"
+}

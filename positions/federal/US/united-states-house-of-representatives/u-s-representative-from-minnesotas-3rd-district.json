@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c4c7b13f-c79c-5bf7-b96f-2d9855c785ec",
+    "start_date": "2026-05-31T06:01:25Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7049",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Minnesota's 3rd District"
+}

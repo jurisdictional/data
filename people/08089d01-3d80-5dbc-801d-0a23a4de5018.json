@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6093"
+  },
+  "first_name": "Jon",
+  "full_name": "Jon Ossoff",
+  "id": "ocd-person/08089d01-3d80-5dbc-801d-0a23a4de5018",
+  "identifiers": [
+    {
+      "identifier": "6093",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ossoff",
+  "political_affiliation": "Democratic"
+}

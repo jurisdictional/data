@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6384"
+  },
+  "first_name": "Bill",
+  "full_name": "Bill Huizenga",
+  "id": "ocd-person/a5f96cc3-f04b-527b-8e35-3310eec036bb",
+  "identifiers": [
+    {
+      "identifier": "6384",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Huizenga",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6204"
+  },
+  "first_name": "Josh",
+  "full_name": "Josh Harder",
+  "id": "ocd-person/d581418e-deca-5446-8549-ebd4ffd9dff8",
+  "identifiers": [
+    {
+      "identifier": "6204",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harder",
+  "political_affiliation": "Democratic"
+}

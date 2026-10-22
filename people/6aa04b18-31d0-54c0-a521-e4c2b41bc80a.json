@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6388"
+  },
+  "first_name": "Kristen",
+  "full_name": "Kristen McDonald Rivet",
+  "id": "ocd-person/6aa04b18-31d0-54c0-a521-e4c2b41bc80a",
+  "identifiers": [
+    {
+      "identifier": "6388",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McDonald Rivet",
+  "political_affiliation": "Democratic"
+}

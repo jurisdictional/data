@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6196"
+  },
+  "first_name": "Doug",
+  "full_name": "Doug LaMalfa",
+  "id": "ocd-person/02237bfb-c7e5-5877-9929-2e10611bc8e1",
+  "identifiers": [
+    {
+      "identifier": "6196",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "LaMalfa",
+  "political_affiliation": "Republican"
+}

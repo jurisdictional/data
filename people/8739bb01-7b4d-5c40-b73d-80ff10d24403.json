@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6580"
+  },
+  "first_name": "Riley",
+  "full_name": "Riley Moore",
+  "id": "ocd-person/8739bb01-7b4d-5c40-b73d-80ff10d24403",
+  "identifiers": [
+    {
+      "identifier": "6580",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moore"
+}

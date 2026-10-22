@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1cdccdaa-b9ba-5663-8b5d-ddc3f830d19f",
+    "start_date": "2026-05-31T14:47:06Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-11th-district",
+  "identifiers": [
+    {
+      "identifier": "7206",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 11th District"
+}

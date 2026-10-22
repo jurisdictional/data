@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6521"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Deluzio",
+  "id": "ocd-person/44f1e7d8-12ae-5a38-ba65-e2bc691e3f9e",
+  "identifiers": [
+    {
+      "identifier": "6521",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Deluzio",
+  "political_affiliation": "Democratic"
+}

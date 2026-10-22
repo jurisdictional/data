@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6480"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Landsman",
+  "id": "ocd-person/e0328aee-0196-5e73-b3ef-c310e4747eaf",
+  "identifiers": [
+    {
+      "identifier": "6480",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Landsman",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6591"
+  },
+  "first_name": "Frederica",
+  "full_name": "Frederica Wilson",
+  "id": "ocd-person/f63cf2b5-d934-56d0-be3a-1556db36a962",
+  "identifiers": [
+    {
+      "identifier": "6591",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wilson",
+  "political_affiliation": "Democratic"
+}

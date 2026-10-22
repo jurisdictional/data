@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/de076da4-40c0-50ab-a7e4-7611ff79872d",
+    "start_date": "2026-05-31T06:04:22Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-11th-district",
+  "identifiers": [
+    {
+      "identifier": "7088",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Jersey's 11th District"
+}

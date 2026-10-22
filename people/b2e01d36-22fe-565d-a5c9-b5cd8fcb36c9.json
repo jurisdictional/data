@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6148"
+  },
+  "first_name": "Ron",
+  "full_name": "Ron Wyden",
+  "id": "ocd-person/b2e01d36-22fe-565d-a5c9-b5cd8fcb36c9",
+  "identifiers": [
+    {
+      "identifier": "6148",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wyden",
+  "political_affiliation": "Democratic"
+}

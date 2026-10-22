@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2777c4f1-7395-5e71-8b7d-358fe24aadbf",
+    "start_date": "2026-05-31T05:02:17Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-7th-district",
+  "identifiers": [
+    {
+      "identifier": "6838",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Arizona's 7th District"
+}

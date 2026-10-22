@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6091"
+  },
+  "first_name": "Lisa",
+  "full_name": "Lisa Blunt Rochester",
+  "id": "ocd-person/42b2678b-b9f0-5b8c-a545-f213c93856eb",
+  "identifiers": [
+    {
+      "identifier": "6091",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Blunt Rochester",
+  "political_affiliation": "Democratic"
+}

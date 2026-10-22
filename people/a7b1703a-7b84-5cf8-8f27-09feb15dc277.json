@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6368"
+  },
+  "first_name": "Steny",
+  "full_name": "Steny Hoyer",
+  "id": "ocd-person/a7b1703a-7b84-5cf8-8f27-09feb15dc277",
+  "identifiers": [
+    {
+      "identifier": "6368",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hoyer",
+  "political_affiliation": "Democratic"
+}

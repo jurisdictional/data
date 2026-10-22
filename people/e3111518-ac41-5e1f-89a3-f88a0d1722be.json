@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6377"
+  },
+  "first_name": "Seth",
+  "full_name": "Seth Moulton",
+  "id": "ocd-person/e3111518-ac41-5e1f-89a3-f88a0d1722be",
+  "identifiers": [
+    {
+      "identifier": "6377",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moulton",
+  "political_affiliation": "Democratic"
+}

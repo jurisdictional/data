@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6414"
+  },
+  "first_name": "Ryan",
+  "full_name": "Ryan Zinke",
+  "id": "ocd-person/01348912-f6d5-5db3-a137-b1be5dec50f9",
+  "identifiers": [
+    {
+      "identifier": "6414",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Zinke",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6499"
+  },
+  "first_name": "Stephanie",
+  "full_name": "Stephanie Bice",
+  "id": "ocd-person/45aa5e82-15c9-5205-aa90-ec66da1d9b35",
+  "identifiers": [
+    {
+      "identifier": "6499",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bice",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6169"
+  },
+  "first_name": "Jim",
+  "full_name": "Jim Justice",
+  "id": "ocd-person/bc4562af-9650-51ad-a4a3-3c3926890c27",
+  "identifiers": [
+    {
+      "identifier": "6169",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Justice",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6382"
+  },
+  "first_name": "John",
+  "full_name": "John Moolenaar",
+  "id": "ocd-person/2b351e9b-c3c5-5b71-a48a-64a33176d702",
+  "identifiers": [
+    {
+      "identifier": "6382",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moolenaar",
+  "political_affiliation": "Republican"
+}

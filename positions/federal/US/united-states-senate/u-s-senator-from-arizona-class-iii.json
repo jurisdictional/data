@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/107edfa2-16f2-5a88-ae2a-aed6dfcb5b96",
+    "start_date": "2026-05-30T23:56:43Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-arizona-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6729",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Arizona (Class III)"
+}

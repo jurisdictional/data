@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6139"
+  },
+  "first_name": "Ted",
+  "full_name": "Ted Budd",
+  "id": "ocd-person/b2e993eb-2b51-5738-bb86-e87eb3e7d7c7",
+  "identifiers": [
+    {
+      "identifier": "6139",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Budd",
+  "political_affiliation": "Republican"
+}

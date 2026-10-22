@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/479bf373-6d89-5360-a27b-2c64557c9e87",
+    "start_date": "2026-05-31T05:57:21Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kentuckys-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7004",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Kentucky's 2nd District"
+}

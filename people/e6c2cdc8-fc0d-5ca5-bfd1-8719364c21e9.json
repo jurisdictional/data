@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6187"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Biggs",
+  "id": "ocd-person/e6c2cdc8-fc0d-5ca5-bfd1-8719364c21e9",
+  "identifiers": [
+    {
+      "identifier": "6187",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Biggs",
+  "political_affiliation": "Republican"
+}

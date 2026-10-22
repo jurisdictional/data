@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6396"
+  },
+  "first_name": "Kelly",
+  "full_name": "Kelly Morrison",
+  "id": "ocd-person/c4c7b13f-c79c-5bf7-b96f-2d9855c785ec",
+  "identifiers": [
+    {
+      "identifier": "6396",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Morrison",
+  "political_affiliation": "Democratic"
+}

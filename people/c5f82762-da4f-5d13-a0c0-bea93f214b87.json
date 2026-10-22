@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6511"
+  },
+  "first_name": "Chrissy",
+  "full_name": "Chrissy Houlahan",
+  "id": "ocd-person/c5f82762-da4f-5d13-a0c0-bea93f214b87",
+  "identifiers": [
+    {
+      "identifier": "6511",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Houlahan",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6218"
+  },
+  "first_name": "Jay",
+  "full_name": "Jay Obernolte",
+  "id": "ocd-person/9c2c00cb-0299-57ce-b4b6-45e6c943c54f",
+  "identifiers": [
+    {
+      "identifier": "6218",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Obernolte",
+  "political_affiliation": "Republican"
+}

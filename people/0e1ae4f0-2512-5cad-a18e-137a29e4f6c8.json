@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6300"
+  },
+  "first_name": "Pat",
+  "full_name": "Pat Fallon",
+  "id": "ocd-person/0e1ae4f0-2512-5cad-a18e-137a29e4f6c8",
+  "identifiers": [
+    {
+      "identifier": "6300",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fallon",
+  "political_affiliation": "Republican"
+}

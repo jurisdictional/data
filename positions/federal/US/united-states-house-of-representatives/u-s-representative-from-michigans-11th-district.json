@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/38357f31-53f8-5855-af66-bda4872ec7d1",
+    "start_date": "2026-05-31T06:00:37Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-11th-district",
+  "identifiers": [
+    {
+      "identifier": "7044",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Michigan's 11th District"
+}

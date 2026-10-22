@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6527"
+  },
+  "first_name": "William",
+  "full_name": "William Timmons",
+  "id": "ocd-person/78d0463d-79cc-53d2-852a-bdd4b5bb7b6e",
+  "identifiers": [
+    {
+      "identifier": "6527",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Timmons",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6413"
+  },
+  "email": "jsmith@granitecity.illinois.gov",
+  "first_name": "Jason",
+  "full_name": "Jason Smith",
+  "id": "ocd-person/7be203c2-3155-5c3b-9b2c-6f0d81aa7377",
+  "identifiers": [
+    {
+      "identifier": "6413",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smith",
+  "political_affiliation": "Republican"
+}

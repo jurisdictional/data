@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6317"
+  },
+  "first_name": "Troy",
+  "full_name": "Troy Nehls",
+  "id": "ocd-person/f0e29016-fc25-572c-9ece-4e6484897fcf",
+  "identifiers": [
+    {
+      "identifier": "6317",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Nehls",
+  "political_affiliation": "Republican"
+}

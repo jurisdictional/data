@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6359"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Johnson",
+  "id": "ocd-person/e327c7c6-1b6b-5728-817b-b79a5e519186",
+  "identifiers": [
+    {
+      "identifier": "6359",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson",
+  "political_affiliation": "Republican"
+}

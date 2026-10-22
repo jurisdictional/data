@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6270"
+  },
+  "first_name": "Andrew",
+  "full_name": "Andrew Clyde",
+  "id": "ocd-person/3955a4ad-1015-59db-a074-a94b59e46a3b",
+  "identifiers": [
+    {
+      "identifier": "6270",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Clyde",
+  "political_affiliation": "Republican"
+}

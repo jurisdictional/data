@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/8ce8b2b5-e7b0-5a82-a833-a505243ee206",
+    "start_date": "2026-05-31T14:45:04Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7193",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Tennessee's 7th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6345"
+  },
+  "first_name": "Randy",
+  "full_name": "Randy Feenstra",
+  "id": "ocd-person/024c720b-83ce-5c79-a576-da7e245b2119",
+  "identifiers": [
+    {
+      "identifier": "6345",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Feenstra",
+  "political_affiliation": "Republican"
+}

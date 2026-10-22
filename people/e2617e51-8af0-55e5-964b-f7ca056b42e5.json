@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6454"
+  },
+  "first_name": "George",
+  "full_name": "George Latimer",
+  "id": "ocd-person/e2617e51-8af0-55e5-964b-f7ca056b42e5",
+  "identifiers": [
+    {
+      "identifier": "6454",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Latimer",
+  "political_affiliation": "Democratic"
+}

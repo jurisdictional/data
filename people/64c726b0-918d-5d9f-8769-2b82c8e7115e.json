@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6442"
+  },
+  "first_name": "Laura",
+  "full_name": "Laura Gillen",
+  "id": "ocd-person/64c726b0-918d-5d9f-8769-2b82c8e7115e",
+  "identifiers": [
+    {
+      "identifier": "6442",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gillen",
+  "political_affiliation": "Democratic"
+}

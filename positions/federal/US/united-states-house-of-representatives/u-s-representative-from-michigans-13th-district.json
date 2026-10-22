@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/52f74100-c2f5-5878-996e-4add311daf68",
+    "start_date": "2026-05-31T06:00:44Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-13th-district",
+  "identifiers": [
+    {
+      "identifier": "7046",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Michigan's 13th District"
+}

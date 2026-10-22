@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6558"
+  },
+  "first_name": "Aaron",
+  "full_name": "Aaron Bean",
+  "id": "ocd-person/e8449ec1-6ac0-5a77-8917-377592c3fb9c",
+  "identifiers": [
+    {
+      "identifier": "6558",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bean",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6429"
+  },
+  "first_name": "Frank",
+  "full_name": "Frank Pallone",
+  "id": "ocd-person/111d8f77-dd85-533b-a9e4-853caf6486c2",
+  "identifiers": [
+    {
+      "identifier": "6429",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pallone",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6081"
+  },
+  "first_name": "Dan",
+  "full_name": "Dan Sullivan",
+  "id": "ocd-person/5d125a96-132d-57ee-a82c-736ec0653c51",
+  "identifiers": [
+    {
+      "identifier": "6081",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sullivan",
+  "political_affiliation": "Republican"
+}

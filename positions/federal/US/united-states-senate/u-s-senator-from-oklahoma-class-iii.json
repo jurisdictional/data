@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/65249f4d-e901-5e83-bc36-81acd52f3912",
+    "start_date": "2026-05-31T00:01:55Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-oklahoma-class-iii",
+  "identifiers": [
+    {
+      "identifier": "6795",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Oklahoma (Class III)"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/78d0463d-79cc-53d2-852a-bdd4b5bb7b6e",
+    "start_date": "2026-05-31T14:44:46Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-4th-district",
+  "identifiers": [
+    {
+      "identifier": "7182",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from South Carolina's 4th District"
+}

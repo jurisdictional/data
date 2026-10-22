@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/16b8d784-b23a-52cf-924c-73521ab79d2a",
+    "start_date": "2026-05-31T00:01:56Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-oregon-class-ii",
+  "identifiers": [
+    {
+      "identifier": "6796",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Oregon (Class II)"
+}

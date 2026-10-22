@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6564"
+  },
+  "first_name": "Marie",
+  "full_name": "Marie Gluesenkamp Perez",
+  "id": "ocd-person/3c4858f9-9473-5a87-9263-dd7bbf205370",
+  "identifiers": [
+    {
+      "identifier": "6564",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gluesenkamp Perez"
+}

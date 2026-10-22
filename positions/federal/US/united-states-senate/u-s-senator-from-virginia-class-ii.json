@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/03680c86-7e98-5c9d-873c-895b7f31e25a",
+    "start_date": "2026-05-31T00:03:15Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-virginia-class-ii",
+  "identifiers": [
+    {
+      "identifier": "6815",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Virginia (Class II)"
+}

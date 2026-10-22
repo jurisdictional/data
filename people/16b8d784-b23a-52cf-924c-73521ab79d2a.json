@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6147"
+  },
+  "first_name": "Jeff",
+  "full_name": "Jeff Merkley",
+  "id": "ocd-person/16b8d784-b23a-52cf-924c-73521ab79d2a",
+  "identifiers": [
+    {
+      "identifier": "6147",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Merkley",
+  "political_affiliation": "Democratic"
+}

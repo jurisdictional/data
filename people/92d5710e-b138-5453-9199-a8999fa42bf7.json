@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6304"
+  },
+  "first_name": "Morgan",
+  "full_name": "Morgan Luttrell",
+  "id": "ocd-person/92d5710e-b138-5453-9199-a8999fa42bf7",
+  "identifiers": [
+    {
+      "identifier": "6304",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Luttrell",
+  "political_affiliation": "Republican"
+}

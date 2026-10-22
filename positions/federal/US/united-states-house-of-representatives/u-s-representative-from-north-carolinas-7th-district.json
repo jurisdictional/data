@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/9ca19a7c-83b5-5090-8256-a1edbd2e366b",
+    "start_date": "2026-05-31T14:39:25Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-7th-district",
+  "identifiers": [
+    {
+      "identifier": "7125",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from North Carolina's 7th District"
+}

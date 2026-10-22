@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d69639fd-b36c-54db-ba8c-20e14fb34dd9",
+    "start_date": "2026-05-31T14:50:14Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wyoming-at-large",
+  "identifiers": [
+    {
+      "identifier": "7286",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Wyoming At Large"
+}

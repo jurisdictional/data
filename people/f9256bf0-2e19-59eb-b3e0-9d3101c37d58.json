@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6514"
+  },
+  "first_name": "Dan",
+  "full_name": "Dan Meuser",
+  "id": "ocd-person/f9256bf0-2e19-59eb-b3e0-9d3101c37d58",
+  "identifiers": [
+    {
+      "identifier": "6514",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Meuser",
+  "political_affiliation": "Republican"
+}

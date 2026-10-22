@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6243"
+  },
+  "first_name": "Sara",
+  "full_name": "Sara Jacobs",
+  "id": "ocd-person/0ae8bed9-f9d1-5022-9f21-c486197b4172",
+  "identifiers": [
+    {
+      "identifier": "6243",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jacobs",
+  "political_affiliation": "Democratic"
+}

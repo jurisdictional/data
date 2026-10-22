@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6594"
+  },
+  "first_name": "Glenn",
+  "full_name": "Glenn Grothman",
+  "id": "ocd-person/f987045c-7523-5601-9ee1-3c28ac3e1cac",
+  "identifiers": [
+    {
+      "identifier": "6594",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Grothman"
+}

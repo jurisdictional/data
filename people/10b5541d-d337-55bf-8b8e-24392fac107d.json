@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6470"
+  },
+  "first_name": "Addison",
+  "full_name": "Addison McDowell",
+  "id": "ocd-person/10b5541d-d337-55bf-8b8e-24392fac107d",
+  "identifiers": [
+    {
+      "identifier": "6470",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McDowell",
+  "political_affiliation": "Republican"
+}

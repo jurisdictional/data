@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6491"
+  },
+  "first_name": "Troy",
+  "full_name": "Troy Balderson",
+  "id": "ocd-person/f68e9977-4be6-50ce-a9e8-3d20af3291ca",
+  "identifiers": [
+    {
+      "identifier": "6491",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Balderson",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6335"
+  },
+  "first_name": "Marlin",
+  "full_name": "Marlin Stutzman",
+  "id": "ocd-person/d4c0a27b-6631-58ec-a03e-6f74c13ef9e1",
+  "identifiers": [
+    {
+      "identifier": "6335",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stutzman",
+  "political_affiliation": "Republican"
+}

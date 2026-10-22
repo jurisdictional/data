@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6305"
+  },
+  "first_name": "Al",
+  "full_name": "Al Green",
+  "id": "ocd-person/65d4bb46-5495-5d45-b698-2e5e71db5918",
+  "identifiers": [
+    {
+      "identifier": "6305",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Green",
+  "political_affiliation": "Democratic"
+}

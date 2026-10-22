@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6311"
+  },
+  "first_name": "Monica",
+  "full_name": "Monica De La Cruz",
+  "id": "ocd-person/553c6c62-39ae-561e-af3d-c3ef29bcf3b1",
+  "identifiers": [
+    {
+      "identifier": "6311",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "De La Cruz",
+  "political_affiliation": "Republican"
+}

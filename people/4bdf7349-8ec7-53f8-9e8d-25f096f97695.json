@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6186"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Stanton",
+  "id": "ocd-person/4bdf7349-8ec7-53f8-9e8d-25f096f97695",
+  "identifiers": [
+    {
+      "identifier": "6186",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stanton",
+  "political_affiliation": "Democratic"
+}

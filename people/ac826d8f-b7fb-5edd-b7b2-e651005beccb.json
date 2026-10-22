@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6138"
+  },
+  "first_name": "Chuck",
+  "full_name": "Chuck Schumer",
+  "id": "ocd-person/ac826d8f-b7fb-5edd-b7b2-e651005beccb",
+  "identifiers": [
+    {
+      "identifier": "6138",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schumer",
+  "political_affiliation": "Democratic"
+}

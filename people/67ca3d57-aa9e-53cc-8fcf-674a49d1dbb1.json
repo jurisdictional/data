@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6301"
+  },
+  "first_name": "Lance",
+  "full_name": "Lance Gooden",
+  "id": "ocd-person/67ca3d57-aa9e-53cc-8fcf-674a49d1dbb1",
+  "identifiers": [
+    {
+      "identifier": "6301",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gooden",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/6d03a8fa-699d-5dfa-97a6-339835aa294b",
+    "start_date": "2026-05-31T14:41:49Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oklahomas-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7149",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Oklahoma's 1st District"
+}

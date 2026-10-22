@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6156"
+  },
+  "first_name": "John",
+  "full_name": "John Thune",
+  "id": "ocd-person/2b2c4a97-667f-5bfa-95c3-651e452d3ad2",
+  "identifiers": [
+    {
+      "identifier": "6156",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Thune",
+  "political_affiliation": "Republican"
+}

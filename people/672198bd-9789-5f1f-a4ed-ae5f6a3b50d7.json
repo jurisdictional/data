@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6339"
+  },
+  "first_name": "André",
+  "full_name": "André Carson",
+  "id": "ocd-person/672198bd-9789-5f1f-a4ed-ae5f6a3b50d7",
+  "identifiers": [
+    {
+      "identifier": "6339",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carson",
+  "political_affiliation": "Democratic"
+}

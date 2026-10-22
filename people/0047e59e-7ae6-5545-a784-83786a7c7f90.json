@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6518"
+  },
+  "first_name": "John",
+  "full_name": "John Joyce",
+  "id": "ocd-person/0047e59e-7ae6-5545-a784-83786a7c7f90",
+  "identifiers": [
+    {
+      "identifier": "6518",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Joyce",
+  "political_affiliation": "Republican"
+}

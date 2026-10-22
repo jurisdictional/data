@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/4bb40bf6-ffb5-5c07-8780-5abc2b751e7d",
+    "start_date": "2026-05-31T14:44:52Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7188",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Tennessee's 2nd District"
+}

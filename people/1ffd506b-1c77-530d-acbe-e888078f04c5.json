@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6464"
+  },
+  "first_name": "Tim",
+  "full_name": "Tim Kennedy",
+  "id": "ocd-person/1ffd506b-1c77-530d-acbe-e888078f04c5",
+  "identifiers": [
+    {
+      "identifier": "6464",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kennedy",
+  "political_affiliation": "Democratic"
+}

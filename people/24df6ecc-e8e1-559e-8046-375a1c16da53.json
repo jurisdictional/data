@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6448"
+  },
+  "first_name": "Dan",
+  "full_name": "Dan Goldman",
+  "id": "ocd-person/24df6ecc-e8e1-559e-8046-375a1c16da53",
+  "identifiers": [
+    {
+      "identifier": "6448",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Goldman",
+  "political_affiliation": "Democratic"
+}

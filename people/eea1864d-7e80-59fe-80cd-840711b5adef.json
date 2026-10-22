@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6420"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Amodei",
+  "id": "ocd-person/eea1864d-7e80-59fe-80cd-840711b5adef",
+  "identifiers": [
+    {
+      "identifier": "6420",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Amodei",
+  "political_affiliation": "Republican"
+}

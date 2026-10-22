@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6292"
+  },
+  "first_name": "Lauren",
+  "full_name": "Lauren Underwood",
+  "id": "ocd-person/1dd3fa9b-a610-5d4d-88e9-df3fe75c9521",
+  "identifiers": [
+    {
+      "identifier": "6292",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Underwood",
+  "political_affiliation": "Democratic"
+}

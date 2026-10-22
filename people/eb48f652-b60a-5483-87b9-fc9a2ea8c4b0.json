@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6365"
+  },
+  "first_name": "Johnny",
+  "full_name": "Johnny Olszewski",
+  "id": "ocd-person/eb48f652-b60a-5483-87b9-fc9a2ea8c4b0",
+  "identifiers": [
+    {
+      "identifier": "6365",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Olszewski",
+  "political_affiliation": "Democratic"
+}

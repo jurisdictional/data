@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6342"
+  },
+  "first_name": "Mariannette",
+  "full_name": "Mariannette Miller-Meeks",
+  "id": "ocd-person/adbf4ca8-c2e9-5af6-b599-4a9c0ff86382",
+  "identifiers": [
+    {
+      "identifier": "6342",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Miller-Meeks",
+  "political_affiliation": "Republican"
+}

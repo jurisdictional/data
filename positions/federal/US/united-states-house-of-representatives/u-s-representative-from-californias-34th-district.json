@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2306bce6-448a-5625-970d-85885c94012e",
+    "start_date": "2026-05-31T05:27:54Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-34th-district",
+  "identifiers": [
+    {
+      "identifier": "6878",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 34th District"
+}

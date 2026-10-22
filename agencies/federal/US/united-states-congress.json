@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1"
+  },
+  "agency_type": "legislative",
+  "description": "The legislative branch of the United States federal government, composed of the Senate and the House of Representatives.",
+  "id": "federal:US/united-states-congress",
+  "identifiers": [
+    {
+      "identifier": "10181",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "federal:US",
+  "name": "United States Congress",
+  "phone": "202-224-3121",
+  "website_url": "https://www.congress.gov"
+}

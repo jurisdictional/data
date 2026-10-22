@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/52a4e8aa-f205-58ea-8960-d1d0027d6f36",
+    "start_date": "2026-05-31T05:57:22Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kentuckys-3rd-district",
+  "identifiers": [
+    {
+      "identifier": "7005",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Kentucky's 3rd District"
+}

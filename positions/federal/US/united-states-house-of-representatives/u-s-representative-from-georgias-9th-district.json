@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3955a4ad-1015-59db-a074-a94b59e46a3b",
+    "start_date": "2026-05-31T05:31:45Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-9th-district",
+  "identifiers": [
+    {
+      "identifier": "6922",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Georgia's 9th District"
+}

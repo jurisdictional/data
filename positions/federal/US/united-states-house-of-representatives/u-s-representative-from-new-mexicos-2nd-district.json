@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/32f4afb5-3a99-54bf-913b-4b75bfb80cf5",
+    "start_date": "2026-05-31T06:05:16Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-mexicos-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7091",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Mexico's 2nd District"
+}

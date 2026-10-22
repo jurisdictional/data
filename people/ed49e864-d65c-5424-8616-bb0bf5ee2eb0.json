@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6249"
+  },
+  "first_name": "Doug",
+  "full_name": "Doug Lamborn",
+  "id": "ocd-person/ed49e864-d65c-5424-8616-bb0bf5ee2eb0",
+  "identifiers": [
+    {
+      "identifier": "6249",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lamborn",
+  "political_affiliation": "Republican"
+}

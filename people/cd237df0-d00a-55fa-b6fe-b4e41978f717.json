@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6079"
+  },
+  "first_name": "Tommy",
+  "full_name": "Tommy Tuberville",
+  "id": "ocd-person/cd237df0-d00a-55fa-b6fe-b4e41978f717",
+  "identifiers": [
+    {
+      "identifier": "6079",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tuberville",
+  "political_affiliation": "Republican"
+}

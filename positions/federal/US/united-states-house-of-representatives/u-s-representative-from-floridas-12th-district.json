@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/9abdb20d-07e2-59b3-ace3-8c062ee375f2",
+    "start_date": "2026-06-01T00:23:16Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-12th-district",
+  "identifiers": [
+    {
+      "identifier": "7453",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Florida's 12th District"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ce652ec0-d9be-5a98-83d2-316db9ab0525",
+    "start_date": "2026-05-31T05:58:51Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7022",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Maryland's 6th District"
+}

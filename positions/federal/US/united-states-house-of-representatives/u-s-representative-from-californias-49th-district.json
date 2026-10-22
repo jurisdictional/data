@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e5159dc4-1841-57d3-9405-2df699082847",
+    "start_date": "2026-05-31T05:28:16Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-49th-district",
+  "identifiers": [
+    {
+      "identifier": "6893",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from California's 49th District"
+}

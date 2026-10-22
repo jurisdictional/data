@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6265"
+  },
+  "first_name": "Hank",
+  "full_name": "Hank Johnson",
+  "id": "ocd-person/65961b2b-3cba-5f1d-affc-107b68f141e2",
+  "identifiers": [
+    {
+      "identifier": "6265",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson",
+  "political_affiliation": "Democratic"
+}

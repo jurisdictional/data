@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6421"
+  },
+  "first_name": "Susie",
+  "full_name": "Susie Lee",
+  "id": "ocd-person/556495c3-cb2d-53f4-a7d8-42e015f64f19",
+  "identifiers": [
+    {
+      "identifier": "6421",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/7a2189e4-2757-5712-a3ab-60b30c8aaf86",
+    "start_date": "2026-05-31T02:01:47Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alabamas-4th-district",
+  "identifiers": [
+    {
+      "identifier": "6827",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Alabama's 4th District"
+}

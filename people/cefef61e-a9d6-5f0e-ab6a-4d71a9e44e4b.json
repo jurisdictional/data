@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6263"
+  },
+  "first_name": "Sanford",
+  "full_name": "Sanford Bishop",
+  "id": "ocd-person/cefef61e-a9d6-5f0e-ab6a-4d71a9e44e4b",
+  "identifiers": [
+    {
+      "identifier": "6263",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bishop",
+  "political_affiliation": "Democratic"
+}

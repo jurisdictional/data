@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6109"
+  },
+  "first_name": "Bill",
+  "full_name": "Bill Cassidy",
+  "id": "ocd-person/c72c680b-cfbc-55af-b9b8-36a92296e7c8",
+  "identifiers": [
+    {
+      "identifier": "6109",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cassidy",
+  "political_affiliation": "Republican"
+}

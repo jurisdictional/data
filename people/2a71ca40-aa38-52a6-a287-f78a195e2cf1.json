@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6367"
+  },
+  "first_name": "Glenn",
+  "full_name": "Glenn Ivey",
+  "id": "ocd-person/2a71ca40-aa38-52a6-a287-f78a195e2cf1",
+  "identifiers": [
+    {
+      "identifier": "6367",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ivey",
+  "political_affiliation": "Democratic"
+}

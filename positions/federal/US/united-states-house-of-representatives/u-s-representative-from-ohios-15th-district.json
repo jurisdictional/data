@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c618dafc-20d2-5b6c-9ed3-9324c09a4d39",
+    "start_date": "2026-05-31T14:40:59Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-15th-district",
+  "identifiers": [
+    {
+      "identifier": "7148",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 15th District"
+}

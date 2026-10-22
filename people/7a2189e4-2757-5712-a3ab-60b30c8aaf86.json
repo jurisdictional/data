@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6178"
+  },
+  "first_name": "Robert",
+  "full_name": "Robert Aderholt",
+  "id": "ocd-person/7a2189e4-2757-5712-a3ab-60b30c8aaf86",
+  "identifiers": [
+    {
+      "identifier": "6178",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Aderholt",
+  "political_affiliation": "Republican"
+}

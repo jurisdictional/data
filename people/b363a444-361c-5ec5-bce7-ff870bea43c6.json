@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6557"
+  },
+  "first_name": "Kat",
+  "full_name": "Kat Cammack",
+  "id": "ocd-person/b363a444-361c-5ec5-bce7-ff870bea43c6",
+  "identifiers": [
+    {
+      "identifier": "6557",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cammack",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/d20774c3-9bcc-580d-950a-348281351561",
+    "start_date": "2026-05-31T00:00:56Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-new-mexico-class-ii",
+  "identifiers": [
+    {
+      "identifier": "6785",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from New Mexico (Class II)"
+}

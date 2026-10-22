@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6570"
+  },
+  "first_name": "Kim",
+  "full_name": "Kim Schrier",
+  "id": "ocd-person/fd98a157-7af7-51f7-9d29-a4d484e54235",
+  "identifiers": [
+    {
+      "identifier": "6570",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schrier"
+}

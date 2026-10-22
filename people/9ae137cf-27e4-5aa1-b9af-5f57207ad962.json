@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6610"
+  },
+  "first_name": "Tony",
+  "full_name": "Tony Gonzales",
+  "id": "ocd-person/9ae137cf-27e4-5aa1-b9af-5f57207ad962",
+  "identifiers": [
+    {
+      "identifier": "6610",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzales",
+  "political_affiliation": "Republican"
+}

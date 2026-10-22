@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6559"
+  },
+  "first_name": "Randy",
+  "full_name": "Randy Fine",
+  "id": "ocd-person/e2653a90-c280-5118-aed5-7c5d542f4eff",
+  "identifiers": [
+    {
+      "identifier": "6559",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fine",
+  "political_affiliation": "Republican"
+}

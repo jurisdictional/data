@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6380"
+  },
+  "first_name": "Bill",
+  "full_name": "Bill Keating",
+  "id": "ocd-person/9303850d-908b-5bf9-8be2-a356c4ac99b1",
+  "identifiers": [
+    {
+      "identifier": "6380",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Keating",
+  "political_affiliation": "Democratic"
+}

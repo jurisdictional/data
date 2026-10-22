@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6217"
+  },
+  "first_name": "David",
+  "full_name": "David Valadao",
+  "id": "ocd-person/f11677f2-85b9-5187-9452-ac9607a54059",
+  "identifiers": [
+    {
+      "identifier": "6217",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Valadao",
+  "political_affiliation": "Republican"
+}

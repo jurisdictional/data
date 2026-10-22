@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6310"
+  },
+  "first_name": "Randy",
+  "full_name": "Randy Weber",
+  "id": "ocd-person/35fce6d5-65a5-57ea-a6dd-4defbcb43c97",
+  "identifiers": [
+    {
+      "identifier": "6310",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Weber",
+  "political_affiliation": "Republican"
+}

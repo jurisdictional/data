@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6285"
+  },
+  "first_name": "Danny",
+  "full_name": "Danny Davis",
+  "id": "ocd-person/4e023006-cc20-5d71-95c7-600628320d3f",
+  "identifiers": [
+    {
+      "identifier": "6285",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davis",
+  "political_affiliation": "Democratic"
+}

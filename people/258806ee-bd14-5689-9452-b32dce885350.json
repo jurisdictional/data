@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6279"
+  },
+  "first_name": "Jonathan",
+  "full_name": "Jonathan Jackson",
+  "id": "ocd-person/258806ee-bd14-5689-9452-b32dce885350",
+  "identifiers": [
+    {
+      "identifier": "6279",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jackson",
+  "political_affiliation": "Democratic"
+}

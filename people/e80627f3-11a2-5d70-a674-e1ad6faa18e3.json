@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6298"
+  },
+  "first_name": "Dan",
+  "full_name": "Dan Crenshaw",
+  "id": "ocd-person/e80627f3-11a2-5d70-a674-e1ad6faa18e3",
+  "identifiers": [
+    {
+      "identifier": "6298",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crenshaw",
+  "political_affiliation": "Republican"
+}

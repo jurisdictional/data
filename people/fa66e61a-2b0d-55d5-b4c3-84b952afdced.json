@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6344"
+  },
+  "first_name": "Zach",
+  "full_name": "Zach Nunn",
+  "id": "ocd-person/fa66e61a-2b0d-55d5-b4c3-84b952afdced",
+  "identifiers": [
+    {
+      "identifier": "6344",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Nunn",
+  "political_affiliation": "Republican"
+}

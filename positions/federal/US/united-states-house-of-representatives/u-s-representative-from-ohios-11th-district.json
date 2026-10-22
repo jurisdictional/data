@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5b9729a1-319d-5649-893d-fc39d6ea150d",
+    "start_date": "2026-05-31T14:40:54Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-11th-district",
+  "identifiers": [
+    {
+      "identifier": "7144",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Ohio's 11th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6427"
+  },
+  "first_name": "Herb",
+  "full_name": "Herb Conaway",
+  "id": "ocd-person/689888fa-7383-514c-b674-7e12d5d7e8ce",
+  "identifiers": [
+    {
+      "identifier": "6427",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Conaway",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6375"
+  },
+  "first_name": "Jake",
+  "full_name": "Jake Auchincloss",
+  "id": "ocd-person/e12b8f3f-9929-507e-8ec7-01c25b8e8421",
+  "identifiers": [
+    {
+      "identifier": "6375",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Auchincloss",
+  "political_affiliation": "Democratic"
+}

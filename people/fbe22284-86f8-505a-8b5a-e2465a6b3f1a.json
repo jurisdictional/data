@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6381"
+  },
+  "first_name": "Jack",
+  "full_name": "Jack Bergman",
+  "id": "ocd-person/fbe22284-86f8-505a-8b5a-e2465a6b3f1a",
+  "identifiers": [
+    {
+      "identifier": "6381",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bergman",
+  "political_affiliation": "Republican"
+}

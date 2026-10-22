@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6374"
+  },
+  "first_name": "Lori",
+  "full_name": "Lori Trahan",
+  "id": "ocd-person/1f5db02e-c5db-5bb2-9c32-7865fa87b6f1",
+  "identifiers": [
+    {
+      "identifier": "6374",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Trahan",
+  "political_affiliation": "Democratic"
+}

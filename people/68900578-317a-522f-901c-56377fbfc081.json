@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6113"
+  },
+  "first_name": "Angela",
+  "full_name": "Angela Alsobrooks",
+  "id": "ocd-person/68900578-317a-522f-901c-56377fbfc081",
+  "identifiers": [
+    {
+      "identifier": "6113",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alsobrooks",
+  "political_affiliation": "Democratic"
+}

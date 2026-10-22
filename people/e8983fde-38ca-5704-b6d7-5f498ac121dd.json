@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6608"
+  },
+  "first_name": "Sheila",
+  "full_name": "Sheila Cherfilus-McCormick",
+  "id": "ocd-person/e8983fde-38ca-5704-b6d7-5f498ac121dd",
+  "identifiers": [
+    {
+      "identifier": "6608",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cherfilus-McCormick",
+  "political_affiliation": "Democratic"
+}

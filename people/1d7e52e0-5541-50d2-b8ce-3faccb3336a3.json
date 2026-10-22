@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6130"
+  },
+  "first_name": "Catherine",
+  "full_name": "Catherine Cortez Masto",
+  "id": "ocd-person/1d7e52e0-5541-50d2-b8ce-3faccb3336a3",
+  "identifiers": [
+    {
+      "identifier": "6130",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cortez Masto",
+  "political_affiliation": "Democratic"
+}

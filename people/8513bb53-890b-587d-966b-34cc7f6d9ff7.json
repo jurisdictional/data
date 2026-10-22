@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6257"
+  },
+  "first_name": "Jahana",
+  "full_name": "Jahana Hayes",
+  "id": "ocd-person/8513bb53-890b-587d-966b-34cc7f6d9ff7",
+  "identifiers": [
+    {
+      "identifier": "6257",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hayes",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/eddb6baf-cff3-5831-8497-a9698f0a22f0",
+    "start_date": "2026-05-31T06:05:15Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-mexicos-1st-district",
+  "identifiers": [
+    {
+      "identifier": "7090",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Mexico's 1st District"
+}

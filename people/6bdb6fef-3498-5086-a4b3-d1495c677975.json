@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6094"
+  },
+  "first_name": "Raphael",
+  "full_name": "Raphael Warnock",
+  "id": "ocd-person/6bdb6fef-3498-5086-a4b3-d1495c677975",
+  "identifiers": [
+    {
+      "identifier": "6094",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Warnock",
+  "political_affiliation": "Democratic"
+}

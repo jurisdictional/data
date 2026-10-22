@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/8513bb53-890b-587d-966b-34cc7f6d9ff7",
+    "start_date": "2026-05-31T05:30:40Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-5th-district",
+  "identifiers": [
+    {
+      "identifier": "6909",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Connecticut's 5th District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6461"
+  },
+  "first_name": "Nick",
+  "full_name": "Nick Langworthy",
+  "id": "ocd-person/84cf35eb-ece5-50c9-b278-d80492158f43",
+  "identifiers": [
+    {
+      "identifier": "6461",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Langworthy",
+  "political_affiliation": "Republican"
+}

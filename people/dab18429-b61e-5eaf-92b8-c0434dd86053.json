@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6259"
+  },
+  "first_name": "Mario",
+  "full_name": "Mario Díaz-Balart",
+  "id": "ocd-person/dab18429-b61e-5eaf-92b8-c0434dd86053",
+  "identifiers": [
+    {
+      "identifier": "6259",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Díaz-Balart",
+  "political_affiliation": "Republican"
+}

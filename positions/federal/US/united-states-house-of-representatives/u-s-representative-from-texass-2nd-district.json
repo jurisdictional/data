@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e80627f3-11a2-5d70-a674-e1ad6faa18e3",
+    "start_date": "2026-05-31T14:46:48Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-2nd-district",
+  "identifiers": [
+    {
+      "identifier": "7197",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 2nd District"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6155"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Rounds",
+  "id": "ocd-person/409d8fac-ebee-5e4b-a2c4-6f20c27a7bf4",
+  "identifiers": [
+    {
+      "identifier": "6155",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rounds",
+  "political_affiliation": "Republican"
+}

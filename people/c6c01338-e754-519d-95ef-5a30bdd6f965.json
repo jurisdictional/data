@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6194"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Womack",
+  "id": "ocd-person/c6c01338-e754-519d-95ef-5a30bdd6f965",
+  "identifiers": [
+    {
+      "identifier": "6194",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Womack",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6474"
+  },
+  "first_name": "Pat",
+  "full_name": "Pat Harrigan",
+  "id": "ocd-person/f1397684-bb0e-5f17-acc6-797bc15af69b",
+  "identifiers": [
+    {
+      "identifier": "6474",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harrigan",
+  "political_affiliation": "Republican"
+}

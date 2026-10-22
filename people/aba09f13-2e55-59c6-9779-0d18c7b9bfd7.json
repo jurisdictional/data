@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6107"
+  },
+  "first_name": "Mitch",
+  "full_name": "Mitch McConnell",
+  "id": "ocd-person/aba09f13-2e55-59c6-9779-0d18c7b9bfd7",
+  "identifiers": [
+    {
+      "identifier": "6107",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McConnell",
+  "political_affiliation": "Republican"
+}

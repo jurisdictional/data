@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6289"
+  },
+  "first_name": "Bill",
+  "full_name": "Bill Foster",
+  "id": "ocd-person/8f206528-361e-57f1-8c57-9390aff89652",
+  "identifiers": [
+    {
+      "identifier": "6289",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Foster",
+  "political_affiliation": "Democratic"
+}

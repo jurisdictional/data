@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6520"
+  },
+  "first_name": "Glenn",
+  "full_name": "Glenn Thompson",
+  "id": "ocd-person/3f524a4b-be82-5002-b318-bb902429b6c8",
+  "identifiers": [
+    {
+      "identifier": "6520",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Thompson",
+  "political_affiliation": "Republican"
+}

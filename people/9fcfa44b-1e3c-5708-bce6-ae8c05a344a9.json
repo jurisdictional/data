@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6435"
+  },
+  "first_name": "Bonnie",
+  "full_name": "Bonnie Watson Coleman",
+  "id": "ocd-person/9fcfa44b-1e3c-5708-bce6-ae8c05a344a9",
+  "identifiers": [
+    {
+      "identifier": "6435",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Watson Coleman",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/a590ee75-6fba-5196-a96d-fc302b80e13c",
+    "start_date": "2026-05-31T14:44:48Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-6th-district",
+  "identifiers": [
+    {
+      "identifier": "7184",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from South Carolina's 6th District"
+}

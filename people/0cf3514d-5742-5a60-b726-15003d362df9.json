@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6278"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Simpson",
+  "id": "ocd-person/0cf3514d-5742-5a60-b726-15003d362df9",
+  "identifiers": [
+    {
+      "identifier": "6278",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Simpson",
+  "political_affiliation": "Republican"
+}

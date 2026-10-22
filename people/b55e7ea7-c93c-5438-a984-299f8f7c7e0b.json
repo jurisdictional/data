@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6357"
+  },
+  "first_name": "Troy",
+  "full_name": "Troy Carter",
+  "id": "ocd-person/b55e7ea7-c93c-5438-a984-299f8f7c7e0b",
+  "identifiers": [
+    {
+      "identifier": "6357",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Carter",
+  "political_affiliation": "Democratic"
+}

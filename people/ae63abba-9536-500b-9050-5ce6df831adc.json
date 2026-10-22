@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6536"
+  },
+  "first_name": "John",
+  "full_name": "John Rose",
+  "id": "ocd-person/ae63abba-9536-500b-9050-5ce6df831adc",
+  "identifiers": [
+    {
+      "identifier": "6536",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rose",
+  "political_affiliation": "Republican"
+}

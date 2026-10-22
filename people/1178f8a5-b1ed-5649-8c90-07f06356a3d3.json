@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6290"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Bost",
+  "id": "ocd-person/1178f8a5-b1ed-5649-8c90-07f06356a3d3",
+  "identifiers": [
+    {
+      "identifier": "6290",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bost",
+  "political_affiliation": "Republican"
+}

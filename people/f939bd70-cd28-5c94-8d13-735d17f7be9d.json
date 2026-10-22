@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6231"
+  },
+  "first_name": "Linda",
+  "full_name": "Linda Sánchez",
+  "id": "ocd-person/f939bd70-cd28-5c94-8d13-735d17f7be9d",
+  "identifiers": [
+    {
+      "identifier": "6231",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sánchez",
+  "political_affiliation": "Democratic"
+}

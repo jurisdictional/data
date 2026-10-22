@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6207"
+  },
+  "first_name": "Barbara",
+  "full_name": "Barbara Lee",
+  "id": "ocd-person/fedfce55-2412-5f36-a810-a0e85a6bca70",
+  "identifiers": [
+    {
+      "identifier": "6207",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lee",
+  "political_affiliation": "Democratic"
+}

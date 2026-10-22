@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/891eb0ed-67e9-52ad-a4ca-dde2d4911e20",
+    "start_date": "2026-05-31T14:47:21Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-21st-district",
+  "identifiers": [
+    {
+      "identifier": "7216",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Texas's 21st District"
+}

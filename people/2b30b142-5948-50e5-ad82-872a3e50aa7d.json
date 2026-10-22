@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6459"
+  },
+  "first_name": "Elise",
+  "full_name": "Elise Stefanik",
+  "id": "ocd-person/2b30b142-5948-50e5-ad82-872a3e50aa7d",
+  "identifiers": [
+    {
+      "identifier": "6459",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Stefanik",
+  "political_affiliation": "Republican"
+}

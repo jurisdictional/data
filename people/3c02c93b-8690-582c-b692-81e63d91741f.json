@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6092"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Coons",
+  "id": "ocd-person/3c02c93b-8690-582c-b692-81e63d91741f",
+  "identifiers": [
+    {
+      "identifier": "6092",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Coons",
+  "political_affiliation": "Democratic"
+}

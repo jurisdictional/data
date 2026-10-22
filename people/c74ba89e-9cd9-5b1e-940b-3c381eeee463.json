@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6354"
+  },
+  "first_name": "Hal",
+  "full_name": "Hal Rogers",
+  "id": "ocd-person/c74ba89e-9cd9-5b1e-940b-3c381eeee463",
+  "identifiers": [
+    {
+      "identifier": "6354",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rogers",
+  "political_affiliation": "Republican"
+}

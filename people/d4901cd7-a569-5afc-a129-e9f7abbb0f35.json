@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6324"
+  },
+  "first_name": "Jasmine",
+  "full_name": "Jasmine Crockett",
+  "id": "ocd-person/d4901cd7-a569-5afc-a129-e9f7abbb0f35",
+  "identifiers": [
+    {
+      "identifier": "6324",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crockett",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6576"
+  },
+  "first_name": "Adam",
+  "full_name": "Adam Smith",
+  "id": "ocd-person/64873c7e-c225-5829-bf68-4b0622a91730",
+  "identifiers": [
+    {
+      "identifier": "6576",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smith"
+}

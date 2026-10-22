@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6087"
+  },
+  "first_name": "Michael",
+  "full_name": "Michael Bennet",
+  "id": "ocd-person/a6b27c02-19ff-588c-8ffc-9cea2fcb9f96",
+  "identifiers": [
+    {
+      "identifier": "6087",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bennet",
+  "political_affiliation": "Democratic"
+}

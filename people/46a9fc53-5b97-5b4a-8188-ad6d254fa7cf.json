@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6264"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Jack",
+  "id": "ocd-person/46a9fc53-5b97-5b4a-8188-ad6d254fa7cf",
+  "identifiers": [
+    {
+      "identifier": "6264",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jack",
+  "political_affiliation": "Republican"
+}

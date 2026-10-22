@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6451"
+  },
+  "first_name": "Adriano",
+  "full_name": "Adriano Espaillat",
+  "id": "ocd-person/1c666fa5-958c-5e74-b913-bb0f3190144d",
+  "identifiers": [
+    {
+      "identifier": "6451",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Espaillat",
+  "political_affiliation": "Democratic"
+}

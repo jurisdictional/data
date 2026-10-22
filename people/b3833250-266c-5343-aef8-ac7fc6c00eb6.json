@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6578"
+  },
+  "first_name": "Marilyn",
+  "full_name": "Marilyn Strickland",
+  "id": "ocd-person/b3833250-266c-5343-aef8-ac7fc6c00eb6",
+  "identifiers": [
+    {
+      "identifier": "6578",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Strickland"
+}

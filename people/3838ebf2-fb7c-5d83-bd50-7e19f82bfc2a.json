@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6141"
+  },
+  "first_name": "Kevin",
+  "full_name": "Kevin Cramer",
+  "id": "ocd-person/3838ebf2-fb7c-5d83-bd50-7e19f82bfc2a",
+  "identifiers": [
+    {
+      "identifier": "6141",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cramer",
+  "political_affiliation": "Republican"
+}

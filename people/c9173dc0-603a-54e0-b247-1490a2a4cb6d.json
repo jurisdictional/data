@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6274"
+  },
+  "first_name": "Clay",
+  "full_name": "Clay Fuller",
+  "id": "ocd-person/c9173dc0-603a-54e0-b247-1490a2a4cb6d",
+  "identifiers": [
+    {
+      "identifier": "6274",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fuller",
+  "political_affiliation": "Republican"
+}

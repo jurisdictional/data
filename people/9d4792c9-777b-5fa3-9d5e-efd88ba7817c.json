@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6473"
+  },
+  "first_name": "Richard",
+  "full_name": "Richard Hudson",
+  "id": "ocd-person/9d4792c9-777b-5fa3-9d5e-efd88ba7817c",
+  "identifiers": [
+    {
+      "identifier": "6473",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hudson",
+  "political_affiliation": "Republican"
+}

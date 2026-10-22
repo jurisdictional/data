@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/4412"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Kelly",
+  "id": "ocd-person/51bea1bc-b6ce-5135-a267-b2f793076eae",
+  "identifiers": [
+    {
+      "identifier": "4412",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kelly",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6192"
+  },
+  "first_name": "Eric",
+  "full_name": "Eric Crawford",
+  "id": "ocd-person/21fb34a7-63c8-51b2-afc2-c94581d9a034",
+  "identifiers": [
+    {
+      "identifier": "6192",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Crawford",
+  "political_affiliation": "Republican"
+}

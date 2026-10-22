@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/dc985dc6-6057-510f-8d8f-2327dc2baf30",
+    "start_date": "2026-05-31T06:04:17Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-9th-district",
+  "identifiers": [
+    {
+      "identifier": "7086",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from New Jersey's 9th District"
+}

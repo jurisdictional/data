@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/475627fb-a59a-54f4-9ad5-d147e7882bda",
+    "start_date": "2026-05-31T06:00:37Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-10th-district",
+  "identifiers": [
+    {
+      "identifier": "7043",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Michigan's 10th District"
+}

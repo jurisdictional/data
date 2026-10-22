@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6095"
+  },
+  "first_name": "Mazie",
+  "full_name": "Mazie Hirono",
+  "id": "ocd-person/9f35181d-10b3-5459-a7ea-08c5e4e3c812",
+  "identifiers": [
+    {
+      "identifier": "6095",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hirono",
+  "political_affiliation": "Democratic"
+}

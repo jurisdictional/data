@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6120"
+  },
+  "first_name": "Tina",
+  "full_name": "Tina Smith",
+  "id": "ocd-person/081fe6b2-b874-5202-aad0-f0df4656c865",
+  "identifiers": [
+    {
+      "identifier": "6120",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smith",
+  "political_affiliation": "Democratic"
+}

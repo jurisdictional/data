@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6268"
+  },
+  "first_name": "Rich",
+  "full_name": "Rich McCormick",
+  "id": "ocd-person/fcb732f4-e6f3-5440-9768-b0ffd691982b",
+  "identifiers": [
+    {
+      "identifier": "6268",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McCormick",
+  "political_affiliation": "Republican"
+}

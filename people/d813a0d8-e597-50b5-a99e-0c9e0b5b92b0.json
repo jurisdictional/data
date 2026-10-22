@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6258"
+  },
+  "first_name": "Sarah",
+  "full_name": "Sarah McBride",
+  "id": "ocd-person/d813a0d8-e597-50b5-a99e-0c9e0b5b92b0",
+  "identifiers": [
+    {
+      "identifier": "6258",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McBride",
+  "political_affiliation": "Democratic"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6574"
+  },
+  "first_name": "Kathy",
+  "full_name": "Kathy Castor",
+  "id": "ocd-person/8515d928-1867-5319-ad77-b4fc5bef9d08",
+  "identifiers": [
+    {
+      "identifier": "6574",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Castor",
+  "political_affiliation": "Democratic"
+}

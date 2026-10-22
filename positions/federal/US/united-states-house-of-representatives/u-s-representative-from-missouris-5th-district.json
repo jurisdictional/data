@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/7a4e9dcb-e8c1-5462-8f66-59f7d053d56a",
+    "start_date": "2026-05-31T06:02:22Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-5th-district",
+  "identifiers": [
+    {
+      "identifier": "7063",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Missouri's 5th District"
+}

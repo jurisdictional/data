@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6400"
+  },
+  "first_name": "Michelle",
+  "full_name": "Michelle Fischbach",
+  "id": "ocd-person/504b3aa8-94f9-5497-ac85-8144b4df8c20",
+  "identifiers": [
+    {
+      "identifier": "6400",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fischbach",
+  "political_affiliation": "Republican"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6362"
+  },
+  "first_name": "Chellie",
+  "full_name": "Chellie Pingree",
+  "id": "ocd-person/df129230-bebb-5b4a-b795-fb36425b6e24",
+  "identifiers": [
+    {
+      "identifier": "6362",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Pingree",
+  "political_affiliation": "Democratic"
+}

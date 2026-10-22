@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6554"
+  },
+  "first_name": "Suhas",
+  "full_name": "Suhas Subramanyam",
+  "id": "ocd-person/98cd6baa-aa40-54ca-bdf1-82f826cca213",
+  "identifiers": [
+    {
+      "identifier": "6554",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Subramanyam"
+}

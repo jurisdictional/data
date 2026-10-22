@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6418"
+  },
+  "first_name": "Adrian",
+  "full_name": "Adrian Smith",
+  "id": "ocd-person/96581d90-2a53-5597-b3ce-92565808a6b4",
+  "identifiers": [
+    {
+      "identifier": "6418",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smith",
+  "political_affiliation": "Republican"
+}

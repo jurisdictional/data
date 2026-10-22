@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6513"
+  },
+  "first_name": "Rob",
+  "full_name": "Rob Bresnahan",
+  "id": "ocd-person/8cb0315f-f0be-5077-8b28-65df5c6551ca",
+  "identifiers": [
+    {
+      "identifier": "6513",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bresnahan",
+  "political_affiliation": "Republican"
+}

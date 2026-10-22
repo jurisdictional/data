@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/6446"
+  },
+  "first_name": "Hakeem",
+  "full_name": "Hakeem Jeffries",
+  "id": "ocd-person/c32af82e-65e4-54de-83dc-8c4bef69920f",
+  "identifiers": [
+    {
+      "identifier": "6446",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jeffries",
+  "political_affiliation": "Democratic"
+}

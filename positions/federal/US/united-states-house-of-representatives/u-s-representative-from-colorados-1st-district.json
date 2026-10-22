@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
+  },
+  "body": "federal:US/united-states-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ca4d0f91-d2a6-536f-9c8b-3a34778b1f02",
+    "start_date": "2026-05-31T05:29:58Z"
+  },
+  "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-colorados-1st-district",
+  "identifiers": [
+    {
+      "identifier": "6897",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Representative from Colorado's 1st District"
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
+  },
+  "body": "federal:US/united-states-senate",
+  "holder": {
+    "person": "ocd-person/2e93d386-f2d6-5752-8f9a-0e2823f14967",
+    "start_date": "2026-05-31T00:00:42Z"
+  },
+  "id": "federal:US/united-states-senate/u-s-senator-from-montana-class-i",
+  "identifiers": [
+    {
+      "identifier": "6774",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "U.S. Senator from Montana (Class I)"
+}

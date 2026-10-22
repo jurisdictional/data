@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/122171"
+  },
+  "code": "D4",
+  "id": "county_district:06095D04",
+  "identifiers": [
+    {
+      "identifier": "06095D04",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "122171",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:ca/county:solano/council_district:4",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "county_district",
+  "name": "Solano County Supervisorial District 4",
+  "state_abbr": "CA"
+}

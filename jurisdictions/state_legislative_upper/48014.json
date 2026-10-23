@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/122335"
+  },
+  "code": "SD14",
+  "id": "state_legislative_upper:48014",
+  "identifiers": [
+    {
+      "identifier": "48014",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "122335",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/sldu:14",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state_legislative_upper",
+  "name": "State Senate District 14",
+  "state_abbr": "TX"
+}

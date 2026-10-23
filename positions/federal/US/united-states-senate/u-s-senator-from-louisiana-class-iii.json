@@ -3,6 +3,7 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1956/positions"
   },
   "body": "federal:US/united-states-senate",
+  "electing_jurisdiction": "state:22",
   "holder": {
     "person": "ocd-person/7181f15c-2fbc-5d6c-8b5f-964c0648a4b3"
   },

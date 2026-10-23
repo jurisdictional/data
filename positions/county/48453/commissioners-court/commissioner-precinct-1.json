@@ -3,6 +3,7 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1184/positions"
   },
   "body": "county:48453/commissioners-court",
+  "electing_jurisdiction": "county_district:48453D01",
   "holder": {
     "person": "ocd-person/d07ed989-f8f6-52e9-9231-00dfd5eafe40"
   },

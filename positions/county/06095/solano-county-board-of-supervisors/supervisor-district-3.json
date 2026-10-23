@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/5/positions"
   },
   "body": "county:06095/solano-county-board-of-supervisors",
+  "electing_jurisdiction": "county_district:06095D03",
   "holder": {
-    "person": "ocd-person/500626a1-9d86-5eec-837b-ef18cc9a7f96",
-    "start_date": "2026-04-04T02:16:06Z"
+    "person": "ocd-person/500626a1-9d86-5eec-837b-ef18cc9a7f96"
   },
   "id": "county:06095/solano-county-board-of-supervisors/supervisor-district-3",
   "identifiers": [

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/122211"
+  },
+  "code": "HD49",
+  "id": "state_legislative_lower:48049",
+  "identifiers": [
+    {
+      "identifier": "48049",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "122211",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/sldl:49",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state_legislative_lower",
+  "name": "State House District 49",
+  "state_abbr": "TX"
+}

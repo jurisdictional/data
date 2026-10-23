@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1184/positions"
+  },
+  "body": "county:48453/commissioners-court",
+  "holder": {
+    "person": "ocd-person/bcd06785-d6bb-54bf-91c5-254825b1703f"
+  },
+  "id": "county:48453/commissioners-court/county-judge",
+  "identifiers": [
+    {
+      "identifier": "4375",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "County Judge"
+}

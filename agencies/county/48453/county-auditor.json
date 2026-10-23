@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Appointed office responsible for auditing county finances and ensuring legal compliance of expenditures",
+  "id": "county:48453/county-auditor",
+  "identifiers": [
+    {
+      "identifier": "6855",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "County Auditor"
+}

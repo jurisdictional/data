@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/1668"
+  },
+  "code": "TRA",
+  "id": "county:48453",
+  "identifiers": [
+    {
+      "identifier": "48453",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "1668",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/county:travis",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "county",
+  "name": "Travis",
+  "population": 1389670,
+  "population_year": 2025,
+  "state_abbr": "TX"
+}

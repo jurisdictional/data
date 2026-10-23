@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office responsible for prosecuting felony criminal cases in Travis County",
+  "id": "county:48453/district-attorneys-office",
+  "identifiers": [
+    {
+      "identifier": "6854",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "District Attorney's Office"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Office providing legal representation to juveniles in Travis County courts",
+  "id": "county:48453/juvenile-public-defender",
+  "identifiers": [
+    {
+      "identifier": "6886",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Juvenile Public Defender"
+}

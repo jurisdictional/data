@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3823"
+  },
+  "first_name": "Margaret",
+  "full_name": "Margaret Gómez",
+  "id": "ocd-person/e319ec71-70ab-5b44-a7d3-1684a2cf1a3e",
+  "identifiers": [
+    {
+      "identifier": "3823",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gómez"
+}

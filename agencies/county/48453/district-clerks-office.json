@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office responsible for maintaining records for district courts",
+  "id": "county:48453/district-clerks-office",
+  "identifiers": [
+    {
+      "identifier": "6843",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "District Clerk's Office"
+}

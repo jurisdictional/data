@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3815"
+  },
+  "email": "abrown@riversideoh.gov",
+  "first_name": "Andy",
+  "full_name": "Andy Brown",
+  "id": "ocd-person/bcd06785-d6bb-54bf-91c5-254825b1703f",
+  "identifiers": [
+    {
+      "identifier": "3815",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brown"
+}

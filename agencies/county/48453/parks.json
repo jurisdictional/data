@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department managing Travis County parks, trails, and recreational facilities",
+  "id": "county:48453/parks",
+  "identifiers": [
+    {
+      "identifier": "6888",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Parks"
+}

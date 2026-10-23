@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for county budget development, financial planning, and fiscal analysis",
+  "id": "county:48453/budget-and-planning",
+  "identifiers": [
+    {
+      "identifier": "6865",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Budget and Planning"
+}

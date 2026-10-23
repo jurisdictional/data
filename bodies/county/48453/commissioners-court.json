@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/1668/bodies"
+  },
+  "id": "county:48453/commissioners-court",
+  "identifiers": [
+    {
+      "identifier": "1184",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "legislative_type": "commission",
+  "name": "Commissioners Court",
+  "staffed_by": [
+    "county:48453/commissioners-court"
+  ]
+}

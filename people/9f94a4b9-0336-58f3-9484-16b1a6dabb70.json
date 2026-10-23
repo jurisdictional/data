@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3821"
+  },
+  "first_name": "Ann",
+  "full_name": "Ann Howard",
+  "id": "ocd-person/9f94a4b9-0336-58f3-9484-16b1a6dabb70",
+  "identifiers": [
+    {
+      "identifier": "3821",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Howard"
+}

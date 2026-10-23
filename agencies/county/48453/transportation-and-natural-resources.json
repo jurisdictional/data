@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for county roads, bridges, transportation planning, and natural resource management",
+  "id": "county:48453/transportation-and-natural-resources",
+  "identifiers": [
+    {
+      "identifier": "6889",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Transportation and Natural Resources"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "agency_type": "clerk",
+  "description": "Elected office responsible for recording and maintaining public records, vital records, and county court records",
+  "id": "county:48453/county-clerks-office",
+  "identifiers": [
+    {
+      "identifier": "6841",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "County Clerk's Office"
+}

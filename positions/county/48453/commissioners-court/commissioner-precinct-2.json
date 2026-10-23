@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1184/positions"
+  },
+  "body": "county:48453/commissioners-court",
+  "holder": {
+    "person": "ocd-person/32ee3eb3-79d2-53fc-a4dd-e33395a602bf"
+  },
+  "id": "county:48453/commissioners-court/commissioner-precinct-2",
+  "identifiers": [
+    {
+      "identifier": "4382",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Commissioner Precinct 2"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office responsible for law enforcement, jail operations, and court security in Travis County",
+  "id": "county:48453/sheriffs-office",
+  "identifiers": [
+    {
+      "identifier": "6852",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Sheriff's Office"
+}

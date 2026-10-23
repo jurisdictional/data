@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for maintaining county buildings, grounds, and capital improvement projects",
+  "id": "county:48453/facilities-management",
+  "identifiers": [
+    {
+      "identifier": "6874",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Facilities Management"
+}

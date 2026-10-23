@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office responsible for assessing and collecting property taxes, vehicle registration, and voter registration",
+  "id": "county:48453/tax-assessor-collector",
+  "identifiers": [
+    {
+      "identifier": "6846",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Tax Assessor-Collector"
+}

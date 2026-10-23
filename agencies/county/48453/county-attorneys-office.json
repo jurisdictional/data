@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office providing legal counsel to county government and prosecuting misdemeanor cases",
+  "id": "county:48453/county-attorneys-office",
+  "identifiers": [
+    {
+      "identifier": "6857",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "County Attorney's Office"
+}

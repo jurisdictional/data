@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1184/positions"
+  },
+  "body": "county:48453/commissioners-court",
+  "holder": {
+    "person": "ocd-person/9f94a4b9-0336-58f3-9484-16b1a6dabb70"
+  },
+  "id": "county:48453/commissioners-court/commissioner-precinct-3",
+  "identifiers": [
+    {
+      "identifier": "4384",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Commissioner Precinct 3"
+}

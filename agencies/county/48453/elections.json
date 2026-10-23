@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for administering elections and voter services in Travis County",
+  "id": "county:48453/elections",
+  "identifiers": [
+    {
+      "identifier": "6868",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Elections"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for emergency management, coordination, and disaster preparedness",
+  "id": "county:48453/emergency-services",
+  "identifiers": [
+    {
+      "identifier": "6871",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Emergency Services"
+}

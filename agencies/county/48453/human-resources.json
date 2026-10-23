@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department responsible for county employee recruitment, benefits, and workforce management",
+  "id": "county:48453/human-resources",
+  "identifiers": [
+    {
+      "identifier": "6880",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Human Resources"
+}

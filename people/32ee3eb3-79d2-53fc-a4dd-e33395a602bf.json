@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3820"
+  },
+  "first_name": "Brigid",
+  "full_name": "Brigid Shea",
+  "id": "ocd-person/32ee3eb3-79d2-53fc-a4dd-e33395a602bf",
+  "identifiers": [
+    {
+      "identifier": "3820",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Shea"
+}

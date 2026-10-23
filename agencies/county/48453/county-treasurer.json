@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Elected office responsible for managing county funds and investments",
+  "id": "county:48453/county-treasurer",
+  "identifiers": [
+    {
+      "identifier": "6847",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "County Treasurer"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=1668"
+  },
+  "description": "Department providing technology infrastructure, applications, and digital services for county operations",
+  "id": "county:48453/information-technology",
+  "identifiers": [
+    {
+      "identifier": "6884",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "county:48453",
+  "name": "Information Technology"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/3817"
+  },
+  "first_name": "Jeff",
+  "full_name": "Jeff Travillion",
+  "id": "ocd-person/d07ed989-f8f6-52e9-9231-00dfd5eafe40",
+  "identifiers": [
+    {
+      "identifier": "3817",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Travillion"
+}

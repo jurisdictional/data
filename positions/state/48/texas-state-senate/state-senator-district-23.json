@@ -3,6 +3,7 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
   },
   "body": "state:48/texas-state-senate",
+  "electing_jurisdiction": "state_legislative_upper:48023",
   "holder": {
     "person": "ocd-person/f0b6fbad-40df-5ea6-b1a7-66f83f197b25"
   },

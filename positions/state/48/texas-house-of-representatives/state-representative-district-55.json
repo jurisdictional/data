@@ -3,6 +3,7 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
   },
   "body": "state:48/texas-house-of-representatives",
+  "electing_jurisdiction": "state_legislative_lower:48055",
   "holder": {
     "person": "ocd-person/5394924c-a79f-582e-8afa-72fe818f9b21"
   },

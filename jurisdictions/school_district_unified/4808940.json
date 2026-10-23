@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/123062"
+  },
+  "code": "AISD",
+  "id": "school_district_unified:4808940",
+  "identifiers": [
+    {
+      "identifier": "4808940",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "123062",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/county:travis/school_district:austin_isd",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "school_district_unified",
+  "name": "Austin Independent School District",
+  "state_abbr": "TX"
+}

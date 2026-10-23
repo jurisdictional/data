@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3551"
+  },
+  "code": "CD37",
+  "id": "congressional_district:4837",
+  "identifiers": [
+    {
+      "identifier": "4837",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "3551",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/cd:37",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "congressional_district",
+  "name": "Congressional District 37",
+  "state_abbr": "TX"
+}

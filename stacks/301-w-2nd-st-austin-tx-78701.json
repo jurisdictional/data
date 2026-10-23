@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/juricode?address=301+W+2nd+St%2C+Austin%2C+TX+78701"
+  },
+  "address": "301 W 2nd St, Austin, TX 78701",
+  "layers": [
+    "federal:US",
+    "state:48",
+    "congressional_district:4837",
+    "county:48453",
+    "place:4805000"
+  ]
+}

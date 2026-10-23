@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/891"
+  },
+  "first_name": "Ryan",
+  "full_name": "Ryan Alter",
+  "id": "ocd-person/4ee1096a-a05f-548a-bad3-81d7990f81d9",
+  "identifiers": [
+    {
+      "identifier": "891",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alter"
+}

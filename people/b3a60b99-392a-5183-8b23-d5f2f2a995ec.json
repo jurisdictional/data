@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/893"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Siegel",
+  "id": "ocd-person/b3a60b99-392a-5183-8b23-d5f2f2a995ec",
+  "identifiers": [
+    {
+      "identifier": "893",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Siegel"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/895"
+  },
+  "first_name": "Zohaib",
+  "full_name": "Zohaib \"Zo\" Qadri",
+  "id": "ocd-person/9631bcb7-4857-5f43-9a33-8d0c9397a4ea",
+  "identifiers": [
+    {
+      "identifier": "895",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "\"Zo\" Qadri"
+}

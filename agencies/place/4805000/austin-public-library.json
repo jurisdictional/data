@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=41584"
+  },
+  "agency_type": "library",
+  "id": "place:4805000/austin-public-library",
+  "identifiers": [
+    {
+      "identifier": "1641",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:4805000",
+  "name": "Austin Public Library"
+}

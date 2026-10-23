@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=41584"
+  },
+  "agency_type": "parks_recreation",
+  "id": "place:4805000/austin-parks-and-recreation",
+  "identifiers": [
+    {
+      "identifier": "1629",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:4805000",
+  "name": "Austin Parks and Recreation"
+}

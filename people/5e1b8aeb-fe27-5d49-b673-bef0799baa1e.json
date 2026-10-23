@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/892"
+  },
+  "first_name": "Krista",
+  "full_name": "Krista Laine",
+  "id": "ocd-person/5e1b8aeb-fe27-5d49-b673-bef0799baa1e",
+  "identifiers": [
+    {
+      "identifier": "892",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Laine"
+}

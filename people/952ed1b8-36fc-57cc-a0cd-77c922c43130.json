@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/896"
+  },
+  "first_name": "Marc",
+  "full_name": "Marc Duchen",
+  "id": "ocd-person/952ed1b8-36fc-57cc-a0cd-77c922c43130",
+  "identifiers": [
+    {
+      "identifier": "896",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Duchen"
+}

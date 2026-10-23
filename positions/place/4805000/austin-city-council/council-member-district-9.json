@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/9631bcb7-4857-5f43-9a33-8d0c9397a4ea"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-9",
+  "identifiers": [
+    {
+      "identifier": "874",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 9"
+}

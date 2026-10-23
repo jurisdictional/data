@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/a4bdd3ea-7c5e-589e-87bf-aa396c064083"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-2",
+  "identifiers": [
+    {
+      "identifier": "867",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 2"
+}

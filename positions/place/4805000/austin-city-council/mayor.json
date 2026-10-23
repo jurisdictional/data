@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/5ef296e1-1b12-5547-8423-887c2e4577e7"
+  },
+  "id": "place:4805000/austin-city-council/mayor",
+  "identifiers": [
+    {
+      "identifier": "865",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Mayor"
+}

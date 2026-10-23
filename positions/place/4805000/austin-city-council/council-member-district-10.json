@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/952ed1b8-36fc-57cc-a0cd-77c922c43130"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-10",
+  "identifiers": [
+    {
+      "identifier": "875",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 10"
+}

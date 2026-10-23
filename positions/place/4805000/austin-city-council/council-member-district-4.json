@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/e4687d5d-c295-5be1-8fae-b04ff35d644f"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-4",
+  "identifiers": [
+    {
+      "identifier": "869",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 4"
+}

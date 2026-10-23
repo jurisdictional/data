@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/889"
+  },
+  "first_name": "José",
+  "full_name": "José Velásquez",
+  "id": "ocd-person/0dfb520b-35b4-5017-8c63-f39d1dcba312",
+  "identifiers": [
+    {
+      "identifier": "889",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Velásquez"
+}

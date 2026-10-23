@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=41584"
+  },
+  "id": "place:4805000/austin-city-managers-office",
+  "identifiers": [
+    {
+      "identifier": "1621",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:4805000",
+  "name": "Austin City Manager's Office"
+}

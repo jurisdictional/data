@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/311e1d83-7122-5b8c-aa5b-94f4478cd8e5"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-1",
+  "identifiers": [
+    {
+      "identifier": "866",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 1"
+}

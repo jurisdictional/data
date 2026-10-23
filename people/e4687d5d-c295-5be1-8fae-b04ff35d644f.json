@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/890"
+  },
+  "first_name": "José",
+  "full_name": "José \"Chito\" Vela",
+  "id": "ocd-person/e4687d5d-c295-5be1-8fae-b04ff35d644f",
+  "identifiers": [
+    {
+      "identifier": "890",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "\"Chito\" Vela"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/888"
+  },
+  "first_name": "Vanessa",
+  "full_name": "Vanessa Fuentes",
+  "id": "ocd-person/a4bdd3ea-7c5e-589e-87bf-aa396c064083",
+  "identifiers": [
+    {
+      "identifier": "888",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fuentes"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/4ee1096a-a05f-548a-bad3-81d7990f81d9"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-5",
+  "identifiers": [
+    {
+      "identifier": "870",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 5"
+}

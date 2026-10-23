@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/894"
+  },
+  "first_name": "Paige",
+  "full_name": "Paige Ellis",
+  "id": "ocd-person/4e193a9f-1722-5f95-b156-096d6cd6f885",
+  "identifiers": [
+    {
+      "identifier": "894",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ellis"
+}

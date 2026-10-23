@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/41584"
+  },
+  "code": "AUS",
+  "id": "place:4805000",
+  "identifiers": [
+    {
+      "identifier": "4805000",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "41584",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/place:austin",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "place",
+  "name": "Austin",
+  "population": 1002632,
+  "population_year": 2025,
+  "state_abbr": "TX"
+}

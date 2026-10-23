@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/41584/bodies"
+  },
+  "id": "place:4805000/austin-city-council",
+  "identifiers": [
+    {
+      "identifier": "302",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "place:4805000",
+  "legislative_type": "council",
+  "name": "Austin City Council",
+  "staffed_by": [
+    "place:4805000/austin-city-managers-office"
+  ]
+}

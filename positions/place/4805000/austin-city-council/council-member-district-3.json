@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/302/positions"
+  },
+  "body": "place:4805000/austin-city-council",
+  "holder": {
+    "person": "ocd-person/0dfb520b-35b4-5017-8c63-f39d1dcba312"
+  },
+  "id": "place:4805000/austin-city-council/council-member-district-3",
+  "identifiers": [
+    {
+      "identifier": "868",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Council Member District 3"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/887"
+  },
+  "first_name": "Natasha",
+  "full_name": "Natasha Harper-Madison",
+  "id": "ocd-person/311e1d83-7122-5b8c-aa5b-94f4478cd8e5",
+  "identifiers": [
+    {
+      "identifier": "887",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harper-Madison"
+}

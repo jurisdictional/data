@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5238"
+  },
+  "first_name": "Adam",
+  "full_name": "Adam Hinojosa",
+  "id": "ocd-person/1a2c2cc7-484e-5e76-9e59-9a39197ebd71",
+  "identifiers": [
+    {
+      "identifier": "5238",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hinojosa"
+}

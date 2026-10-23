@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/72d2d777-8f8f-5cfd-a7fd-a8db6aa19a00"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-149",
+  "identifiers": [
+    {
+      "identifier": "5965",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 149"
+}

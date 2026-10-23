@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/f0b6fbad-40df-5ea6-b1a7-66f83f197b25"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-23",
+  "identifiers": [
+    {
+      "identifier": "5989",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 23"
+}

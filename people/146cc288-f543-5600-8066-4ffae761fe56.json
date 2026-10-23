@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5129"
+  },
+  "first_name": "Mitch",
+  "full_name": "Mitch Little",
+  "id": "ocd-person/146cc288-f543-5600-8066-4ffae761fe56",
+  "identifiers": [
+    {
+      "identifier": "5129",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Little"
+}

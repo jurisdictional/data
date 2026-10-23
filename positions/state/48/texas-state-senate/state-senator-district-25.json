@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/8920bda6-8a0b-504a-a045-08da38a73643"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-25",
+  "identifiers": [
+    {
+      "identifier": "5991",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 25"
+}

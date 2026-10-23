@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5192"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Oliverson",
+  "id": "ocd-person/130bd36d-b8ac-585b-8cc4-d3446c3029fa",
+  "identifiers": [
+    {
+      "identifier": "5192",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Oliverson"
+}

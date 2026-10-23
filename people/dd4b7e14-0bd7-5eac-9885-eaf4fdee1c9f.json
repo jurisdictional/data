@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5075"
+  },
+  "first_name": "Joanne",
+  "full_name": "Joanne Shofner",
+  "id": "ocd-person/dd4b7e14-0bd7-5eac-9885-eaf4fdee1c9f",
+  "identifiers": [
+    {
+      "identifier": "5075",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Shofner"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5084"
+  },
+  "first_name": "Terry",
+  "full_name": "Terry Wilson",
+  "id": "ocd-person/d836c445-804d-55e0-b79b-8bcb4d22e730",
+  "identifiers": [
+    {
+      "identifier": "5084",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wilson"
+}

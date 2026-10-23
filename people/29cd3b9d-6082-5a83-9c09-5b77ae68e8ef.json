@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5074"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Harrison",
+  "id": "ocd-person/29cd3b9d-6082-5a83-9c09-5b77ae68e8ef",
+  "identifiers": [
+    {
+      "identifier": "5074",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harrison"
+}

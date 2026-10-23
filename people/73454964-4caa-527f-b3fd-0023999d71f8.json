@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5139"
+  },
+  "first_name": "Mary",
+  "full_name": "Mary Gonzalez",
+  "id": "ocd-person/73454964-4caa-527f-b3fd-0023999d71f8",
+  "identifiers": [
+    {
+      "identifier": "5139",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez"
+}

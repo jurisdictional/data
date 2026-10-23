@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "agency_type": "legislative",
+  "description": "Bicameral state legislature of Texas, consisting of the Senate (31 members) and House of Representatives (150 members)",
+  "id": "state:48/texas-legislature",
+  "identifiers": [
+    {
+      "identifier": "8870",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Legislature"
+}

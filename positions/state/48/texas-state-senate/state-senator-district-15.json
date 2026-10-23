@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/c529f499-840b-5b5c-94ad-b5d2f52a0576"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-15",
+  "identifiers": [
+    {
+      "identifier": "5981",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 15"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5142"
+  },
+  "first_name": "Joe",
+  "full_name": "Joe Moody",
+  "id": "ocd-person/cca8d878-bc99-5dfe-8f95-dd7869450199",
+  "identifiers": [
+    {
+      "identifier": "5142",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Moody"
+}

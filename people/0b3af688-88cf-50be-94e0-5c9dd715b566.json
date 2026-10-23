@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5140"
+  },
+  "first_name": "Suleman",
+  "full_name": "Suleman Lalani",
+  "id": "ocd-person/0b3af688-88cf-50be-94e0-5c9dd715b566",
+  "identifiers": [
+    {
+      "identifier": "5140",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lalani"
+}

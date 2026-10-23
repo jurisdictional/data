@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5224"
+  },
+  "first_name": "Borris",
+  "full_name": "Borris Miles",
+  "id": "ocd-person/4d28e63c-3fe7-53ff-affe-29fdcd77ae50",
+  "identifiers": [
+    {
+      "identifier": "5224",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Miles"
+}

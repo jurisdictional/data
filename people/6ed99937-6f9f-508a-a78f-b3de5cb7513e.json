@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5492"
+  },
+  "first_name": "James",
+  "full_name": "James P. Sullivan",
+  "id": "ocd-person/6ed99937-6f9f-508a-a78f-b3de5cb7513e",
+  "identifiers": [
+    {
+      "identifier": "5492",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "P. Sullivan"
+}

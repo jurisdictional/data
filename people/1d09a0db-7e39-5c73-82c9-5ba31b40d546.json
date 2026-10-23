@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5167"
+  },
+  "first_name": "Rafael",
+  "full_name": "Rafael Anchia",
+  "id": "ocd-person/1d09a0db-7e39-5c73-82c9-5ba31b40d546",
+  "identifiers": [
+    {
+      "identifier": "5167",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Anchia"
+}

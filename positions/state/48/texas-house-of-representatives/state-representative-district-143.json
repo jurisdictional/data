@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/aa7ed20f-c951-5e88-9bcd-c0a3d293d024"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-143",
+  "identifiers": [
+    {
+      "identifier": "5959",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 143"
+}

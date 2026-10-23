@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/909087f6-5d41-50ce-9d63-663f0c07e9a6"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-74",
+  "identifiers": [
+    {
+      "identifier": "5890",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 74"
+}

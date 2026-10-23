@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5119"
+  },
+  "first_name": "Hillary",
+  "full_name": "Hillary Hickland",
+  "id": "ocd-person/5394924c-a79f-582e-8afa-72fe818f9b21",
+  "identifiers": [
+    {
+      "identifier": "5119",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hickland"
+}

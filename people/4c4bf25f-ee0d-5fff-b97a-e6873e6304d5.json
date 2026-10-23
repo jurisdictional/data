@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5239"
+  },
+  "first_name": "Charles",
+  "full_name": "Charles Perry",
+  "id": "ocd-person/4c4bf25f-ee0d-5fff-b97a-e6873e6304d5",
+  "identifiers": [
+    {
+      "identifier": "5239",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Perry"
+}

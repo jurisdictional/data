@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5311dbc4-1c50-5645-a18c-b3bcb1cae4cf"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-51",
+  "identifiers": [
+    {
+      "identifier": "5867",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 51"
+}

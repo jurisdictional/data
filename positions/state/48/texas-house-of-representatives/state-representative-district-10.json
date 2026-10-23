@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/29cd3b9d-6082-5a83-9c09-5b77ae68e8ef"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-10",
+  "identifiers": [
+    {
+      "identifier": "5826",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 10"
+}

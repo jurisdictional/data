@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d38ea6cd-2e85-593e-a1a0-ea28f2bb1559"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-30",
+  "identifiers": [
+    {
+      "identifier": "5846",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 30"
+}

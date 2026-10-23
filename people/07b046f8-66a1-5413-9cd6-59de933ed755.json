@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5175"
+  },
+  "first_name": "Rhetta",
+  "full_name": "Rhetta Bowers",
+  "id": "ocd-person/07b046f8-66a1-5413-9cd6-59de933ed755",
+  "identifiers": [
+    {
+      "identifier": "5175",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bowers"
+}

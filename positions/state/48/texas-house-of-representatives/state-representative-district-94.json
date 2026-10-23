@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1ae8de79-88b7-5898-aa1a-28755c29abca"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-94",
+  "identifiers": [
+    {
+      "identifier": "5910",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 94"
+}

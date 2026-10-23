@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Manages the state prison system, parole, and community supervision",
+  "id": "state:48/texas-department-of-criminal-justice",
+  "identifiers": [
+    {
+      "identifier": "8984",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Criminal Justice"
+}

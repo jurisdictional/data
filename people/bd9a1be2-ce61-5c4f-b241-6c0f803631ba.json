@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5116"
+  },
+  "first_name": "Caroline",
+  "full_name": "Caroline Harris Davila",
+  "id": "ocd-person/bd9a1be2-ce61-5c4f-b241-6c0f803631ba",
+  "identifiers": [
+    {
+      "identifier": "5116",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harris Davila"
+}

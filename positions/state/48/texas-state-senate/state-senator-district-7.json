@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/2dc2c22b-fa17-5c56-9fb2-a0c7a203d827"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-7",
+  "identifiers": [
+    {
+      "identifier": "5973",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 7"
+}

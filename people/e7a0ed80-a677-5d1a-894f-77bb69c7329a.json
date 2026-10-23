@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5122"
+  },
+  "first_name": "Helen",
+  "full_name": "Helen Kerwin",
+  "id": "ocd-person/e7a0ed80-a677-5d1a-894f-77bb69c7329a",
+  "identifiers": [
+    {
+      "identifier": "5122",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kerwin"
+}

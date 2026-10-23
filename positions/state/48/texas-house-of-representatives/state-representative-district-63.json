@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/7267d6a7-b5a8-5375-ac9c-df8a6afd0e41"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-63",
+  "identifiers": [
+    {
+      "identifier": "5879",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 63"
+}

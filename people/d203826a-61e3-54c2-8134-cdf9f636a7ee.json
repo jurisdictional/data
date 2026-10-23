@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5221"
+  },
+  "first_name": "Phil",
+  "full_name": "Phil King",
+  "id": "ocd-person/d203826a-61e3-54c2-8134-cdf9f636a7ee",
+  "identifiers": [
+    {
+      "identifier": "5221",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "King"
+}

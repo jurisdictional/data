@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5174"
+  },
+  "first_name": "Angie",
+  "full_name": "Angie Button",
+  "id": "ocd-person/a337ed4c-c6f7-5e1c-8fbb-d90b4e065db2",
+  "identifiers": [
+    {
+      "identifier": "5174",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Button"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d025b024-1560-5902-ab64-783d8e024b69"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-45",
+  "identifiers": [
+    {
+      "identifier": "5861",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 45"
+}

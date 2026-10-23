@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5219"
+  },
+  "first_name": "Angela",
+  "full_name": "Angela Paxton",
+  "id": "ocd-person/2cde1d05-942e-5d90-9ea6-25dff08c20f0",
+  "identifiers": [
+    {
+      "identifier": "5219",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Paxton"
+}

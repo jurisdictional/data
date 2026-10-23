@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5078"
+  },
+  "first_name": "Paul",
+  "full_name": "Paul Dyson",
+  "id": "ocd-person/4e912d69-8535-5537-8133-3b1fa6fb0f04",
+  "identifiers": [
+    {
+      "identifier": "5078",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dyson"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5138"
+  },
+  "first_name": "Eddie",
+  "full_name": "Eddie Morales",
+  "id": "ocd-person/909087f6-5d41-50ce-9d63-663f0c07e9a6",
+  "identifiers": [
+    {
+      "identifier": "5138",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Morales"
+}

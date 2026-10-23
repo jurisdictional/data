@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/761d7abe-7a2b-5902-92c1-f80426d0fdd4"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-135",
+  "identifiers": [
+    {
+      "identifier": "5951",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 135"
+}

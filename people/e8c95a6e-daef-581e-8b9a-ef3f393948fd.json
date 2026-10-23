@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5162"
+  },
+  "first_name": "Giovanni",
+  "full_name": "Giovanni Capriglione",
+  "id": "ocd-person/e8c95a6e-daef-581e-8b9a-ef3f393948fd",
+  "identifiers": [
+    {
+      "identifier": "5162",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Capriglione"
+}

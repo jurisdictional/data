@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5144"
+  },
+  "first_name": "Don",
+  "full_name": "Don McLaughlin",
+  "id": "ocd-person/1c6cfa9e-c168-571b-8f16-d9ea570c29a4",
+  "identifiers": [
+    {
+      "identifier": "5144",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "McLaughlin"
+}

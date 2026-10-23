@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5115"
+  },
+  "first_name": "Lulu",
+  "full_name": "Lulu Flores",
+  "id": "ocd-person/5311dbc4-1c50-5645-a18c-b3bcb1cae4cf",
+  "identifiers": [
+    {
+      "identifier": "5115",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Flores"
+}

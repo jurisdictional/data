@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/1207"
+  },
+  "first_name": "Jessica",
+  "full_name": "Jessica Gonzalez",
+  "id": "ocd-person/f1473ca1-ff8e-5944-b0eb-d7551022f589",
+  "identifiers": [
+    {
+      "identifier": "1207",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gonzalez"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Chief financial officer of Texas, collects taxes, manages state funds, and produces revenue estimates",
+  "id": "state:48/texas-comptroller-of-public-accounts",
+  "identifiers": [
+    {
+      "identifier": "8999",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Comptroller of Public Accounts"
+}

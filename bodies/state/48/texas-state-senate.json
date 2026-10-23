@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3261/bodies"
+  },
+  "id": "state:48/texas-state-senate",
+  "identifiers": [
+    {
+      "identifier": "1701",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "legislative_type": "council",
+  "name": "Texas State Senate",
+  "staffed_by": [
+    "state:48/texas-legislature"
+  ]
+}

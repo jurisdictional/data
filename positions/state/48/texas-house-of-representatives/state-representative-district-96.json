@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/aa37da1a-068d-5bfc-9f68-f49d0ae4df93"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-96",
+  "identifiers": [
+    {
+      "identifier": "5912",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 96"
+}

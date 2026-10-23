@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/05e4d19d-45a9-5ff0-b707-53cdea072ed6"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-126",
+  "identifiers": [
+    {
+      "identifier": "5942",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 126"
+}

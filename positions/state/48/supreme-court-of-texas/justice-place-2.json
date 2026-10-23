@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1738/positions"
+  },
+  "body": "state:48/supreme-court-of-texas",
+  "holder": {
+    "person": "ocd-person/52208080-81af-59f3-8d3c-e42d25c07822"
+  },
+  "id": "state:48/supreme-court-of-texas/justice-place-2",
+  "identifiers": [
+    {
+      "identifier": "6244",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Justice, Place 2"
+}

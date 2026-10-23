@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5185"
+  },
+  "first_name": "Diego",
+  "full_name": "Diego Bernal",
+  "id": "ocd-person/19d0fac0-7c26-5c52-a6bc-b28046649bbc",
+  "identifiers": [
+    {
+      "identifier": "5185",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bernal"
+}

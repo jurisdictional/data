@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/2cde1d05-942e-5d90-9ea6-25dff08c20f0"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-8",
+  "identifiers": [
+    {
+      "identifier": "5974",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 8"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5136"
+  },
+  "first_name": "Drew",
+  "full_name": "Drew Darby",
+  "id": "ocd-person/edded467-8178-5283-817d-42c7bfc6bbed",
+  "identifiers": [
+    {
+      "identifier": "5136",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Darby"
+}

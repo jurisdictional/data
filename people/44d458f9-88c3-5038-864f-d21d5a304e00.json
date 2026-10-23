@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5171"
+  },
+  "first_name": "Aicha",
+  "full_name": "Aicha Davis",
+  "id": "ocd-person/44d458f9-88c3-5038-864f-d21d5a304e00",
+  "identifiers": [
+    {
+      "identifier": "5171",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davis"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e8c95a6e-daef-581e-8b9a-ef3f393948fd"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-98",
+  "identifiers": [
+    {
+      "identifier": "5914",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 98"
+}

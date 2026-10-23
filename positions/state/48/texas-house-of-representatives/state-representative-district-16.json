@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/6bfa5ac1-1ab9-51d9-a374-759f0819fb5d"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-16",
+  "identifiers": [
+    {
+      "identifier": "5832",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 16"
+}

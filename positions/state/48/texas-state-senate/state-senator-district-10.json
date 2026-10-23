@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/d203826a-61e3-54c2-8134-cdf9f636a7ee"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-10",
+  "identifiers": [
+    {
+      "identifier": "5976",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 10"
+}

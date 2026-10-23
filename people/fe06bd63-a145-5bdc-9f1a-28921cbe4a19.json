@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5240"
+  },
+  "first_name": "Cesar",
+  "full_name": "Cesar Blanco",
+  "id": "ocd-person/fe06bd63-a145-5bdc-9f1a-28921cbe4a19",
+  "identifiers": [
+    {
+      "identifier": "5240",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Blanco"
+}

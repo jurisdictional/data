@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5126"
+  },
+  "first_name": "Shelley",
+  "full_name": "Shelley Luther",
+  "id": "ocd-person/af3828d0-f62c-5296-8c2b-49de56c46901",
+  "identifiers": [
+    {
+      "identifier": "5126",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Luther"
+}

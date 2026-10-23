@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/8dce3914-ed3d-59b2-9a4a-8ccf10ea83ca"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-88",
+  "identifiers": [
+    {
+      "identifier": "5904",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 88"
+}

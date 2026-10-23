@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5070"
+  },
+  "first_name": "Daniel",
+  "full_name": "Daniel Alders",
+  "id": "ocd-person/6cb46b91-0886-52b1-bd61-e4457975898c",
+  "identifiers": [
+    {
+      "identifier": "5070",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alders"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5195"
+  },
+  "first_name": "Mano",
+  "full_name": "Mano DeAyala",
+  "id": "ocd-person/48e617ea-8262-56af-b6c3-7a87bec43175",
+  "identifiers": [
+    {
+      "identifier": "5195",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "DeAyala"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/f1473ca1-ff8e-5944-b0eb-d7551022f589"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-104",
+  "identifiers": [
+    {
+      "identifier": "5920",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 104"
+}

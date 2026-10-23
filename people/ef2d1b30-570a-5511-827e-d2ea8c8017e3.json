@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5490"
+  },
+  "first_name": "Rebeca",
+  "full_name": "Rebeca Huddle",
+  "id": "ocd-person/ef2d1b30-570a-5511-827e-d2ea8c8017e3",
+  "identifiers": [
+    {
+      "identifier": "5490",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Huddle"
+}

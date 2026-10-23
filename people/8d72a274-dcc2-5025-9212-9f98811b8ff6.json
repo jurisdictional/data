@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5212"
+  },
+  "first_name": "Valoree",
+  "full_name": "Valoree Swanson",
+  "id": "ocd-person/8d72a274-dcc2-5025-9212-9f98811b8ff6",
+  "identifiers": [
+    {
+      "identifier": "5212",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Swanson"
+}

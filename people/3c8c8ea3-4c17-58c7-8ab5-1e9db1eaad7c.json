@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5077"
+  },
+  "first_name": "Angelia",
+  "full_name": "Angelia Orr",
+  "id": "ocd-person/3c8c8ea3-4c17-58c7-8ab5-1e9db1eaad7c",
+  "identifiers": [
+    {
+      "identifier": "5077",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Orr"
+}

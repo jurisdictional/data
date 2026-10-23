@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/4d28e63c-3fe7-53ff-affe-29fdcd77ae50"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-13",
+  "identifiers": [
+    {
+      "identifier": "5979",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 13"
+}

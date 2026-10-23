@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ccb4f745-eee7-5541-a90a-6d1da136a30b"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-86",
+  "identifiers": [
+    {
+      "identifier": "5902",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 86"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/bcca4e05-b84d-5cb3-bb46-5da0434fa7fe"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-14",
+  "identifiers": [
+    {
+      "identifier": "5980",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 14"
+}

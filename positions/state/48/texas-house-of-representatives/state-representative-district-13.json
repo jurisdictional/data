@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3c8c8ea3-4c17-58c7-8ab5-1e9db1eaad7c"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-13",
+  "identifiers": [
+    {
+      "identifier": "5829",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 13"
+}

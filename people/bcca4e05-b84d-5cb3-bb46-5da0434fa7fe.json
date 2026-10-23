@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5225"
+  },
+  "first_name": "Sarah",
+  "full_name": "Sarah Eckhardt",
+  "id": "ocd-person/bcca4e05-b84d-5cb3-bb46-5da0434fa7fe",
+  "identifiers": [
+    {
+      "identifier": "5225",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Eckhardt"
+}

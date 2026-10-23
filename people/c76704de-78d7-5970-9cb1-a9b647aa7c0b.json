@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5102"
+  },
+  "first_name": "Erin",
+  "full_name": "Erin Gamez",
+  "id": "ocd-person/c76704de-78d7-5970-9cb1-a9b647aa7c0b",
+  "identifiers": [
+    {
+      "identifier": "5102",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gamez"
+}

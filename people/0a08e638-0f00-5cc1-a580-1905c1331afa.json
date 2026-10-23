@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5199"
+  },
+  "first_name": "Gene",
+  "full_name": "Gene Wu",
+  "id": "ocd-person/0a08e638-0f00-5cc1-a580-1905c1331afa",
+  "identifiers": [
+    {
+      "identifier": "5199",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wu"
+}

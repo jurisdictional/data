@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5184"
+  },
+  "first_name": "Mark",
+  "full_name": "Mark Dorazio",
+  "id": "ocd-person/3a83d58c-2256-5ecd-a997-9c73fea8c521",
+  "identifiers": [
+    {
+      "identifier": "5184",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dorazio"
+}

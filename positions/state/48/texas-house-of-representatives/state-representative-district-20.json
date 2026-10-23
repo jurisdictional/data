@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d836c445-804d-55e0-b79b-8bcb4d22e730"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-20",
+  "identifiers": [
+    {
+      "identifier": "5836",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 20"
+}

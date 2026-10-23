@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "State law enforcement including Texas Highway Patrol, Texas Rangers, driver licenses, and criminal investigations",
+  "id": "state:48/texas-department-of-public-safety",
+  "identifiers": [
+    {
+      "identifier": "8988",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Public Safety"
+}

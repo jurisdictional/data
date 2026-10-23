@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5170"
+  },
+  "first_name": "Morgan",
+  "full_name": "Morgan Meyer",
+  "id": "ocd-person/2037f1ed-9c96-5e1c-ad40-97a1a2bf4065",
+  "identifiers": [
+    {
+      "identifier": "5170",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Meyer"
+}

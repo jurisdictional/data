@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c68aec97-e6e4-5658-9381-e7e16855f310"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-134",
+  "identifiers": [
+    {
+      "identifier": "5950",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 134"
+}

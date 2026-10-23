@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5242"
+  },
+  "first_name": "Kevin",
+  "full_name": "Kevin Sparks",
+  "id": "ocd-person/7964f14f-5bf5-5449-9744-42161822a726",
+  "identifiers": [
+    {
+      "identifier": "5242",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Sparks"
+}

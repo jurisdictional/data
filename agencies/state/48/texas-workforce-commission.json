@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Administers unemployment insurance, workforce development, and labor law enforcement",
+  "id": "state:48/texas-workforce-commission",
+  "identifiers": [
+    {
+      "identifier": "8987",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Workforce Commission"
+}

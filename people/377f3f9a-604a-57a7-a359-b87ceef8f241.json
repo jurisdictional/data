@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5081"
+  },
+  "first_name": "Stan",
+  "full_name": "Stan Gerdes",
+  "id": "ocd-person/377f3f9a-604a-57a7-a359-b87ceef8f241",
+  "identifiers": [
+    {
+      "identifier": "5081",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gerdes"
+}

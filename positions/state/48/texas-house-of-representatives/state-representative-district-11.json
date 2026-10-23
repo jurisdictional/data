@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/dd4b7e14-0bd7-5eac-9885-eaf4fdee1c9f"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-11",
+  "identifiers": [
+    {
+      "identifier": "5827",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 11"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Chief legal officer of Texas, enforces state laws and represents the state in litigation",
+  "id": "state:48/office-of-the-texas-attorney-general",
+  "identifiers": [
+    {
+      "identifier": "8997",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Office of the Texas Attorney General"
+}

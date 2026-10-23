@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5086"
+  },
+  "first_name": "Christian",
+  "full_name": "Christian Manuel",
+  "id": "ocd-person/c87a4365-f832-5cd1-8ffa-22651f0c05d2",
+  "identifiers": [
+    {
+      "identifier": "5086",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Manuel"
+}

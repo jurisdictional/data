@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Administers affordable housing programs, community development, and energy assistance",
+  "id": "state:48/texas-department-of-housing-and-community-affairs",
+  "identifiers": [
+    {
+      "identifier": "8993",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Housing and Community Affairs"
+}

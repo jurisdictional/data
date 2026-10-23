@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5198"
+  },
+  "first_name": "John",
+  "full_name": "John Bucy III",
+  "id": "ocd-person/1531706c-7d31-5c18-b537-7a867284a292",
+  "identifiers": [
+    {
+      "identifier": "5198",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bucy III"
+}

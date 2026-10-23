@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5183"
+  },
+  "first_name": "Marc",
+  "full_name": "Marc LaHood",
+  "id": "ocd-person/80f41c8e-0f9d-59a1-9c61-e470b1166b24",
+  "identifiers": [
+    {
+      "identifier": "5183",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "LaHood"
+}

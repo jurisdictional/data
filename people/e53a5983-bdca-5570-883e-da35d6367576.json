@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5118"
+  },
+  "first_name": "Brad",
+  "full_name": "Brad Buckley",
+  "id": "ocd-person/e53a5983-bdca-5570-883e-da35d6367576",
+  "identifiers": [
+    {
+      "identifier": "5118",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Buckley"
+}

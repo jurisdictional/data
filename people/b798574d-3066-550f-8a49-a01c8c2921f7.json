@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5202"
+  },
+  "first_name": "Armando",
+  "full_name": "Armando Walle",
+  "id": "ocd-person/b798574d-3066-550f-8a49-a01c8c2921f7",
+  "identifiers": [
+    {
+      "identifier": "5202",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Walle"
+}

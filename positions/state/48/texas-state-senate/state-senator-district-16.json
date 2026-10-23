@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/4aee78d8-1865-5207-ba18-0ff66a6f2223"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-16",
+  "identifiers": [
+    {
+      "identifier": "5982",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 16"
+}

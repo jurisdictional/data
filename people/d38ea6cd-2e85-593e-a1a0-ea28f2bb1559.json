@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5094"
+  },
+  "first_name": "AJ",
+  "full_name": "AJ Louderback",
+  "id": "ocd-person/d38ea6cd-2e85-593e-a1a0-ea28f2bb1559",
+  "identifiers": [
+    {
+      "identifier": "5094",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Louderback"
+}

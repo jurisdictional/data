@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5089"
+  },
+  "first_name": "Cody",
+  "full_name": "Cody Vasut",
+  "id": "ocd-person/ab568c2b-74f0-56a6-85e6-1cb88d40881f",
+  "identifiers": [
+    {
+      "identifier": "5089",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Vasut"
+}

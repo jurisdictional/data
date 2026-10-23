@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/dbaeae1f-66c8-5263-844b-876b63b7ce33"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-28",
+  "identifiers": [
+    {
+      "identifier": "5844",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 28"
+}

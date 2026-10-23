@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5108"
+  },
+  "first_name": "Alan",
+  "full_name": "Alan Schoolcraft",
+  "id": "ocd-person/55fa0a65-b4bd-5954-a7cf-dbdb71cfd2dd",
+  "identifiers": [
+    {
+      "identifier": "5108",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schoolcraft"
+}

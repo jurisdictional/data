@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5178"
+  },
+  "first_name": "Trey",
+  "full_name": "Trey Martinez Fischer",
+  "id": "ocd-person/599a7fba-b8cb-5e4f-b7ba-a01d320c8e94",
+  "identifiers": [
+    {
+      "identifier": "5178",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Martinez Fischer"
+}

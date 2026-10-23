@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3261"
+  },
+  "code": "TX",
+  "id": "state:48",
+  "identifiers": [
+    {
+      "identifier": "48",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "3261",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "state",
+  "name": "Texas",
+  "population": 31709821,
+  "population_year": 2025,
+  "state_abbr": "TX"
+}

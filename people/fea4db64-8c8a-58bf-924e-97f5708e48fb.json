@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5235"
+  },
+  "first_name": "Pete",
+  "full_name": "Pete Flores",
+  "id": "ocd-person/fea4db64-8c8a-58bf-924e-97f5708e48fb",
+  "identifiers": [
+    {
+      "identifier": "5235",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Flores"
+}

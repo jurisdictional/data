@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/8cd7ddfa-279d-5f95-bdbb-f57486a78af2"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-42",
+  "identifiers": [
+    {
+      "identifier": "5858",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 42"
+}

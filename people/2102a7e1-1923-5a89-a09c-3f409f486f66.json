@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5095"
+  },
+  "first_name": "Ryan",
+  "full_name": "Ryan Guillen",
+  "id": "ocd-person/2102a7e1-1923-5a89-a09c-3f409f486f66",
+  "identifiers": [
+    {
+      "identifier": "5095",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guillen"
+}

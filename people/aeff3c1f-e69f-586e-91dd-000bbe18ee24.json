@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5101"
+  },
+  "first_name": "Janie",
+  "full_name": "Janie Lopez",
+  "id": "ocd-person/aeff3c1f-e69f-586e-91dd-000bbe18ee24",
+  "identifiers": [
+    {
+      "identifier": "5101",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lopez"
+}

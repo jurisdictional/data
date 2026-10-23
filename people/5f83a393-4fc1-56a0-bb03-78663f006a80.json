@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5165"
+  },
+  "first_name": "Chris",
+  "full_name": "Chris Turner",
+  "id": "ocd-person/5f83a393-4fc1-56a0-bb03-78663f006a80",
+  "identifiers": [
+    {
+      "identifier": "5165",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Turner"
+}

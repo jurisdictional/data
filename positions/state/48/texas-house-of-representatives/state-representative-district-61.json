@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/697084b9-82f0-5af1-bba0-56de902d69e2"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-61",
+  "identifiers": [
+    {
+      "identifier": "5877",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 61"
+}

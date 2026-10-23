@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5173"
+  },
+  "first_name": "Yvonne",
+  "full_name": "Yvonne Davis",
+  "id": "ocd-person/77470954-0c43-5bcf-891f-438477b46b6d",
+  "identifiers": [
+    {
+      "identifier": "5173",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Davis"
+}

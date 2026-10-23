@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e60bc0d2-bfea-5212-9e16-e780cb0cf6ec"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-99",
+  "identifiers": [
+    {
+      "identifier": "5915",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 99"
+}

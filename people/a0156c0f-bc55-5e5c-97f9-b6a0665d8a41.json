@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5206"
+  },
+  "first_name": "Mary",
+  "full_name": "Mary Ann Perez",
+  "id": "ocd-person/a0156c0f-bc55-5e5c-97f9-b6a0665d8a41",
+  "identifiers": [
+    {
+      "identifier": "5206",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ann Perez"
+}

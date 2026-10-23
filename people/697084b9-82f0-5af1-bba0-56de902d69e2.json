@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5125"
+  },
+  "first_name": "Keresa",
+  "full_name": "Keresa Richardson",
+  "id": "ocd-person/697084b9-82f0-5af1-bba0-56de902d69e2",
+  "identifiers": [
+    {
+      "identifier": "5125",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Richardson"
+}

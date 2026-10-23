@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5179"
+  },
+  "first_name": "Philip",
+  "full_name": "Philip Cortez",
+  "id": "ocd-person/abb00853-b9bf-58a4-9803-2258e0463902",
+  "identifiers": [
+    {
+      "identifier": "5179",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cortez"
+}

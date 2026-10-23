@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5210"
+  },
+  "first_name": "Penny",
+  "full_name": "Penny Morales Shaw",
+  "id": "ocd-person/62f599e5-84d0-510a-9b74-c469f63c2c09",
+  "identifiers": [
+    {
+      "identifier": "5210",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Morales Shaw"
+}

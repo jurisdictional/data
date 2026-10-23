@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e9ab3b1e-789f-5cf4-9444-73eea0e73000"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-124",
+  "identifiers": [
+    {
+      "identifier": "5940",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 124"
+}

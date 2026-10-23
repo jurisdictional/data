@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5130"
+  },
+  "first_name": "Matt",
+  "full_name": "Matt Shaheen",
+  "id": "ocd-person/45931bac-2bfa-500d-be11-8e9984074acd",
+  "identifiers": [
+    {
+      "identifier": "5130",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Shaheen"
+}

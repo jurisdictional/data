@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5204"
+  },
+  "first_name": "Harold",
+  "full_name": "Harold Dutton Jr.",
+  "id": "ocd-person/72e56cbe-5559-5b60-8a25-6fb9a9de7e87",
+  "identifiers": [
+    {
+      "identifier": "5204",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dutton Jr."
+}

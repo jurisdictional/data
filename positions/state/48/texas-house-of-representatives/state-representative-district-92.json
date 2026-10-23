@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3264523c-63f0-5618-ae9f-842692fc437c"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-92",
+  "identifiers": [
+    {
+      "identifier": "5908",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 92"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/2037f1ed-9c96-5e1c-ad40-97a1a2bf4065"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-108",
+  "identifiers": [
+    {
+      "identifier": "5924",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 108"
+}

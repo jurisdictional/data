@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/730f895c-7e82-5ca9-981d-a15a5bec3699"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-22",
+  "identifiers": [
+    {
+      "identifier": "5988",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 22"
+}

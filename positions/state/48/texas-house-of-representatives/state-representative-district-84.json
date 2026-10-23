@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e40a7245-0a30-5343-a183-8cde1ceb5105"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-84",
+  "identifiers": [
+    {
+      "identifier": "5900",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 84"
+}

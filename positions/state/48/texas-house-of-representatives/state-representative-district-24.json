@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/4de463b2-4e02-50dd-8c00-b69c57d004f5"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-24",
+  "identifiers": [
+    {
+      "identifier": "5840",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 24"
+}

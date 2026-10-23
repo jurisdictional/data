@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/19d0fac0-7c26-5c52-a6bc-b28046649bbc"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-123",
+  "identifiers": [
+    {
+      "identifier": "5939",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 123"
+}

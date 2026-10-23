@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5076"
+  },
+  "first_name": "Trey",
+  "full_name": "Trey Wharton",
+  "id": "ocd-person/bfebadc5-49f0-5484-99dd-e199dd66f586",
+  "identifiers": [
+    {
+      "identifier": "5076",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Wharton"
+}

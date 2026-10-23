@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Executive office of the Governor of Texas, the chief executive of state government",
+  "id": "state:48/office-of-the-governor-of-texas",
+  "identifiers": [
+    {
+      "identifier": "8873",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Office of the Governor of Texas"
+}

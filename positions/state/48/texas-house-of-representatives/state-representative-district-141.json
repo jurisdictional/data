@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c788bbfa-4fd1-588f-9dbf-f1b4c47a8b9e"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-141",
+  "identifiers": [
+    {
+      "identifier": "5957",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 141"
+}

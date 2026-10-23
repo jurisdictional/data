@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5232"
+  },
+  "first_name": "Judith",
+  "full_name": "Judith Zaffirini",
+  "id": "ocd-person/49c02787-fa30-56a8-b11d-fcce805fc255",
+  "identifiers": [
+    {
+      "identifier": "5232",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Zaffirini"
+}

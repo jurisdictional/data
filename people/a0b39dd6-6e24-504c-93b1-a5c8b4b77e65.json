@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5093"
+  },
+  "first_name": "Jeffrey",
+  "full_name": "Jeffrey Barry",
+  "id": "ocd-person/a0b39dd6-6e24-504c-93b1-a5c8b4b77e65",
+  "identifiers": [
+    {
+      "identifier": "5093",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Barry"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/e41af0f1-e1bf-58be-8c09-f60c4b8126ee"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-43",
+  "identifiers": [
+    {
+      "identifier": "5859",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 43"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5072"
+  },
+  "first_name": "Cody",
+  "full_name": "Cody Harris",
+  "id": "ocd-person/c41c6a39-3a18-5560-9bfb-8911ae9bdace",
+  "identifiers": [
+    {
+      "identifier": "5072",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harris"
+}

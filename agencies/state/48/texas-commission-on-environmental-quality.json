@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Protects Texas' public health and natural resources through environmental regulation",
+  "id": "state:48/texas-commission-on-environmental-quality",
+  "identifiers": [
+    {
+      "identifier": "8983",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Commission on Environmental Quality"
+}

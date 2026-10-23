@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5176"
+  },
+  "first_name": "John",
+  "full_name": "John Bryant",
+  "id": "ocd-person/e39c5400-2af8-5bcb-8f3c-ac42ebfc21bd",
+  "identifiers": [
+    {
+      "identifier": "5176",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bryant"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d7e6dae4-f9cd-5e42-b108-aec4da48572a"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-33",
+  "identifiers": [
+    {
+      "identifier": "5849",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 33"
+}

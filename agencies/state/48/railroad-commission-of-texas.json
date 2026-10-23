@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Regulates the oil and gas industry, pipeline safety, surface mining, and gas utilities",
+  "id": "state:48/railroad-commission-of-texas",
+  "identifiers": [
+    {
+      "identifier": "8992",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Railroad Commission of Texas"
+}

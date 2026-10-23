@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "agency_type": "courts",
+  "description": "Highest civil court in Texas, consisting of the Chief Justice and eight Justices, all elected statewide",
+  "id": "state:48/supreme-court-of-texas",
+  "identifiers": [
+    {
+      "identifier": "8981",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Supreme Court of Texas"
+}

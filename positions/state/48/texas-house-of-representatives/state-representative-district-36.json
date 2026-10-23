@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/32d66ff6-4a22-5738-bdb4-bd9cab8a7973"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-36",
+  "identifiers": [
+    {
+      "identifier": "5852",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 36"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5236"
+  },
+  "first_name": "Donna",
+  "full_name": "Donna Campbell",
+  "id": "ocd-person/8920bda6-8a0b-504a-a045-08da38a73643",
+  "identifiers": [
+    {
+      "identifier": "5236",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Campbell"
+}

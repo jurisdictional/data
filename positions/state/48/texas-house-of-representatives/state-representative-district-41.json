@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/6adb9f85-bb70-5fde-8a4c-c23922171b5a"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-41",
+  "identifiers": [
+    {
+      "identifier": "5857",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 41"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/edded467-8178-5283-817d-42c7bfc6bbed"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-72",
+  "identifiers": [
+    {
+      "identifier": "5888",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 72"
+}

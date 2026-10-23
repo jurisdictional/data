@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5082"
+  },
+  "first_name": "Janis",
+  "full_name": "Janis Holt",
+  "id": "ocd-person/03c399a5-6f65-5f20-ad82-e2d88d2eefc9",
+  "identifiers": [
+    {
+      "identifier": "5082",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Holt"
+}

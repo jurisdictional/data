@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5182"
+  },
+  "first_name": "Barbara",
+  "full_name": "Barbara Gervin-Hawkins",
+  "id": "ocd-person/d7be60ba-a8de-5374-b7ab-552249e0d79f",
+  "identifiers": [
+    {
+      "identifier": "5182",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gervin-Hawkins"
+}

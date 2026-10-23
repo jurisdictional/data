@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/b466fec2-39b7-5a87-b38b-1c4c02f29179"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-87",
+  "identifiers": [
+    {
+      "identifier": "5903",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 87"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5485"
+  },
+  "first_name": "J.",
+  "full_name": "J. Brett Busby",
+  "id": "ocd-person/b3dad004-b720-59e1-81fb-c65d38f12016",
+  "identifiers": [
+    {
+      "identifier": "5485",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Brett Busby"
+}

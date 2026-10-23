@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5114"
+  },
+  "first_name": "James",
+  "full_name": "James Talarico",
+  "id": "ocd-person/fceb3147-8c02-5623-bcb3-94973a0cbfb3",
+  "identifiers": [
+    {
+      "identifier": "5114",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Talarico"
+}

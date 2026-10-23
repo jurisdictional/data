@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1738/positions"
+  },
+  "body": "state:48/supreme-court-of-texas",
+  "holder": {
+    "person": "ocd-person/7e53d4ae-44c4-5fbd-a6e7-a05089a9ceda"
+  },
+  "id": "state:48/supreme-court-of-texas/chief-justice-of-texas",
+  "identifiers": [
+    {
+      "identifier": "6243",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Chief Justice of Texas"
+}

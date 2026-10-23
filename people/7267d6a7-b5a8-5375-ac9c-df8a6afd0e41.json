@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5127"
+  },
+  "first_name": "Ben",
+  "full_name": "Ben Bumgarner",
+  "id": "ocd-person/7267d6a7-b5a8-5375-ac9c-df8a6afd0e41",
+  "identifiers": [
+    {
+      "identifier": "5127",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bumgarner"
+}

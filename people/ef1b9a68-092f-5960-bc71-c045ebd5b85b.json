@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5083"
+  },
+  "first_name": "Ellen",
+  "full_name": "Ellen Troxclair",
+  "id": "ocd-person/ef1b9a68-092f-5960-bc71-c045ebd5b85b",
+  "identifiers": [
+    {
+      "identifier": "5083",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Troxclair"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5200"
+  },
+  "first_name": "Lacey",
+  "full_name": "Lacey Hull",
+  "id": "ocd-person/260c28bf-73f6-5a2e-9a9f-441657e2a739",
+  "identifiers": [
+    {
+      "identifier": "5200",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hull"
+}

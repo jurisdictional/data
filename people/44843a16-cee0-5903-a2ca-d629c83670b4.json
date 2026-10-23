@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5111"
+  },
+  "first_name": "Vikki",
+  "full_name": "Vikki Goodwin",
+  "id": "ocd-person/44843a16-cee0-5903-a2ca-d629c83670b4",
+  "identifiers": [
+    {
+      "identifier": "5111",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Goodwin"
+}

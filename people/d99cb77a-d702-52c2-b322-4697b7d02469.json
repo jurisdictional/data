@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5090"
+  },
+  "first_name": "Matt",
+  "full_name": "Matt Morgan",
+  "id": "ocd-person/d99cb77a-d702-52c2-b322-4697b7d02469",
+  "identifiers": [
+    {
+      "identifier": "5090",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Morgan"
+}

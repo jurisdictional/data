@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5134"
+  },
+  "first_name": "Mihaela",
+  "full_name": "Mihaela Plesa",
+  "id": "ocd-person/845434e1-21be-50d3-acae-90d224e03a86",
+  "identifiers": [
+    {
+      "identifier": "5134",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Plesa"
+}

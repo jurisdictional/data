@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/017e6cbf-1cd0-5f7c-a216-7ee4bcf73d0b"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-107",
+  "identifiers": [
+    {
+      "identifier": "5923",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 107"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/1531706c-7d31-5c18-b537-7a867284a292"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-136",
+  "identifiers": [
+    {
+      "identifier": "5952",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 136"
+}

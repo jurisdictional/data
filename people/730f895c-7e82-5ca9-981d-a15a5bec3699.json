@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5233"
+  },
+  "first_name": "Brian",
+  "full_name": "Brian Birdwell",
+  "id": "ocd-person/730f895c-7e82-5ca9-981d-a15a5bec3699",
+  "identifiers": [
+    {
+      "identifier": "5233",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Birdwell"
+}

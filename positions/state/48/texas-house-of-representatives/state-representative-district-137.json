@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/0a08e638-0f00-5cc1-a580-1905c1331afa"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-137",
+  "identifiers": [
+    {
+      "identifier": "5953",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 137"
+}

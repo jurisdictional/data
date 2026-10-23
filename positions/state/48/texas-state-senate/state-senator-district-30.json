@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/e7f1acbd-d5bf-55da-a27d-297605c8356e"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-30",
+  "identifiers": [
+    {
+      "identifier": "5996",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 30"
+}

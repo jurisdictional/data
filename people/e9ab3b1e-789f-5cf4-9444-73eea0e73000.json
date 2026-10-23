@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5186"
+  },
+  "first_name": "Josey",
+  "full_name": "Josey Garcia",
+  "id": "ocd-person/e9ab3b1e-789f-5cf4-9444-73eea0e73000",
+  "identifiers": [
+    {
+      "identifier": "5186",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Garcia"
+}

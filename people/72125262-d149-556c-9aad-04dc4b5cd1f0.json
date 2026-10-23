@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5096"
+  },
+  "first_name": "Todd",
+  "full_name": "Todd Hunter",
+  "id": "ocd-person/72125262-d149-556c-9aad-04dc4b5cd1f0",
+  "identifiers": [
+    {
+      "identifier": "5096",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hunter"
+}

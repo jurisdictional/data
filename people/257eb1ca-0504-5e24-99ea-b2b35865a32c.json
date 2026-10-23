@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5217"
+  },
+  "first_name": "Carol",
+  "full_name": "Carol Alvarado",
+  "id": "ocd-person/257eb1ca-0504-5e24-99ea-b2b35865a32c",
+  "identifiers": [
+    {
+      "identifier": "5217",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Alvarado"
+}

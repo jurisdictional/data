@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5120"
+  },
+  "first_name": "Pat",
+  "full_name": "Pat Curry",
+  "id": "ocd-person/d1bf5995-bab7-5757-97aa-8f47e3adabe1",
+  "identifiers": [
+    {
+      "identifier": "5120",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Curry"
+}

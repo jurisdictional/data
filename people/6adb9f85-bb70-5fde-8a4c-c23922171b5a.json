@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5105"
+  },
+  "first_name": "Robert",
+  "full_name": "Robert Guerra",
+  "id": "ocd-person/6adb9f85-bb70-5fde-8a4c-c23922171b5a",
+  "identifiers": [
+    {
+      "identifier": "5105",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Guerra"
+}

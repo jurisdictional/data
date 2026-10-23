@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5117"
+  },
+  "first_name": "Wesley",
+  "full_name": "Wesley Virdell",
+  "id": "ocd-person/420cb83a-7118-5ab5-8f24-7660bf30a107",
+  "identifiers": [
+    {
+      "identifier": "5117",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Virdell"
+}

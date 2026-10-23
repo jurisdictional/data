@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/377f3f9a-604a-57a7-a359-b87ceef8f241"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-17",
+  "identifiers": [
+    {
+      "identifier": "5833",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 17"
+}

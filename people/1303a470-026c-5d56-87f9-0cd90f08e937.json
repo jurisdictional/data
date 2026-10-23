@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5099"
+  },
+  "first_name": "Oscar",
+  "full_name": "Oscar Longoria",
+  "id": "ocd-person/1303a470-026c-5d56-87f9-0cd90f08e937",
+  "identifiers": [
+    {
+      "identifier": "5099",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Longoria"
+}

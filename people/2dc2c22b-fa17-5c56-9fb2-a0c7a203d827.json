@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5218"
+  },
+  "first_name": "Paul",
+  "full_name": "Paul Bettencourt",
+  "id": "ocd-person/2dc2c22b-fa17-5c56-9fb2-a0c7a203d827",
+  "identifiers": [
+    {
+      "identifier": "5218",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bettencourt"
+}

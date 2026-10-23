@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5087"
+  },
+  "first_name": "Terri",
+  "full_name": "Terri Leo-Wilson",
+  "id": "ocd-person/034d2c75-03c0-51f9-84d6-131fea34197f",
+  "identifiers": [
+    {
+      "identifier": "5087",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Leo-Wilson"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5155"
+  },
+  "first_name": "David",
+  "full_name": "David Lowe",
+  "id": "ocd-person/d8f5ef8f-d21a-5fe6-8777-83484be7e105",
+  "identifiers": [
+    {
+      "identifier": "5155",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lowe"
+}

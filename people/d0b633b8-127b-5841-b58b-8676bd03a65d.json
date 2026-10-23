@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5073"
+  },
+  "first_name": "Trent",
+  "full_name": "Trent Ashby",
+  "id": "ocd-person/d0b633b8-127b-5841-b58b-8676bd03a65d",
+  "identifiers": [
+    {
+      "identifier": "5073",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ashby"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5231"
+  },
+  "first_name": "Juan",
+  "full_name": "Juan Hinojosa",
+  "id": "ocd-person/9050148b-05bf-577b-b4e4-9d0901e1588f",
+  "identifiers": [
+    {
+      "identifier": "5231",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hinojosa"
+}

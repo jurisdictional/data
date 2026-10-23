@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5109"
+  },
+  "first_name": "Erin",
+  "full_name": "Erin Zwiener",
+  "id": "ocd-person/d025b024-1560-5902-ab64-783d8e024b69",
+  "identifiers": [
+    {
+      "identifier": "5109",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Zwiener"
+}

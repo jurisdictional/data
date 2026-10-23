@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d99cb77a-d702-52c2-b322-4697b7d02469"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-26",
+  "identifiers": [
+    {
+      "identifier": "5842",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 26"
+}

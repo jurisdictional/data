@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5151"
+  },
+  "first_name": "Caroline",
+  "full_name": "Caroline Fairly",
+  "id": "ocd-person/b466fec2-39b7-5a87-b38b-1c4c02f29179",
+  "identifiers": [
+    {
+      "identifier": "5151",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Fairly"
+}

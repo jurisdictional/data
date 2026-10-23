@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5216"
+  },
+  "first_name": "Charles",
+  "full_name": "Charles Schwertner",
+  "id": "ocd-person/40b510d1-5107-5af6-8906-4c2bac27003e",
+  "identifiers": [
+    {
+      "identifier": "5216",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schwertner"
+}

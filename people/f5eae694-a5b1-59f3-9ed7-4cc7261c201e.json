@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5222"
+  },
+  "first_name": "Mayes",
+  "full_name": "Mayes Middleton",
+  "id": "ocd-person/f5eae694-a5b1-59f3-9ed7-4cc7261c201e",
+  "identifiers": [
+    {
+      "identifier": "5222",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Middleton"
+}

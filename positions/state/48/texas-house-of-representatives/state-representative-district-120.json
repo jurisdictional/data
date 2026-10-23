@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d7be60ba-a8de-5374-b7ab-552249e0d79f"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-120",
+  "identifiers": [
+    {
+      "identifier": "5936",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 120"
+}

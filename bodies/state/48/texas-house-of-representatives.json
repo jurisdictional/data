@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3261/bodies"
+  },
+  "id": "state:48/texas-house-of-representatives",
+  "identifiers": [
+    {
+      "identifier": "1700",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "legislative_type": "council",
+  "name": "Texas House of Representatives",
+  "staffed_by": [
+    "state:48/texas-legislature"
+  ]
+}

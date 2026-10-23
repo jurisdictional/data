@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5177"
+  },
+  "first_name": "Cassandra",
+  "full_name": "Cassandra Hernandez",
+  "id": "ocd-person/4f97f027-97c6-57e0-bbe8-c1422d36c6fc",
+  "identifiers": [
+    {
+      "identifier": "5177",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hernandez"
+}

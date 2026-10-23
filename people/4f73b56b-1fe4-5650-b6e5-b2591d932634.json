@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5103"
+  },
+  "first_name": "Armando",
+  "full_name": "Armando Martinez",
+  "id": "ocd-person/4f73b56b-1fe4-5650-b6e5-b2591d932634",
+  "identifiers": [
+    {
+      "identifier": "5103",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Martinez"
+}

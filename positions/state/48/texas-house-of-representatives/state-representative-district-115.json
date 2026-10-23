@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/4f97f027-97c6-57e0-bbe8-c1422d36c6fc"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-115",
+  "identifiers": [
+    {
+      "identifier": "5931",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 115"
+}

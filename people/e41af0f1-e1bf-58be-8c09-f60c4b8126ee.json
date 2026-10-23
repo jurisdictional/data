@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5107"
+  },
+  "first_name": "Jose",
+  "full_name": "Jose Manuel Lozano",
+  "id": "ocd-person/e41af0f1-e1bf-58be-8c09-f60c4b8126ee",
+  "identifiers": [
+    {
+      "identifier": "5107",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Manuel Lozano"
+}

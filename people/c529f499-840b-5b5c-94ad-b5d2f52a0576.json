@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5226"
+  },
+  "first_name": "Molly",
+  "full_name": "Molly Cook",
+  "id": "ocd-person/c529f499-840b-5b5c-94ad-b5d2f52a0576",
+  "identifiers": [
+    {
+      "identifier": "5226",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cook"
+}

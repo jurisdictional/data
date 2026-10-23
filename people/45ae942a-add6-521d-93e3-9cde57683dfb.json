@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5201"
+  },
+  "first_name": "Charlene",
+  "full_name": "Charlene Ward Johnson",
+  "id": "ocd-person/45ae942a-add6-521d-93e3-9cde57683dfb",
+  "identifiers": [
+    {
+      "identifier": "5201",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ward Johnson"
+}

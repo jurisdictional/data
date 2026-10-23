@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5f83a393-4fc1-56a0-bb03-78663f006a80"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-101",
+  "identifiers": [
+    {
+      "identifier": "5917",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 101"
+}

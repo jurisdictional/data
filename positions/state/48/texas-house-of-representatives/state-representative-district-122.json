@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/3a83d58c-2256-5ecd-a997-9c73fea8c521"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-122",
+  "identifiers": [
+    {
+      "identifier": "5938",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 122"
+}

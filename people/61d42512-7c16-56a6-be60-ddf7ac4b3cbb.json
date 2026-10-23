@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5153"
+  },
+  "first_name": "Candy",
+  "full_name": "Candy Noble",
+  "id": "ocd-person/61d42512-7c16-56a6-be60-ddf7ac4b3cbb",
+  "identifiers": [
+    {
+      "identifier": "5153",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Noble"
+}

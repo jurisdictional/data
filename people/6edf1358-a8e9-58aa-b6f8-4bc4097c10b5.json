@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5157"
+  },
+  "first_name": "Nate",
+  "full_name": "Nate Schatzline",
+  "id": "ocd-person/6edf1358-a8e9-58aa-b6f8-4bc4097c10b5",
+  "identifiers": [
+    {
+      "identifier": "5157",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schatzline"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Manages state lands, Veterans' benefits programs, and coastal protection",
+  "id": "state:48/texas-general-land-office",
+  "identifiers": [
+    {
+      "identifier": "8996",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas General Land Office"
+}

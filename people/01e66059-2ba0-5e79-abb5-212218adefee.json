@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5079"
+  },
+  "first_name": "Steve",
+  "full_name": "Steve Toth",
+  "id": "ocd-person/01e66059-2ba0-5e79-abb5-212218adefee",
+  "identifiers": [
+    {
+      "identifier": "5079",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Toth"
+}

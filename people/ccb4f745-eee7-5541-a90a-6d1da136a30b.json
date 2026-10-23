@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5150"
+  },
+  "first_name": "John",
+  "full_name": "John Smithee",
+  "id": "ocd-person/ccb4f745-eee7-5541-a90a-6d1da136a30b",
+  "identifiers": [
+    {
+      "identifier": "5150",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Smithee"
+}

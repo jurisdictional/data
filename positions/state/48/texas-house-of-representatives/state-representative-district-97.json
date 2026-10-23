@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/cf4905b3-c1a2-5e66-8c52-b025b2e1432b"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-97",
+  "identifiers": [
+    {
+      "identifier": "5913",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 97"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5180"
+  },
+  "first_name": "John",
+  "full_name": "John Lujan",
+  "id": "ocd-person/ce8ba62f-0add-56a4-90da-856f5ed55ef1",
+  "identifiers": [
+    {
+      "identifier": "5180",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lujan"
+}

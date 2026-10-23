@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1738/positions"
+  },
+  "body": "state:48/supreme-court-of-texas",
+  "holder": {
+    "person": "ocd-person/6ed99937-6f9f-508a-a78f-b3de5cb7513e"
+  },
+  "id": "state:48/supreme-court-of-texas/justice-place-8",
+  "identifiers": [
+    {
+      "identifier": "6250",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "Justice, Place 8"
+}

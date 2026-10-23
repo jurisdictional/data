@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5092"
+  },
+  "first_name": "Gary",
+  "full_name": "Gary Gates",
+  "id": "ocd-person/dbaeae1f-66c8-5263-844b-876b63b7ce33",
+  "identifiers": [
+    {
+      "identifier": "5092",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Gates"
+}

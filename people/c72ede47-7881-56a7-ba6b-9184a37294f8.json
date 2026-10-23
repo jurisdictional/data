@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5172"
+  },
+  "first_name": "Toni",
+  "full_name": "Toni Rose",
+  "id": "ocd-person/c72ede47-7881-56a7-ba6b-9184a37294f8",
+  "identifiers": [
+    {
+      "identifier": "5172",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rose"
+}

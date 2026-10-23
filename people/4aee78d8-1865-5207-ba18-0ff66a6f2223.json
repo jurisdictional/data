@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5227"
+  },
+  "first_name": "Nathan",
+  "full_name": "Nathan Johnson",
+  "id": "ocd-person/4aee78d8-1865-5207-ba18-0ff66a6f2223",
+  "identifiers": [
+    {
+      "identifier": "5227",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson"
+}

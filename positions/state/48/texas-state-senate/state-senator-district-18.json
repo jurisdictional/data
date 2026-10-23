@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/df3a6f7a-4765-5924-a94b-bd852e8f053d"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-18",
+  "identifiers": [
+    {
+      "identifier": "5984",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 18"
+}

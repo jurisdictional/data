@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5104"
+  },
+  "first_name": "Terry",
+  "full_name": "Terry Canales",
+  "id": "ocd-person/45b3ed09-4635-59f1-a8a1-39c3bf307911",
+  "identifiers": [
+    {
+      "identifier": "5104",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Canales"
+}

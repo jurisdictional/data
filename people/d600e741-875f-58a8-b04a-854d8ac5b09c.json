@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5067"
+  },
+  "first_name": "Brent",
+  "full_name": "Brent Money",
+  "id": "ocd-person/d600e741-875f-58a8-b04a-854d8ac5b09c",
+  "identifiers": [
+    {
+      "identifier": "5067",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Money"
+}

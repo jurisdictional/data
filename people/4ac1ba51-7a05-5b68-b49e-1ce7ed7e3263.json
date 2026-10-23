@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5132"
+  },
+  "first_name": "David",
+  "full_name": "David Spiller",
+  "id": "ocd-person/4ac1ba51-7a05-5b68-b49e-1ce7ed7e3263",
+  "identifiers": [
+    {
+      "identifier": "5132",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Spiller"
+}

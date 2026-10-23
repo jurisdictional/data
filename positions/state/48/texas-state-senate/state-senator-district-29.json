@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/fe06bd63-a145-5bdc-9f1a-28921cbe4a19"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-29",
+  "identifiers": [
+    {
+      "identifier": "5995",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 29"
+}

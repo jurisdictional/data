@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1701/positions"
+  },
+  "body": "state:48/texas-state-senate",
+  "holder": {
+    "person": "ocd-person/bdcb0969-e210-539b-879f-7e8b63e067e7"
+  },
+  "id": "state:48/texas-state-senate/state-senator-district-2",
+  "identifiers": [
+    {
+      "identifier": "5968",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Senator, District 2"
+}

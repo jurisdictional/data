@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5100"
+  },
+  "first_name": "Sergio",
+  "full_name": "Sergio Munoz",
+  "id": "ocd-person/32d66ff6-4a22-5738-bdb4-bd9cab8a7973",
+  "identifiers": [
+    {
+      "identifier": "5100",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Munoz"
+}

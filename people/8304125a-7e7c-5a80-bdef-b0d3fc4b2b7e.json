@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5193"
+  },
+  "first_name": "Alma",
+  "full_name": "Alma Allen",
+  "id": "ocd-person/8304125a-7e7c-5a80-bdef-b0d3fc4b2b7e",
+  "identifiers": [
+    {
+      "identifier": "5193",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Allen"
+}

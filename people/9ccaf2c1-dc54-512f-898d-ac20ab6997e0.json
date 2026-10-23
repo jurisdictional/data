@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5147"
+  },
+  "first_name": "Dustin",
+  "full_name": "Dustin Burrows",
+  "id": "ocd-person/9ccaf2c1-dc54-512f-898d-ac20ab6997e0",
+  "identifiers": [
+    {
+      "identifier": "5147",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Burrows"
+}

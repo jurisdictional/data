@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Manages state parks, wildlife conservation, hunting and fishing licenses",
+  "id": "state:48/texas-parks-and-wildlife-department",
+  "identifiers": [
+    {
+      "identifier": "8990",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Parks and Wildlife Department"
+}

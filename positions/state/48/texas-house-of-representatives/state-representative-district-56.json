@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d1bf5995-bab7-5757-97aa-8f47e3adabe1"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-56",
+  "identifiers": [
+    {
+      "identifier": "5872",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 56"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5123"
+  },
+  "first_name": "Shelby",
+  "full_name": "Shelby Slawson",
+  "id": "ocd-person/9592db79-1cd5-535d-929e-fa8f527f9d76",
+  "identifiers": [
+    {
+      "identifier": "5123",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Slawson"
+}

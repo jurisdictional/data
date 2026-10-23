@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5207"
+  },
+  "first_name": "Christina",
+  "full_name": "Christina Morales",
+  "id": "ocd-person/112edcdf-f72e-5f4f-ba7d-499dca166c24",
+  "identifiers": [
+    {
+      "identifier": "5207",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Morales"
+}

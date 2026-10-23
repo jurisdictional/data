@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/38c0a145-3ccd-5660-a022-91e3eef86d92"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-95",
+  "identifiers": [
+    {
+      "identifier": "5911",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 95"
+}

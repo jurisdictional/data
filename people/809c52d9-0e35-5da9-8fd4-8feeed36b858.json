@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5181"
+  },
+  "first_name": "Elizabeth",
+  "full_name": "Elizabeth Campos",
+  "id": "ocd-person/809c52d9-0e35-5da9-8fd4-8feeed36b858",
+  "identifiers": [
+    {
+      "identifier": "5181",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Campos"
+}

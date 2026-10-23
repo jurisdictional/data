@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/034d2c75-03c0-51f9-84d6-131fea34197f"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-23",
+  "identifiers": [
+    {
+      "identifier": "5839",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 23"
+}

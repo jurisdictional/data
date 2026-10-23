@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5164"
+  },
+  "first_name": "Venton",
+  "full_name": "Venton Jones",
+  "id": "ocd-person/413bbe92-58f7-5f21-9cd3-9cd4da2d35fc",
+  "identifiers": [
+    {
+      "identifier": "5164",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Jones"
+}

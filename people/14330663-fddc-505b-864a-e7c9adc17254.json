@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5146"
+  },
+  "first_name": "Tom",
+  "full_name": "Tom Craddick",
+  "id": "ocd-person/14330663-fddc-505b-864a-e7c9adc17254",
+  "identifiers": [
+    {
+      "identifier": "5146",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Craddick"
+}

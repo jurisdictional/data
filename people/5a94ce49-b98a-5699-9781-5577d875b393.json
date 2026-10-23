@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5068"
+  },
+  "first_name": "Cecil",
+  "full_name": "Cecil Bell Jr.",
+  "id": "ocd-person/5a94ce49-b98a-5699-9781-5577d875b393",
+  "identifiers": [
+    {
+      "identifier": "5068",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bell Jr."
+}

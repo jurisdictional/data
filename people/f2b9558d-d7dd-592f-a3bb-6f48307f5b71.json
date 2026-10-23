@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5220"
+  },
+  "first_name": "Taylor",
+  "full_name": "Taylor Rehmet",
+  "id": "ocd-person/f2b9558d-d7dd-592f-a3bb-6f48307f5b71",
+  "identifiers": [
+    {
+      "identifier": "5220",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Rehmet"
+}

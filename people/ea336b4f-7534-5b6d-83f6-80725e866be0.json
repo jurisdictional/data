@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5166"
+  },
+  "first_name": "Ana-Maria",
+  "full_name": "Ana-Maria Ramos",
+  "id": "ocd-person/ea336b4f-7534-5b6d-83f6-80725e866be0",
+  "identifiers": [
+    {
+      "identifier": "5166",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ramos"
+}

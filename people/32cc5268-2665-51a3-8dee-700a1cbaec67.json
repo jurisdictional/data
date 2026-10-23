@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5168"
+  },
+  "first_name": "Terry",
+  "full_name": "Terry Meza",
+  "id": "ocd-person/32cc5268-2665-51a3-8dee-700a1cbaec67",
+  "identifiers": [
+    {
+      "identifier": "5168",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Meza"
+}

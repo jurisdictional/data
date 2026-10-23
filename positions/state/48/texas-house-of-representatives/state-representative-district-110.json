@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/c72ede47-7881-56a7-ba6b-9184a37294f8"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-110",
+  "identifiers": [
+    {
+      "identifier": "5926",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 110"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ce8ba62f-0add-56a4-90da-856f5ed55ef1"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-118",
+  "identifiers": [
+    {
+      "identifier": "5934",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 118"
+}

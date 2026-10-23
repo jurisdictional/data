@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ead3c388-b050-5524-96b8-dad6d287d890"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-132",
+  "identifiers": [
+    {
+      "identifier": "5948",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 132"
+}

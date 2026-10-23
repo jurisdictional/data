@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5128"
+  },
+  "first_name": "Andy",
+  "full_name": "Andy Hopper",
+  "id": "ocd-person/47db388a-bb15-581b-afae-4e4e84cc9e39",
+  "identifiers": [
+    {
+      "identifier": "5128",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hopper"
+}

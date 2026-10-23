@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/d0b633b8-127b-5841-b58b-8676bd03a65d"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-9",
+  "identifiers": [
+    {
+      "identifier": "5825",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 9"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5085"
+  },
+  "first_name": "Dade",
+  "full_name": "Dade Phelan",
+  "id": "ocd-person/4f431318-5236-5631-8331-a00e21d08744",
+  "identifiers": [
+    {
+      "identifier": "5085",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Phelan"
+}

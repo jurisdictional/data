@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5213"
+  },
+  "first_name": "Bryan",
+  "full_name": "Bryan Hughes",
+  "id": "ocd-person/ff6d0e14-b89f-5cb0-bca6-1b281d0df24f",
+  "identifiers": [
+    {
+      "identifier": "5213",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hughes"
+}

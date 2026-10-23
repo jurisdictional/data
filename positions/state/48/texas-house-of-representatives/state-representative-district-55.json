@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5394924c-a79f-582e-8afa-72fe818f9b21"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-55",
+  "identifiers": [
+    {
+      "identifier": "5871",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 55"
+}

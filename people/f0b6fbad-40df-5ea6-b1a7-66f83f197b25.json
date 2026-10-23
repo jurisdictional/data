@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5234"
+  },
+  "first_name": "Royce",
+  "full_name": "Royce West",
+  "id": "ocd-person/f0b6fbad-40df-5ea6-b1a7-66f83f197b25",
+  "identifiers": [
+    {
+      "identifier": "5234",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "West"
+}

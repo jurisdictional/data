@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Administers Medicaid, SNAP, TANF, and other health and human services programs",
+  "id": "state:48/texas-health-and-human-services-commission",
+  "identifiers": [
+    {
+      "identifier": "8986",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Health and Human Services Commission"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5145"
+  },
+  "first_name": "Brooks",
+  "full_name": "Brooks Landgraf",
+  "id": "ocd-person/bda8dec6-ec63-5205-be13-a318003fe0d1",
+  "identifiers": [
+    {
+      "identifier": "5145",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Landgraf"
+}

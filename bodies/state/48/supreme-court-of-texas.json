@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/3261/bodies"
+  },
+  "id": "state:48/supreme-court-of-texas",
+  "identifiers": [
+    {
+      "identifier": "1738",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "legislative_type": "court",
+  "name": "Supreme Court of Texas",
+  "staffed_by": [
+    "state:48/supreme-court-of-texas"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/b32fac7f-35e8-5a3f-abcc-24c3489c25cd"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-48",
+  "identifiers": [
+    {
+      "identifier": "5864",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 48"
+}

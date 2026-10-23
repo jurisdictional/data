@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5196"
+  },
+  "first_name": "Ann",
+  "full_name": "Ann Johnson",
+  "id": "ocd-person/c68aec97-e6e4-5658-9381-e7e16855f310",
+  "identifiers": [
+    {
+      "identifier": "5196",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Johnson"
+}

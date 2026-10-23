@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5237"
+  },
+  "first_name": "Jose",
+  "full_name": "Jose Menendez",
+  "id": "ocd-person/0335bac1-9124-5076-8ed0-10007fb445df",
+  "identifiers": [
+    {
+      "identifier": "5237",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Menendez"
+}

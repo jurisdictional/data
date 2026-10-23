@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ea336b4f-7534-5b6d-83f6-80725e866be0"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-102",
+  "identifiers": [
+    {
+      "identifier": "5918",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 102"
+}

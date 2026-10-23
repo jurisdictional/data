@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5152"
+  },
+  "first_name": "Ken",
+  "full_name": "Ken King",
+  "id": "ocd-person/8dce3914-ed3d-59b2-9a4a-8ccf10ea83ca",
+  "identifiers": [
+    {
+      "identifier": "5152",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "King"
+}

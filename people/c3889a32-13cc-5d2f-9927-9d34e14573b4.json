@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5483"
+  },
+  "first_name": "John",
+  "full_name": "John P. Devine",
+  "id": "ocd-person/c3889a32-13cc-5d2f-9927-9d34e14573b4",
+  "identifiers": [
+    {
+      "identifier": "5483",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "P. Devine"
+}

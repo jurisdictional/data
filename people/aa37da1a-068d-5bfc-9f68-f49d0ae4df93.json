@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5160"
+  },
+  "first_name": "David",
+  "full_name": "David Cook",
+  "id": "ocd-person/aa37da1a-068d-5bfc-9f68-f49d0ae4df93",
+  "identifiers": [
+    {
+      "identifier": "5160",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cook"
+}

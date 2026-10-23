@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5191"
+  },
+  "first_name": "Dennis",
+  "full_name": "Dennis Paul",
+  "id": "ocd-person/0a39c315-b974-5733-b5fa-2f0a059ab779",
+  "identifiers": [
+    {
+      "identifier": "5191",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Paul"
+}

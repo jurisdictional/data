@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Promotes Texas agriculture, administers school nutrition programs, and regulates pesticides and weights/measures",
+  "id": "state:48/texas-department-of-agriculture",
+  "identifiers": [
+    {
+      "identifier": "8995",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Agriculture"
+}

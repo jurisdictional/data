@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5135"
+  },
+  "first_name": "Stan",
+  "full_name": "Stan Lambert",
+  "id": "ocd-person/b1d883ce-b928-5aaf-8e97-48d42ffc07e4",
+  "identifiers": [
+    {
+      "identifier": "5135",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lambert"
+}

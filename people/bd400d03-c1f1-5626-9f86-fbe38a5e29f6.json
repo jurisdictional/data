@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5091"
+  },
+  "first_name": "Ron",
+  "full_name": "Ron Reynolds",
+  "id": "ocd-person/bd400d03-c1f1-5626-9f86-fbe38a5e29f6",
+  "identifiers": [
+    {
+      "identifier": "5091",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Reynolds"
+}

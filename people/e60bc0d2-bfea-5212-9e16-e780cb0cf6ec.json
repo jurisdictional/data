@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5163"
+  },
+  "first_name": "Charlie",
+  "full_name": "Charlie Geren",
+  "id": "ocd-person/e60bc0d2-bfea-5212-9e16-e780cb0cf6ec",
+  "identifiers": [
+    {
+      "identifier": "5163",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Geren"
+}

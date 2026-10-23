@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5241"
+  },
+  "first_name": "Brent",
+  "full_name": "Brent Hagenbuch",
+  "id": "ocd-person/e7f1acbd-d5bf-55da-a27d-297605c8356e",
+  "identifiers": [
+    {
+      "identifier": "5241",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hagenbuch"
+}

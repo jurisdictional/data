@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5205"
+  },
+  "first_name": "Ana",
+  "full_name": "Ana Hernandez",
+  "id": "ocd-person/aa7ed20f-c951-5e88-9bcd-c0a3d293d024",
+  "identifiers": [
+    {
+      "identifier": "5205",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hernandez"
+}

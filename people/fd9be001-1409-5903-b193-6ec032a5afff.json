@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5189"
+  },
+  "first_name": "Charles",
+  "full_name": "Charles Cunningham",
+  "id": "ocd-person/fd9be001-1409-5903-b193-6ec032a5afff",
+  "identifiers": [
+    {
+      "identifier": "5189",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cunningham"
+}

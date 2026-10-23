@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/5e5a38ce-8fa5-542d-9a77-abe6573df8d2"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-90",
+  "identifiers": [
+    {
+      "identifier": "5906",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 90"
+}

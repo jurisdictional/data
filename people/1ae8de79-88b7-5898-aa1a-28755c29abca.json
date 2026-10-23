@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5158"
+  },
+  "first_name": "Tony",
+  "full_name": "Tony Tinderholt",
+  "id": "ocd-person/1ae8de79-88b7-5898-aa1a-28755c29abca",
+  "identifiers": [
+    {
+      "identifier": "5158",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tinderholt"
+}

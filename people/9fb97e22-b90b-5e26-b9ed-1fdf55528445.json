@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5187"
+  },
+  "first_name": "Ray",
+  "full_name": "Ray Lopez",
+  "id": "ocd-person/9fb97e22-b90b-5e26-b9ed-1fdf55528445",
+  "identifiers": [
+    {
+      "identifier": "5187",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lopez"
+}

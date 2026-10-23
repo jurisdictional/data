@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/130bd36d-b8ac-585b-8cc4-d3446c3029fa"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-130",
+  "identifiers": [
+    {
+      "identifier": "5946",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 130"
+}

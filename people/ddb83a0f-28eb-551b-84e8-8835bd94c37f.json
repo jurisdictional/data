@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5493"
+  },
+  "first_name": "Kyle",
+  "full_name": "Kyle D. Hawkins",
+  "id": "ocd-person/ddb83a0f-28eb-551b-84e8-8835bd94c37f",
+  "identifiers": [
+    {
+      "identifier": "5493",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "D. Hawkins"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "agency_type": "education",
+  "description": "Oversees public primary and secondary education in Texas",
+  "id": "state:48/texas-education-agency",
+  "identifiers": [
+    {
+      "identifier": "8985",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Education Agency"
+}

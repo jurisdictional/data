@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5482"
+  },
+  "first_name": "Debra",
+  "full_name": "Debra Lehrmann",
+  "id": "ocd-person/52208080-81af-59f3-8d3c-e42d25c07822",
+  "identifiers": [
+    {
+      "identifier": "5482",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Lehrmann"
+}

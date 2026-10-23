@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5156"
+  },
+  "first_name": "Salman",
+  "full_name": "Salman Bhojani",
+  "id": "ocd-person/3264523c-63f0-5618-ae9f-842692fc437c",
+  "identifiers": [
+    {
+      "identifier": "5156",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bhojani"
+}

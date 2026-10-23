@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5088"
+  },
+  "first_name": "Greg",
+  "full_name": "Greg Bonnen",
+  "id": "ocd-person/4de463b2-4e02-50dd-8c00-b69c57d004f5",
+  "identifiers": [
+    {
+      "identifier": "5088",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bonnen"
+}

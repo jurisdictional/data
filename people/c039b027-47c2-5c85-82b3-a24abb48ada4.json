@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5190"
+  },
+  "first_name": "Briscoe",
+  "full_name": "Briscoe Cain",
+  "id": "ocd-person/c039b027-47c2-5c85-82b3-a24abb48ada4",
+  "identifiers": [
+    {
+      "identifier": "5190",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Cain"
+}

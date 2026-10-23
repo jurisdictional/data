@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5071"
+  },
+  "first_name": "Jay",
+  "full_name": "Jay Dean",
+  "id": "ocd-person/23f02561-cd4e-514c-8918-3cc9faf9ff47",
+  "identifiers": [
+    {
+      "identifier": "5071",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Dean"
+}

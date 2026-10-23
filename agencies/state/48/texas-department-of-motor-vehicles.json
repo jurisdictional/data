@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Handles vehicle titles, registration, and dealer licensing in Texas",
+  "id": "state:48/texas-department-of-motor-vehicles",
+  "identifiers": [
+    {
+      "identifier": "8994",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Motor Vehicles"
+}

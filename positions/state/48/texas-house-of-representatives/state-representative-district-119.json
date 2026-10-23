@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/809c52d9-0e35-5da9-8fd4-8feeed36b858"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-119",
+  "identifiers": [
+    {
+      "identifier": "5935",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 119"
+}

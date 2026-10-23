@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5154"
+  },
+  "first_name": "Ramon",
+  "full_name": "Ramon Romero Jr.",
+  "id": "ocd-person/5e5a38ce-8fa5-542d-9a77-abe6573df8d2",
+  "identifiers": [
+    {
+      "identifier": "5154",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Romero Jr."
+}

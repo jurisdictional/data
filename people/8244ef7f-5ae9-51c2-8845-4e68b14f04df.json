@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/405"
+  },
+  "first_name": "Keith",
+  "full_name": "Keith Bell",
+  "id": "ocd-person/8244ef7f-5ae9-51c2-8845-4e68b14f04df",
+  "identifiers": [
+    {
+      "identifier": "405",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Bell"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5106"
+  },
+  "first_name": "Richard",
+  "full_name": "Richard Raymond",
+  "id": "ocd-person/8cd7ddfa-279d-5f95-bdbb-f57486a78af2",
+  "identifiers": [
+    {
+      "identifier": "5106",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Raymond"
+}

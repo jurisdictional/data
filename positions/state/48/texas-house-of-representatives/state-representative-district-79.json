@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/4191eb51-2a4a-5388-b76f-3aac70338934"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-79",
+  "identifiers": [
+    {
+      "identifier": "5895",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 79"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5149"
+  },
+  "first_name": "Stan",
+  "full_name": "Stan Kitzman",
+  "id": "ocd-person/91cb8b6c-1a20-50be-bafa-762ff2d8f002",
+  "identifiers": [
+    {
+      "identifier": "5149",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Kitzman"
+}

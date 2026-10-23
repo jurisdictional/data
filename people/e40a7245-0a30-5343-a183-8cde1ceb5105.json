@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5148"
+  },
+  "first_name": "Carl",
+  "full_name": "Carl Tepper",
+  "id": "ocd-person/e40a7245-0a30-5343-a183-8cde1ceb5105",
+  "identifiers": [
+    {
+      "identifier": "5148",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Tepper"
+}

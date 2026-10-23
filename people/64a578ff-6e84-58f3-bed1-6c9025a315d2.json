@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5208"
+  },
+  "first_name": "Lauren",
+  "full_name": "Lauren Ashley Simmons",
+  "id": "ocd-person/64a578ff-6e84-58f3-bed1-6c9025a315d2",
+  "identifiers": [
+    {
+      "identifier": "5208",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ashley Simmons"
+}

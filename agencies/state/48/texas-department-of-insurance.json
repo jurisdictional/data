@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/agencies?jurisdiction_id=3261"
+  },
+  "description": "Regulates the insurance industry in Texas and assists consumers with insurance-related issues",
+  "id": "state:48/texas-department-of-insurance",
+  "identifiers": [
+    {
+      "identifier": "8991",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "jurisdiction": "state:48",
+  "name": "Texas Department of Insurance"
+}

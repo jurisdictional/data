@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5188"
+  },
+  "first_name": "Sam",
+  "full_name": "Sam Harless",
+  "id": "ocd-person/05e4d19d-45a9-5ff0-b707-53cdea072ed6",
+  "identifiers": [
+    {
+      "identifier": "5188",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Harless"
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/4f431318-5236-5631-8331-a00e21d08744"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-21",
+  "identifiers": [
+    {
+      "identifier": "5837",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 21"
+}

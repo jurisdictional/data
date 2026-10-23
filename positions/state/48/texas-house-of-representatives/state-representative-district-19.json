@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/bodies/1700/positions"
+  },
+  "body": "state:48/texas-house-of-representatives",
+  "holder": {
+    "person": "ocd-person/ef1b9a68-092f-5960-bc71-c045ebd5b85b"
+  },
+  "id": "state:48/texas-house-of-representatives/state-representative-district-19",
+  "identifiers": [
+    {
+      "identifier": "5835",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "label": "State Representative, District 19"
+}

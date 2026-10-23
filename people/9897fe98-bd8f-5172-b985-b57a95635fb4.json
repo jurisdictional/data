@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5169"
+  },
+  "first_name": "Jared",
+  "full_name": "Jared Patterson",
+  "id": "ocd-person/9897fe98-bd8f-5172-b985-b57a95635fb4",
+  "identifiers": [
+    {
+      "identifier": "5169",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Patterson"
+}

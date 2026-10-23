@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5143"
+  },
+  "first_name": "Claudia",
+  "full_name": "Claudia Ordaz",
+  "id": "ocd-person/4191eb51-2a4a-5388-b76f-3aac70338934",
+  "identifiers": [
+    {
+      "identifier": "5143",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Ordaz"
+}

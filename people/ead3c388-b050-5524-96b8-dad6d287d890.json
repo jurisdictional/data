@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5194"
+  },
+  "first_name": "Mike",
+  "full_name": "Mike Schofield",
+  "id": "ocd-person/ead3c388-b050-5524-96b8-dad6d287d890",
+  "identifiers": [
+    {
+      "identifier": "5194",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Schofield"
+}

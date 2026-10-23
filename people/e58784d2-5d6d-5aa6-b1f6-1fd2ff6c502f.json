@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/people/5069"
+  },
+  "first_name": "Cole",
+  "full_name": "Cole Hefner",
+  "id": "ocd-person/e58784d2-5d6d-5aa6-b1f6-1fd2ff6c502f",
+  "identifiers": [
+    {
+      "identifier": "5069",
+      "scheme": "jurisdictional"
+    }
+  ],
+  "last_name": "Hefner"
+}

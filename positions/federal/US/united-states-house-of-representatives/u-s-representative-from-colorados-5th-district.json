@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0805",
   "holder": {
-    "person": "ocd-person/ed49e864-d65c-5424-8616-bb0bf5ee2eb0",
-    "start_date": "2026-05-31T05:30:01Z"
+    "person": "ocd-person/ed49e864-d65c-5424-8616-bb0bf5ee2eb0"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-colorados-5th-district",
   "identifiers": [

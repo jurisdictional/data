@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0104",
   "holder": {
-    "person": "ocd-person/7a2189e4-2757-5712-a3ab-60b30c8aaf86",
-    "start_date": "2026-05-31T02:01:47Z"
+    "person": "ocd-person/7a2189e4-2757-5712-a3ab-60b30c8aaf86"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alabamas-4th-district",
   "identifiers": [

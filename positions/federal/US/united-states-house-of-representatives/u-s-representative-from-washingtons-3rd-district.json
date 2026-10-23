@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5303",
   "holder": {
-    "person": "ocd-person/3c4858f9-9473-5a87-9263-dd7bbf205370",
-    "start_date": "2026-05-31T14:49:42Z"
+    "person": "ocd-person/3c4858f9-9473-5a87-9263-dd7bbf205370"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-3rd-district",
   "identifiers": [

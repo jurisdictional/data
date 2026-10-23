@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4212",
   "holder": {
-    "person": "ocd-person/e8f16bba-8eb7-5245-ba3d-efef89b062d5",
-    "start_date": "2026-05-31T14:43:11Z"
+    "person": "ocd-person/e8f16bba-8eb7-5245-ba3d-efef89b062d5"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-12th-district",
   "identifiers": [

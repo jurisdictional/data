@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1902",
   "holder": {
-    "person": "ocd-person/f66a2279-125f-54d3-82c6-9a1f6af165e2",
-    "start_date": "2026-05-31T05:57:09Z"
+    "person": "ocd-person/f66a2279-125f-54d3-82c6-9a1f6af165e2"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-iowas-2nd-district",
   "identifiers": [

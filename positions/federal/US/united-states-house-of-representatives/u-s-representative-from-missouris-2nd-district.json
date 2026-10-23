@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2902",
   "holder": {
-    "person": "ocd-person/6d429b8a-f173-5ae3-a9da-37295b7b86e9",
-    "start_date": "2026-05-31T06:02:14Z"
+    "person": "ocd-person/6d429b8a-f173-5ae3-a9da-37295b7b86e9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-2nd-district",
   "identifiers": [

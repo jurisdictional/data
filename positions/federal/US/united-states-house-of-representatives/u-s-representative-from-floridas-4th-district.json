@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1204",
   "holder": {
-    "person": "ocd-person/e8449ec1-6ac0-5a77-8917-377592c3fb9c",
-    "start_date": "2026-06-01T00:23:08Z"
+    "person": "ocd-person/e8449ec1-6ac0-5a77-8917-377592c3fb9c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-4th-district",
   "identifiers": [

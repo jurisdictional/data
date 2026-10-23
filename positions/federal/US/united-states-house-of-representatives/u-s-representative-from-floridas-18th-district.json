@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1218",
   "holder": {
-    "person": "ocd-person/0a9136a6-eae5-5306-8731-8bba44179538",
-    "start_date": "2026-06-01T00:23:36Z"
+    "person": "ocd-person/0a9136a6-eae5-5306-8731-8bba44179538"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-18th-district",
   "identifiers": [

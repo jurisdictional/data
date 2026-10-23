@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4506",
   "holder": {
-    "person": "ocd-person/a590ee75-6fba-5196-a96d-fc302b80e13c",
-    "start_date": "2026-05-31T14:44:48Z"
+    "person": "ocd-person/a590ee75-6fba-5196-a96d-fc302b80e13c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-6th-district",
   "identifiers": [

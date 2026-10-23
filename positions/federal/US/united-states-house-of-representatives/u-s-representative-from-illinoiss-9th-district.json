@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1709",
   "holder": {
-    "person": "ocd-person/1f1df8e9-7c66-5a3a-bbaf-11fd15884388",
-    "start_date": "2026-05-31T05:33:17Z"
+    "person": "ocd-person/1f1df8e9-7c66-5a3a-bbaf-11fd15884388"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-9th-district",
   "identifiers": [

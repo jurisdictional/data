@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1313",
   "holder": {
-    "person": "ocd-person/c85ef06f-390a-5cc4-be14-3f72d9a573ef",
-    "start_date": "2026-06-01T15:56:27Z"
+    "person": "ocd-person/c85ef06f-390a-5cc4-be14-3f72d9a573ef"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-13th-district",
   "identifiers": [

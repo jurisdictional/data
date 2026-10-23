@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3710",
   "holder": {
-    "person": "ocd-person/f1397684-bb0e-5f17-acc6-797bc15af69b",
-    "start_date": "2026-05-31T14:39:33Z"
+    "person": "ocd-person/f1397684-bb0e-5f17-acc6-797bc15af69b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-10th-district",
   "identifiers": [

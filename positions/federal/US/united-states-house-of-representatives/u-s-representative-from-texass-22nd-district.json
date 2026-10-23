@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4822",
   "holder": {
-    "person": "ocd-person/f0e29016-fc25-572c-9ece-4e6484897fcf",
-    "start_date": "2026-05-31T14:47:22Z"
+    "person": "ocd-person/f0e29016-fc25-572c-9ece-4e6484897fcf"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-22nd-district",
   "identifiers": [

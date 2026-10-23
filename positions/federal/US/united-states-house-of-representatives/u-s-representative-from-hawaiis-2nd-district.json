@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1502",
   "holder": {
-    "person": "ocd-person/29820118-1337-5c00-a282-aee02ca22713",
-    "start_date": "2026-05-31T05:32:27Z"
+    "person": "ocd-person/29820118-1337-5c00-a282-aee02ca22713"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-hawaiis-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4217",
   "holder": {
-    "person": "ocd-person/44f1e7d8-12ae-5a38-ba65-e2bc691e3f9e",
-    "start_date": "2026-05-31T14:43:27Z"
+    "person": "ocd-person/44f1e7d8-12ae-5a38-ba65-e2bc691e3f9e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-17th-district",
   "identifiers": [

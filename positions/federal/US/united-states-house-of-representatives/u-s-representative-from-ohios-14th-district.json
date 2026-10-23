@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3914",
   "holder": {
-    "person": "ocd-person/7c451fbf-efa3-581a-87b9-156c8cd33c43",
-    "start_date": "2026-05-31T14:40:58Z"
+    "person": "ocd-person/7c451fbf-efa3-581a-87b9-156c8cd33c43"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-14th-district",
   "identifiers": [

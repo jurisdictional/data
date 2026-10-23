@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5503",
   "holder": {
-    "person": "ocd-person/c6165d6c-7655-54b0-9a68-91fba6eab3b9",
-    "start_date": "2026-05-31T14:50:00Z"
+    "person": "ocd-person/c6165d6c-7655-54b0-9a68-91fba6eab3b9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wisconsins-3rd-district",
   "identifiers": [

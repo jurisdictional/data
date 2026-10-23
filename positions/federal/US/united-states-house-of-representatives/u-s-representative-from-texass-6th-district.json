@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4806",
   "holder": {
-    "person": "ocd-person/083720b4-3256-51d2-be78-a43910f11121",
-    "start_date": "2026-05-31T14:46:57Z"
+    "person": "ocd-person/083720b4-3256-51d2-be78-a43910f11121"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-6th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0652",
   "holder": {
-    "person": "ocd-person/96b82ad9-ca98-5f16-a1da-62aa5a5045b7",
-    "start_date": "2026-05-31T05:28:21Z"
+    "person": "ocd-person/96b82ad9-ca98-5f16-a1da-62aa5a5045b7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-52nd-district",
   "identifiers": [

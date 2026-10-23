@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1306",
   "holder": {
-    "person": "ocd-person/1d6ac237-68fb-52d3-a59f-8709ef018fa4",
-    "start_date": "2026-05-31T05:31:39Z"
+    "person": "ocd-person/1d6ac237-68fb-52d3-a59f-8709ef018fa4"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-6th-district",
   "identifiers": [

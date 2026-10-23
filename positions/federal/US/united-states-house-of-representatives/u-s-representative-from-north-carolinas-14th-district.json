@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3714",
   "holder": {
-    "person": "ocd-person/0ffc04c3-216f-541f-a15c-8e1a6bfd44d7",
-    "start_date": "2026-05-31T14:39:37Z"
+    "person": "ocd-person/0ffc04c3-216f-541f-a15c-8e1a6bfd44d7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-14th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1201",
   "holder": {
-    "person": "ocd-person/6ba04859-6aa4-573a-9495-736a63b2712d",
-    "start_date": "2026-06-01T00:23:05Z"
+    "person": "ocd-person/6ba04859-6aa4-573a-9495-736a63b2712d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-1st-district",
   "identifiers": [

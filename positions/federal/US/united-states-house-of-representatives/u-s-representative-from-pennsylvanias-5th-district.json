@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4205",
   "holder": {
-    "person": "ocd-person/bfe29204-9361-52a5-b7d7-71a9b04ca9cf",
-    "start_date": "2026-05-31T14:43:00Z"
+    "person": "ocd-person/bfe29204-9361-52a5-b7d7-71a9b04ca9cf"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-5th-district",
   "identifiers": [

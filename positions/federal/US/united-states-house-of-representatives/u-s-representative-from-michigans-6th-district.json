@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2606",
   "holder": {
-    "person": "ocd-person/17437760-891d-5abe-a18d-9311f4baf773",
-    "start_date": "2026-05-31T06:00:32Z"
+    "person": "ocd-person/17437760-891d-5abe-a18d-9311f4baf773"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-6th-district",
   "identifiers": [

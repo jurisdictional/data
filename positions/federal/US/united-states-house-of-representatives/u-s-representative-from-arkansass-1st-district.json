@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0501",
   "holder": {
-    "person": "ocd-person/21fb34a7-63c8-51b2-afc2-c94581d9a034",
-    "start_date": "2026-05-31T05:25:32Z"
+    "person": "ocd-person/21fb34a7-63c8-51b2-afc2-c94581d9a034"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arkansass-1st-district",
   "identifiers": [

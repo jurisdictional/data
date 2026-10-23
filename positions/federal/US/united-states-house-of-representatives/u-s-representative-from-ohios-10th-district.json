@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3910",
   "holder": {
-    "person": "ocd-person/a309d543-7e9f-598d-a173-1cdb3870be26",
-    "start_date": "2026-05-31T14:40:53Z"
+    "person": "ocd-person/a309d543-7e9f-598d-a173-1cdb3870be26"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-10th-district",
   "identifiers": [

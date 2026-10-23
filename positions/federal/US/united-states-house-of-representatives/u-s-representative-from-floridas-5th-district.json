@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1205",
   "holder": {
-    "person": "ocd-person/067e246d-855c-58a5-9097-a0aa087b9f2c",
-    "start_date": "2026-06-01T00:23:09Z"
+    "person": "ocd-person/067e246d-855c-58a5-9097-a0aa087b9f2c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-5th-district",
   "identifiers": [

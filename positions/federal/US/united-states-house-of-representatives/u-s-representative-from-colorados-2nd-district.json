@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0802",
   "holder": {
-    "person": "ocd-person/ca092fdf-e9e3-5d83-a6a4-814daf6b50f0",
-    "start_date": "2026-05-31T05:29:58Z"
+    "person": "ocd-person/ca092fdf-e9e3-5d83-a6a4-814daf6b50f0"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-colorados-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2509",
   "holder": {
-    "person": "ocd-person/9303850d-908b-5bf9-8be2-a356c4ac99b1",
-    "start_date": "2026-05-31T05:59:05Z"
+    "person": "ocd-person/9303850d-908b-5bf9-8be2-a356c4ac99b1"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-9th-district",
   "identifiers": [

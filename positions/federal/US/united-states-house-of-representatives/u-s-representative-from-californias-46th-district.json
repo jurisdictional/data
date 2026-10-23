@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0646",
   "holder": {
-    "person": "ocd-person/9d787cc4-2c16-5b80-b82f-09a74b35d2be",
-    "start_date": "2026-05-31T05:28:10Z"
+    "person": "ocd-person/9d787cc4-2c16-5b80-b82f-09a74b35d2be"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-46th-district",
   "identifiers": [

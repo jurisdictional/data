@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2605",
   "holder": {
-    "person": "ocd-person/3cd842d0-0caa-562c-ac3e-326249575bec",
-    "start_date": "2026-05-31T06:00:31Z"
+    "person": "ocd-person/3cd842d0-0caa-562c-ac3e-326249575bec"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-5th-district",
   "identifiers": [

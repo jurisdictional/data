@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1708",
   "holder": {
-    "person": "ocd-person/e710d5e1-51bd-5b7f-bc11-8f25c8a51cc6",
-    "start_date": "2026-05-31T05:33:16Z"
+    "person": "ocd-person/e710d5e1-51bd-5b7f-bc11-8f25c8a51cc6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-8th-district",
   "identifiers": [

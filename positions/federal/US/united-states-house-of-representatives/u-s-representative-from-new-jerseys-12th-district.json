@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3412",
   "holder": {
-    "person": "ocd-person/9fcfa44b-1e3c-5708-bce6-ae8c05a344a9",
-    "start_date": "2026-05-31T06:04:23Z"
+    "person": "ocd-person/9fcfa44b-1e3c-5708-bce6-ae8c05a344a9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-12th-district",
   "identifiers": [

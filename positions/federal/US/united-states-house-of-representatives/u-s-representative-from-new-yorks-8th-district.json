@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3608",
   "holder": {
-    "person": "ocd-person/c32af82e-65e4-54de-83dc-8c4bef69920f",
-    "start_date": "2026-05-31T06:06:24Z"
+    "person": "ocd-person/c32af82e-65e4-54de-83dc-8c4bef69920f"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-8th-district",
   "identifiers": [

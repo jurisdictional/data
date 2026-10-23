@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0102",
   "holder": {
-    "person": "ocd-person/413240b1-aeaa-5778-8326-961d506ec87c",
-    "start_date": "2026-05-31T02:01:46Z"
+    "person": "ocd-person/413240b1-aeaa-5778-8326-961d506ec87c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alabamas-2nd-district",
   "identifiers": [

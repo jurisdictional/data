@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5105",
   "holder": {
-    "person": "ocd-person/03ab8616-3645-5e03-8feb-ad8d5ea18f1e",
-    "start_date": "2026-05-31T14:49:28Z"
+    "person": "ocd-person/03ab8616-3645-5e03-8feb-ad8d5ea18f1e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-5th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2802",
   "holder": {
-    "person": "ocd-person/9212b2a1-4f3b-5422-92ce-e0d5c1eb4b3b",
-    "start_date": "2026-05-31T06:02:10Z"
+    "person": "ocd-person/9212b2a1-4f3b-5422-92ce-e0d5c1eb4b3b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-mississippis-2nd-district",
   "identifiers": [

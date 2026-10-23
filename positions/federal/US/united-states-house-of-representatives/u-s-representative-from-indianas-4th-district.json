@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1804",
   "holder": {
-    "person": "ocd-person/39faf91a-9ef6-53aa-aba7-74586884105a",
-    "start_date": "2026-05-31T05:56:07Z"
+    "person": "ocd-person/39faf91a-9ef6-53aa-aba7-74586884105a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-4th-district",
   "identifiers": [

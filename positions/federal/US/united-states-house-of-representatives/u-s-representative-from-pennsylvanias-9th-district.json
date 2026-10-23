@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4209",
   "holder": {
-    "person": "ocd-person/f9256bf0-2e19-59eb-b3e0-9d3101c37d58",
-    "start_date": "2026-05-31T14:43:08Z"
+    "person": "ocd-person/f9256bf0-2e19-59eb-b3e0-9d3101c37d58"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-9th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3602",
   "holder": {
-    "person": "ocd-person/775eaca4-169f-54d1-a839-76dd9f3a45dc",
-    "start_date": "2026-05-31T06:06:09Z"
+    "person": "ocd-person/775eaca4-169f-54d1-a839-76dd9f3a45dc"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-2nd-district",
   "identifiers": [

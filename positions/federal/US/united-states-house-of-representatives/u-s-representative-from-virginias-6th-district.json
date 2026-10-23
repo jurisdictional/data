@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5106",
   "holder": {
-    "person": "ocd-person/e7c8b960-c868-59c9-92c8-e510e020e1cd",
-    "start_date": "2026-05-31T14:49:29Z"
+    "person": "ocd-person/e7c8b960-c868-59c9-92c8-e510e020e1cd"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-6th-district",
   "identifiers": [

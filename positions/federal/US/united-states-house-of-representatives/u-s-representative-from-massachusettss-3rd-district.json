@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2503",
   "holder": {
-    "person": "ocd-person/1f5db02e-c5db-5bb2-9c32-7865fa87b6f1",
-    "start_date": "2026-05-31T05:58:55Z"
+    "person": "ocd-person/1f5db02e-c5db-5bb2-9c32-7865fa87b6f1"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-3rd-district",
   "identifiers": [

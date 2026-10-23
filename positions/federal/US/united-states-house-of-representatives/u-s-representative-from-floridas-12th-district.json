@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1212",
   "holder": {
-    "person": "ocd-person/9abdb20d-07e2-59b3-ace3-8c062ee375f2",
-    "start_date": "2026-06-01T00:23:16Z"
+    "person": "ocd-person/9abdb20d-07e2-59b3-ace3-8c062ee375f2"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-12th-district",
   "identifiers": [

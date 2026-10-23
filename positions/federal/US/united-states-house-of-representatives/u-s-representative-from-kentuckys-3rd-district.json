@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2103",
   "holder": {
-    "person": "ocd-person/52a4e8aa-f205-58ea-8960-d1d0027d6f36",
-    "start_date": "2026-05-31T05:57:22Z"
+    "person": "ocd-person/52a4e8aa-f205-58ea-8960-d1d0027d6f36"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kentuckys-3rd-district",
   "identifiers": [

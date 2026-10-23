@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3204",
   "holder": {
-    "person": "ocd-person/39f10486-f86f-5e86-b16a-594199e5f9b0",
-    "start_date": "2026-05-31T06:03:58Z"
+    "person": "ocd-person/39f10486-f86f-5e86-b16a-594199e5f9b0"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-nevadas-4th-district",
   "identifiers": [

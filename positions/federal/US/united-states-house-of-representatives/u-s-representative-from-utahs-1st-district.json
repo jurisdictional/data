@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4901",
   "holder": {
-    "person": "ocd-person/b9432a75-86f7-5b28-a18b-1ca8c968f021",
-    "start_date": "2026-05-31T14:49:14Z"
+    "person": "ocd-person/b9432a75-86f7-5b28-a18b-1ca8c968f021"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-utahs-1st-district",
   "identifiers": [

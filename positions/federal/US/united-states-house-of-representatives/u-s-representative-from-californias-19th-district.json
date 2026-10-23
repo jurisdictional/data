@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0619",
   "holder": {
-    "person": "ocd-person/dcea56f6-635b-550a-a8c6-05ce0d80b4f9",
-    "start_date": "2026-05-31T05:27:25Z"
+    "person": "ocd-person/dcea56f6-635b-550a-a8c6-05ce0d80b4f9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-19th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0633",
   "holder": {
-    "person": "ocd-person/f38d2f67-7286-5276-9bf0-89a5e95c3b71",
-    "start_date": "2026-05-31T05:27:54Z"
+    "person": "ocd-person/f38d2f67-7286-5276-9bf0-89a5e95c3b71"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-33rd-district",
   "identifiers": [

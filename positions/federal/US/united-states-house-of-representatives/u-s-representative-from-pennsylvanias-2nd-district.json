@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4202",
   "holder": {
-    "person": "ocd-person/89c59f6c-3f53-5c75-8b37-98ac243929e2",
-    "start_date": "2026-05-31T14:42:57Z"
+    "person": "ocd-person/89c59f6c-3f53-5c75-8b37-98ac243929e2"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-2nd-district",
   "identifiers": [

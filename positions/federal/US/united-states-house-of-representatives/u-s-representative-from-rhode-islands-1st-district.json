@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4401",
   "holder": {
-    "person": "ocd-person/81f34e8d-3a07-588d-925e-b1b9d2346d19",
-    "start_date": "2026-05-31T14:44:35Z"
+    "person": "ocd-person/81f34e8d-3a07-588d-925e-b1b9d2346d19"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-rhode-islands-1st-district",
   "identifiers": [

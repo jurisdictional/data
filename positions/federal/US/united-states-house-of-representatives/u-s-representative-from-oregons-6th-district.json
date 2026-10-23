@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4106",
   "holder": {
-    "person": "ocd-person/fc0e3c81-9b36-5a76-b621-3f7bd8600aad",
-    "start_date": "2026-05-31T14:42:03Z"
+    "person": "ocd-person/fc0e3c81-9b36-5a76-b621-3f7bd8600aad"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-6th-district",
   "identifiers": [

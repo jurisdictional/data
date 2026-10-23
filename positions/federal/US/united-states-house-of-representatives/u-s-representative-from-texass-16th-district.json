@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4816",
   "holder": {
-    "person": "ocd-person/f9a05082-e673-57e6-904a-02f72d8cbee8",
-    "start_date": "2026-05-31T14:47:12Z"
+    "person": "ocd-person/f9a05082-e673-57e6-904a-02f72d8cbee8"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-16th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2505",
   "holder": {
-    "person": "ocd-person/14bc9eee-3ec7-5cc7-8b47-ad159471335e",
-    "start_date": "2026-05-31T05:59:01Z"
+    "person": "ocd-person/14bc9eee-3ec7-5cc7-8b47-ad159471335e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-5th-district",
   "identifiers": [

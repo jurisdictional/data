@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4824",
   "holder": {
-    "person": "ocd-person/b52d7f79-5b6e-54ed-b8a7-c69454bdfe6d",
-    "start_date": "2026-05-31T14:47:23Z"
+    "person": "ocd-person/b52d7f79-5b6e-54ed-b8a7-c69454bdfe6d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-24th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2706",
   "holder": {
-    "person": "ocd-person/59570c49-c4b1-50df-b7df-d5f94039c37a",
-    "start_date": "2026-05-31T06:01:28Z"
+    "person": "ocd-person/59570c49-c4b1-50df-b7df-d5f94039c37a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-6th-district",
   "identifiers": [

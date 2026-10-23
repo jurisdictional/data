@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1203",
   "holder": {
-    "person": "ocd-person/b363a444-361c-5ec5-bce7-ff870bea43c6",
-    "start_date": "2026-06-01T00:23:07Z"
+    "person": "ocd-person/b363a444-361c-5ec5-bce7-ff870bea43c6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-3rd-district",
   "identifiers": [

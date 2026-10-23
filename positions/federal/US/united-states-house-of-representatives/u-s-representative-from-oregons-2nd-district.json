@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4102",
   "holder": {
-    "person": "ocd-person/e87b406b-1961-54e6-922a-d79910ab18a9",
-    "start_date": "2026-05-31T14:41:59Z"
+    "person": "ocd-person/e87b406b-1961-54e6-922a-d79910ab18a9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-2nd-district",
   "identifiers": [

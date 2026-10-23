@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2403",
   "holder": {
-    "person": "ocd-person/3b10c985-73bd-560d-911a-ac3500b379e7",
-    "start_date": "2026-05-31T05:58:44Z"
+    "person": "ocd-person/3b10c985-73bd-560d-911a-ac3500b379e7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-3rd-district",
   "identifiers": [

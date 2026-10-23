@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3101",
   "holder": {
-    "person": "ocd-person/42b482ba-d5c0-58f4-93f8-4c02ca5d158c",
-    "start_date": "2026-05-31T06:03:48Z"
+    "person": "ocd-person/42b482ba-d5c0-58f4-93f8-4c02ca5d158c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-nebraskas-1st-district",
   "identifiers": [

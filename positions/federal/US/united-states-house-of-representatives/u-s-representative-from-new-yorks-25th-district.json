@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3625",
   "holder": {
-    "person": "ocd-person/c4e4c0d1-03c2-5d09-8a8a-fbfdaf6e82a7",
-    "start_date": "2026-05-31T06:06:51Z"
+    "person": "ocd-person/c4e4c0d1-03c2-5d09-8a8a-fbfdaf6e82a7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-25th-district",
   "identifiers": [

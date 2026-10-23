@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4101",
   "holder": {
-    "person": "ocd-person/6f999ffb-ec23-5ce0-bfdd-c0361f22510f",
-    "start_date": "2026-05-31T14:41:58Z"
+    "person": "ocd-person/6f999ffb-ec23-5ce0-bfdd-c0361f22510f"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-1st-district",
   "identifiers": [

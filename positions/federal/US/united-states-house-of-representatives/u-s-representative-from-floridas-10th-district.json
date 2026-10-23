@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1210",
   "holder": {
-    "person": "ocd-person/d5a9f1fd-7f0f-5109-946e-a016b96ecf5c",
-    "start_date": "2026-06-01T00:23:14Z"
+    "person": "ocd-person/d5a9f1fd-7f0f-5109-946e-a016b96ecf5c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-10th-district",
   "identifiers": [

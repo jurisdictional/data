@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4216",
   "holder": {
-    "person": "ocd-person/51bea1bc-b6ce-5135-a267-b2f793076eae",
-    "start_date": "2026-05-31T14:43:26Z"
+    "person": "ocd-person/51bea1bc-b6ce-5135-a267-b2f793076eae"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-16th-district",
   "identifiers": [

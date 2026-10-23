@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3302",
   "holder": {
-    "person": "ocd-person/ae9a357f-f135-59ce-a86e-7f5ea6270b69",
-    "start_date": "2026-05-31T06:04:00Z"
+    "person": "ocd-person/ae9a357f-f135-59ce-a86e-7f5ea6270b69"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-hampshires-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0626",
   "holder": {
-    "person": "ocd-person/dfc466e4-2662-51a3-ab99-8d41ac749b63",
-    "start_date": "2026-05-31T05:27:40Z"
+    "person": "ocd-person/dfc466e4-2662-51a3-ab99-8d41ac749b63"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-26th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2104",
   "holder": {
-    "person": "ocd-person/d5c5dc8b-f513-5152-8e89-94b556ac5026",
-    "start_date": "2026-05-31T05:57:23Z"
+    "person": "ocd-person/d5c5dc8b-f513-5152-8e89-94b556ac5026"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kentuckys-4th-district",
   "identifiers": [

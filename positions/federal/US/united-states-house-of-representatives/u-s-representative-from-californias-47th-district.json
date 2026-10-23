@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0647",
   "holder": {
-    "person": "ocd-person/d3f73451-09e5-554e-a96b-73d22b276c07",
-    "start_date": "2026-05-31T05:28:11Z"
+    "person": "ocd-person/d3f73451-09e5-554e-a96b-73d22b276c07"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-47th-district",
   "identifiers": [

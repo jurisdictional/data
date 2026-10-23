@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1702",
   "holder": {
-    "person": "ocd-person/d64fee46-781d-57da-b69f-51c00043ec66",
-    "start_date": "2026-05-31T05:33:07Z"
+    "person": "ocd-person/d64fee46-781d-57da-b69f-51c00043ec66"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-2nd-district",
   "identifiers": [

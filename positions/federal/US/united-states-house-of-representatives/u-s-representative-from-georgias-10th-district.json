@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1310",
   "holder": {
-    "person": "ocd-person/1b861bef-c81f-52d6-9b57-9f223f25d829",
-    "start_date": "2026-05-31T05:31:46Z"
+    "person": "ocd-person/1b861bef-c81f-52d6-9b57-9f223f25d829"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-10th-district",
   "identifiers": [

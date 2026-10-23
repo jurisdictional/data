@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2613",
   "holder": {
-    "person": "ocd-person/52f74100-c2f5-5878-996e-4add311daf68",
-    "start_date": "2026-05-31T06:00:44Z"
+    "person": "ocd-person/52f74100-c2f5-5878-996e-4add311daf68"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-13th-district",
   "identifiers": [

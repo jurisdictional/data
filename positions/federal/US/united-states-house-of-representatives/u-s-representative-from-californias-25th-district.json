@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0625",
   "holder": {
-    "person": "ocd-person/c72f862f-3bad-5936-bf3f-1c2362fbc645",
-    "start_date": "2026-05-31T05:27:39Z"
+    "person": "ocd-person/c72f862f-3bad-5936-bf3f-1c2362fbc645"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-25th-district",
   "identifiers": [

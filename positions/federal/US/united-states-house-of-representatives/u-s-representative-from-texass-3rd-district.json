@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4803",
   "holder": {
-    "person": "ocd-person/61810ba0-7d77-5135-a027-4007f403631e",
-    "start_date": "2026-05-31T14:46:54Z"
+    "person": "ocd-person/61810ba0-7d77-5135-a027-4007f403631e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-3rd-district",
   "identifiers": [

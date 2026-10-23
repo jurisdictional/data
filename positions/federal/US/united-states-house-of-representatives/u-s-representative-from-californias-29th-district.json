@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0629",
   "holder": {
-    "person": "ocd-person/57106bbb-7af3-5053-9b22-7fac81a54c4b",
-    "start_date": "2026-05-31T05:27:44Z"
+    "person": "ocd-person/57106bbb-7af3-5053-9b22-7fac81a54c4b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-29th-district",
   "identifiers": [

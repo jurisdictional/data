@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0636",
   "holder": {
-    "person": "ocd-person/2eb4b87f-e549-5b25-9ba6-e01565fa09cb",
-    "start_date": "2026-05-31T05:27:56Z"
+    "person": "ocd-person/2eb4b87f-e549-5b25-9ba6-e01565fa09cb"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-36th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3713",
   "holder": {
-    "person": "ocd-person/fbf4fffa-a903-5978-8cd9-ff97341e3f30",
-    "start_date": "2026-05-31T14:39:36Z"
+    "person": "ocd-person/fbf4fffa-a903-5978-8cd9-ff97341e3f30"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-13th-district",
   "identifiers": [

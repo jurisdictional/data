@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1227",
   "holder": {
-    "person": "ocd-person/144895c7-013e-5806-802c-1f77c916c984",
-    "start_date": "2026-05-31T05:30:46Z"
+    "person": "ocd-person/144895c7-013e-5806-802c-1f77c916c984"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-27th-district",
   "identifiers": [

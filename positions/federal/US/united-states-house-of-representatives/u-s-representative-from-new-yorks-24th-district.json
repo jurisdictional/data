@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3624",
   "holder": {
-    "person": "ocd-person/63bd21f3-816f-51a3-aa42-c2ce6865ef1c",
-    "start_date": "2026-05-31T06:06:50Z"
+    "person": "ocd-person/63bd21f3-816f-51a3-aa42-c2ce6865ef1c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-24th-district",
   "identifiers": [

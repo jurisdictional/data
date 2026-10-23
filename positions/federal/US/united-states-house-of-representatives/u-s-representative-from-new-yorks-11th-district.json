@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3611",
   "holder": {
-    "person": "ocd-person/3d4f472a-30d7-51c8-a796-bf6ca58c8d6c",
-    "start_date": "2026-05-31T06:06:29Z"
+    "person": "ocd-person/3d4f472a-30d7-51c8-a796-bf6ca58c8d6c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-11th-district",
   "identifiers": [

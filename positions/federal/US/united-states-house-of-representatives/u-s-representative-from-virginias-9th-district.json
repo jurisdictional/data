@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5109",
   "holder": {
-    "person": "ocd-person/20adf159-8f05-5a08-aaa3-1ffd2433df4d",
-    "start_date": "2026-05-31T14:49:32Z"
+    "person": "ocd-person/20adf159-8f05-5a08-aaa3-1ffd2433df4d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-9th-district",
   "identifiers": [

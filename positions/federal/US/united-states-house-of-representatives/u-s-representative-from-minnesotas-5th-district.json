@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2705",
   "holder": {
-    "person": "ocd-person/40b0846d-1fd7-51c1-80ce-485244aa1452",
-    "start_date": "2026-05-31T06:01:27Z"
+    "person": "ocd-person/40b0846d-1fd7-51c1-80ce-485244aa1452"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-5th-district",
   "identifiers": [

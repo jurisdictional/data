@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2604",
   "holder": {
-    "person": "ocd-person/a5f96cc3-f04b-527b-8e35-3310eec036bb",
-    "start_date": "2026-05-31T06:00:30Z"
+    "person": "ocd-person/a5f96cc3-f04b-527b-8e35-3310eec036bb"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-4th-district",
   "identifiers": [

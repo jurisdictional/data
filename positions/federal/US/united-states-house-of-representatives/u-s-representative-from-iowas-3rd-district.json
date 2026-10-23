@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1903",
   "holder": {
-    "person": "ocd-person/fa66e61a-2b0d-55d5-b4c3-84b952afdced",
-    "start_date": "2026-05-31T05:57:10Z"
+    "person": "ocd-person/fa66e61a-2b0d-55d5-b4c3-84b952afdced"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-iowas-3rd-district",
   "identifiers": [

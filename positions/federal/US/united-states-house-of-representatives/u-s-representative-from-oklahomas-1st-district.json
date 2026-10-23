@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4001",
   "holder": {
-    "person": "ocd-person/6d03a8fa-699d-5dfa-97a6-339835aa294b",
-    "start_date": "2026-05-31T14:41:49Z"
+    "person": "ocd-person/6d03a8fa-699d-5dfa-97a6-339835aa294b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oklahomas-1st-district",
   "identifiers": [

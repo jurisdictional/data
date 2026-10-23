@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0407",
   "holder": {
-    "person": "ocd-person/2777c4f1-7395-5e71-8b7d-358fe24aadbf",
-    "start_date": "2026-05-31T05:02:17Z"
+    "person": "ocd-person/2777c4f1-7395-5e71-8b7d-358fe24aadbf"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-7th-district",
   "identifiers": [

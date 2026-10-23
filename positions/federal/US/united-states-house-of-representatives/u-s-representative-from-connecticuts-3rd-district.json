@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0903",
   "holder": {
-    "person": "ocd-person/64581fda-097d-57e9-915a-5adc41322bd5",
-    "start_date": "2026-05-31T05:30:38Z"
+    "person": "ocd-person/64581fda-097d-57e9-915a-5adc41322bd5"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-3rd-district",
   "identifiers": [

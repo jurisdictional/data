@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0200",
   "holder": {
-    "person": "ocd-person/cd1a2172-693f-5f82-a53f-7ce7286ad3db",
-    "start_date": "2026-06-01T00:20:46Z"
+    "person": "ocd-person/cd1a2172-693f-5f82-a53f-7ce7286ad3db"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-alaskas-at-large-district",
   "identifiers": [

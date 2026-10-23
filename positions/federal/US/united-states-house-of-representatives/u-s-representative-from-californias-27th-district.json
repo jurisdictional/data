@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0627",
   "holder": {
-    "person": "ocd-person/f8d0c52e-d0c9-51a3-9d7f-85261837521f",
-    "start_date": "2026-05-31T05:27:42Z"
+    "person": "ocd-person/f8d0c52e-d0c9-51a3-9d7f-85261837521f"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-27th-district",
   "identifiers": [

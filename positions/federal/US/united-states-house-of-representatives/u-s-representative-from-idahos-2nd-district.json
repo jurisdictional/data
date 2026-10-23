@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1602",
   "holder": {
-    "person": "ocd-person/0cf3514d-5742-5a60-b726-15003d362df9",
-    "start_date": "2026-05-31T05:32:29Z"
+    "person": "ocd-person/0cf3514d-5742-5a60-b726-15003d362df9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-idahos-2nd-district",
   "identifiers": [

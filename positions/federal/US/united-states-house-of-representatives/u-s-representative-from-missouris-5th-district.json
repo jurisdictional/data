@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2905",
   "holder": {
-    "person": "ocd-person/7a4e9dcb-e8c1-5462-8f66-59f7d053d56a",
-    "start_date": "2026-05-31T06:02:22Z"
+    "person": "ocd-person/7a4e9dcb-e8c1-5462-8f66-59f7d053d56a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-5th-district",
   "identifiers": [

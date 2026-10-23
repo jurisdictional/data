@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0640",
   "holder": {
-    "person": "ocd-person/7bc6b7d1-4074-5e94-8079-ab134a1e59d4",
-    "start_date": "2026-05-31T05:28:00Z"
+    "person": "ocd-person/7bc6b7d1-4074-5e94-8079-ab134a1e59d4"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-40th-district",
   "identifiers": [

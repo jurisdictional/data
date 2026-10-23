@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0615",
   "holder": {
-    "person": "ocd-person/2a88c657-3d7a-55fb-aa61-d3cdef2a4ce6",
-    "start_date": "2026-05-31T05:27:18Z"
+    "person": "ocd-person/2a88c657-3d7a-55fb-aa61-d3cdef2a4ce6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-15th-district",
   "identifiers": [

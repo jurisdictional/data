@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3407",
   "holder": {
-    "person": "ocd-person/3fb4e565-608b-5b21-8fb1-f62a3f02a1bb",
-    "start_date": "2026-05-31T06:04:15Z"
+    "person": "ocd-person/3fb4e565-608b-5b21-8fb1-f62a3f02a1bb"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-7th-district",
   "identifiers": [

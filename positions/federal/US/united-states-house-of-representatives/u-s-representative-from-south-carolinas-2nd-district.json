@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4502",
   "holder": {
-    "person": "ocd-person/2fa76792-531d-582d-a2d4-27bd659cffd6",
-    "start_date": "2026-05-31T14:44:38Z"
+    "person": "ocd-person/2fa76792-531d-582d-a2d4-27bd659cffd6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-2nd-district",
   "identifiers": [

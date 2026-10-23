@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2901",
   "holder": {
-    "person": "ocd-person/d24ec828-0469-5c34-a546-af5d2c8f6b59",
-    "start_date": "2026-05-31T06:02:13Z"
+    "person": "ocd-person/d24ec828-0469-5c34-a546-af5d2c8f6b59"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-1st-district",
   "identifiers": [

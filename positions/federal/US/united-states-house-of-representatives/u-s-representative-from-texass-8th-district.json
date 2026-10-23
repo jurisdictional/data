@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4808",
   "holder": {
-    "person": "ocd-person/92d5710e-b138-5453-9199-a8999fa42bf7",
-    "start_date": "2026-05-31T14:46:59Z"
+    "person": "ocd-person/92d5710e-b138-5453-9199-a8999fa42bf7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-8th-district",
   "identifiers": [

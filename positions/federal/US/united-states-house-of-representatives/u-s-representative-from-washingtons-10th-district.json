@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5310",
   "holder": {
-    "person": "ocd-person/b3833250-266c-5343-aef8-ac7fc6c00eb6",
-    "start_date": "2026-05-31T14:49:55Z"
+    "person": "ocd-person/b3833250-266c-5343-aef8-ac7fc6c00eb6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-10th-district",
   "identifiers": [

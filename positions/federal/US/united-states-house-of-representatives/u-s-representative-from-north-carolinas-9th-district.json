@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3709",
   "holder": {
-    "person": "ocd-person/9d4792c9-777b-5fa3-9d5e-efd88ba7817c",
-    "start_date": "2026-05-31T14:39:27Z"
+    "person": "ocd-person/9d4792c9-777b-5fa3-9d5e-efd88ba7817c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-9th-district",
   "identifiers": [

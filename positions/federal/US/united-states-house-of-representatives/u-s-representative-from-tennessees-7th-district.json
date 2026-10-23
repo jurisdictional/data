@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4707",
   "holder": {
-    "person": "ocd-person/8ce8b2b5-e7b0-5a82-a833-a505243ee206",
-    "start_date": "2026-05-31T14:45:04Z"
+    "person": "ocd-person/8ce8b2b5-e7b0-5a82-a833-a505243ee206"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-7th-district",
   "identifiers": [

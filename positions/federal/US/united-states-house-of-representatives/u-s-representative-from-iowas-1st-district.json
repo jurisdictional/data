@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1901",
   "holder": {
-    "person": "ocd-person/adbf4ca8-c2e9-5af6-b599-4a9c0ff86382",
-    "start_date": "2026-05-31T05:57:07Z"
+    "person": "ocd-person/adbf4ca8-c2e9-5af6-b599-4a9c0ff86382"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-iowas-1st-district",
   "identifiers": [

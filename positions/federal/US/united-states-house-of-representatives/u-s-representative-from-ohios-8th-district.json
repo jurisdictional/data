@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3908",
   "holder": {
-    "person": "ocd-person/ff831d05-6551-5ae9-9573-e9801725d772",
-    "start_date": "2026-05-31T14:40:45Z"
+    "person": "ocd-person/ff831d05-6551-5ae9-9573-e9801725d772"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-8th-district",
   "identifiers": [

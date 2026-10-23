@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3503",
   "holder": {
-    "person": "ocd-person/e6ed90f7-7905-56f9-b85b-d395f165b4be",
-    "start_date": "2026-05-31T06:05:17Z"
+    "person": "ocd-person/e6ed90f7-7905-56f9-b85b-d395f165b4be"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-mexicos-3rd-district",
   "identifiers": [

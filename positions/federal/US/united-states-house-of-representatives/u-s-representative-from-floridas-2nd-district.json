@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1202",
   "holder": {
-    "person": "ocd-person/858659bf-10f2-51a7-bf18-7605dfda2e6c",
-    "start_date": "2026-06-01T00:23:06Z"
+    "person": "ocd-person/858659bf-10f2-51a7-bf18-7605dfda2e6c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-2nd-district",
   "identifiers": [

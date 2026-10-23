@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0643",
   "holder": {
-    "person": "ocd-person/b2ec3aad-f156-5414-9a24-73fc12354dc3",
-    "start_date": "2026-05-31T05:28:07Z"
+    "person": "ocd-person/b2ec3aad-f156-5414-9a24-73fc12354dc3"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-43rd-district",
   "identifiers": [

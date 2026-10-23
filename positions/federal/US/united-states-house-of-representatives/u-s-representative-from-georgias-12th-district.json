@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1312",
   "holder": {
-    "person": "ocd-person/4acfcadf-d05f-5e45-9671-0f1df8e9b3b4",
-    "start_date": "2026-05-31T05:31:48Z"
+    "person": "ocd-person/4acfcadf-d05f-5e45-9671-0f1df8e9b3b4"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-12th-district",
   "identifiers": [

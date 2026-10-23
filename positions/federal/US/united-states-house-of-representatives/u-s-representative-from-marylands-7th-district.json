@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2407",
   "holder": {
-    "person": "ocd-person/013d19c6-8609-5f5c-a92a-630b7bd0ef5d",
-    "start_date": "2026-05-31T05:58:52Z"
+    "person": "ocd-person/013d19c6-8609-5f5c-a92a-630b7bd0ef5d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-7th-district",
   "identifiers": [

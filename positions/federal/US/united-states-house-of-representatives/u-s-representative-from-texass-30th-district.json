@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4830",
   "holder": {
-    "person": "ocd-person/d4901cd7-a569-5afc-a129-e9f7abbb0f35",
-    "start_date": "2026-05-31T14:47:42Z"
+    "person": "ocd-person/d4901cd7-a569-5afc-a129-e9f7abbb0f35"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-30th-district",
   "identifiers": [

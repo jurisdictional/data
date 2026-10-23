@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1706",
   "holder": {
-    "person": "ocd-person/61673869-c374-538f-85c0-c1f045e0fa37",
-    "start_date": "2026-05-31T05:33:12Z"
+    "person": "ocd-person/61673869-c374-538f-85c0-c1f045e0fa37"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-6th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1710",
   "holder": {
-    "person": "ocd-person/89d0a208-eff6-5490-bab5-336859b07a3e",
-    "start_date": "2026-05-31T05:33:18Z"
+    "person": "ocd-person/89d0a208-eff6-5490-bab5-336859b07a3e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-10th-district",
   "identifiers": [

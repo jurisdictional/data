@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0621",
   "holder": {
-    "person": "ocd-person/e53e38c2-ff38-5101-b198-21f1f0a7f163",
-    "start_date": "2026-05-31T05:27:27Z"
+    "person": "ocd-person/e53e38c2-ff38-5101-b198-21f1f0a7f163"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-21st-district",
   "identifiers": [

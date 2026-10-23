@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2703",
   "holder": {
-    "person": "ocd-person/c4c7b13f-c79c-5bf7-b96f-2d9855c785ec",
-    "start_date": "2026-05-31T06:01:25Z"
+    "person": "ocd-person/c4c7b13f-c79c-5bf7-b96f-2d9855c785ec"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-3rd-district",
   "identifiers": [

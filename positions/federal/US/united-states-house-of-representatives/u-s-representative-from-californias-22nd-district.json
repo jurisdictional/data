@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0622",
   "holder": {
-    "person": "ocd-person/f11677f2-85b9-5187-9452-ac9607a54059",
-    "start_date": "2026-05-31T05:27:28Z"
+    "person": "ocd-person/f11677f2-85b9-5187-9452-ac9607a54059"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-22nd-district",
   "identifiers": [

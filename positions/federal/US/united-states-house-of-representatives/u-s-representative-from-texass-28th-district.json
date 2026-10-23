@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4828",
   "holder": {
-    "person": "ocd-person/cb0ecc9b-a2c7-5f95-878e-c9ebfdd75baa",
-    "start_date": "2026-05-31T14:47:39Z"
+    "person": "ocd-person/cb0ecc9b-a2c7-5f95-878e-c9ebfdd75baa"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-28th-district",
   "identifiers": [

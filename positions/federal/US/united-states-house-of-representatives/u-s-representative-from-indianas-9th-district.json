@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1809",
   "holder": {
-    "person": "ocd-person/eaac8dfd-6e7e-5f00-9469-1b9858372d13",
-    "start_date": "2026-05-31T05:56:15Z"
+    "person": "ocd-person/eaac8dfd-6e7e-5f00-9469-1b9858372d13"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-9th-district",
   "identifiers": [

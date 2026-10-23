@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3905",
   "holder": {
-    "person": "ocd-person/43f9d346-8a54-53c6-a7a1-69c966e69390",
-    "start_date": "2026-05-31T14:40:41Z"
+    "person": "ocd-person/43f9d346-8a54-53c6-a7a1-69c966e69390"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-5th-district",
   "identifiers": [

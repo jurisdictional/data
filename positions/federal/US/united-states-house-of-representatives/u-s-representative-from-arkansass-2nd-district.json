@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0502",
   "holder": {
-    "person": "ocd-person/fa9616b5-2ade-5934-9e12-cf47713bc5a5",
-    "start_date": "2026-05-31T05:25:33Z"
+    "person": "ocd-person/fa9616b5-2ade-5934-9e12-cf47713bc5a5"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arkansass-2nd-district",
   "identifiers": [

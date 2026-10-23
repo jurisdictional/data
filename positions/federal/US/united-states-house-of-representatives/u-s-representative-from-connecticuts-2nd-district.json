@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0902",
   "holder": {
-    "person": "ocd-person/fb992bd1-7804-584f-a1c9-eeebbe84ad11",
-    "start_date": "2026-05-31T05:30:37Z"
+    "person": "ocd-person/fb992bd1-7804-584f-a1c9-eeebbe84ad11"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-2nd-district",
   "identifiers": [

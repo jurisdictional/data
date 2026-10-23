@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4213",
   "holder": {
-    "person": "ocd-person/0047e59e-7ae6-5545-a784-83786a7c7f90",
-    "start_date": "2026-05-31T14:43:12Z"
+    "person": "ocd-person/0047e59e-7ae6-5545-a784-83786a7c7f90"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-pennsylvanias-13th-district",
   "identifiers": [

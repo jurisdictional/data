@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0405",
   "holder": {
-    "person": "ocd-person/e6c2cdc8-fc0d-5ca5-bfd1-8719364c21e9",
-    "start_date": "2026-05-31T05:02:12Z"
+    "person": "ocd-person/e6c2cdc8-fc0d-5ca5-bfd1-8719364c21e9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-5th-district",
   "identifiers": [

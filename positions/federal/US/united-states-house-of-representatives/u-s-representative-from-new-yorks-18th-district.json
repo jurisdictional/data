@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3618",
   "holder": {
-    "person": "ocd-person/7c77afd9-a82f-5ce6-96a0-6f96c3cfa841",
-    "start_date": "2026-05-31T06:06:40Z"
+    "person": "ocd-person/7c77afd9-a82f-5ce6-96a0-6f96c3cfa841"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-18th-district",
   "identifiers": [

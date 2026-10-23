@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3411",
   "holder": {
-    "person": "ocd-person/de076da4-40c0-50ab-a7e4-7611ff79872d",
-    "start_date": "2026-05-31T06:04:22Z"
+    "person": "ocd-person/de076da4-40c0-50ab-a7e4-7611ff79872d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-11th-district",
   "identifiers": [

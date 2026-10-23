@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4705",
   "holder": {
-    "person": "ocd-person/76825f1d-a00b-58bb-99e4-316a9c71e368",
-    "start_date": "2026-05-31T14:45:00Z"
+    "person": "ocd-person/76825f1d-a00b-58bb-99e4-316a9c71e368"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-5th-district",
   "identifiers": [

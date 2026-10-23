@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1214",
   "holder": {
-    "person": "ocd-person/8515d928-1867-5319-ad77-b4fc5bef9d08",
-    "start_date": "2026-06-01T00:23:32Z"
+    "person": "ocd-person/8515d928-1867-5319-ad77-b4fc5bef9d08"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-14th-district",
   "identifiers": [

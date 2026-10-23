@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1716",
   "holder": {
-    "person": "ocd-person/5b4bb02e-ca5a-5f74-93f8-c8facbf7754c",
-    "start_date": "2026-05-31T05:33:29Z"
+    "person": "ocd-person/5b4bb02e-ca5a-5f74-93f8-c8facbf7754c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-16th-district",
   "identifiers": [

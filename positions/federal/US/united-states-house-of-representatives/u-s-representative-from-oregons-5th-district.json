@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4105",
   "holder": {
-    "person": "ocd-person/fa6e02da-25e7-5e10-b279-ee68653b9bc3",
-    "start_date": "2026-05-31T14:42:02Z"
+    "person": "ocd-person/fa6e02da-25e7-5e10-b279-ee68653b9bc3"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-5th-district",
   "identifiers": [

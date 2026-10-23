@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2507",
   "holder": {
-    "person": "ocd-person/10072587-ff35-546e-8817-b885c43fc5b8",
-    "start_date": "2026-05-31T05:59:03Z"
+    "person": "ocd-person/10072587-ff35-546e-8817-b885c43fc5b8"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-7th-district",
   "identifiers": [

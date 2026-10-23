@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4702",
   "holder": {
-    "person": "ocd-person/4bb40bf6-ffb5-5c07-8780-5abc2b751e7d",
-    "start_date": "2026-05-31T14:44:52Z"
+    "person": "ocd-person/4bb40bf6-ffb5-5c07-8780-5abc2b751e7d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-2nd-district",
   "identifiers": [

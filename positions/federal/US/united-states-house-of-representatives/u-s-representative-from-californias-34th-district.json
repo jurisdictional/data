@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0634",
   "holder": {
-    "person": "ocd-person/2306bce6-448a-5625-970d-85885c94012e",
-    "start_date": "2026-05-31T05:27:54Z"
+    "person": "ocd-person/2306bce6-448a-5625-970d-85885c94012e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-34th-district",
   "identifiers": [

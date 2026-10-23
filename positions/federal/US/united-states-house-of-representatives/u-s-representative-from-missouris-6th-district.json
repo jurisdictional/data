@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2906",
   "holder": {
-    "person": "ocd-person/c9081aa4-8ef4-51d6-b2b3-eee56f0e2146",
-    "start_date": "2026-05-31T06:02:23Z"
+    "person": "ocd-person/c9081aa4-8ef4-51d6-b2b3-eee56f0e2146"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-missouris-6th-district",
   "identifiers": [

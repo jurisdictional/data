@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4813",
   "holder": {
-    "person": "ocd-person/7e7e2177-3a66-5d05-840b-44b7a7918022",
-    "start_date": "2026-05-31T14:47:08Z"
+    "person": "ocd-person/7e7e2177-3a66-5d05-840b-44b7a7918022"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-13th-district",
   "identifiers": [

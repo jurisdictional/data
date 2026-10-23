@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0617",
   "holder": {
-    "person": "ocd-person/901048cf-4549-5e02-b096-55618013801b",
-    "start_date": "2026-05-31T05:27:23Z"
+    "person": "ocd-person/901048cf-4549-5e02-b096-55618013801b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-17th-district",
   "identifiers": [

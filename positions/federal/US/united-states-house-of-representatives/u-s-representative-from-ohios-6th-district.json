@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3906",
   "holder": {
-    "person": "ocd-person/7414d17b-91b7-5b3c-80e7-ce989ec500bd",
-    "start_date": "2026-05-31T14:40:42Z"
+    "person": "ocd-person/7414d17b-91b7-5b3c-80e7-ce989ec500bd"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-6th-district",
   "identifiers": [

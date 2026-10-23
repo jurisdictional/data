@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2506",
   "holder": {
-    "person": "ocd-person/e3111518-ac41-5e1f-89a3-f88a0d1722be",
-    "start_date": "2026-05-31T05:59:02Z"
+    "person": "ocd-person/e3111518-ac41-5e1f-89a3-f88a0d1722be"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-6th-district",
   "identifiers": [

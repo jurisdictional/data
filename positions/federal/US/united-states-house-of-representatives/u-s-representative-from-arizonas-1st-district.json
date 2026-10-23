@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0401",
   "holder": {
-    "person": "ocd-person/39d46a24-b49f-5c55-95a5-1802b6d1f692",
-    "start_date": "2026-05-31T05:02:08Z"
+    "person": "ocd-person/39d46a24-b49f-5c55-95a5-1802b6d1f692"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-1st-district",
   "identifiers": [

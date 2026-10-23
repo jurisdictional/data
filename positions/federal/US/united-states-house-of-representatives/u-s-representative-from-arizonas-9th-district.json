@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0409",
   "holder": {
-    "person": "ocd-person/71915183-4684-571c-b4d6-76c5307b75df",
-    "start_date": "2026-05-31T05:02:19Z"
+    "person": "ocd-person/71915183-4684-571c-b4d6-76c5307b75df"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-9th-district",
   "identifiers": [

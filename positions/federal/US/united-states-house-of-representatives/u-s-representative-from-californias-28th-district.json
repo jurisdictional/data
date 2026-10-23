@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0628",
   "holder": {
-    "person": "ocd-person/be3a283c-260c-5337-a9f6-50a4eb4e9dfa",
-    "start_date": "2026-05-31T05:27:43Z"
+    "person": "ocd-person/be3a283c-260c-5337-a9f6-50a4eb4e9dfa"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-28th-district",
   "identifiers": [

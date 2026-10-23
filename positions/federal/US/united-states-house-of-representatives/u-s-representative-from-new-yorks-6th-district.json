@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3606",
   "holder": {
-    "person": "ocd-person/c01c003b-ca40-5225-a34b-aa1bcb4048a1",
-    "start_date": "2026-05-31T06:06:20Z"
+    "person": "ocd-person/c01c003b-ca40-5225-a34b-aa1bcb4048a1"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-6th-district",
   "identifiers": [

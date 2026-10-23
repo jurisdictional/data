@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3615",
   "holder": {
-    "person": "ocd-person/bc1492cb-3b75-5cec-97f0-3dcb7177c9fd",
-    "start_date": "2026-05-31T06:06:37Z"
+    "person": "ocd-person/bc1492cb-3b75-5cec-97f0-3dcb7177c9fd"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-15th-district",
   "identifiers": [

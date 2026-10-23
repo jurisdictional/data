@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2602",
   "holder": {
-    "person": "ocd-person/2b351e9b-c3c5-5b71-a48a-64a33176d702",
-    "start_date": "2026-05-31T06:00:24Z"
+    "person": "ocd-person/2b351e9b-c3c5-5b71-a48a-64a33176d702"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-2nd-district",
   "identifiers": [

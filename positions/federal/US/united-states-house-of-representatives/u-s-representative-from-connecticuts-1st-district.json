@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0901",
   "holder": {
-    "person": "ocd-person/b30aad86-0f44-5cf9-9091-c97d5072eddc",
-    "start_date": "2026-05-31T05:30:36Z"
+    "person": "ocd-person/b30aad86-0f44-5cf9-9091-c97d5072eddc"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-1st-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2801",
   "holder": {
-    "person": "ocd-person/965f0b8c-e882-5224-9e14-b7114f4383b6",
-    "start_date": "2026-05-31T06:02:09Z"
+    "person": "ocd-person/965f0b8c-e882-5224-9e14-b7114f4383b6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-mississippis-1st-district",
   "identifiers": [

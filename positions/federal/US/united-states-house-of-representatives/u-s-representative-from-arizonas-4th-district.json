@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0404",
   "holder": {
-    "person": "ocd-person/4bdf7349-8ec7-53f8-9e8d-25f096f97695",
-    "start_date": "2026-05-31T05:02:11Z"
+    "person": "ocd-person/4bdf7349-8ec7-53f8-9e8d-25f096f97695"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-4th-district",
   "identifiers": [

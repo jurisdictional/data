@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1501",
   "holder": {
-    "person": "ocd-person/a0a1531d-ac0f-5ad5-83fd-af1eb0d624cb",
-    "start_date": "2026-05-31T05:32:26Z"
+    "person": "ocd-person/a0a1531d-ac0f-5ad5-83fd-af1eb0d624cb"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-hawaiis-1st-district",
   "identifiers": [

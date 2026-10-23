@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4402",
   "holder": {
-    "person": "ocd-person/cfc9f13b-b3a4-5610-9325-c7a999027f34",
-    "start_date": "2026-05-31T14:44:36Z"
+    "person": "ocd-person/cfc9f13b-b3a4-5610-9325-c7a999027f34"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-rhode-islands-2nd-district",
   "identifiers": [

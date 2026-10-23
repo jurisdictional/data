@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1808",
   "holder": {
-    "person": "ocd-person/55b71e3a-170f-5b1a-871c-fc908f3fbab6",
-    "start_date": "2026-05-31T05:56:14Z"
+    "person": "ocd-person/55b71e3a-170f-5b1a-871c-fc908f3fbab6"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-indianas-8th-district",
   "identifiers": [

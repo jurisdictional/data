@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5101",
   "holder": {
-    "person": "ocd-person/6d72291b-e506-5c92-994d-e8dfe38464f8",
-    "start_date": "2026-05-31T14:49:20Z"
+    "person": "ocd-person/6d72291b-e506-5c92-994d-e8dfe38464f8"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-1st-district",
   "identifiers": [

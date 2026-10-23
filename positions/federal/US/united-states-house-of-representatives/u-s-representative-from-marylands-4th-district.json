@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2404",
   "holder": {
-    "person": "ocd-person/2a71ca40-aa38-52a6-a287-f78a195e2cf1",
-    "start_date": "2026-05-31T05:58:48Z"
+    "person": "ocd-person/2a71ca40-aa38-52a6-a287-f78a195e2cf1"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-4th-district",
   "identifiers": [

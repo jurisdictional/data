@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5108",
   "holder": {
-    "person": "ocd-person/7f4afb94-2f1e-522f-b841-8174a1a66d27",
-    "start_date": "2026-05-31T14:49:31Z"
+    "person": "ocd-person/7f4afb94-2f1e-522f-b841-8174a1a66d27"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-virginias-8th-district",
   "identifiers": [

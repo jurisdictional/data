@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1308",
   "holder": {
-    "person": "ocd-person/9779b9a6-8509-52a8-a4de-772483640d43",
-    "start_date": "2026-05-31T05:31:41Z"
+    "person": "ocd-person/9779b9a6-8509-52a8-a4de-772483640d43"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-8th-district",
   "identifiers": [

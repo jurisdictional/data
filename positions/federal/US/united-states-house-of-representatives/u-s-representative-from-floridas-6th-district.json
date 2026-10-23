@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1206",
   "holder": {
-    "person": "ocd-person/e2653a90-c280-5118-aed5-7c5d542f4eff",
-    "start_date": "2026-06-01T00:23:10Z"
+    "person": "ocd-person/e2653a90-c280-5118-aed5-7c5d542f4eff"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-6th-district",
   "identifiers": [

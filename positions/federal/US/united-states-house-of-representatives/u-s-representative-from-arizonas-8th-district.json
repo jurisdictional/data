@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0408",
   "holder": {
-    "person": "ocd-person/4404ddff-2093-5f65-abf7-8071af0454e7",
-    "start_date": "2026-05-31T05:02:18Z"
+    "person": "ocd-person/4404ddff-2093-5f65-abf7-8071af0454e7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-8th-district",
   "identifiers": [

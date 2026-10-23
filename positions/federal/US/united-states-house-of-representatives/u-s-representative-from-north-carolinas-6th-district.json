@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3706",
   "holder": {
-    "person": "ocd-person/10b5541d-d337-55bf-8b8e-24392fac107d",
-    "start_date": "2026-05-31T14:39:24Z"
+    "person": "ocd-person/10b5541d-d337-55bf-8b8e-24392fac107d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-6th-district",
   "identifiers": [

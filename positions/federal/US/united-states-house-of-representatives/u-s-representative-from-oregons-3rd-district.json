@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4103",
   "holder": {
-    "person": "ocd-person/0e8e6dc9-bb35-5e52-9305-64f7edbe0884",
-    "start_date": "2026-05-31T14:42:00Z"
+    "person": "ocd-person/0e8e6dc9-bb35-5e52-9305-64f7edbe0884"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oregons-3rd-district",
   "identifiers": [

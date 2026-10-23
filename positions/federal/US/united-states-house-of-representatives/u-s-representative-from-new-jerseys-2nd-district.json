@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3402",
   "holder": {
-    "person": "ocd-person/ef2daaa2-6a4d-5e0e-aef8-a94776872da9",
-    "start_date": "2026-05-31T06:04:04Z"
+    "person": "ocd-person/ef2daaa2-6a4d-5e0e-aef8-a94776872da9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2302",
   "holder": {
-    "person": "ocd-person/6c50d78d-4b08-5869-8e52-4f8291ced94b",
-    "start_date": "2026-05-31T05:58:41Z"
+    "person": "ocd-person/6c50d78d-4b08-5869-8e52-4f8291ced94b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-maines-2nd-district",
   "identifiers": [

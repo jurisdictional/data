@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1311",
   "holder": {
-    "person": "ocd-person/30717bc1-9947-5129-bb86-69ed93a71650",
-    "start_date": "2026-05-31T05:31:47Z"
+    "person": "ocd-person/30717bc1-9947-5129-bb86-69ed93a71650"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-11th-district",
   "identifiers": [

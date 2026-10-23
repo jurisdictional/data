@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4501",
   "holder": {
-    "person": "ocd-person/229a6814-ff1c-5064-bc10-ce8bfbf662de",
-    "start_date": "2026-05-31T14:44:37Z"
+    "person": "ocd-person/229a6814-ff1c-5064-bc10-ce8bfbf662de"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-1st-district",
   "identifiers": [

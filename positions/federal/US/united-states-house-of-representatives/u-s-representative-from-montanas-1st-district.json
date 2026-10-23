@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3001",
   "holder": {
-    "person": "ocd-person/01348912-f6d5-5db3-a137-b1be5dec50f9",
-    "start_date": "2026-05-31T06:02:26Z"
+    "person": "ocd-person/01348912-f6d5-5db3-a137-b1be5dec50f9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-montanas-1st-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0905",
   "holder": {
-    "person": "ocd-person/8513bb53-890b-587d-966b-34cc7f6d9ff7",
-    "start_date": "2026-05-31T05:30:40Z"
+    "person": "ocd-person/8513bb53-890b-587d-966b-34cc7f6d9ff7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-5th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1220",
   "holder": {
-    "person": "ocd-person/e8983fde-38ca-5704-b6d7-5f498ac121dd",
-    "start_date": "2026-06-01T00:23:38Z"
+    "person": "ocd-person/e8983fde-38ca-5704-b6d7-5f498ac121dd"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-20th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5508",
   "holder": {
-    "person": "ocd-person/a32dd19c-b31e-5d3d-b9d7-6e171dbecb51",
-    "start_date": "2026-05-31T14:50:13Z"
+    "person": "ocd-person/a32dd19c-b31e-5d3d-b9d7-6e171dbecb51"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wisconsins-8th-district",
   "identifiers": [

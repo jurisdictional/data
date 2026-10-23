@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3913",
   "holder": {
-    "person": "ocd-person/e48e7052-6b7a-5ee2-b17c-3ca9255c3567",
-    "start_date": "2026-05-31T14:40:57Z"
+    "person": "ocd-person/e48e7052-6b7a-5ee2-b17c-3ca9255c3567"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-13th-district",
   "identifiers": [

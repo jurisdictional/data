@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4807",
   "holder": {
-    "person": "ocd-person/a7bef2e2-f407-5d3f-83e7-df777d074448",
-    "start_date": "2026-05-31T14:46:58Z"
+    "person": "ocd-person/a7bef2e2-f407-5d3f-83e7-df777d074448"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-7th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3410",
   "holder": {
-    "person": "ocd-person/9ef7bccc-76b7-5344-beaf-c7ee4f1bb179",
-    "start_date": "2026-05-31T06:04:18Z"
+    "person": "ocd-person/9ef7bccc-76b7-5344-beaf-c7ee4f1bb179"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-10th-district",
   "identifiers": [

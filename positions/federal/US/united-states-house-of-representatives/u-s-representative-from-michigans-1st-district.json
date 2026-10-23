@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2601",
   "holder": {
-    "person": "ocd-person/fbe22284-86f8-505a-8b5a-e2465a6b3f1a",
-    "start_date": "2026-05-31T06:00:23Z"
+    "person": "ocd-person/fbe22284-86f8-505a-8b5a-e2465a6b3f1a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-1st-district",
   "identifiers": [

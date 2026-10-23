@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1715",
   "holder": {
-    "person": "ocd-person/d0e3da4a-8e9e-5726-a231-a4e8a186eeca",
-    "start_date": "2026-05-31T05:33:24Z"
+    "person": "ocd-person/d0e3da4a-8e9e-5726-a231-a4e8a186eeca"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-15th-district",
   "identifiers": [

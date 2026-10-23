@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0611",
   "holder": {
-    "person": "ocd-person/4eb8158b-90ad-5fd5-90c5-c02067392ead",
-    "start_date": "2026-05-31T05:27:14Z"
+    "person": "ocd-person/4eb8158b-90ad-5fd5-90c5-c02067392ead"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-11th-district",
   "identifiers": [

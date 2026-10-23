@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0644",
   "holder": {
-    "person": "ocd-person/13376f13-7e9b-508a-af0f-e1951c89be05",
-    "start_date": "2026-05-31T05:28:08Z"
+    "person": "ocd-person/13376f13-7e9b-508a-af0f-e1951c89be05"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-44th-district",
   "identifiers": [

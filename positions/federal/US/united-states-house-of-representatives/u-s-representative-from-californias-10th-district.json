@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0610",
   "holder": {
-    "person": "ocd-person/3badd50b-d71d-50bd-ab8e-fe4fc4deb008",
-    "start_date": "2026-05-31T05:27:13Z"
+    "person": "ocd-person/3badd50b-d71d-50bd-ab8e-fe4fc4deb008"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-10th-district",
   "identifiers": [

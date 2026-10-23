@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1314",
   "holder": {
-    "person": "ocd-person/c9173dc0-603a-54e0-b247-1490a2a4cb6d",
-    "start_date": "2026-05-31T05:31:49Z"
+    "person": "ocd-person/c9173dc0-603a-54e0-b247-1490a2a4cb6d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-14th-district",
   "identifiers": [

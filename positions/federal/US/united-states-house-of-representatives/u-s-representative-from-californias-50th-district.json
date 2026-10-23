@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0650",
   "holder": {
-    "person": "ocd-person/ad7fbccc-4bd0-5104-9146-45ba1c0bea32",
-    "start_date": "2026-05-31T05:28:20Z"
+    "person": "ocd-person/ad7fbccc-4bd0-5104-9146-45ba1c0bea32"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-50th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0402",
   "holder": {
-    "person": "ocd-person/177bc4c3-bca2-50d9-adf0-382e6a36fd94",
-    "start_date": "2026-05-31T05:02:09Z"
+    "person": "ocd-person/177bc4c3-bca2-50d9-adf0-382e6a36fd94"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1226",
   "holder": {
-    "person": "ocd-person/dab18429-b61e-5eaf-92b8-c0434dd86053",
-    "start_date": "2026-05-31T05:30:42Z"
+    "person": "ocd-person/dab18429-b61e-5eaf-92b8-c0434dd86053"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-26th-district",
   "identifiers": [

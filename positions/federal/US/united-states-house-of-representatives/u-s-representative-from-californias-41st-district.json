@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0641",
   "holder": {
-    "person": "ocd-person/be7754fb-5183-5174-8754-5863a8fc4df0",
-    "start_date": "2026-05-31T05:28:05Z"
+    "person": "ocd-person/be7754fb-5183-5174-8754-5863a8fc4df0"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-41st-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3800",
   "holder": {
-    "person": "ocd-person/a99fcaaa-8fa4-553c-abd1-7ed3d573ad47",
-    "start_date": "2026-06-01T00:20:48Z"
+    "person": "ocd-person/a99fcaaa-8fa4-553c-abd1-7ed3d573ad47"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-dakotas-at-large-district",
   "identifiers": [

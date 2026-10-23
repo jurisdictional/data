@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2707",
   "holder": {
-    "person": "ocd-person/504b3aa8-94f9-5497-ac85-8144b4df8c20",
-    "start_date": "2026-05-31T06:01:29Z"
+    "person": "ocd-person/504b3aa8-94f9-5497-ac85-8144b4df8c20"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-7th-district",
   "identifiers": [

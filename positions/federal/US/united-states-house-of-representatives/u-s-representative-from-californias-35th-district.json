@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0635",
   "holder": {
-    "person": "ocd-person/fe9f56d4-fa2b-5909-a69b-46d76a297e72",
-    "start_date": "2026-05-31T05:27:55Z"
+    "person": "ocd-person/fe9f56d4-fa2b-5909-a69b-46d76a297e72"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-35th-district",
   "identifiers": [

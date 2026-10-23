@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3907",
   "holder": {
-    "person": "ocd-person/f1c6f238-0e1f-5927-9a14-30bff1f6268b",
-    "start_date": "2026-05-31T14:40:44Z"
+    "person": "ocd-person/f1c6f238-0e1f-5927-9a14-30bff1f6268b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-7th-district",
   "identifiers": [

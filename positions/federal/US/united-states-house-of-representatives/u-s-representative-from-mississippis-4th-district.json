@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2804",
   "holder": {
-    "person": "ocd-person/873d9442-d3ce-5da0-bf5d-6ee54ee67c37",
-    "start_date": "2026-05-31T06:02:12Z"
+    "person": "ocd-person/873d9442-d3ce-5da0-bf5d-6ee54ee67c37"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-mississippis-4th-district",
   "identifiers": [

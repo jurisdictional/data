@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1225",
   "holder": {
-    "person": "ocd-person/8a770776-49fe-5216-a446-1d163a916c50",
-    "start_date": "2026-06-01T00:23:43Z"
+    "person": "ocd-person/8a770776-49fe-5216-a446-1d163a916c50"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-25th-district",
   "identifiers": [

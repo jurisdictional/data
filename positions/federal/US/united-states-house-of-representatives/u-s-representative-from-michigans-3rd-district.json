@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2603",
   "holder": {
-    "person": "ocd-person/0482d661-1a8b-5a62-97f8-5f8fe7b65da4",
-    "start_date": "2026-05-31T06:00:25Z"
+    "person": "ocd-person/0482d661-1a8b-5a62-97f8-5f8fe7b65da4"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-3rd-district",
   "identifiers": [

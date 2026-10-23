@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4002",
   "holder": {
-    "person": "ocd-person/1d0cd908-de23-5d72-a17d-b9a0a4fc7b23",
-    "start_date": "2026-05-31T14:41:50Z"
+    "person": "ocd-person/1d0cd908-de23-5d72-a17d-b9a0a4fc7b23"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-oklahomas-2nd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1601",
   "holder": {
-    "person": "ocd-person/c3f08aee-2366-5a5c-92e5-f2d3f5f5e8aa",
-    "start_date": "2026-05-31T05:32:28Z"
+    "person": "ocd-person/c3f08aee-2366-5a5c-92e5-f2d3f5f5e8aa"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-idahos-1st-district",
   "identifiers": [

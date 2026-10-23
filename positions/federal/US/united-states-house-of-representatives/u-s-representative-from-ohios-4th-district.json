@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3904",
   "holder": {
-    "person": "ocd-person/4c0a10e5-94fa-5107-8dc1-8ff37f791b66",
-    "start_date": "2026-05-31T14:40:40Z"
+    "person": "ocd-person/4c0a10e5-94fa-5107-8dc1-8ff37f791b66"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-4th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4802",
   "holder": {
-    "person": "ocd-person/e80627f3-11a2-5d70-a674-e1ad6faa18e3",
-    "start_date": "2026-05-31T14:46:48Z"
+    "person": "ocd-person/e80627f3-11a2-5d70-a674-e1ad6faa18e3"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-2nd-district",
   "identifiers": [

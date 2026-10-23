@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4819",
   "holder": {
-    "person": "ocd-person/5d5b2c8c-cba1-5410-a71c-74fb11a2ef06",
-    "start_date": "2026-05-31T14:47:20Z"
+    "person": "ocd-person/5d5b2c8c-cba1-5410-a71c-74fb11a2ef06"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-19th-district",
   "identifiers": [

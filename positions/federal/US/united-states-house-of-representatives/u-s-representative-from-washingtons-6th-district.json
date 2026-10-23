@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5306",
   "holder": {
-    "person": "ocd-person/33c8670f-c9c8-5619-a781-04981f524263",
-    "start_date": "2026-05-31T14:49:46Z"
+    "person": "ocd-person/33c8670f-c9c8-5619-a781-04981f524263"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-6th-district",
   "identifiers": [

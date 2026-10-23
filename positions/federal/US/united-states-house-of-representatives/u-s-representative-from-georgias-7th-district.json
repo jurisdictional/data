@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1307",
   "holder": {
-    "person": "ocd-person/fcb732f4-e6f3-5440-9768-b0ffd691982b",
-    "start_date": "2026-05-31T05:31:40Z"
+    "person": "ocd-person/fcb732f4-e6f3-5440-9768-b0ffd691982b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-georgias-7th-district",
   "identifiers": [

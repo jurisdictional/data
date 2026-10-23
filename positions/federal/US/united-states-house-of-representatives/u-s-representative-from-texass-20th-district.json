@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4820",
   "holder": {
-    "person": "ocd-person/46eea289-e6a9-5764-8d74-f92f8abd99fe",
-    "start_date": "2026-05-31T14:47:21Z"
+    "person": "ocd-person/46eea289-e6a9-5764-8d74-f92f8abd99fe"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-20th-district",
   "identifiers": [

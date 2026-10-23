@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4837",
   "holder": {
-    "person": "ocd-person/d92c3120-3639-5350-bc26-3f62e3ef81a9",
-    "start_date": "2026-05-31T14:47:52Z"
+    "person": "ocd-person/d92c3120-3639-5350-bc26-3f62e3ef81a9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-37th-district",
   "identifiers": [

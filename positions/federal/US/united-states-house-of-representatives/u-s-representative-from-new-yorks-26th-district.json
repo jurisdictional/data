@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3626",
   "holder": {
-    "person": "ocd-person/1ffd506b-1c77-530d-acbe-e888078f04c5",
-    "start_date": "2026-05-31T06:06:52Z"
+    "person": "ocd-person/1ffd506b-1c77-530d-acbe-e888078f04c5"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-26th-district",
   "identifiers": [

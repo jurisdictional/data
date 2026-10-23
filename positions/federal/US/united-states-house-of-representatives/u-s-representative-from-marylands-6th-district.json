@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2406",
   "holder": {
-    "person": "ocd-person/ce652ec0-d9be-5a98-83d2-316db9ab0525",
-    "start_date": "2026-05-31T05:58:51Z"
+    "person": "ocd-person/ce652ec0-d9be-5a98-83d2-316db9ab0525"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-marylands-6th-district",
   "identifiers": [

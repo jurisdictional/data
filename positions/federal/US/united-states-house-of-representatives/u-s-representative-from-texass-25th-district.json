@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4825",
   "holder": {
-    "person": "ocd-person/8aa75432-9266-55f5-b14c-b176a794b0d4",
-    "start_date": "2026-05-31T14:47:24Z"
+    "person": "ocd-person/8aa75432-9266-55f5-b14c-b176a794b0d4"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-25th-district",
   "identifiers": [

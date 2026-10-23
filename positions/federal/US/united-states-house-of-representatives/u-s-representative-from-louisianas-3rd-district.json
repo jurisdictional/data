@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2203",
   "holder": {
-    "person": "ocd-person/7f681b59-556a-5e17-9daa-45a8131a2ec5",
-    "start_date": "2026-05-31T05:57:31Z"
+    "person": "ocd-person/7f681b59-556a-5e17-9daa-45a8131a2ec5"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-louisianas-3rd-district",
   "identifiers": [

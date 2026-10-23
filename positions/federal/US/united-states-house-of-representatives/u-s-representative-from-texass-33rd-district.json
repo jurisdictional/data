@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4833",
   "holder": {
-    "person": "ocd-person/95dd4d9d-9eb1-52c2-8649-995fbb2d4857",
-    "start_date": "2026-05-31T14:47:45Z"
+    "person": "ocd-person/95dd4d9d-9eb1-52c2-8649-995fbb2d4857"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-33rd-district",
   "identifiers": [

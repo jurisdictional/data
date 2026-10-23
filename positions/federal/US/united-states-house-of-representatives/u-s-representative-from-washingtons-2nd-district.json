@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5302",
   "holder": {
-    "person": "ocd-person/56004abe-f002-54e8-9882-43d8ee088e82",
-    "start_date": "2026-05-31T14:49:41Z"
+    "person": "ocd-person/56004abe-f002-54e8-9882-43d8ee088e82"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-washingtons-2nd-district",
   "identifiers": [

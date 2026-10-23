@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4503",
   "holder": {
-    "person": "ocd-person/f7c01fc2-24c1-5616-8e22-f194ee48c19c",
-    "start_date": "2026-05-31T14:44:39Z"
+    "person": "ocd-person/f7c01fc2-24c1-5616-8e22-f194ee48c19c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-south-carolinas-3rd-district",
   "identifiers": [

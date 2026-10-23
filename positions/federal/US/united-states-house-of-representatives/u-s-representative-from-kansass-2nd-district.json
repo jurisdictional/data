@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2002",
   "holder": {
-    "person": "ocd-person/b3ebb52f-b175-5b68-aed6-224e5dec2146",
-    "start_date": "2026-05-31T05:57:17Z"
+    "person": "ocd-person/b3ebb52f-b175-5b68-aed6-224e5dec2146"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-kansass-2nd-district",
   "identifiers": [

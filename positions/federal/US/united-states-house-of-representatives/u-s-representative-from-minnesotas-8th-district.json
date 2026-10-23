@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2708",
   "holder": {
-    "person": "ocd-person/91fec413-a438-52e0-b72e-8202aa523890",
-    "start_date": "2026-05-31T06:01:30Z"
+    "person": "ocd-person/91fec413-a438-52e0-b72e-8202aa523890"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-8th-district",
   "identifiers": [

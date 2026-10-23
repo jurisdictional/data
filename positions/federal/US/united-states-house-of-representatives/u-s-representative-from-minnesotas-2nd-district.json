@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2702",
   "holder": {
-    "person": "ocd-person/04c60343-0a5f-54f8-a492-3b4a04410588",
-    "start_date": "2026-05-31T06:01:24Z"
+    "person": "ocd-person/04c60343-0a5f-54f8-a492-3b4a04410588"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-minnesotas-2nd-district",
   "identifiers": [

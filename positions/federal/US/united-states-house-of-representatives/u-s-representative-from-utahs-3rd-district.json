@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4903",
   "holder": {
-    "person": "ocd-person/d6f04ffd-55ae-58fc-aaa9-bb658bfc1af7",
-    "start_date": "2026-05-31T14:49:16Z"
+    "person": "ocd-person/d6f04ffd-55ae-58fc-aaa9-bb658bfc1af7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-utahs-3rd-district",
   "identifiers": [

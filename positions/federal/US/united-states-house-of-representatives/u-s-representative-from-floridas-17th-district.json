@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1217",
   "holder": {
-    "person": "ocd-person/9f143d13-33ef-5135-b131-486c9b6ab704",
-    "start_date": "2026-06-01T00:23:35Z"
+    "person": "ocd-person/9f143d13-33ef-5135-b131-486c9b6ab704"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-17th-district",
   "identifiers": [

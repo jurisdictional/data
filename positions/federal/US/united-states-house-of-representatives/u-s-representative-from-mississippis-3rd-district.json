@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2803",
   "holder": {
-    "person": "ocd-person/ff00d4a1-cc97-5965-b679-7f855a401507",
-    "start_date": "2026-05-31T06:02:11Z"
+    "person": "ocd-person/ff00d4a1-cc97-5965-b679-7f855a401507"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-mississippis-3rd-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4814",
   "holder": {
-    "person": "ocd-person/35fce6d5-65a5-57ea-a6dd-4defbcb43c97",
-    "start_date": "2026-05-31T14:47:09Z"
+    "person": "ocd-person/35fce6d5-65a5-57ea-a6dd-4defbcb43c97"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-14th-district",
   "identifiers": [

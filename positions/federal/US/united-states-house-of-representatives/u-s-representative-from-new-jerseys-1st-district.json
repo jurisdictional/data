@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3401",
   "holder": {
-    "person": "ocd-person/a181767b-d8a3-5b32-906c-02aceca3245d",
-    "start_date": "2026-05-31T06:04:04Z"
+    "person": "ocd-person/a181767b-d8a3-5b32-906c-02aceca3245d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-1st-district",
   "identifiers": [

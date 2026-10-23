@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3702",
   "holder": {
-    "person": "ocd-person/f922a8c2-4468-5256-92e3-b2e99390dbd9",
-    "start_date": "2026-05-31T14:39:20Z"
+    "person": "ocd-person/f922a8c2-4468-5256-92e3-b2e99390dbd9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-north-carolinas-2nd-district",
   "identifiers": [

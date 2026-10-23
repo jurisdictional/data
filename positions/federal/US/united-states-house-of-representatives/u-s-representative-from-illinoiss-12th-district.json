@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1712",
   "holder": {
-    "person": "ocd-person/1178f8a5-b1ed-5649-8c90-07f06356a3d3",
-    "start_date": "2026-05-31T05:33:21Z"
+    "person": "ocd-person/1178f8a5-b1ed-5649-8c90-07f06356a3d3"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-illinoiss-12th-district",
   "identifiers": [

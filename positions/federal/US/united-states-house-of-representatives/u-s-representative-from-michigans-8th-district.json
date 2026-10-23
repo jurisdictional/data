@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2608",
   "holder": {
-    "person": "ocd-person/6aa04b18-31d0-54c0-a521-e4c2b41bc80a",
-    "start_date": "2026-05-31T06:00:34Z"
+    "person": "ocd-person/6aa04b18-31d0-54c0-a521-e4c2b41bc80a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-michigans-8th-district",
   "identifiers": [

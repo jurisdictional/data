@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3911",
   "holder": {
-    "person": "ocd-person/5b9729a1-319d-5649-893d-fc39d6ea150d",
-    "start_date": "2026-05-31T14:40:54Z"
+    "person": "ocd-person/5b9729a1-319d-5649-893d-fc39d6ea150d"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-ohios-11th-district",
   "identifiers": [

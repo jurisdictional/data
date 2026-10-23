@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4706",
   "holder": {
-    "person": "ocd-person/ae63abba-9536-500b-9050-5ce6df831adc",
-    "start_date": "2026-05-31T14:45:03Z"
+    "person": "ocd-person/ae63abba-9536-500b-9050-5ce6df831adc"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-6th-district",
   "identifiers": [

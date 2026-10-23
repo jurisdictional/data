@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5506",
   "holder": {
-    "person": "ocd-person/f987045c-7523-5601-9ee1-3c28ac3e1cac",
-    "start_date": "2026-05-31T14:50:11Z"
+    "person": "ocd-person/f987045c-7523-5601-9ee1-3c28ac3e1cac"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wisconsins-6th-district",
   "identifiers": [

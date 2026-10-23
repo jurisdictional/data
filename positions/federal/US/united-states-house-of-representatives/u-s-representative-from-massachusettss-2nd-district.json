@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:2502",
   "holder": {
-    "person": "ocd-person/4f1ac7cd-dfed-5885-b362-69259546476a",
-    "start_date": "2026-05-31T05:58:55Z"
+    "person": "ocd-person/4f1ac7cd-dfed-5885-b362-69259546476a"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-massachusettss-2nd-district",
   "identifiers": [

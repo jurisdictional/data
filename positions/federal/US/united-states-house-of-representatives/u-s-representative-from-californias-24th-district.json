@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0624",
   "holder": {
-    "person": "ocd-person/f2e42072-9e04-5c3a-9486-0f4a7a970bd7",
-    "start_date": "2026-05-31T05:27:30Z"
+    "person": "ocd-person/f2e42072-9e04-5c3a-9486-0f4a7a970bd7"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-24th-district",
   "identifiers": [

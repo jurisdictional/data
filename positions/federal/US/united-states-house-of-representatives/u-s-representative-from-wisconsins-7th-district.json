@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5507",
   "holder": {
-    "person": "ocd-person/94645b2b-348b-5bcd-a026-710e05679f5c",
-    "start_date": "2026-05-31T14:50:12Z"
+    "person": "ocd-person/94645b2b-348b-5bcd-a026-710e05679f5c"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wisconsins-7th-district",
   "identifiers": [

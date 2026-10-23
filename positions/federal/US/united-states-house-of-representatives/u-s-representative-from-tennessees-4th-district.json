@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4704",
   "holder": {
-    "person": "ocd-person/6b32aa8f-779f-5b65-8f55-4b6ce9afcf92",
-    "start_date": "2026-05-31T14:44:59Z"
+    "person": "ocd-person/6b32aa8f-779f-5b65-8f55-4b6ce9afcf92"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-tennessees-4th-district",
   "identifiers": [

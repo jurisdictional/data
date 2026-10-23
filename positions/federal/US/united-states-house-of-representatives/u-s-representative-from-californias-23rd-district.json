@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0623",
   "holder": {
-    "person": "ocd-person/9c2c00cb-0299-57ce-b4b6-45e6c943c54f",
-    "start_date": "2026-05-31T05:27:30Z"
+    "person": "ocd-person/9c2c00cb-0299-57ce-b4b6-45e6c943c54f"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-californias-23rd-district",
   "identifiers": [

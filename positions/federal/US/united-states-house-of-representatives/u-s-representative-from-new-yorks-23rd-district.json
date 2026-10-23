@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3623",
   "holder": {
-    "person": "ocd-person/84cf35eb-ece5-50c9-b278-d80492158f43",
-    "start_date": "2026-05-31T06:06:49Z"
+    "person": "ocd-person/84cf35eb-ece5-50c9-b278-d80492158f43"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-yorks-23rd-district",
   "identifiers": [

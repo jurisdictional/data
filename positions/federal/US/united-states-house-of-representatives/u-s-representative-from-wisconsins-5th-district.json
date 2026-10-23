@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5505",
   "holder": {
-    "person": "ocd-person/f302d133-d02b-5fc5-b689-3b35d03337e9",
-    "start_date": "2026-05-31T14:50:10Z"
+    "person": "ocd-person/f302d133-d02b-5fc5-b689-3b35d03337e9"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-wisconsins-5th-district",
   "identifiers": [

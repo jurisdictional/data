@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0904",
   "holder": {
-    "person": "ocd-person/b4cd33c6-fb12-536d-ba3d-54bf1fba1f97",
-    "start_date": "2026-05-31T05:30:39Z"
+    "person": "ocd-person/b4cd33c6-fb12-536d-ba3d-54bf1fba1f97"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-connecticuts-4th-district",
   "identifiers": [

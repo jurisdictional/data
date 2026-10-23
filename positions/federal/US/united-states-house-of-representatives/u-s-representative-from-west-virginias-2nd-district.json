@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:5402",
   "holder": {
-    "person": "ocd-person/8739bb01-7b4d-5c40-b73d-80ff10d24403",
-    "start_date": "2026-05-31T14:49:57Z"
+    "person": "ocd-person/8739bb01-7b4d-5c40-b73d-80ff10d24403"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-west-virginias-2nd-district",
   "identifiers": [

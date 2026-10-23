@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1211",
   "holder": {
-    "person": "ocd-person/3def8f99-3ee1-5530-887c-019d2a26895e",
-    "start_date": "2026-06-01T00:23:15Z"
+    "person": "ocd-person/3def8f99-3ee1-5530-887c-019d2a26895e"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-11th-district",
   "identifiers": [

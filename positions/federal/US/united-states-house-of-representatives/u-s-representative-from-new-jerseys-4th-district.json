@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:3404",
   "holder": {
-    "person": "ocd-person/42d580a5-30c2-5aee-aec6-430d26e93842",
-    "start_date": "2026-05-31T06:04:12Z"
+    "person": "ocd-person/42d580a5-30c2-5aee-aec6-430d26e93842"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-new-jerseys-4th-district",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:0403",
   "holder": {
-    "person": "ocd-person/a2146860-db53-5668-a41c-14a49bc1157b",
-    "start_date": "2026-05-31T05:02:10Z"
+    "person": "ocd-person/a2146860-db53-5668-a41c-14a49bc1157b"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-arizonas-3rd-district",
   "identifiers": [

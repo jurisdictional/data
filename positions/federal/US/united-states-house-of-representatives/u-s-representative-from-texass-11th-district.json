@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:4811",
   "holder": {
-    "person": "ocd-person/1cdccdaa-b9ba-5663-8b5d-ddc3f830d19f",
-    "start_date": "2026-05-31T14:47:06Z"
+    "person": "ocd-person/1cdccdaa-b9ba-5663-8b5d-ddc3f830d19f"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-texass-11th-district",
   "identifiers": [

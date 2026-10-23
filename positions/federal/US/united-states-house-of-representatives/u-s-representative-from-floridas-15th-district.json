@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1957/positions"
   },
   "body": "federal:US/united-states-house-of-representatives",
+  "electing_jurisdiction": "congressional_district:1215",
   "holder": {
-    "person": "ocd-person/babf6c4e-8e31-5bc4-828f-c6b22cf93c64",
-    "start_date": "2026-06-01T00:23:33Z"
+    "person": "ocd-person/babf6c4e-8e31-5bc4-828f-c6b22cf93c64"
   },
   "id": "federal:US/united-states-house-of-representatives/u-s-representative-from-floridas-15th-district",
   "identifiers": [

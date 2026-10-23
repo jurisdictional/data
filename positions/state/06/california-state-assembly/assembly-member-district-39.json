@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06039",
   "holder": {
-    "person": "ocd-person/eebb5057-8a35-5286-bde4-158093afaa9e",
-    "start_date": "2026-05-23T23:01:15Z"
+    "person": "ocd-person/eebb5057-8a35-5286-bde4-158093afaa9e"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-39",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06076",
   "holder": {
-    "person": "ocd-person/a48399bc-9822-550d-b0aa-563a1c7eadaa",
-    "start_date": "2026-05-23T23:03:29Z"
+    "person": "ocd-person/a48399bc-9822-550d-b0aa-563a1c7eadaa"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-76",
   "identifiers": [

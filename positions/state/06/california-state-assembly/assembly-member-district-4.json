@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06004",
   "holder": {
-    "person": "ocd-person/a396f65c-359d-5223-99c4-63bf74aeaecb",
-    "start_date": "2026-05-23T22:58:36Z"
+    "person": "ocd-person/a396f65c-359d-5223-99c4-63bf74aeaecb"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-4",
   "identifiers": [

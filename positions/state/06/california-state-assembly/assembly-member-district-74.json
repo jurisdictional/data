@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06074",
   "holder": {
-    "person": "ocd-person/210ab5f7-e2b7-5707-b356-461583ff87f8",
-    "start_date": "2026-05-23T23:03:28Z"
+    "person": "ocd-person/210ab5f7-e2b7-5707-b356-461583ff87f8"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-74",
   "identifiers": [

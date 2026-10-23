@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06051",
   "holder": {
-    "person": "ocd-person/6a4218cc-a079-5996-994e-c74ba9374cdb",
-    "start_date": "2026-05-23T23:02:11Z"
+    "person": "ocd-person/6a4218cc-a079-5996-994e-c74ba9374cdb"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-51",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06073",
   "holder": {
-    "person": "ocd-person/2ca9306a-a20b-5598-94db-b45d74086b34",
-    "start_date": "2026-05-23T23:03:23Z"
+    "person": "ocd-person/2ca9306a-a20b-5598-94db-b45d74086b34"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-73",
   "identifiers": [

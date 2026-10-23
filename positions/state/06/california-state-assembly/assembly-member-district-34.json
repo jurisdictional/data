@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06034",
   "holder": {
-    "person": "ocd-person/8dae220d-b377-54a6-adb7-b5a45f84c9bf",
-    "start_date": "2026-05-23T23:01:08Z"
+    "person": "ocd-person/8dae220d-b377-54a6-adb7-b5a45f84c9bf"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-34",
   "identifiers": [

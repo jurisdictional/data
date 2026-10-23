@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
   },
   "body": "state:06/california-state-senate",
+  "electing_jurisdiction": "state_legislative_upper:06031",
   "holder": {
-    "person": "ocd-person/5b3369fd-a4b4-50c7-b5da-cf2a0cc397e8",
-    "start_date": "2026-05-27T17:48:33Z"
+    "person": "ocd-person/5b3369fd-a4b4-50c7-b5da-cf2a0cc397e8"
   },
   "id": "state:06/california-state-senate/state-senator-district-31",
   "identifiers": [

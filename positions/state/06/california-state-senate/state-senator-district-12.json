@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
   },
   "body": "state:06/california-state-senate",
+  "electing_jurisdiction": "state_legislative_upper:06012",
   "holder": {
-    "person": "ocd-person/e594ce50-f448-56d4-b6c4-a3eed2116302",
-    "start_date": "2026-05-27T17:47:37Z"
+    "person": "ocd-person/e594ce50-f448-56d4-b6c4-a3eed2116302"
   },
   "id": "state:06/california-state-senate/state-senator-district-12",
   "identifiers": [

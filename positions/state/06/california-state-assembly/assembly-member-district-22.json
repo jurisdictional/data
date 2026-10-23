@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06022",
   "holder": {
-    "person": "ocd-person/7077580c-47f9-564a-ac88-fba60f0fb510",
-    "start_date": "2026-05-23T23:00:38Z"
+    "person": "ocd-person/7077580c-47f9-564a-ac88-fba60f0fb510"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-22",
   "identifiers": [

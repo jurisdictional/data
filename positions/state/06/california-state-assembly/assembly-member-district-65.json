@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06065",
   "holder": {
-    "person": "ocd-person/533f6f90-d17e-5fbd-a2fc-5d13988a144b",
-    "start_date": "2026-05-23T23:02:51Z"
+    "person": "ocd-person/533f6f90-d17e-5fbd-a2fc-5d13988a144b"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-65",
   "identifiers": [

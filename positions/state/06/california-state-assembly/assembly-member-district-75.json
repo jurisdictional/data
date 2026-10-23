@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06075",
   "holder": {
-    "person": "ocd-person/9862abc8-8b31-5d07-8726-c859f3535332",
-    "start_date": "2026-05-23T23:03:28Z"
+    "person": "ocd-person/9862abc8-8b31-5d07-8726-c859f3535332"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-75",
   "identifiers": [

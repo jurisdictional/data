@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
   },
   "body": "state:06/california-state-senate",
+  "electing_jurisdiction": "state_legislative_upper:06004",
   "holder": {
-    "person": "ocd-person/0e7f31d8-b3ca-511d-a49d-eaf0d7fc9b0d",
-    "start_date": "2026-05-27T17:47:12Z"
+    "person": "ocd-person/0e7f31d8-b3ca-511d-a49d-eaf0d7fc9b0d"
   },
   "id": "state:06/california-state-senate/state-senator-district-4",
   "identifiers": [

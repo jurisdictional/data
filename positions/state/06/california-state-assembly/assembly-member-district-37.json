@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06037",
   "holder": {
-    "person": "ocd-person/b8b96cd6-4749-56ea-9222-b7027cddbd08",
-    "start_date": "2026-05-23T23:01:12Z"
+    "person": "ocd-person/b8b96cd6-4749-56ea-9222-b7027cddbd08"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-37",
   "identifiers": [

@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06079",
   "holder": {
-    "person": "ocd-person/680ad1ae-f948-56ac-a925-06a243d9715f",
-    "start_date": "2026-05-23T23:03:31Z"
+    "person": "ocd-person/680ad1ae-f948-56ac-a925-06a243d9715f"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-79",
   "identifiers": [

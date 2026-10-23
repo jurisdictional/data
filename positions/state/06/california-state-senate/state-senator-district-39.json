@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1655/positions"
   },
   "body": "state:06/california-state-senate",
+  "electing_jurisdiction": "state_legislative_upper:06039",
   "holder": {
-    "person": "ocd-person/a50b4067-a3db-548e-b33d-5e72367e414d",
-    "start_date": "2026-05-27T17:48:42Z"
+    "person": "ocd-person/a50b4067-a3db-548e-b33d-5e72367e414d"
   },
   "id": "state:06/california-state-senate/state-senator-district-39",
   "identifiers": [

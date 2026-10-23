@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06014",
   "holder": {
-    "person": "ocd-person/2e7379fb-3841-5642-8dad-091237a7adf0",
-    "start_date": "2026-05-23T22:59:15Z"
+    "person": "ocd-person/2e7379fb-3841-5642-8dad-091237a7adf0"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-14",
   "identifiers": [

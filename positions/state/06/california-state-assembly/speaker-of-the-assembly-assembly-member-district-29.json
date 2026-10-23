@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06029",
   "holder": {
-    "person": "ocd-person/f202d5dc-fe42-56f2-ad24-48644cf67fdf",
-    "start_date": "2026-05-23T23:00:46Z"
+    "person": "ocd-person/f202d5dc-fe42-56f2-ad24-48644cf67fdf"
   },
   "id": "state:06/california-state-assembly/speaker-of-the-assembly-assembly-member-district-29",
   "identifiers": [

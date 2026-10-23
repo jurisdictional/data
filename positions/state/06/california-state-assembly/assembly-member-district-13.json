@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06013",
   "holder": {
-    "person": "ocd-person/2ad03906-30f8-5c18-9c51-b8752a7e94f4",
-    "start_date": "2026-05-23T22:59:13Z"
+    "person": "ocd-person/2ad03906-30f8-5c18-9c51-b8752a7e94f4"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-13",
   "identifiers": [

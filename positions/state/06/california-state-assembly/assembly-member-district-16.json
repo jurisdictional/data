@@ -3,9 +3,9 @@
     "source": "https://jurisdictional.org/api/v1/bodies/1455/positions"
   },
   "body": "state:06/california-state-assembly",
+  "electing_jurisdiction": "state_legislative_lower:06016",
   "holder": {
-    "person": "ocd-person/e3e888fb-5aba-52ad-bf8e-49c9cd31be68",
-    "start_date": "2026-05-23T22:59:41Z"
+    "person": "ocd-person/e3e888fb-5aba-52ad-bf8e-49c9cd31be68"
   },
   "id": "state:06/california-state-assembly/assembly-member-district-16",
   "identifiers": [

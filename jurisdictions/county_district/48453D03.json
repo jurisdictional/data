@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "source": "https://jurisdictional.org/api/v1/jurisdictions/123373"
+  },
+  "code": "D3",
+  "id": "county_district:48453D03",
+  "identifiers": [
+    {
+      "identifier": "48453D03",
+      "scheme": "census_geoid"
+    },
+    {
+      "identifier": "123373",
+      "scheme": "jurisdictional"
+    },
+    {
+      "identifier": "ocd-division/country:us/state:tx/county:travis/council_district:3",
+      "scheme": "ocd_id"
+    }
+  ],
+  "level": "county_district",
+  "name": "Travis County Commissioners Precinct 3",
+  "state_abbr": "TX"
+}

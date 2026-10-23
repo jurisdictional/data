@@ -7,7 +7,11 @@
     "federal:US",
     "state:48",
     "congressional_district:4837",
+    "state_legislative_upper:48014",
+    "state_legislative_lower:48049",
     "county:48453",
-    "place:4805000"
+    "county_district:48453D03",
+    "place:4805000",
+    "school_district_unified:4808940"
   ]
 }

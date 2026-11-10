@@ -1,0 +1,35 @@
+{
+  "counts": {
+    "agencies.ndjson": 129,
+    "bodies.ndjson": 23,
+    "jurisdictions.ndjson": 18,
+    "meetings.ndjson": 0,
+    "people.ndjson": 82,
+    "positions.ndjson": 83
+  },
+  "layers": [
+    "county:06095",
+    "place:0600996",
+    "place:0605290",
+    "place:0619402",
+    "place:0622146",
+    "place:0623182",
+    "place:0631099",
+    "place:0632340",
+    "place:0660984",
+    "place:0675630",
+    "place:0681554",
+    "place:0681666",
+    "school_district_unified:0604620",
+    "school_district_unified:0611280",
+    "school_district_unified:0613360",
+    "school_district_unified:0639630",
+    "school_district_unified:0640590",
+    "school_district_unified:0640740"
+  ],
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "selection": {
+    "within": "county:06095"
+  },
+  "source": "https://jurisdictional.org/api/v1"
+}

@@ -98,5 +98,9 @@ git clone https://github.com/jurisdictional/jurisdictional-data.git
 
 ## License
 
-U.S. government works are in the public domain.
-Community contributions are licensed under [CC0 1.0 Universal](LICENSE).
+The database is open under the [Open Database License (ODbL) 1.0](LICENSE), and the contents of each record under the [Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
+Use it for anything, commercial use included, with credit and share-alike.
+Credit: "Contains information from Jurisdictional (https://jurisdictional.org), made available under the ODbL 1.0."
+A commercial license waives share-alike and attribution for closed products, and newsrooms, nonprofits and governments can apply for one at no cost: see https://jurisdictional.org/license.
+Contributions come in under the same terms.
+U.S. government works are in the public domain, and facts from upstream sources keep their own terms.
